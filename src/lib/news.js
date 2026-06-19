@@ -1,13 +1,9 @@
-import curatedNews from '../data/news.json'
-import meta from '../data/meta.json'
+import newsData from '../data/news.json'
 
-// News strategy: the curated news.json is always the source of truth and
-// always renders. When meta.liveNews is true AND a feed URL is configured,
-// we additionally try a client-side fetch and merge the results. ANY failure
-// (network policy, CORS, bad payload) silently falls back to curated only.
-//
-// For a fully automated pipeline later, the right place to fetch is a
-// build-time / CI script that writes news.json — not a runtime browser fetch.
+// news.json is kept fresh by a scheduled GitHub Action (scripts/fetch-news.mjs)
+// that pulls real headlines from public RSS feeds and redeploys the site. The
+// app just reads the bundled file — no runtime fetch, so it works offline and
+// has no CORS/secret concerns.
 
 function normalize(item) {
   return {
@@ -26,9 +22,7 @@ function dedupeAndSort(items) {
   const out = []
   for (const raw of items) {
     const item = normalize(raw)
-    const key = (item.url && item.url !== '#' ? item.url : item.title)
-      .toLowerCase()
-      .trim()
+    const key = (item.url && item.url !== '#' ? item.url : item.title).toLowerCase().trim()
     if (seen.has(key)) continue
     seen.add(key)
     out.push(item)
@@ -37,23 +31,7 @@ function dedupeAndSort(items) {
   return out
 }
 
-export const curated = dedupeAndSort(curatedNews)
+export const curated = dedupeAndSort(newsData)
 
-// Returns { items, live } — live indicates whether the live fetch contributed.
-export async function loadNews() {
-  const base = curatedNews
-  if (!meta.liveNews || !meta.newsFeedUrl) {
-    return { items: dedupeAndSort(base), live: false }
-  }
-  try {
-    const res = await fetch(meta.newsFeedUrl, { headers: { Accept: 'application/json' } })
-    if (!res.ok) throw new Error(`status ${res.status}`)
-    const data = await res.json()
-    const liveItems = Array.isArray(data) ? data : data.items || []
-    if (!Array.isArray(liveItems) || liveItems.length === 0) throw new Error('empty feed')
-    return { items: dedupeAndSort([...liveItems, ...base]), live: true }
-  } catch {
-    // Silent fallback — curated list is always good enough.
-    return { items: dedupeAndSort(base), live: false }
-  }
-}
+// Most recent headline date — shown in the UI as the "last refreshed" signal.
+export const latestDate = curated.length ? curated[0].date : ''

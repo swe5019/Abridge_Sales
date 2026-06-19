@@ -70,14 +70,22 @@ The Target Accounts fit score (0–100) is derived from each account's `fitFacto
 `meta.json → scoringWeights`. Change a weight and both the table and the **Fit Scoring**
 page update automatically (see `src/lib/scoring.js`).
 
-### Industry news (live + fallback)
+### Industry news (auto-updated from real sources)
 
-`news.json` is always the source of truth and always renders. If you set
-`meta.json → liveNews: true` **and** provide a `newsFeedUrl` returning JSON, the News
-page also attempts a live fetch and merges the results, silently falling back to the
-curated list on any network/CORS failure. For a fully automated pipeline, the robust
-approach is a build-time/CI script that fetches and rewrites `news.json` rather than a
-runtime browser fetch (not included in this version).
+The **Industry News** page reads `src/data/news.json`, which is refreshed automatically
+by a scheduled GitHub Action — no manual upkeep, and no runtime browser fetch (so there
+are no CORS or API-key issues, and the site stays fully static).
+
+- **`scripts/fetch-news.mjs`** pulls real headlines from public RSS feeds (Google News
+  topic searches for the ambient-AI / clinical-documentation space), filters them for
+  relevance, de-duplicates, tags them, and writes `news.json`. If it can't gather any
+  items (e.g. a transient network issue), it leaves the existing file untouched.
+- **`.github/workflows/update-news.yml`** runs that script every 6 hours (and on demand
+  via the Actions tab), commits any changes, and redeploys the site.
+
+Run it yourself anytime with `npm run update-news`. To change what's tracked, edit the
+`FEEDS` and `RELEVANCE` lists at the top of `scripts/fetch-news.mjs` — add any public
+RSS/Atom feed URL; feeds that fail are skipped automatically.
 
 ## Tech
 
