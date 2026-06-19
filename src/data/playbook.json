@@ -1,0 +1,111 @@
+{
+  "objections": [
+    {
+      "category": "Cost / budget",
+      "objection": "We don't have budget for another point solution.",
+      "response": "Frame ambient AI as a clinician-retention and capacity investment, not a tool cost. Tie it to documentation time saved per provider, reduced after-hours 'pajama time,' and the cost of clinician turnover. Offer to model ROI on their own provider counts."
+    },
+    {
+      "category": "Status quo",
+      "objection": "Our clinicians are managing fine with scribes / templates today.",
+      "response": "Human scribes are expensive and hard to staff; templates produce thin notes. Ambient AI scales to every provider, every visit, with consistent quality — and clinicians get their evenings back."
+    },
+    {
+      "category": "Trust / accuracy",
+      "objection": "We're worried about AI accuracy in clinical notes.",
+      "response": "That's exactly why independent validation matters. Abridge is the #1 KLAS-rated ambient AI, with transparent, auditable notes the clinician reviews and signs. Propose a clinician-led pilot with quality scoring."
+    },
+    {
+      "category": "Incumbent",
+      "objection": "We're already on / leaning toward Microsoft DAX.",
+      "response": "Standardizing on a platform shouldn't mean settling on note quality. Run a head-to-head pilot and let clinician satisfaction and note quality decide. See the DAX battlecard."
+    },
+    {
+      "category": "Integration",
+      "objection": "We're not on Epic / we're on Oracle Health.",
+      "response": "Lead with the integration roadmap and security model for their EHR. Bring relevant references and focus on workflow fit and write-back rather than assuming Epic."
+    },
+    {
+      "category": "Security / compliance",
+      "objection": "How do you handle PHI and data security?",
+      "response": "Walk through enterprise security posture, BAAs, and data handling. Contrast with the governance risk of ungoverned, clinician-by-clinician self-serve scribes already creeping in."
+    }
+  ],
+  "discoveryQuestions": [
+    {
+      "theme": "Pain & priority",
+      "questions": [
+        "How much after-hours / 'pajama time' are your clinicians spending on documentation?",
+        "Where does documentation burden rank among your clinician-burnout and retention priorities this year?",
+        "What's prompting you to look at ambient AI now versus 12 months ago?"
+      ]
+    },
+    {
+      "theme": "Current state",
+      "questions": [
+        "Are any teams already using ambient or scribe tools today — sanctioned or not?",
+        "Which EHR are you on, and how important is depth of integration / write-back?",
+        "How do you measure clinician satisfaction and note quality today?"
+      ]
+    },
+    {
+      "theme": "Decision process",
+      "questions": [
+        "Who owns this decision clinically, and who owns it on the IT / finance side?",
+        "What would a successful pilot need to prove for you to expand enterprise-wide?",
+        "What's your timeline and the budget cycle this would fall into?"
+      ]
+    },
+    {
+      "theme": "Competitive",
+      "questions": [
+        "Are you evaluating other ambient vendors, or considering native EHR features?",
+        "What would make you choose one ambient vendor over another?"
+      ]
+    }
+  ],
+  "roiTalkingPoints": [
+    {
+      "driver": "Documentation time saved",
+      "stat": "Meaningful reduction in documentation minutes per encounter",
+      "note": "Translate per-encounter savings into hours/week per provider, then into added visit capacity or reclaimed personal time."
+    },
+    {
+      "driver": "Reduced after-hours work",
+      "stat": "Less 'pajama time' charting at night and on weekends",
+      "note": "A leading, tangible driver of clinician satisfaction — use it in the burnout narrative."
+    },
+    {
+      "driver": "Clinician retention",
+      "stat": "Turnover of a single physician is extremely costly to replace",
+      "note": "Even a small retention improvement across a large medical group can outweigh the entire ambient AI investment."
+    },
+    {
+      "driver": "Visit capacity",
+      "stat": "Time saved can be reinvested into incremental visits",
+      "note": "For revenue-focused buyers, model added throughput from reclaimed documentation time."
+    },
+    {
+      "driver": "Coding / documentation completeness",
+      "stat": "More complete, higher-quality notes",
+      "note": "Better documentation supports appropriate coding and reduces downstream rework."
+    }
+  ],
+  "winStories": [
+    {
+      "setting": "Large Epic academic medical center",
+      "story": "Clinician-led pilot compared ambient note quality head-to-head against the incumbent; Abridge's note quality and clinician satisfaction drove an enterprise expansion decision.",
+      "outcome": "Enterprise rollout decision (illustrative)"
+    },
+    {
+      "setting": "Multi-specialty ambulatory group",
+      "story": "Providers cited dramatic reductions in after-hours charting within weeks of go-live, anchoring the burnout / retention business case.",
+      "outcome": "High clinician adoption and satisfaction (illustrative)"
+    },
+    {
+      "setting": "Oracle Health community system",
+      "story": "Integration-led pitch and references overcame a 'not on Epic' objection; pilot proved workflow fit on their EHR.",
+      "outcome": "Successful pilot to expansion (illustrative)"
+    }
+  ]
+}
