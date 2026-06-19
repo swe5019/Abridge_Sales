@@ -1,0 +1,23 @@
+{
+  "lastUpdated": "2026-06-19",
+  "scoringWeights": {
+    "ehrFit": 0.35,
+    "greenfield": 0.3,
+    "size": 0.2,
+    "region": 0.15
+  },
+  "sizeBands": [
+    { "label": "Enterprise (1000+ beds)", "min": 1000 },
+    { "label": "Large (500-999 beds)", "min": 500 },
+    { "label": "Mid (200-499 beds)", "min": 200 },
+    { "label": "Community (<200 beds)", "min": 0 }
+  ],
+  "liveNews": true,
+  "newsFeedUrl": "",
+  "factorLabels": {
+    "ehrFit": "EHR fit (Epic depth)",
+    "greenfield": "Greenfield opportunity",
+    "size": "Account size / scale",
+    "region": "Regional priority"
+  }
+}

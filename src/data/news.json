@@ -1,0 +1,56 @@
+[
+  {
+    "id": "n-2026-06-12-01",
+    "date": "2026-06-12",
+    "title": "Ambient AI documentation adoption accelerates across large health systems",
+    "source": "Becker's Health IT (sample)",
+    "url": "https://www.beckershospitalreview.com/healthcare-information-technology/",
+    "summary": "Health systems continue expanding ambient AI scribe deployments enterprise-wide, citing clinician burnout reduction and documentation time savings as primary drivers.",
+    "tags": ["market-trend", "ambient-ai"]
+  },
+  {
+    "id": "n-2026-06-05-01",
+    "date": "2026-06-05",
+    "title": "KLAS reports ambient AI as a top health-IT investment priority for CIOs",
+    "source": "KLAS Research (sample)",
+    "url": "https://klasresearch.com/",
+    "summary": "Independent KLAS analysis highlights ambient clinical documentation as a leading purchase priority, with note quality and clinician satisfaction emerging as the key differentiators.",
+    "tags": ["klas", "market-trend", "ambient-ai"]
+  },
+  {
+    "id": "n-2026-05-22-01",
+    "date": "2026-05-22",
+    "title": "Microsoft continues bundling DAX Copilot into enterprise agreements",
+    "source": "Healthcare IT News (sample)",
+    "url": "https://www.healthcareitnews.com/",
+    "summary": "Reports indicate Microsoft is leaning on bundling to defend the DAX installed base — reinforcing the importance of head-to-head note-quality pilots in competitive deals.",
+    "tags": ["competitor:nuance-dax", "competitive"]
+  },
+  {
+    "id": "n-2026-05-10-01",
+    "date": "2026-05-10",
+    "title": "Challenger ambient vendors raise new funding to expand at academic centers",
+    "source": "Fierce Healthcare (sample)",
+    "url": "https://www.fiercehealthcare.com/",
+    "summary": "Growth-stage ambient AI companies announce new capital aimed at academic medical center expansion, intensifying competition in the enterprise segment.",
+    "tags": ["funding", "competitive", "competitor:ambience"]
+  },
+  {
+    "id": "n-2026-04-28-01",
+    "date": "2026-04-28",
+    "title": "Epic expands native generative-AI documentation features",
+    "source": "EHR Intelligence (sample)",
+    "url": "https://ehrintelligence.com/",
+    "summary": "Epic continues rolling out native ambient and generative features, raising the 'why buy a separate tool?' question — and the bar on best-of-breed note quality and clinician adoption.",
+    "tags": ["competitor:epic-native", "competitive", "ehr"]
+  },
+  {
+    "id": "n-2026-04-15-01",
+    "date": "2026-04-15",
+    "title": "Clinician burnout remains top operational concern for health-system leaders",
+    "source": "AMA / industry survey (sample)",
+    "url": "https://www.ama-assn.org/",
+    "summary": "Survey data shows administrative and documentation burden as leading contributors to clinician burnout — the core value narrative for ambient AI buyers.",
+    "tags": ["market-trend", "burnout"]
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "id": "nuance-dax",
+    "name": "DAX Copilot",
+    "company": "Microsoft / Nuance",
+    "category": "Big tech / EHR-embedded",
+    "stage": "Incumbent",
+    "positioning": "The market incumbent. Formerly Dragon Ambient eXperience (DAX), now DAX Copilot, backed by Microsoft and deeply embedded in the Epic workflow. Largest installed base in ambient documentation.",
+    "ehrIntegrations": ["Epic", "Cerner / Oracle Health", "Meditech"],
+    "strengths": [
+      "Microsoft scale, capital, and enterprise relationships",
+      "Deep, native Epic integration and a large installed base",
+      "Bundling leverage with broader Microsoft / Nuance contracts"
+    ],
+    "weaknesses": [
+      "Legacy roots; perceived as slower to ship modern LLM features",
+      "Note quality and specialty depth frequently questioned by clinicians",
+      "Large-vendor support experience can feel impersonal"
+    ],
+    "pricingNotes": "Typically enterprise per-provider per-month licensing, often bundled into larger Microsoft/Nuance agreements. (Illustrative — confirm against current deal intel.)",
+    "website": "https://www.nuance.com/healthcare/ambient-clinical-intelligence.html",
+    "sourceConfidence": "known-public"
+  },
+  {
+    "id": "ambience",
+    "name": "Ambience AutoScribe",
+    "company": "Ambience Healthcare",
+    "category": "Startup / emerging",
+    "stage": "Growth-stage challenger",
+    "positioning": "Well-funded challenger positioning a full ambient operating system across documentation, coding, and referrals. Competes hard at academic medical centers.",
+    "ehrIntegrations": ["Epic", "Cerner / Oracle Health"],
+    "strengths": [
+      "Modern LLM-native product and rapid feature velocity",
+      "Strong story on coding / CDI and specialty breadth",
+      "Marquee academic and integrated-delivery-network logos"
+    ],
+    "weaknesses": [
+      "Smaller installed base and support footprint than incumbents",
+      "Breadth-vs-depth questions as it spans many workflows",
+      "Less independent KLAS validation than Abridge"
+    ],
+    "pricingNotes": "Per-provider subscription; enterprise pricing. (Illustrative — confirm against current deal intel.)",
+    "website": "https://www.ambiencehealthcare.com/",
+    "sourceConfidence": "known-public"
+  },
+  {
+    "id": "suki",
+    "name": "Suki Assistant",
+    "company": "Suki AI",
+    "category": "Startup / emerging",
+    "stage": "Established startup",
+    "positioning": "Voice-first AI assistant for clinicians spanning ambient notes, dictation, coding, and Q&A. Emphasizes a flexible assistant rather than a single workflow.",
+    "ehrIntegrations": ["Epic", "Cerner / Oracle Health", "Meditech", "athenahealth"],
+    "strengths": [
+      "Broad EHR coverage including community / ambulatory systems",
+      "Voice command + dictation flexibility beyond pure ambient",
+      "Established brand among independent and mid-market practices"
+    ],
+    "weaknesses": [
+      "Less concentrated in large academic enterprise deals",
+      "Assistant breadth can dilute the ambient-note message",
+      "Note quality benchmarks less publicized than Abridge KLAS results"
+    ],
+    "pricingNotes": "Per-provider monthly subscription, ambulatory-friendly tiers. (Illustrative — confirm against current deal intel.)",
+    "website": "https://www.suki.ai/",
+    "sourceConfidence": "known-public"
+  },
+  {
+    "id": "nabla",
+    "name": "Nabla Copilot",
+    "company": "Nabla",
+    "category": "Startup / emerging",
+    "stage": "Established startup",
+    "positioning": "Ambient AI assistant with strong traction in ambulatory and international markets. Markets fast deployment and clinician-friendly UX.",
+    "ehrIntegrations": ["Epic", "athenahealth", "Multiple via API"],
+    "strengths": [
+      "Fast, low-friction onboarding and clinician-loved UX",
+      "Strong ambulatory and international presence",
+      "Aggressive, accessible pricing for smaller groups"
+    ],
+    "weaknesses": [
+      "Lighter footprint in large US enterprise / academic deals",
+      "Less deep EHR write-back than incumbents in some settings",
+      "Smaller US support and implementation organization"
+    ],
+    "pricingNotes": "Accessible per-provider pricing; smaller-group tiers. (Illustrative — confirm against current deal intel.)",
+    "website": "https://www.nabla.com/",
+    "sourceConfidence": "known-public"
+  },
+  {
+    "id": "deepscribe",
+    "name": "DeepScribe",
+    "company": "DeepScribe",
+    "category": "Startup / emerging",
+    "stage": "Established startup",
+    "positioning": "Ambient AI medical scribe focused on documentation accuracy and customization across specialties, primarily in ambulatory settings.",
+    "ehrIntegrations": ["Epic", "athenahealth", "Multiple via API"],
+    "strengths": [
+      "Customizable note styles and specialty tuning",
+      "Ambulatory and independent-practice traction",
+      "Focused, documentation-first product"
+    ],
+    "weaknesses": [
+      "Smaller enterprise / health-system installed base",
+      "Less independent KLAS validation than Abridge",
+      "Narrower platform breadth"
+    ],
+    "pricingNotes": "Per-provider subscription, ambulatory focus. (Illustrative — confirm against current deal intel.)",
+    "website": "https://www.deepscribe.ai/",
+    "sourceConfidence": "known-public"
+  },
+  {
+    "id": "augmedix-commure",
+    "name": "Augmedix (Commure)",
+    "company": "Commure",
+    "category": "Big tech / EHR-embedded",
+    "stage": "Incumbent / consolidator",
+    "positioning": "Long-standing ambient documentation provider now part of Commure's broader healthcare-operations platform. Enterprise and ED/inpatient experience.",
+    "ehrIntegrations": ["Epic", "Cerner / Oracle Health"],
+    "strengths": [
+      "Years of enterprise ambient documentation experience",
+      "Part of a broad Commure platform (ops, RCM, hardware)",
+      "Inpatient / ED documentation track record"
+    ],
+    "weaknesses": [
+      "Integration / brand transition through Commure consolidation",
+      "Historically more services-heavy model",
+      "Modern LLM messaging less crisp than pure-play challengers"
+    ],
+    "pricingNotes": "Enterprise contracts, sometimes platform-bundled. (Illustrative — confirm against current deal intel.)",
+    "website": "https://commure.com/",
+    "sourceConfidence": "known-public"
+  },
+  {
+    "id": "epic-native",
+    "name": "Epic Native Ambient (Art / partners)",
+    "company": "Epic Systems",
+    "category": "Big tech / EHR-embedded",
+    "stage": "Platform / build-in-place",
+    "positioning": "Epic's own and partner-embedded ambient and generative features inside the EHR. Not a standalone vendor but a real 'why buy anything?' competitive force for Epic shops.",
+    "ehrIntegrations": ["Epic"],
+    "strengths": [
+      "Zero new vendor; native to the system clinicians already use",
+      "No additional procurement or integration lift",
+      "Backed by Epic's roadmap and trust"
+    ],
+    "weaknesses": [
+      "Ambient note quality / specialty depth still maturing vs best-of-breed",
+      "Tied to Epic release cycles and configuration",
+      "Limited to Epic customers only"
+    ],
+    "pricingNotes": "May be positioned as included/low-cost within Epic — a 'good enough and free-ish' threat. (Illustrative — confirm locally.)",
+    "website": "https://www.epic.com/",
+    "sourceConfidence": "known-public"
+  },
+  {
+    "id": "freed",
+    "name": "Freed",
+    "company": "Freed AI",
+    "category": "Startup / emerging",
+    "stage": "Emerging",
+    "positioning": "Fast-growing, clinician-direct ambient scribe popular with independent and small-practice physicians. Bottom-up adoption motion.",
+    "ehrIntegrations": ["Copy/paste + select integrations"],
+    "strengths": [
+      "Viral, clinician-direct (PLG) adoption",
+      "Very low friction and price point",
+      "Loved by solo / small-practice clinicians"
+    ],
+    "weaknesses": [
+      "Limited enterprise security / EHR integration depth",
+      "Not positioned for health-system procurement",
+      "Thin support and compliance footprint for large orgs"
+    ],
+    "pricingNotes": "Low monthly per-clinician, self-serve. (Illustrative — confirm.)",
+    "website": "https://www.getfreed.ai/",
+    "sourceConfidence": "known-public"
+  }
+]

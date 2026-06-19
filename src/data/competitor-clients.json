@@ -1,0 +1,142 @@
+[
+  {
+    "id": "cc-001",
+    "competitorId": "nuance-dax",
+    "healthSystem": "Northgate Health System (sample)",
+    "ehr": "Epic",
+    "region": "Midwest",
+    "relationshipType": "deployment",
+    "publicSource": "",
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "cc-002",
+    "competitorId": "nuance-dax",
+    "healthSystem": "Coastline Medical Center (sample)",
+    "ehr": "Cerner / Oracle Health",
+    "region": "West",
+    "relationshipType": "deployment",
+    "publicSource": "",
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "cc-003",
+    "competitorId": "nuance-dax",
+    "healthSystem": "Greater Plains Physicians (sample)",
+    "ehr": "Epic",
+    "region": "Midwest",
+    "relationshipType": "announced",
+    "publicSource": "",
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "cc-004",
+    "competitorId": "ambience",
+    "healthSystem": "Summit University Health (sample)",
+    "ehr": "Epic",
+    "region": "West",
+    "relationshipType": "deployment",
+    "publicSource": "",
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "cc-005",
+    "competitorId": "ambience",
+    "healthSystem": "Lakeshore Academic Medical Center (sample)",
+    "ehr": "Epic",
+    "region": "Midwest",
+    "relationshipType": "pilot",
+    "publicSource": "",
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "cc-006",
+    "competitorId": "suki",
+    "healthSystem": "Riverbend Community Health (sample)",
+    "ehr": "athenahealth",
+    "region": "Southeast",
+    "relationshipType": "deployment",
+    "publicSource": "",
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "cc-007",
+    "competitorId": "suki",
+    "healthSystem": "Desert Valley Medical Group (sample)",
+    "ehr": "Cerner / Oracle Health",
+    "region": "Southwest",
+    "relationshipType": "deployment",
+    "publicSource": "",
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "cc-008",
+    "competitorId": "nabla",
+    "healthSystem": "Harbor Point Physicians (sample)",
+    "ehr": "athenahealth",
+    "region": "Northeast",
+    "relationshipType": "deployment",
+    "publicSource": "",
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "cc-009",
+    "competitorId": "nabla",
+    "healthSystem": "Cedar Ridge Family Care (sample)",
+    "ehr": "Epic",
+    "region": "Mountain",
+    "relationshipType": "pilot",
+    "publicSource": "",
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "cc-010",
+    "competitorId": "deepscribe",
+    "healthSystem": "Bayview Specialty Clinics (sample)",
+    "ehr": "athenahealth",
+    "region": "West",
+    "relationshipType": "deployment",
+    "publicSource": "",
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "cc-011",
+    "competitorId": "augmedix-commure",
+    "healthSystem": "Iron Gate Regional Hospital (sample)",
+    "ehr": "Cerner / Oracle Health",
+    "region": "Southeast",
+    "relationshipType": "deployment",
+    "publicSource": "",
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "cc-012",
+    "competitorId": "epic-native",
+    "healthSystem": "Meridian Integrated Health (sample)",
+    "ehr": "Epic",
+    "region": "Midwest",
+    "relationshipType": "pilot",
+    "publicSource": "",
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "cc-013",
+    "competitorId": "freed",
+    "healthSystem": "Independent PCP practices (various, sample)",
+    "ehr": "Mixed / ambulatory",
+    "region": "National",
+    "relationshipType": "deployment",
+    "publicSource": "",
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "cc-014",
+    "competitorId": "ambience",
+    "healthSystem": "Pinnacle Children's Network (sample)",
+    "ehr": "Epic",
+    "region": "Southwest",
+    "relationshipType": "announced",
+    "publicSource": "",
+    "sourceConfidence": "illustrative"
+  }
+]

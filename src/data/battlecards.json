@@ -1,0 +1,260 @@
+[
+  {
+    "id": "bc-nuance-dax",
+    "competitorId": "nuance-dax",
+    "summary": "Beat the incumbent on modern note quality, KLAS validation, and clinician trust — not on size.",
+    "whereWeWin": [
+      "#1 KLAS-rated ambient AI — independent, third-party validation they can't easily match",
+      "Modern, LLM-native architecture vs. legacy DAX roots",
+      "Clinician-trusted note quality and specialty depth",
+      "Transparent, auditable notes that stand up to clinical scrutiny"
+    ],
+    "whereTheyWin": [
+      "Sheer Microsoft scale, capital, and existing enterprise relationships",
+      "Largest installed base and brand familiarity",
+      "Bundling leverage inside broader Microsoft / Nuance contracts"
+    ],
+    "objections": [
+      {
+        "objection": "We're already standardized on Microsoft / Nuance.",
+        "response": "Standardizing on a platform shouldn't mean settling on note quality. Abridge is the #1 KLAS-rated ambient AI and integrates into the same Epic workflow. Run a head-to-head pilot and let clinician satisfaction and note quality decide."
+      },
+      {
+        "objection": "DAX is the safe, established choice.",
+        "response": "Established isn't the same as best. The legacy DAX architecture predates modern LLMs; clinicians increasingly cite note-quality and edit-burden issues. Abridge was built LLM-native and has the independent KLAS ranking to back it up."
+      }
+    ],
+    "landmines": [
+      "Ask what their current clinician satisfaction and note-edit rates actually are.",
+      "Ask whether their ambient note quality has independent, third-party KLAS validation.",
+      "Ask how quickly new specialty improvements ship on a legacy architecture."
+    ],
+    "proofPoints": [
+      "#1 KLAS-rated ambient AI",
+      "LLM-native platform purpose-built for clinical conversations",
+      "Deep Epic integration with auditable, trusted notes"
+    ],
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "bc-ambience",
+    "competitorId": "ambience",
+    "summary": "Win on focus, trust, and proven note quality vs. a broad 'do-everything' platform story.",
+    "whereWeWin": [
+      "#1 KLAS validation vs. less independent benchmarking",
+      "Depth and reliability in the core ambient documentation job",
+      "Clinician trust and transparent notes at enterprise scale"
+    ],
+    "whereTheyWin": [
+      "Broad platform narrative (documentation + coding + referrals)",
+      "Rapid feature velocity and modern messaging",
+      "Strong academic-medical-center positioning"
+    ],
+    "objections": [
+      {
+        "objection": "Ambience does coding and referrals too — it's a whole platform.",
+        "response": "Breadth is only valuable if the core works flawlessly. Documentation is where clinicians live every day — Abridge is #1 KLAS-rated on exactly that, at enterprise scale. Nail the core first; we integrate into the workflows around it."
+      },
+      {
+        "objection": "They feel more cutting-edge.",
+        "response": "Cutting-edge has to be clinically trustworthy. Abridge is LLM-native and independently validated — innovation our clinicians can actually rely on in front of patients."
+      }
+    ],
+    "landmines": [
+      "Ask for independent, third-party validation of note quality at enterprise scale.",
+      "Probe how well the platform's breadth holds up under specialty depth.",
+      "Ask about support footprint and references at systems their size."
+    ],
+    "proofPoints": [
+      "#1 KLAS-rated ambient AI",
+      "Enterprise-scale deployments with trusted note quality",
+      "Focused depth in the documentation workflow clinicians use most"
+    ],
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "bc-suki",
+    "competitorId": "suki",
+    "summary": "For enterprise / academic buyers, lead with KLAS validation and enterprise depth over assistant breadth.",
+    "whereWeWin": [
+      "#1 KLAS ranking and enterprise / academic credibility",
+      "Purpose-built ambient documentation depth",
+      "Enterprise security, integration, and support maturity"
+    ],
+    "whereTheyWin": [
+      "Broad EHR coverage including community / ambulatory systems",
+      "Voice-command and dictation flexibility",
+      "Established mid-market brand"
+    ],
+    "objections": [
+      {
+        "objection": "Suki is a flexible assistant, not just notes.",
+        "response": "Flexibility is great, but our buyers are solving one expensive problem first: documentation burden. Abridge is the #1 KLAS-rated ambient AI focused on doing that exceptionally at enterprise scale."
+      }
+    ],
+    "landmines": [
+      "Ask about KLAS standing and enterprise references at their scale.",
+      "Probe note-quality benchmarks specifically, separate from assistant features."
+    ],
+    "proofPoints": [
+      "#1 KLAS-rated ambient AI",
+      "Enterprise and academic deployment depth",
+      "Focused documentation quality clinicians trust"
+    ],
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "bc-nabla",
+    "competitorId": "nabla",
+    "summary": "In enterprise deals, win on validation, integration depth, and US support vs. a fast-onboarding ambulatory play.",
+    "whereWeWin": [
+      "#1 KLAS validation and enterprise references",
+      "Deep US enterprise EHR integration and support organization",
+      "Trusted note quality at health-system scale"
+    ],
+    "whereTheyWin": [
+      "Very fast onboarding and clinician-loved UX",
+      "Strong ambulatory and international footprint",
+      "Accessible pricing for smaller groups"
+    ],
+    "objections": [
+      {
+        "objection": "Nabla is faster and cheaper to get started.",
+        "response": "Speed to start matters less than enterprise integration, security, and validated note quality across a whole system. Abridge is #1 KLAS-rated and built for health-system-scale deployment and support."
+      }
+    ],
+    "landmines": [
+      "Ask about US enterprise support and implementation scale.",
+      "Probe depth of EHR write-back and security for a full health system."
+    ],
+    "proofPoints": [
+      "#1 KLAS-rated ambient AI",
+      "Enterprise-grade integration and support",
+      "Validated note quality at scale"
+    ],
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "bc-deepscribe",
+    "competitorId": "deepscribe",
+    "summary": "For health-system buyers, win on KLAS validation and enterprise readiness over ambulatory customization.",
+    "whereWeWin": [
+      "#1 KLAS ranking and enterprise credibility",
+      "Enterprise integration, security, and support maturity",
+      "Validated note quality at scale"
+    ],
+    "whereTheyWin": [
+      "Customizable note styles and specialty tuning",
+      "Ambulatory / independent-practice traction"
+    ],
+    "objections": [
+      {
+        "objection": "DeepScribe lets us customize note styles heavily.",
+        "response": "Abridge delivers clinician-trusted, specialty-aware notes out of the box — backed by the #1 KLAS ranking — without putting the burden of tuning on your team, and at full enterprise scale."
+      }
+    ],
+    "landmines": [
+      "Ask for enterprise health-system references and KLAS standing.",
+      "Probe security and integration depth beyond ambulatory settings."
+    ],
+    "proofPoints": [
+      "#1 KLAS-rated ambient AI",
+      "Enterprise-ready integration and support",
+      "Trusted notes without heavy customization overhead"
+    ],
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "bc-augmedix-commure",
+    "competitorId": "augmedix-commure",
+    "summary": "Win on modern, focused, validated ambient AI vs. a consolidating, services-heavy platform.",
+    "whereWeWin": [
+      "#1 KLAS-rated, LLM-native ambient documentation",
+      "Focused product vs. broad platform / consolidation distraction",
+      "Clear roadmap and clinician trust"
+    ],
+    "whereTheyWin": [
+      "Long enterprise ambient track record and inpatient/ED experience",
+      "Broad Commure platform (ops, RCM, hardware)"
+    ],
+    "objections": [
+      {
+        "objection": "Commure gives us one platform for many operations needs.",
+        "response": "Platform breadth can mean documentation isn't the priority. Abridge is the #1 KLAS-rated ambient AI focused squarely on clinician documentation — and integrates cleanly into your existing stack."
+      }
+    ],
+    "landmines": [
+      "Ask how the Augmedix/Commure integration affects roadmap and support continuity.",
+      "Probe whether ambient note quality is a top platform priority."
+    ],
+    "proofPoints": [
+      "#1 KLAS-rated ambient AI",
+      "Modern LLM-native architecture",
+      "Focused documentation excellence"
+    ],
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "bc-epic-native",
+    "competitorId": "epic-native",
+    "summary": "Counter 'it's already in Epic' with quality, specialty depth, and clinician adoption — Abridge complements Epic, it doesn't fight it.",
+    "whereWeWin": [
+      "Best-of-breed ambient note quality vs. maturing native features",
+      "#1 KLAS validation specifically for ambient AI",
+      "Specialty depth and clinician adoption / satisfaction",
+      "Deep Epic integration — we live inside the same workflow"
+    ],
+    "whereTheyWin": [
+      "No new vendor or procurement; native to Epic",
+      "Zero additional integration lift",
+      "Perceived as low/no incremental cost"
+    ],
+    "objections": [
+      {
+        "objection": "Epic is building this in — why would we buy a separate tool?",
+        "response": "Native features are a great floor, but ambient note quality is where clinicians feel the difference daily. Abridge is the #1 KLAS-rated ambient AI, integrates directly into Epic, and drives the clinician adoption that turns a feature into real time savings. Pilot both and compare satisfaction."
+      }
+    ],
+    "landmines": [
+      "Ask clinicians to compare native note quality vs. Abridge side by side.",
+      "Probe specialty coverage and edit burden of the native option.",
+      "Ask whether 'included' features are actually being adopted by clinicians."
+    ],
+    "proofPoints": [
+      "#1 KLAS-rated ambient AI",
+      "Deep Epic integration",
+      "Proven clinician adoption and satisfaction"
+    ],
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "bc-freed",
+    "competitorId": "freed",
+    "summary": "Not an enterprise competitor — win on security, integration, and governance; use as a wedge where shadow IT exists.",
+    "whereWeWin": [
+      "Enterprise security, compliance, and EHR integration",
+      "#1 KLAS validation and health-system support",
+      "Governed, auditable deployment vs. clinician-by-clinician shadow tools"
+    ],
+    "whereTheyWin": [
+      "Viral clinician-direct adoption and low price",
+      "Frictionless for solo / small practices"
+    ],
+    "objections": [
+      {
+        "objection": "Some of our docs already use a cheap self-serve scribe.",
+        "response": "That's exactly the governance risk to get ahead of — ungoverned tools and PHI handling. Abridge gives the whole system enterprise security, EHR integration, and the #1 KLAS-rated note quality, under IT's control."
+      }
+    ],
+    "landmines": [
+      "Surface shadow-IT / PHI governance risk of ungoverned scribes.",
+      "Ask about enterprise security, BAAs, and EHR write-back."
+    ],
+    "proofPoints": [
+      "#1 KLAS-rated ambient AI",
+      "Enterprise security and governance",
+      "Native EHR integration"
+    ],
+    "sourceConfidence": "illustrative"
+  }
+]
