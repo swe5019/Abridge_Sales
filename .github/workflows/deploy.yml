@@ -38,10 +38,10 @@ jobs:
         run: npm run build
 
       - name: Configure Pages
-        # enablement: true turns on GitHub Pages automatically if it isn't already.
+        # Reads the existing Pages configuration. Pages must be enabled once in
+        # repo Settings → Pages → Source: "GitHub Actions" (the workflow token is
+        # not permitted to enable Pages itself).
         uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
