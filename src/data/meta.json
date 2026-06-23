@@ -12,8 +12,6 @@
     { "label": "Mid (200-499 beds)", "min": 200 },
     { "label": "Community (<200 beds)", "min": 0 }
   ],
-  "liveNews": true,
-  "newsFeedUrl": "",
   "factorLabels": {
     "ehrFit": "EHR fit (Epic depth)",
     "greenfield": "Greenfield opportunity",

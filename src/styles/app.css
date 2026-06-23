@@ -549,3 +549,22 @@ table.data tr:last-child td {
   border-color: var(--brand);
   color: #fff;
 }
+
+/* ---------- Importer ---------- */
+.importer-input {
+  width: 100%;
+  min-height: 150px;
+  font-family: var(--mono);
+  font-size: 13px;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  resize: vertical;
+  background: #fbfbfc;
+  color: var(--ink);
+}
+
+.importer-input:focus {
+  outline: 2px solid var(--brand-tint);
+  border-color: var(--brand);
+}

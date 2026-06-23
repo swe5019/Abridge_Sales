@@ -1,0 +1,72 @@
+name: Update news & deal radar
+
+# Pulls fresh real headlines AND competitor deal leads from public RSS feeds,
+# commits the updated data, then rebuilds and redeploys the site to GitHub Pages.
+#
+# Self-contained on purpose: commits made with the default GITHUB_TOKEN do not
+# trigger the separate deploy workflow, so this job does its own deploy.
+on:
+  schedule:
+    - cron: '0 */6 * * *' # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write # commit the refreshed news.json
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  refresh-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch latest industry news
+        run: npm run update-news
+
+      - name: Fetch competitor deal leads
+        run: npm run update-leads
+
+      - name: Commit refreshed data (if changed)
+        run: |
+          if [[ -n "$(git status --porcelain src/data/news.json src/data/client-leads.json)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add src/data/news.json src/data/client-leads.json
+            git commit -m "chore: refresh news & deal radar [skip ci]"
+            git push
+          else
+            echo "No data changes to commit."
+          fi
+
+      - name: Build
+        run: npm run build
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

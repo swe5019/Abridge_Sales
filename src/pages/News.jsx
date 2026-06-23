@@ -1,27 +1,9 @@
-import { useState, useEffect, useMemo } from 'react'
-import { loadNews, curated } from '../lib/news'
-import meta from '../data/meta.json'
+import { useState, useMemo } from 'react'
+import { curated, latestDate } from '../lib/news'
 
 export default function News() {
-  const [items, setItems] = useState(curated)
-  const [live, setLive] = useState(false)
-  const [loading, setLoading] = useState(meta.liveNews && !!meta.newsFeedUrl)
   const [tag, setTag] = useState('')
-
-  useEffect(() => {
-    let active = true
-    if (meta.liveNews && meta.newsFeedUrl) {
-      loadNews().then((res) => {
-        if (!active) return
-        setItems(res.items)
-        setLive(res.live)
-        setLoading(false)
-      })
-    }
-    return () => {
-      active = false
-    }
-  }, [])
+  const items = curated
 
   const tags = useMemo(() => {
     const set = new Set()
@@ -37,22 +19,15 @@ export default function News() {
         <div className="eyebrow">Stay Sharp</div>
         <h1>Industry News</h1>
         <p>
-          Curated ambient-AI and healthcare-IT headlines to fuel outreach and stay ahead of
-          competitive moves. Filter by topic.
+          Real ambient-AI and healthcare-IT headlines, refreshed automatically from public news
+          sources by a scheduled job. Filter by topic to prep outreach and track competitive moves.
         </p>
       </div>
 
-      {loading ? (
-        <div className="banner info">Checking for live updates…</div>
-      ) : live ? (
-        <div className="banner info">Showing live feed merged with the curated list.</div>
-      ) : (
-        <div className="banner warn">
-          Showing the curated list ({meta.newsFeedUrl ? 'live feed unavailable' : 'live feed not configured'}).
-          Items are illustrative samples — update <code>src/data/news.json</code>, or set{' '}
-          <code>newsFeedUrl</code> in <code>meta.json</code> for a live feed.
-        </div>
-      )}
+      <div className="banner info">
+        Headlines update automatically several times a day.
+        {latestDate && <> Most recent story: <strong>{latestDate}</strong>.</>}
+      </div>
 
       <div className="subnav">
         <button className={tag === '' ? 'active' : ''} onClick={() => setTag('')}>
