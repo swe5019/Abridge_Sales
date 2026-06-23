@@ -1,5 +1,16 @@
 [
   {
+    "id": "n-2026-06-23-1a5dvsk",
+    "date": "2026-06-23",
+    "title": "Rhode Island passes ambient AI scribe opt-out law",
+    "source": "Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWk1mRkw0VEQwdHZBMkpORGdRZDB2dUlUQnQ2M194WDRzRFg1MUs3X1VFN0ZNNmFnWDVhRktnbjF0N2FUNEVoNkNVdjI0OUM5cS1mcEN1WWZUVGY1R3hSSkY2cjFSb0NiMW0yeXprTlIzNGlINEtXSWFmTFVEcUJWVHlpbzFNUENETkREMVFjb2w?oc=5",
+    "summary": "Rhode Island passes ambient AI scribe opt-out law Healthcare IT News",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-06-23-1qgvr8e",
     "date": "2026-06-23",
     "title": "AI Tracker: Prosper AI banks $30M",
@@ -99,17 +110,6 @@
     ]
   },
   {
-    "id": "n-2026-06-11-k1nt5z",
-    "date": "2026-06-11",
-    "title": "Nvidia partners with clinical note-taking company to improve suite of AI models",
-    "source": "HealthExec",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdkMyZm5IaXNfTlp1a05MNzFwYi1ScFI1Q2oyd2dOazB0WHIyRmhNMDN0QzhWZk1TcUdXTkwtUGJ5YzBTRUZ5WlB3cnkyWlBZY3lCcTFFeFlJU0RLd2x4cWRxZF9VV0VGVXNkZTZTZmNRVC1WWlVIc2dpaVJCYV9CVTdORUVEZnRxRXoxSVdNYjlJQWNCMFZuenhxQWhWOVhLUnJ5LWtzbk1oRjZWWEJIUmRBUTNjWTl2VlhkSk5QMA?oc=5",
-    "summary": "Nvidia partners with clinical note-taking company to improve suite of AI models HealthExec",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
     "id": "n-2026-06-11-1x9ahj8",
     "date": "2026-06-11",
     "title": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it",
@@ -118,6 +118,17 @@
     "summary": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it Fortune",
     "tags": [
       "abridge"
+    ]
+  },
+  {
+    "id": "n-2026-06-11-1gvwwdg",
+    "date": "2026-06-11",
+    "title": "Ambient artificial intelligence scribes used for billing may increase health care spending and erode patient trust",
+    "source": "Vera Health",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc1hWZ0NQRDc4Y25fMVdkVWZmeVUzaDV1TW4wc1ljZTN0c2NoUGhyamZnX29RN1Z1WVVwdWpldHRMS3I1eGg5U2w5UFk1bXFTZ3ZMdmdIV0RIdkQ5Zm9RWjUyTTVkU1hjM19UalZMWlplS1F1WlM5LWxiaXdEMGRJOUlLVHpvWEI2c0NIajd3WVpVRGhLaGtlWGt3UHM0Q2J5QlJXVHdFZlNxWGplc0VF?oc=5",
+    "summary": "Ambient artificial intelligence scribes used for billing may increase health care spending and erode patient trust Vera Health",
+    "tags": [
+      "ambient-ai"
     ]
   },
   {
@@ -316,17 +327,6 @@
     "source": "EMJ",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUjNyM19CaE1LMUtpMl9KUEZmZlUzTTQ5OV9IOEVzeXBaYTBHSjNvSDlZM0JLdnVVemRXT2RiVjV1M3lkLWdYQnQ0THZvMFpVbGkxanV1akhfNGJDaGQtdktFMVRBVXNkMWJxYlpybkN5OWdKeUxxZHFaODhfbmZTMXI3Z3lLTi1STDVGcVlrNC1oUUNqaXRfckpqWkFHZ1JlNDBjSV8ybU03dVU4cllxSmhScEFkQTdXc1E?oc=5",
     "summary": "Doctors Make Better Clinical Notes than AI Scribes, New Study Finds EMJ",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-04-19-4pn8i7",
-    "date": "2026-04-19",
-    "title": "AI scribes add at least $167 per month to clinician income: 5-site study",
-    "source": "HealthExec",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmUzOTZna3M4ZFAzN0RwUUdtdlZnb2lDVldjM0ZhNTR3b3VxUXdITkR1aGhBOUhzU0tRSS0zVWFFMWtGTFZJN2cwRFpEd0tYYkJRbFBqNU1LeVB1N3FLd0pVRXU5bEMwdVkzTjItNWxvS2R5VUtDZTNGQlM1eHo4b3F6M0ZuOW9GZjRpSnVoVkRDVkZQbG9pTDVhNA?oc=5",
-    "summary": "AI scribes add at least $167 per month to clinician income: 5-site study HealthExec",
     "tags": [
       "ambient-ai"
     ]
