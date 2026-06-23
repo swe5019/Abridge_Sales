@@ -1,7 +1,7 @@
-name: Update industry news
+name: Update news & deal radar
 
-# Pulls fresh real headlines from public RSS feeds, commits the updated
-# news.json, then rebuilds and redeploys the site to GitHub Pages.
+# Pulls fresh real headlines AND competitor deal leads from public RSS feeds,
+# commits the updated data, then rebuilds and redeploys the site to GitHub Pages.
 #
 # Self-contained on purpose: commits made with the default GITHUB_TOKEN do not
 # trigger the separate deploy workflow, so this job does its own deploy.
@@ -41,16 +41,19 @@ jobs:
       - name: Fetch latest industry news
         run: npm run update-news
 
-      - name: Commit refreshed news (if changed)
+      - name: Fetch competitor deal leads
+        run: npm run update-leads
+
+      - name: Commit refreshed data (if changed)
         run: |
-          if [[ -n "$(git status --porcelain src/data/news.json)" ]]; then
+          if [[ -n "$(git status --porcelain src/data/news.json src/data/client-leads.json)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add src/data/news.json
-            git commit -m "chore: refresh industry news [skip ci]"
+            git add src/data/news.json src/data/client-leads.json
+            git commit -m "chore: refresh news & deal radar [skip ci]"
             git push
           else
-            echo "No news changes to commit."
+            echo "No data changes to commit."
           fi
 
       - name: Build

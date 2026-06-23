@@ -8,7 +8,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "update-news": "node scripts/fetch-news.mjs"
+    "update-news": "node scripts/fetch-news.mjs",
+    "update-leads": "node scripts/fetch-client-leads.mjs"
   },
   "dependencies": {
     "react": "^18.3.1",
