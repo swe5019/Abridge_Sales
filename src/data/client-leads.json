@@ -46,8 +46,8 @@
   {
     "id": "lead-2026-02-05-1yps1mx",
     "date": "2026-02-05",
-    "competitorId": "deepscribe",
-    "competitorName": "DeepScribe",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
     "title": "Epic's AI scribe goes live as EHR giant touts strong adoption of built-in AI features",
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT2VBVVFySnhJX2FUUHBET0swTEtZaGtBaGxHUlh5TGY3WmtLcEZPc1plS3ZTZGgtWG1hZUV3eGhhN01UOTcxZ3RrSmFqbVJQemN1RmhaMUxCajFnQ2ZHS2UtVkdsTktud2tndC1uVXNYWDgtTmhPcENRWUlqZTNXdmpxSVpVaU5ValFkQkpGM2JpaEpzLUw0UFU4NzBmeFlPdUdvZ2pjZjA5c3BCV2JTYkZBUW5Ndm9ka204OEg2YnFpQQ?oc=5",
@@ -275,6 +275,28 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-04-10-15irbqw",
+    "date": "2025-04-10",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Insight Health and Office Practicum Announce Strategic Partnership to Transform Pediatric Documentation with AI",
+    "source": "Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdmMzTEhNRllpQnFGQkRTTW5mRHZKN2NoSjRNVVJHaTN1aklsZ2JsY1lWTHZ3UGhrSUdnY3hhQnFHY0FQekVJNDlpSlB2N1ZvNk1VX0VOcEVEelkyeXFydnhxZDFocjY2RlpLZ2lkZHVkdjRqN2VRaVloZFNseE9aaXBaajhYdnQ0QjlLazNUREE0WmFGblNUeXNfQ3pESjZQLXhqZHUtY1dzb2JMaVFTUGpHcVk2aENQVnRCQWZJYUo0a04yX2xsT2RNLXYzRFRaRUZrdWs2VUJMcEVsX2xzbTdGZXdsTGdrd0V3dGFmQ3J6Z3NSSjg1Umlwb0M?oc=5",
+    "summary": "Insight Health and Office Practicum Announce Strategic Partnership to Transform Pediatric Documentation with AI Business Wire",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-03-13-pv7fr3",
+    "date": "2025-03-13",
+    "competitorId": "nabla",
+    "competitorName": "Nabla Copilot",
+    "title": "Women's Health Pioneer Tia Rolls Out Nabla's AI Assistant To Enhance the Patient-Provider Relationship",
+    "source": "PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQa1pJYnFXLWtPTl8waU9QcXZuY01PckVaU0tfSDFUZjljcnRvV1dLaHdoZGFyNHdmbVU1dkFSeWFqQ0RKUFJKSzhqWDZNR0dsblNsakpVMHlMb0N2MlpkV2RKeFhJOElfejZ5eFVwcDlpVUx3eGJWYnIxMk1rajlVQjRpNE1ZZUtJb0hrbE1mRUV4NkR1aEpXalhvN3RMWnJNcW1yVzRPNWp1YUVsT3VXazBIajc2NGptU2NyOGhRM2xEMEZHUHhJUjhyMjRTQ3FkelpLZUp3X0R1a1dmRXo2R2trWDA3MFNQX3cweQ?oc=5",
+    "summary": "Women's Health Pioneer Tia Rolls Out Nabla's AI Assistant To Enhance the Patient-Provider Relationship PR Newswire",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-03-13-2v6s7w",
     "date": "2025-03-13",
     "competitorId": "nabla",
@@ -294,17 +316,6 @@
     "source": "Femtech Insider",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU21KZ1JoNFJ0V2J5dFBRMUxENWdWSDNYVHlhS2JHNmVYZVVoemhTa3k1S1NYdzRvYWkwUjNxNngyUFhibTk2amVvZGZRalBxbXpHcVBDb1pUaUFscUZ2WXgwZVl5TTQ4Nlk5NzlwZlpCVWtZenhueXNpSWxVV3hGOWJ4b3hVdk1xYlY0bXo5QXNhVWZKa1lONmRMQzhPVkVDemdKTWx0MjdDTHFXbzdmdEVIalJlMXlr?oc=5",
     "summary": "Tia Implements Nabla’s Clinical AI Assistant Across All Clinics Following Successful Pilot Femtech Insider",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2025-03-13-pv7fr3",
-    "date": "2025-03-13",
-    "competitorId": "nabla",
-    "competitorName": "Nabla Copilot",
-    "title": "Women's Health Pioneer Tia Rolls Out Nabla's AI Assistant To Enhance the Patient-Provider Relationship",
-    "source": "PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQa1pJYnFXLWtPTl8waU9QcXZuY01PckVaU0tfSDFUZjljcnRvV1dLaHdoZGFyNHdmbVU1dkFSeWFqQ0RKUFJKSzhqWDZNR0dsblNsakpVMHlMb0N2MlpkV2RKeFhJOElfejZ5eFVwcDlpVUx3eGJWYnIxMk1rajlVQjRpNE1ZZUtJb0hrbE1mRUV4NkR1aEpXalhvN3RMWnJNcW1yVzRPNWp1YUVsT3VXazBIajc2NGptU2NyOGhRM2xEMEZHUHhJUjhyMjRTQ3FkelpLZUp3X0R1a1dmRXo2R2trWDA3MFNQX3cweQ?oc=5",
-    "summary": "Women's Health Pioneer Tia Rolls Out Nabla's AI Assistant To Enhance the Patient-Provider Relationship PR Newswire",
     "status": "unverified"
   },
   {
@@ -385,17 +396,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-01-22-pipn4v",
-    "date": "2025-01-22",
-    "competitorId": "deepscribe",
-    "competitorName": "DeepScribe",
-    "title": "Flatiron Health, DeepScribe Unveil Partnership to Provide Oncology-Specific Ambient AI",
-    "source": "The American Journal of Managed Care® (AJMC®)",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmpBRWdTdzJjYWduMmNyU0JYUlZybVZ1Q2J0MmRBY2N0bEZYQkNKZWF0NDR2ZmwwSlR4SzVaMVdKODhWTHBJLXZSbW9HUUUtTHpLcUlTamlCaDNPbFdEUExGNVNQdHZMR0dzSElrWXJUWE05aUhqUTJtSU5WSHdHbkJoc3pCNjJOV2ZkMnJlUG1yTmJiMU5FQ3hjU0E0amhwVGtYWmtjUFNpcTJhYzZQSA?oc=5",
-    "summary": "Flatiron Health, DeepScribe Unveil Partnership to Provide Oncology-Specific Ambient AI The American Journal of Managed Care® (AJMC®)",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-01-16-14w5irk",
     "date": "2025-01-16",
     "competitorId": "nabla",
@@ -404,17 +404,6 @@
     "source": "PR Newswire",
     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRC1zN19McF9QaUJ4TDVCOEVyQjZkVEJDVll2TThWUHVFbVNnM281SEZBYWdURXZlU0dfTHV5OHEwSl93VGJxdXZEUUtPMjd6b0JnY1BoMldfdDNpZDVjQmlrTi1MRV9HTVI5MjVFU25SOGFuQnotNVB1eE1QSTI0aWtDN2NsRlJQYTJyYWJFX3pXMlFZeHhLaG91akIzS2xTNlRUVVRYY2o0YU1tZENweGt5YjBoeEFWUGIzOFdCRkFqQkdicEpwX3Y3MHk5eFJ6aTZoYzJnYjBIX19zWTlqaVh6NVpHT0MxeFdhSklvcjNENXRCUG1IS2NMNUk?oc=5",
     "summary": "Safety Net System Denver Health Selects Nabla's Ambient AI Technology to Support Entire Clinical Staff's Wellbeing PR Newswire",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2025-01-14-o2697m",
-    "date": "2025-01-14",
-    "competitorId": "deepscribe",
-    "competitorName": "DeepScribe",
-    "title": "DeepScribe and Pearl Health Announce Partnership to Bring Ambient AI Documentation to Value-based Care Providers",
-    "source": "PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQa2VvN2hOeHRpZHRMQWRHY2FoX0hMTlUxTzl1U21nR1RwSDFJN1Z3d2NDd01MdWVMXzBobll4MURmZlFXd001QmdtWGZKM1J0dkNfZm9IQzd0UTJEXzdnYU11S2tYdFJkYkdtMkp0ckQtX1RiYS1YWXpWY09EWFh4Ulc1OXN3VE15SWVqeDE3LTFQUml1Y09kYThVOGx1eDl0eEZ1cUI3RkRlNTU5OE9ubXVYaWstX003N0hXcUNBMl9IZWNrWnVKWmFNRlZYUVkxbnJiUVI0V214VVR3aUEtcnN4QTRvNW5yd0x3NlJpcUVLR0FHc2Qtc2RGS3Y?oc=5",
-    "summary": "DeepScribe and Pearl Health Announce Partnership to Bring Ambient AI Documentation to Value-based Care Providers PR Newswire",
     "status": "unverified"
   },
   {
@@ -547,6 +536,17 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDNXamdnY0ZKdURDeUIyN1FnMm5pUEl2ZGRYQXgxdnhRUFQyRnRvWEpHRTQ0ZlhsU0VndC1uc1Nnb2V4eHJybloyd25Cb2VwVVVfUno0dlhLVFp2ZnBJUlRicU0xNG00S0VzSHlvZnZlLWdaRVpzV0RqNVN5ZjRMOEQzOUZybTdsWHdDMzdEb3RnU1ZQXzA0ZzU0RmtuMGVuUjB5WGtWRlJaeU4wdmN0OV8xR0tMcDdOR2s3SkdhVQ?oc=5",
     "summary": "HLTH24: Suki balloons AI assistant footprint through new strategic partnership with Zoom Healthcare Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-10-16-1kwv9lb",
+    "date": "2024-10-16",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Microsoft rolls out new healthcare AI tools in partnership with Epic, Paige.ai, major health systems",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdldES3R5aUEtWUd0V1pXWEhpNG5JWmJ5ZGZIN1E1UTVpTWdHSjU3MlBkUTlOdGZ2WGhfWFVoV0JVQzFOdE9GTUtTSmhUOFp2bUhOTFhlOVB2LUZZRUJyV0JQNkc3SkRIT1g5UVd3RnRaSHFfRTJyajhCekxpN3VrU3kzWFFlQ2xtdDNXMFVqSGJGUDdxTFUybTM5SG1VZDF5UVBvSVVmc3p2WUFZRlpUWWxjMFg4b1h1Z0dndXRhT082OW5nM0tONFpKcw?oc=5",
+    "summary": "Microsoft rolls out new healthcare AI tools in partnership with Epic, Paige.ai, major health systems Fierce Healthcare",
     "status": "unverified"
   }
 ]

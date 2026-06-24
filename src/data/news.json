@@ -33,17 +33,6 @@
     ]
   },
   {
-    "id": "n-2026-06-22-1vtku3c",
-    "date": "2026-06-22",
-    "title": "As AI Listens to Patients, Physicians Face New Questions",
-    "source": "Medscape",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM3BITWhCQ29MT2dDTDJTZzQ1bGFMVEI5N3BMa2tCWExZS2Y1dGZOaVVzTXlJN05zeTNqNnFpWXJoUFhNRUMtMzdwMUYwcVVEY1NjZ29yd3lreVJzSzQ4Vm9BN3BHNEdLN2ItM3BjNW13QTAtNmtNVTRORFRzcnd4ak9nRmNDQndHdzBiNmk2UWNsZFBmRGtEd3Y4TGw3dkNrWnpxekxDV2VKcU0?oc=5",
-    "summary": "As AI Listens to Patients, Physicians Face New Questions Medscape",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
     "id": "n-2026-06-19-1scqoz",
     "date": "2026-06-19",
     "title": "The ambient AI scribe illusion: Doctors need to pay attention",
@@ -99,6 +88,18 @@
     ]
   },
   {
+    "id": "n-2026-06-15-19xb4q",
+    "date": "2026-06-15",
+    "title": "Lilly Backs Abridge to Bring Ambient AI Into Clinical Trial Recruitment",
+    "source": "AIM Media House",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV0VjQ05WLUUtUk4tRnpmMDBWSkpEQW92WEI5cG5WUUZtVUEycEd1Zzl5VW5LbXFMNnJDcEJ5RXZUTF9nUm51RkxlY0FhZ016b0dOMVhvNGxhb1h3NGNyU0wzYS1pOGlvX05yWFNDdlNpSUVEeTVvaFc4eGl0RzEzbEZSbWt2ZGN0bER6VnZCbTJFbmhydDdXcTF0RVVIYU9rZGJkTnB1QUVwUHowVzBNYXNRaEdrOGpzcUZLN09n0gG-AUFVX3lxTE9XRWNDTlYtRS1STi1GemYwMFZKSkRBb3ZYQjlwblZRRm1VQTJwR3VnOXlVbkttcUw2ckNwQnlFdlRMX2dSbnVGTGVjQWFnTXpvR04xWG80bGFvWHc0Y3JTTDNhLWk4aW9fTnJYU0N2U2lJRUR5NW9oVzh4aXRHMTNsRlJta3ZkY3RsRHpWdkJtMkVuaHJ0N1dxMXRFVUhhT2tkYmROcHVBRXBQejBXME1hc1FoR2s4anNxRks3T2c?oc=5",
+    "summary": "Lilly Backs Abridge to Bring Ambient AI Into Clinical Trial Recruitment AIM Media House",
+    "tags": [
+      "abridge",
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-06-13-lb51gy",
     "date": "2026-06-13",
     "title": "Health Brief: The AI scribe evolution",
@@ -107,17 +108,6 @@
     "summary": "Health Brief: The AI scribe evolution The Washington Post",
     "tags": [
       "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-06-11-k1nt5z",
-    "date": "2026-06-11",
-    "title": "Nvidia partners with clinical note-taking company to improve suite of AI models",
-    "source": "HealthExec",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdkMyZm5IaXNfTlp1a05MNzFwYi1ScFI1Q2oyd2dOazB0WHIyRmhNMDN0QzhWZk1TcUdXTkwtUGJ5YzBTRUZ5WlB3cnkyWlBZY3lCcTFFeFlJU0RLd2x4cWRxZF9VV0VGVXNkZTZTZmNRVC1WWlVIc2dpaVJCYV9CVTdORUVEZnRxRXoxSVdNYjlJQWNCMFZuenhxQWhWOVhLUnJ5LWtzbk1oRjZWWEJIUmRBUTNjWTl2VlhkSk5QMA?oc=5",
-    "summary": "Nvidia partners with clinical note-taking company to improve suite of AI models HealthExec",
-    "tags": [
-      "industry"
     ]
   },
   {
@@ -132,6 +122,18 @@
     ]
   },
   {
+    "id": "n-2026-06-11-1m5v8xw",
+    "date": "2026-06-11",
+    "title": "Abridge is becoming the operating system for medicine after landing Eli Lilly equity and a clinical foundation model deal with NVIDIA",
+    "source": "Startup Fortune",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMFI4LWozMkJoVkNsbld4UTF6SVpXdnJCd25XekZweS01Q0lTdWpVM3EzY09hSmxLWTZLUHpnbWJMYVdvNWhhNlZiX0JjU3VRZ2pTd29iWGJZOHZmdFY5clFkOGFmWWdZd0JlbHVKT3BiM2xFLVJTalozbjZqRUpOMVBmdEpmSG9SSXFKY0ZOby1EM1VyNk5RNlQ4SUFZVVA3OVlLODZ6dzJVb19WRE51czVUSGRDbkNuNU53YlFaTFVjX0RJZlhXa3hPZXA5SU5yazdQNFNsV2lUZFlhWjZCdUVOZEFCV1U5T29td1pmQ2hqTzA?oc=5",
+    "summary": "Abridge is becoming the operating system for medicine after landing Eli Lilly equity and a clinical foundation model deal with NVIDIA Startup Fortune",
+    "tags": [
+      "abridge",
+      "market-trend"
+    ]
+  },
+  {
     "id": "n-2026-06-10-1dv5yw0",
     "date": "2026-06-10",
     "title": "Why oncology is becoming healthcare AI's toughest test",
@@ -140,6 +142,17 @@
     "summary": "Why oncology is becoming healthcare AI's toughest test Healthcare IT News",
     "tags": [
       "industry"
+    ]
+  },
+  {
+    "id": "n-2026-06-10-1gvwwdg",
+    "date": "2026-06-10",
+    "title": "Ambient artificial intelligence scribes used for billing may increase health care spending and erode patient trust",
+    "source": "Vera Health",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYlpwYjVHdW9Vc0VsTDlhcUd5T0c4RlhqcUZtN19pYnIzczNBVHRRLUF1bFdGblE0Q0JkOFVJek5rVmZGcVJDT2Y1dGNRV0o2S0N3WExEU0FhV0syY1psNTBjcjR1UEdIMjJZdVVMNzFxMVFNcFR4RTd3cW5jZU5ZdlROWlkxQmgwcVNLLUVqZzBqOFhPZks2bHhEOVpENmJXQzgtaW5PLXJNTFdqaVZB?oc=5",
+    "summary": "Ambient artificial intelligence scribes used for billing may increase health care spending and erode patient trust Vera Health",
+    "tags": [
+      "ambient-ai"
     ]
   },
   {
@@ -231,17 +244,6 @@
     ]
   },
   {
-    "id": "n-2026-05-26-epigiv",
-    "date": "2026-05-26",
-    "title": "Sunoh.ai’s Ambient AI Scribe Helps Clinicians Spend Less Time Charting at Night",
-    "source": "Healthcare IT Today",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVjh3dHFsTjFtb2dma0xFaTVFYi1rM2phWUJpelNmQ3RXbkZCeDBGYVRQUkJkNEtRYzVleklzY0o1Z0pEMHFwZHRlYXFJcFo5SWx0VGpReVpxWnI3M0prWHpkVEo2d1duTktkZ3lRZzNBT0dyUXVZclU4X3FLWVQxWEo0WXltUkxMYlVkNEN0UGNJWkVIMml3ZTQzYVZrbmcxWVlET1Ftc05aREtud1hKd0hrYVFzSVVsdDRmeHcydnlYQQ?oc=5",
-    "summary": "Sunoh.ai’s Ambient AI Scribe Helps Clinicians Spend Less Time Charting at Night Healthcare IT Today",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
     "id": "n-2026-05-20-1artqmd",
     "date": "2026-05-20",
     "title": "AI scribe note quality under question as adoption grows",
@@ -250,17 +252,6 @@
     "summary": "AI scribe note quality under question as adoption grows TechTarget",
     "tags": [
       "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-05-20-1lkldl6",
-    "date": "2026-05-20",
-    "title": "A doctor shortage is coming. AI could be the only realistic fix",
-    "source": "Fortune",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRG1BWXlzaUg1eWMzV1diZUJjMkh3cEhvX05IM1Q4b0F4MnkzVEdoejJIYmVJUG9uRmdMOXNwbVBuX2lwd1F5UzVLc2txRWdGX3FTSzVVSTBWYzh1b2VkdlVvSjJ3NHl6VFBwRFlEdTllZ200RlB0dVVPdnM2blVad3h6Ni1MT1g5Slo1T1NrSG1kcDNCSlZIS2QxUFQ2dw?oc=5",
-    "summary": "A doctor shortage is coming. AI could be the only realistic fix Fortune",
-    "tags": [
-      "industry"
     ]
   },
   {
@@ -309,24 +300,34 @@
     ]
   },
   {
-    "id": "n-2026-05-07-1uiexwi",
-    "date": "2026-05-07",
-    "title": "Is Ambient AI Harder to Build for RNs Than MDs? Abridge CEO Says ‘Yes’",
-    "source": "Newsweek",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkpKOHlQVWFQejV4eTRhZHp2YTY5cDFhemE3U3Bpd0ZZZWd2TFFsNUplQ3ZXaEJpV0k1YmY1Q2FRbWZiZm9pVzdDZ3VuLWdUb3RWS0ZHaGFSWHVsanJGZUFZdi1Sb0JGbEs3QVFlQVIwX1czMHRfY1ZzSEV3RXdWblcxLWNsVTlXbF9TQnpKVnpidldBTjUzNFRoeU5kUEd6UjY2UFZydFlGSGFpTm9jUHkzM2s?oc=5",
-    "summary": "Is Ambient AI Harder to Build for RNs Than MDs? Abridge CEO Says ‘Yes’ Newsweek",
-    "tags": [
-      "abridge",
-      "ambient-ai"
-    ]
-  },
-  {
     "id": "n-2026-05-01-104ervo",
     "date": "2026-05-01",
     "title": "AI scribes save clinicians time but fail to reduce overtime work",
     "source": "News-Medical",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbG1jYVJYZUNzT1VvYWoyNmkzMjQzX0ppRm10ME51QUo0ZkJpcWF0N0dFdDVEaGR1LXNobUNWZXZTWklRSnRJMzRlX3B4aWtRYnFnX0hQQmV0dlVhNVRUUnNJSjRlMEh0LWc0S0M5TUNFZzJBcDAxSU9DTGNNZnY1STBnUTY1akc5SGNWbUtQQTd0dHpmcWN3NC1LMk9hMkt1Z0gxZnVRc2xqRVhSc1VpQkhR?oc=5",
     "summary": "AI scribes save clinicians time but fail to reduce overtime work News-Medical",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-04-20-7hj8bl",
+    "date": "2026-04-20",
+    "title": "Doctors Make Better Clinical Notes than AI Scribes, New Study Finds",
+    "source": "EMJ",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUjNyM19CaE1LMUtpMl9KUEZmZlUzTTQ5OV9IOEVzeXBaYTBHSjNvSDlZM0JLdnVVemRXT2RiVjV1M3lkLWdYQnQ0THZvMFpVbGkxanV1akhfNGJDaGQtdktFMVRBVXNkMWJxYlpybkN5OWdKeUxxZHFaODhfbmZTMXI3Z3lLTi1STDVGcVlrNC1oUUNqaXRfckpqWkFHZ1JlNDBjSV8ybU03dVU4cllxSmhScEFkQTdXc1E?oc=5",
+    "summary": "Doctors Make Better Clinical Notes than AI Scribes, New Study Finds EMJ",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-04-19-4pn8i7",
+    "date": "2026-04-19",
+    "title": "AI scribes add at least $167 per month to clinician income: 5-site study",
+    "source": "HealthExec",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmUzOTZna3M4ZFAzN0RwUUdtdlZnb2lDVldjM0ZhNTR3b3VxUXdITkR1aGhBOUhzU0tRSS0zVWFFMWtGTFZJN2cwRFpEd0tYYkJRbFBqNU1LeVB1N3FLd0pVRXU5bEMwdVkzTjItNWxvS2R5VUtDZTNGQlM1eHo4b3F6M0ZuOW9GZjRpSnVoVkRDVkZQbG9pTDVhNA?oc=5",
+    "summary": "AI scribes add at least $167 per month to clinician income: 5-site study HealthExec",
     "tags": [
       "ambient-ai"
     ]
