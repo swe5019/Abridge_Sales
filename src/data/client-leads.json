@@ -11,6 +11,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2026-05-18-monwpn",
+    "date": "2026-05-18",
+    "competitorId": "ambience",
+    "competitorName": "Ambience AutoScribe",
+    "title": "India & Netherlands Expands Healthcare, Pharma & Medtech Cooperation",
+    "source": "Digital Health News",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVVl5V3VQMllzQW5NVm8wTFFVNnRfcFpXZzJZSl9hSDFqazZ2RDhUaGlwQTdkdVdTMjY5U0o5aFJfMHVNR25wWVBmZ1VVSjE0TzhPNmZpakgyc3lpdlV5T1RHeDlXbmdxUVRoRzN2ajVaWnNiVXAyRzJlV3VfSmw2d0NtMk9lY0N3RkY1NVZYV25nYzYxb2k3aFZpUDBLQQ?oc=5",
+    "summary": "India & Netherlands Expands Healthcare, Pharma & Medtech Cooperation Digital Health News",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2026-05-07-15nuvm4",
     "date": "2026-05-07",
     "competitorId": "augmedix-commure",
@@ -19,6 +30,17 @@
     "source": "GlobeNewswire",
     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRzhTeWpzQXFRQzRWZnRPX3p1RVJKLWlDVEVDZTh1dXJwNlA2eVNlUWJRSEQyd19uMm00M3pReElJdzVJMnpaMzgzTGFtU0VPbTJiU081d0VlVXYzeWJvdzRTWm94VjZZbWpjUFJKcGl2ZmNtUGdSUHB4Z3NQTG1uVDhWUFVYMHlTMDZtS3ZwM3ZMUTMzdnNwcmI1R1ZwWnZ5aFZtdEFkeWJneGhyYXVaUzROOUNJTHZjcmJyT2RnTm9wRGdzS1lhQmswZzJzSVFQVDNkdkVjRkdndjY0eWRpbHZaV28?oc=5",
     "summary": "Willis Knighton Health Selects Commure as Enterprise Ambient Scribe AI Partner GlobeNewswire",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2026-04-22-eybp5p",
+    "date": "2026-04-22",
+    "competitorId": "ambience",
+    "competitorName": "Ambience AutoScribe",
+    "title": "Preventive Healthcare Startup CENT Launches Advanced Clinical Prevention Center in Bengaluru",
+    "source": "Digital Health News",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZVZnU25EZUtmNFY4WHhnVGctM05zZFE5SExFMTRUazJaUW1CQlQtZVVTdWd1V2JuckE4ZmhwemtuNUtRQy1ZeUVsTThpYmt6QUdhdk1xdk1COElScWtKTl82dTlvU3QtaGpocThzM3hTcjVtUVJKYkdiUVQxbTZqR00yRU1zYmN0cFFlU2JRWVBGbG5MNFNBYWg2T1BlZHRYZ0ZhYnJTSU5pOWlNYjZFaGxSSDVJem1sdDg0ZEhWT0l2VGFQ?oc=5",
+    "summary": "Preventive Healthcare Startup CENT Launches Advanced Clinical Prevention Center in Bengaluru Digital Health News",
     "status": "unverified"
   },
   {
@@ -343,8 +365,8 @@
   {
     "id": "lead-2025-03-03-1w9flua",
     "date": "2025-03-03",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
+    "competitorId": "suki",
+    "competitorName": "Suki Assistant",
     "title": "Rush expands AI-driven documentation with Suki partnership",
     "source": "MobiHealthNews",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWXRCTWVvTTJXMjJuR2l0NWx1c09CVlFYNDRyUzUwY1AtTjA5bVg2d2pFRmExanVrSVNFNVlSa3FrN29xaDJoWVBRVFg0ZVpJbmcxX0t6V1ZqbV83SmRDZXBWeHBkcDZRRW9aSEpTUUJvQU1uRE5uRVFNRnhRMUJ0bjFURkVKT2NlUVpYcEVabnFVLXM?oc=5",
@@ -525,28 +547,6 @@
     "source": "Forbes",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOUsxTHZaZEpoZGVFYnpZUFhOdjdDUk42Zl96d3BIcWdXQ0hmVm5rczR0WC1pOUw0NFpaN2VHVXJ2cUxjRGN4a2RyV2ExZGVFeUNaNWdEenh0bGYtNnhzX3gzck5xVm40WmhLQ19EaEZ3UmVIdVJLV0s0MWc5dEZkcktqek1pZlFFc20zb0lsV21EdG9CZVJiQWVNUTRNWXVmc1Znc2pJQnJZQ3J0YXNNUVJ1U1BfdU51cTlWYk5SckJpTDlXN0E5TkRVR3dPaU5CWDFTMVFjOA?oc=5",
     "summary": "Tenet Health And Commure Announce Landmark Partnership To Deploy Ambient AI Platform Forbes",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2024-11-19-5h7cws",
-    "date": "2024-11-19",
-    "competitorId": "augmedix-commure",
-    "competitorName": "Augmedix (Commure)",
-    "title": "Tenet to deploy AI platform across its physician network",
-    "source": "Healthcare Finance News",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWhnNnExUGMwcFJJcWFsdkU1Q2VJVWlGZHpQWml4Tk9tdUNEaEJrVWY4QzNWSlhBYWZBZ3I2N3dGRVl1QkpvOURuN3YzSHlZSFR2VlJ4ME1rZDc0RmJpSDUwZTRWdGRENTRNNXpOaHhMWWQtZ2hYV0ZRRjJqNUNtYmpCSkVMMlFQNXNhN29VRVhpNkJDaDV5Zm00N0k?oc=5",
-    "summary": "Tenet to deploy AI platform across its physician network Healthcare Finance News",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2024-11-01-1lintz",
-    "date": "2024-11-01",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "How Zoom is expanding its role in healthcare",
-    "source": "Modern Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQnJWTzhqX2wyRWZBdHJfVmpIZmpoS3pUWmw0OVRqeG10VVdkN0VUYVNOLXdyRFptZ2kzbmEtQThmNlV3emlzMWhjV0FOa0VtazJvSGljWXNrMzBkY2ROWGtqcWJ6ZVo3WGdjd3ZjRE5PY2RveTY4SzV6cHVrSE95NVA0dGxnejRfVVZhazJucTRlb0ZfQVFld3JRUWhXQ3M?oc=5",
-    "summary": "How Zoom is expanding its role in healthcare Modern Healthcare",
     "status": "unverified"
   }
 ]
