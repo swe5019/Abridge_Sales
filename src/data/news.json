@@ -22,17 +22,6 @@
     ]
   },
   {
-    "id": "n-2026-06-24-7gt9j7",
-    "date": "2026-06-24",
-    "title": "AI Tracker: Assort Health raises $120M",
-    "source": "Modern Healthcare News",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSEJfOGFQa0d4TW9ONGVxSWx1NkRVQm5WUThYdkZmRWJ4cG5GNGtDMXlSUVh5dlo5YWoyeDJSdEo2SVg4M19GTk5XcEttbE8zV1FEMS11V1BJTU1OdWFEOGpMZThPVVBRXzRxZGdlbTVaQ29zR0JtQzZiRDBOQld6Um9mTlRzdTVwZW4wSWJEOA?oc=5",
-    "summary": "AI Tracker: Assort Health raises $120M Modern Healthcare News",
-    "tags": [
-      "funding"
-    ]
-  },
-  {
     "id": "n-2026-06-23-1a5dvsk",
     "date": "2026-06-23",
     "title": "Rhode Island passes ambient AI scribe opt-out law",
@@ -327,6 +316,18 @@
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSGR5Rm9URTlMQndZZnFBTWF5cmxuSlM3cUtudnpiaEtjZ2VtTEd2R3hsZXJHTUUxWmdZZXJyVHhVTkpQWXZubEFzcTBqOVFGaTJDRGlnZTVJNnIyNV90NGVaUXloT1ZtT3JlQ2xMWVVYVmhJQklxV3ljYnhiQWNnTEdPVmdUcV8yQ2JkUnBabUJXMmZfM2hGdkNJQk4?oc=5",
     "summary": "Urgent care clinics boost revenue and throughput with AI scribe Healthcare IT News",
     "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-05-07-15nuvm4",
+    "date": "2026-05-07",
+    "title": "Willis Knighton Health Selects Commure as Enterprise Ambient Scribe AI Partner",
+    "source": "GlobeNewswire",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRzhTeWpzQXFRQzRWZnRPX3p1RVJKLWlDVEVDZTh1dXJwNlA2eVNlUWJRSEQyd19uMm00M3pReElJdzVJMnpaMzgzTGFtU0VPbTJiU081d0VlVXYzeWJvdzRTWm94VjZZbWpjUFJKcGl2ZmNtUGdSUHB4Z3NQTG1uVDhWUFVYMHlTMDZtS3ZwM3ZMUTMzdnNwcmI1R1ZwWnZ5aFZtdEFkeWJneGhyYXVaUzROOUNJTHZjcmJyT2RnTm9wRGdzS1lhQmswZzJzSVFQVDNkdkVjRkdndjY0eWRpbHZaV28?oc=5",
+    "summary": "Willis Knighton Health Selects Commure as Enterprise Ambient Scribe AI Partner GlobeNewswire",
+    "tags": [
+      "competitor:augmedix-commure",
       "ambient-ai"
     ]
   }
