@@ -66,28 +66,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2026-05-20-m0v997",
-    "date": "2026-05-20",
-    "competitorId": "augmedix-commure",
-    "competitorName": "Augmedix (Commure)",
-    "title": "Commure Raises $70 Mn at $7 Bn Valuation to Expand AI-Driven Healthcare Operations",
-    "source": "Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZEtnQnpLUk4xYWpBRGI2VGZwWUNpT2FMQnZ0R0JNSXlERk1lMWRoT09nRHZUQTlPeElpTnJodEM1ZUhqLWZ4eHlmSjNRWm5obDZoR2dOUjdkNmEyQ19vTDk1aWdNSHh4S2k5ek9INFZXTVpKT3F5V2R3OUlfcUlObVZyamU2N0tPTVViMnUyc0FSRTg3TTdPVEZZUFJjbEF6RTl6R3ZJX3B3eHJkUmdYa3VPdVc?oc=5",
-    "summary": "Commure Raises $70 Mn at $7 Bn Valuation to Expand AI-Driven Healthcare Operations Digital Health News",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2026-05-18-monwpn",
-    "date": "2026-05-18",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
-    "title": "India & Netherlands Expands Healthcare, Pharma & Medtech Cooperation",
-    "source": "Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVVl5V3VQMllzQW5NVm8wTFFVNnRfcFpXZzJZSl9hSDFqazZ2RDhUaGlwQTdkdVdTMjY5U0o5aFJfMHVNR25wWVBmZ1VVSjE0TzhPNmZpakgyc3lpdlV5T1RHeDlXbmdxUVRoRzN2ajVaWnNiVXAyRzJlV3VfSmw2d0NtMk9lY0N3RkY1NVZYV25nYzYxb2k3aFZpUDBLQQ?oc=5",
-    "summary": "India & Netherlands Expands Healthcare, Pharma & Medtech Cooperation Digital Health News",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2026-05-18-2vwgcw",
     "date": "2026-05-18",
     "competitorId": "ambience",
@@ -429,17 +407,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-04-30-u6m7xe",
-    "date": "2025-04-30",
-    "competitorId": "augmedix-commure",
-    "competitorName": "Augmedix (Commure)",
-    "title": "Commure, HealthTap partner for expanded after-hours care",
-    "source": "MobiHealthNews",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNk1SQkhDYW1zNXJlV3ZuV3JBc20xZmt6aUxnVmNHVlA1TEVhVjFkMlMxNEJVUHRHS1M5WEdhTS1KNms5Wnh6aDNfWXFSU0E3RTJpWVYzWVlHcFlEOVVRWFRoMzE4TldzSFlUR0o5T0RNLWVJck05U3AydlZnQ3VvUy0zN2tnM1lKQ0dxUjdGM1U?oc=5",
-    "summary": "Commure, HealthTap partner for expanded after-hours care MobiHealthNews",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-04-16-11equz0",
     "date": "2025-04-16",
     "competitorId": "epic-native",
@@ -547,6 +514,39 @@
     "source": "MobiHealthNews",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkdKRktlSzJoa0NyMFVPZ3FyOGhlY3JUV0pUM0JNdzFtWFE5V3h2NmE2Wm1mdV9oQlJNaGVvcTU0cWNoMGYtTGRzXzMyczBCT0k2TXhLdFJCYnBPN0FpWW1WMGx1M3p2SUx5eWFoT1UyOXBPdUFQXzlIcS1ESXhfNFprRmllUHpIOUI1dldOWFE2MDJJYlhlZ2djS3lYdlMzZ3dCeXI1aGJFUQ?oc=5",
     "summary": "Athelas partners with Resilient Healthcare for outpatient care, hospital billing MobiHealthNews",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-01-30-17byi8x",
+    "date": "2025-01-30",
+    "competitorId": "suki",
+    "competitorName": "Suki Assistant",
+    "title": "Zoom takes Suki partnership to next level",
+    "source": "Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWG1HX1N2TWlQX01LeUlJQmdKcUE3ekFuM3JXV3UxRURVQzhEQ0h3UmtPTXJURmxvUG1zcXppZFhDV1psNWF3RlY4X3l0eDBDdlYwa24ydmt5VVBycnFHblh5XzhDb1lZMEpKeklScHlsOUdfOURjWTB5UTFqa1RSSUNn?oc=5",
+    "summary": "Zoom takes Suki partnership to next level Healthcare IT News",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-01-29-15opbnw",
+    "date": "2025-01-29",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Abridge launches generative AI tool for emergency medicine with Emory, Johns Hopkins as early adopters",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObS1HbFE4SWw5S2hTVUx3eW1mWW5xVjV2TXNGQzJyYVQxMEtuWm9QRjd5bkdmM0dzUC02My1ROEdIcUZMeF95RzdYREh3dHdzX3JqUl9lajhra3gtVElCc3VOM1FSVEFCUzJnaklURzRWWkVla2UzZkRYckFpNjU3NjFFTGx5YVlYM0FfdlZwRGlzdm9aMGtrMVEyN1owbEVEbGFLYmt3NzFRMzhsNlgzYmtWUmNkek03MGQ0MC1fY2JpaUZJUGNWRGZhNnA?oc=5",
+    "summary": "Abridge launches generative AI tool for emergency medicine with Emory, Johns Hopkins as early adopters Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-01-22-pipn4v",
+    "date": "2025-01-22",
+    "competitorId": "deepscribe",
+    "competitorName": "DeepScribe",
+    "title": "Flatiron Health, DeepScribe Unveil Partnership to Provide Oncology-Specific Ambient AI",
+    "source": "The American Journal of Managed Care® (AJMC®)",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmpBRWdTdzJjYWduMmNyU0JYUlZybVZ1Q2J0MmRBY2N0bEZYQkNKZWF0NDR2ZmwwSlR4SzVaMVdKODhWTHBJLXZSbW9HUUUtTHpLcUlTamlCaDNPbFdEUExGNVNQdHZMR0dzSElrWXJUWE05aUhqUTJtSU5WSHdHbkJoc3pCNjJOV2ZkMnJlUG1yTmJiMU5FQ3hjU0E0amhwVGtYWmtjUFNpcTJhYzZQSA?oc=5",
+    "summary": "Flatiron Health, DeepScribe Unveil Partnership to Provide Oncology-Specific Ambient AI The American Journal of Managed Care® (AJMC®)",
     "status": "unverified"
   }
 ]
