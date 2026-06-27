@@ -66,28 +66,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2026-05-20-m0v997",
-    "date": "2026-05-20",
-    "competitorId": "augmedix-commure",
-    "competitorName": "Augmedix (Commure)",
-    "title": "Commure Raises $70 Mn at $7 Bn Valuation to Expand AI-Driven Healthcare Operations",
-    "source": "Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZEtnQnpLUk4xYWpBRGI2VGZwWUNpT2FMQnZ0R0JNSXlERk1lMWRoT09nRHZUQTlPeElpTnJodEM1ZUhqLWZ4eHlmSjNRWm5obDZoR2dOUjdkNmEyQ19vTDk1aWdNSHh4S2k5ek9INFZXTVpKT3F5V2R3OUlfcUlObVZyamU2N0tPTVViMnUyc0FSRTg3TTdPVEZZUFJjbEF6RTl6R3ZJX3B3eHJkUmdYa3VPdVc?oc=5",
-    "summary": "Commure Raises $70 Mn at $7 Bn Valuation to Expand AI-Driven Healthcare Operations Digital Health News",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2026-05-18-2vwgcw",
-    "date": "2026-05-18",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
-    "title": "Mayo Clinic Deploys AI-Powered ‘Ambient Listening’ in Emergency Room Visits",
-    "source": "Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQalpjUWpWaXlJOXRVNmxTZlE2RHVzVThhSjFZQzVjNm96N1lNdjZDWElaNWI0cS14cEJyUTRXcC1YMnpRNmVQeXk3dUl2OHlTUVFQTkQxTEN0YUQ1VnlhQ2F6UGl5SmZ5azhnMFE1M2JlZmhrRDNVZmp4NkJ3Z1dZMUJYS0dpZ2o4enBjNjFySFdBTzJIYkpGUFV2OVdibTdMLUJBaHNCVy1ZcGc?oc=5",
-    "summary": "Mayo Clinic Deploys AI-Powered ‘Ambient Listening’ in Emergency Room Visits Digital Health News",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2026-05-08-1ydxmg",
     "date": "2026-05-08",
     "competitorId": "ambience",
@@ -283,6 +261,17 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTXpzRWtFU1Y2N3ZRa21uVnZsUUtaRU9Od1VEMkN4Vld1STItaVZBMkN5bjItRjNac25JTk5YcFlrT3NZdlowVHR1YkNMT2p3QWRnQlJmMGVpZDBZT2NiQkRyNUNmekFzNzNhRTNNUWhXenZMSlE1SWVWM0UtUURNcTVXLTc2dXV6LThPem1GbWlJdXdPN24wXzlIckdfVERWWHNuUWNmSGZGUzBOQWItMUJkaHRuWUE?oc=5",
     "summary": "WellSpan Health, General Catalyst expand partnership to test out and scale AI technologies Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-09-04-6m4kzd",
+    "date": "2025-09-04",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "WellSpan Health expands relationship with General Catalyst's HATCo",
+    "source": "MobiHealthNews",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSy0wN2pYOUZ0UFVVclkycDRBVVRPUUtmNmwyNGR3VFlfZnpLVHZUWk92d1ptbEp1RF9sMXBvWGpfUzU2M1VqTU00YlhTLXdEWkpzNGhEaXVFSGowMlJzRm45cVFNYTRxU1pyWEFTeS1LRU40MkkxV2Y3eFZQTnJuZWVxRVp2NXhXdzFVclZUOEFSUG5oaS03NVZfUW0?oc=5",
+    "summary": "WellSpan Health expands relationship with General Catalyst's HATCo MobiHealthNews",
     "status": "unverified"
   },
   {
@@ -522,9 +511,9 @@
     "competitorId": "deepscribe",
     "competitorName": "DeepScribe",
     "title": "Flatiron Health, DeepScribe Unveil Partnership to Provide Oncology-Specific Ambient AI",
-    "source": "The American Journal of Managed Care® (AJMC®)",
+    "source": "AJMC",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmpBRWdTdzJjYWduMmNyU0JYUlZybVZ1Q2J0MmRBY2N0bEZYQkNKZWF0NDR2ZmwwSlR4SzVaMVdKODhWTHBJLXZSbW9HUUUtTHpLcUlTamlCaDNPbFdEUExGNVNQdHZMR0dzSElrWXJUWE05aUhqUTJtSU5WSHdHbkJoc3pCNjJOV2ZkMnJlUG1yTmJiMU5FQ3hjU0E0amhwVGtYWmtjUFNpcTJhYzZQSA?oc=5",
-    "summary": "Flatiron Health, DeepScribe Unveil Partnership to Provide Oncology-Specific Ambient AI The American Journal of Managed Care® (AJMC®)",
+    "summary": "Flatiron Health, DeepScribe Unveil Partnership to Provide Oncology-Specific Ambient AI AJMC",
     "status": "unverified"
   },
   {
@@ -547,6 +536,17 @@
     "source": "PR Newswire",
     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQa2VvN2hOeHRpZHRMQWRHY2FoX0hMTlUxTzl1U21nR1RwSDFJN1Z3d2NDd01MdWVMXzBobll4MURmZlFXd001QmdtWGZKM1J0dkNfZm9IQzd0UTJEXzdnYU11S2tYdFJkYkdtMkp0ckQtX1RiYS1YWXpWY09EWFh4Ulc1OXN3VE15SWVqeDE3LTFQUml1Y09kYThVOGx1eDl0eEZ1cUI3RkRlNTU5OE9ubXVYaWstX003N0hXcUNBMl9IZWNrWnVKWmFNRlZYUVkxbnJiUVI0V214VVR3aUEtcnN4QTRvNW5yd0x3NlJpcUVLR0FHc2Qtc2RGS3Y?oc=5",
     "summary": "DeepScribe and Pearl Health Announce Partnership to Bring Ambient AI Documentation to Value-based Care Providers PR Newswire",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-01-13-153mbhf",
+    "date": "2025-01-13",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "AWS and General Catalyst partner to speed up development of health-care AI tools",
+    "source": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVlJSGYxby1maHM5SjM3TVBmdE1zOVhpUGQ3aVJYZnB1WHo0RURHZUZWLWNPVXlTN1h5cXVDTWhucjhGVmE5Vk1Ba29FVlFjVFE4UzJBUXBYUEU4ZXgzRGRZa3lvUGo1dVBYUWpoQ3VKZkxRTHJEdTBJSVpaVVUxZGtlYjJpZ1p6X3lIdWRZb3FhdFJNWjJYaGNZaWNMSmxFSG5TQzZ4UGLSAa4BQVVfeXFMUEp5czM2TzJLR3FDekQ2OVRoLUgtU2xiRWxTYkdieE8xamZiSHo5YTQ3UDZaX3N1cUwzVmNwOWpBdzFwMGF6NWY3aTZSaGRoeXNkQ0hZM1I1SmhicDRzejFZNjZCUnh2ZnZzWGxWYVNoTXdRZVRnTnFYWEVsSUNaTUh6WnRXMFF5V2hiNmcxMms3RE92YkNxQ0djbldLRWVlQ2hpdlFCdGJHRzVfOF9n?oc=5",
+    "summary": "AWS and General Catalyst partner to speed up development of health-care AI tools CNBC",
     "status": "unverified"
   }
 ]

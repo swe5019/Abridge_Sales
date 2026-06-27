@@ -1,5 +1,16 @@
 [
   {
+    "id": "n-2026-06-27-nvyqxl",
+    "date": "2026-06-27",
+    "title": "The Rise of AI-Native Healthcare: Why Intelligent EHRs Are Becoming the New Standard",
+    "source": "TechBullion",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3ZHMkpNQlRqd3AxejhvaGNhc0l2cTZTS2xiaUtNSlpHb0djbV8zaWh3QTVqbXdyeE9UQ29RMjRkN0ZHcDl1VlkwbnppcEp0bzNvRFh3ZHNmSnIwLXJUR3pRMEc4elM2dGg3YzNTR3R0clNqenI5TklUZ2FYUHhFMkFrMWVjRS1oT3I1MjY1cWtCbDY1LVpuRU1FWTh3aXdNeWJtLWtSTFZBX3FV?oc=5",
+    "summary": "The Rise of AI-Native Healthcare: Why Intelligent EHRs Are Becoming the New Standard TechBullion",
+    "tags": [
+      "industry"
+    ]
+  },
+  {
     "id": "n-2026-06-24-15dqlbv",
     "date": "2026-06-24",
     "title": "Review of Companies Providing Custom AI Solutions for Healthcare",
@@ -44,14 +55,14 @@
     ]
   },
   {
-    "id": "n-2026-06-18-155omvx",
-    "date": "2026-06-18",
-    "title": "Ambient AI's next frontier may be nursing workflow",
-    "source": "Healthcare IT News",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmYtUnNsUW1OOEd1ZkhtM1otaG9uMEVaSkdBZHBBbVZrLWxFVERWTTd5WlJoTGh5MW5EdVItendMUG1vYjFWWWtHd2V5MWxab2JUZVNzei10czR5eng0LU9XNGpnZ2t0S0NxREl0T3EwWktYRERlVlRXZUlXRllQUjUyNzBUX21KbWg2b3lBWHk?oc=5",
-    "summary": "Ambient AI's next frontier may be nursing workflow Healthcare IT News",
+    "id": "n-2026-06-17-1cjbwzv",
+    "date": "2026-06-17",
+    "title": "Healthcare's first big AI use is a pressure valve, not a moonshot",
+    "source": "MarketScale",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUTlNbUFseDNob1NTUUJMVGRGQ25YcnNnY1RRMVFzQ0R3V3hxTU5pcUlLd0xNYnpKdUFWSWkwMkJsSHVWMjZ6S0pvOHBYcnNwaHh0Yk9FcTJuUk81X2RpWkhIcEE0RURGVDg2dDRnZ29TTjVyNXlQYmtDTkEtRTRLTnJNSWphOFJUdjdYZ2ZMcUlhUHlkdHJ6RjQyek5YOU5EckNjV05PUnVsRGYyZTVxM1g1cw?oc=5",
+    "summary": "Healthcare's first big AI use is a pressure valve, not a moonshot MarketScale",
     "tags": [
-      "ambient-ai"
+      "industry"
     ]
   },
   {
@@ -63,17 +74,6 @@
     "summary": "Houston Methodist turns ambient AI into an enterprise tool, not just a pilot Healthcare IT News",
     "tags": [
       "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-06-17-1cjbwzv",
-    "date": "2026-06-17",
-    "title": "Healthcare's first big AI use is a pressure valve, not a moonshot",
-    "source": "MarketScale",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc2x3UkZtY0RpN3FEVDR0dDlTeVFHVHVFR1Rybk5WcTB1OFVCX3Z4cXcxTWIwZXBuR3I4SkN6LVRaZVRxM25yYzJ5LTFpTEFqamdiY3BESUlyMEQ4SjV2RmRIcFlnLS1ock5tR0lGZkRfYnMwWm54c1BoVlVWSHlzT1RBRExCd3NSM0ZzMzNVaU9aa083MlJKRUpXQmNOb0lDVG1qSXpuWEFLUUc4cEhsOHNDdXBRbW41NnB3TQ?oc=5",
-    "summary": "Healthcare's first big AI use is a pressure valve, not a moonshot MarketScale",
-    "tags": [
-      "industry"
     ]
   },
   {
@@ -110,17 +110,6 @@
     ]
   },
   {
-    "id": "n-2026-06-11-k1nt5z",
-    "date": "2026-06-11",
-    "title": "Nvidia partners with clinical note-taking company to improve suite of AI models",
-    "source": "HealthExec",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdkMyZm5IaXNfTlp1a05MNzFwYi1ScFI1Q2oyd2dOazB0WHIyRmhNMDN0QzhWZk1TcUdXTkwtUGJ5YzBTRUZ5WlB3cnkyWlBZY3lCcTFFeFlJU0RLd2x4cWRxZF9VV0VGVXNkZTZTZmNRVC1WWlVIc2dpaVJCYV9CVTdORUVEZnRxRXoxSVdNYjlJQWNCMFZuenhxQWhWOVhLUnJ5LWtzbk1oRjZWWEJIUmRBUTNjWTl2VlhkSk5QMA?oc=5",
-    "summary": "Nvidia partners with clinical note-taking company to improve suite of AI models HealthExec",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
     "id": "n-2026-06-11-1x9ahj8",
     "date": "2026-06-11",
     "title": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it",
@@ -129,6 +118,17 @@
     "summary": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it Fortune",
     "tags": [
       "abridge"
+    ]
+  },
+  {
+    "id": "n-2026-06-11-k1nt5z",
+    "date": "2026-06-11",
+    "title": "Nvidia partners with clinical note-taking company to improve suite of AI models",
+    "source": "HealthExec",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdkMyZm5IaXNfTlp1a05MNzFwYi1ScFI1Q2oyd2dOazB0WHIyRmhNMDN0QzhWZk1TcUdXTkwtUGJ5YzBTRUZ5WlB3cnkyWlBZY3lCcTFFeFlJU0RLd2x4cWRxZF9VV0VGVXNkZTZTZmNRVC1WWlVIc2dpaVJCYV9CVTdORUVEZnRxRXoxSVdNYjlJQWNCMFZuenhxQWhWOVhLUnJ5LWtzbk1oRjZWWEJIUmRBUTNjWTl2VlhkSk5QMA?oc=5",
+    "summary": "Nvidia partners with clinical note-taking company to improve suite of AI models HealthExec",
+    "tags": [
+      "industry"
     ]
   },
   {
@@ -152,28 +152,6 @@
     "summary": "Ambient artificial intelligence scribes used for billing may increase health care spending and erode patient trust Vera Health",
     "tags": [
       "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-06-10-1dv5yw0",
-    "date": "2026-06-10",
-    "title": "Why oncology is becoming healthcare AI's toughest test",
-    "source": "Healthcare IT News",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSjdnSktWU3lxWDJXY0JOR21iSk9WQVNxZXFSWi1WZXprRzg1S29QaG9XdW15bmZubFpUTFhvVHJVeFBSQ2hJSVAtY0c0ZlBwdEZNTnhoZVA2bUtkY0tlMjFma3pOQ19vWHpMY2FqM1E0Z2NtbkpjT2lOWTg2cXVMZDNsN1U3ZGJmQzBUMXVEeThjUQ?oc=5",
-    "summary": "Why oncology is becoming healthcare AI's toughest test Healthcare IT News",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
-    "id": "n-2026-06-05-yrx52c",
-    "date": "2026-06-05",
-    "title": "When ‘I Acknowledge’ Isn’t The Same As Consent In Healthcare AI",
-    "source": "Forbes",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNHZVRUJXQ0Yyd1RiMUlyQ0l4VXo2b0I5T21KM291akIyS3BST19GZTdOQUhCYnZpbEhySFRvaU1jZEd6dFl2NkdrY2RtN3V3N0k0VnVsNzVxUEh0TUhZSGJOSHc0R2h1SkRiNFVHUGphNkNPSFl6QUI0NGljVW51b3NKT04zSkhfbW1NYWNOZ2M?oc=5",
-    "summary": "When ‘I Acknowledge’ Isn’t The Same As Consent In Healthcare AI Forbes",
-    "tags": [
-      "industry"
     ]
   },
   {
@@ -327,6 +305,30 @@
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSGR5Rm9URTlMQndZZnFBTWF5cmxuSlM3cUtudnpiaEtjZ2VtTEd2R3hsZXJHTUUxWmdZZXJyVHhVTkpQWXZubEFzcTBqOVFGaTJDRGlnZTVJNnIyNV90NGVaUXloT1ZtT3JlQ2xMWVVYVmhJQklxV3ljYnhiQWNnTEdPVmdUcV8yQ2JkUnBabUJXMmZfM2hGdkNJQk4?oc=5",
     "summary": "Urgent care clinics boost revenue and throughput with AI scribe Healthcare IT News",
     "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-05-07-15nuvm4",
+    "date": "2026-05-07",
+    "title": "Willis Knighton Health Selects Commure as Enterprise Ambient Scribe AI Partner",
+    "source": "GlobeNewswire",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRzhTeWpzQXFRQzRWZnRPX3p1RVJKLWlDVEVDZTh1dXJwNlA2eVNlUWJRSEQyd19uMm00M3pReElJdzVJMnpaMzgzTGFtU0VPbTJiU081d0VlVXYzeWJvdzRTWm94VjZZbWpjUFJKcGl2ZmNtUGdSUHB4Z3NQTG1uVDhWUFVYMHlTMDZtS3ZwM3ZMUTMzdnNwcmI1R1ZwWnZ5aFZtdEFkeWJneGhyYXVaUzROOUNJTHZjcmJyT2RnTm9wRGdzS1lhQmswZzJzSVFQVDNkdkVjRkdndjY0eWRpbHZaV28?oc=5",
+    "summary": "Willis Knighton Health Selects Commure as Enterprise Ambient Scribe AI Partner GlobeNewswire",
+    "tags": [
+      "competitor:augmedix-commure",
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-05-07-1uiexwi",
+    "date": "2026-05-07",
+    "title": "Is Ambient AI Harder to Build for RNs Than MDs? Abridge CEO Says ‘Yes’",
+    "source": "Newsweek",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkpKOHlQVWFQejV4eTRhZHp2YTY5cDFhemE3U3Bpd0ZZZWd2TFFsNUplQ3ZXaEJpV0k1YmY1Q2FRbWZiZm9pVzdDZ3VuLWdUb3RWS0ZHaGFSWHVsanJGZUFZdi1Sb0JGbEs3QVFlQVIwX1czMHRfY1ZzSEV3RXdWblcxLWNsVTlXbF9TQnpKVnpidldBTjUzNFRoeU5kUEd6UjY2UFZydFlGSGFpTm9jUHkzM2s?oc=5",
+    "summary": "Is Ambient AI Harder to Build for RNs Than MDs? Abridge CEO Says ‘Yes’ Newsweek",
+    "tags": [
+      "abridge",
       "ambient-ai"
     ]
   }
