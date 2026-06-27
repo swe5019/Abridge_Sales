@@ -55,17 +55,6 @@
     ]
   },
   {
-    "id": "n-2026-06-17-1cjbwzv",
-    "date": "2026-06-17",
-    "title": "Healthcare's first big AI use is a pressure valve, not a moonshot",
-    "source": "MarketScale",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUTlNbUFseDNob1NTUUJMVGRGQ25YcnNnY1RRMVFzQ0R3V3hxTU5pcUlLd0xNYnpKdUFWSWkwMkJsSHVWMjZ6S0pvOHBYcnNwaHh0Yk9FcTJuUk81X2RpWkhIcEE0RURGVDg2dDRnZ29TTjVyNXlQYmtDTkEtRTRLTnJNSWphOFJUdjdYZ2ZMcUlhUHlkdHJ6RjQyek5YOU5EckNjV05PUnVsRGYyZTVxM1g1cw?oc=5",
-    "summary": "Healthcare's first big AI use is a pressure valve, not a moonshot MarketScale",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
     "id": "n-2026-06-17-1enq2dp",
     "date": "2026-06-17",
     "title": "Houston Methodist turns ambient AI into an enterprise tool, not just a pilot",
@@ -110,17 +99,6 @@
     ]
   },
   {
-    "id": "n-2026-06-11-1x9ahj8",
-    "date": "2026-06-11",
-    "title": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it",
-    "source": "Fortune",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUF5S0g4cU0xVlVLNFBrVTcyOVlsVm1VczhYbkd1M3lFck1URWFzb2d4X082OHVqN3lmNVg2c0lWR1d2Y0dxZ3gtNHlpNFExal9PdHBYWUVqVUl4S3A2Y1FBTUNZVEJMdWpwTVp0cEFfYzBEaUE4T2RvZFFzUFM4cURDUzhjcWlBbEZPQm9JVGJoNmJPLVE?oc=5",
-    "summary": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it Fortune",
-    "tags": [
-      "abridge"
-    ]
-  },
-  {
     "id": "n-2026-06-11-k1nt5z",
     "date": "2026-06-11",
     "title": "Nvidia partners with clinical note-taking company to improve suite of AI models",
@@ -132,15 +110,14 @@
     ]
   },
   {
-    "id": "n-2026-06-11-1m5v8xw",
+    "id": "n-2026-06-11-1x9ahj8",
     "date": "2026-06-11",
-    "title": "Abridge is becoming the operating system for medicine after landing Eli Lilly equity and a clinical foundation model deal with NVIDIA",
-    "source": "Startup Fortune",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMFI4LWozMkJoVkNsbld4UTF6SVpXdnJCd25XekZweS01Q0lTdWpVM3EzY09hSmxLWTZLUHpnbWJMYVdvNWhhNlZiX0JjU3VRZ2pTd29iWGJZOHZmdFY5clFkOGFmWWdZd0JlbHVKT3BiM2xFLVJTalozbjZqRUpOMVBmdEpmSG9SSXFKY0ZOby1EM1VyNk5RNlQ4SUFZVVA3OVlLODZ6dzJVb19WRE51czVUSGRDbkNuNU53YlFaTFVjX0RJZlhXa3hPZXA5SU5yazdQNFNsV2lUZFlhWjZCdUVOZEFCV1U5T29td1pmQ2hqTzA?oc=5",
-    "summary": "Abridge is becoming the operating system for medicine after landing Eli Lilly equity and a clinical foundation model deal with NVIDIA Startup Fortune",
+    "title": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it",
+    "source": "Fortune",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUF5S0g4cU0xVlVLNFBrVTcyOVlsVm1VczhYbkd1M3lFck1URWFzb2d4X082OHVqN3lmNVg2c0lWR1d2Y0dxZ3gtNHlpNFExal9PdHBYWUVqVUl4S3A2Y1FBTUNZVEJMdWpwTVp0cEFfYzBEaUE4T2RvZFFzUFM4cURDUzhjcWlBbEZPQm9JVGJoNmJPLVE?oc=5",
+    "summary": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it Fortune",
     "tags": [
-      "abridge",
-      "market-trend"
+      "abridge"
     ]
   },
   {
@@ -166,12 +143,12 @@
     ]
   },
   {
-    "id": "n-2026-06-04-12h3yo1",
-    "date": "2026-06-04",
-    "title": "How Mercy is using ambient documentation to put nurses back at the bedside",
+    "id": "n-2026-06-03-1xcahtu",
+    "date": "2026-06-03",
+    "title": "Beyond the screen: How ambient AI is changing the exam room",
     "source": "Healthcare IT News",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVWRMd2VqZWxDRXFGSXBHUC1NcGY2TlREcmt1QlpsU0g1YW1GODFOb1Z1eThuMzZhaWl6MTFtVlFVWlFqZVdEdFR6V1ZlZmxXVGdCQnVibjJ3LTdtTWlNRzdjWVhEaldqYXNHdjNHUDBuYnNwaTRGUDR4ZVFRYjFMS0FQd2JpNnhWcWIxakNHcDktM0wyME95Ry0zaVJPQ2Mx?oc=5",
-    "summary": "How Mercy is using ambient documentation to put nurses back at the bedside Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFNfcjlrMlVyMzlKRWpWd3ZsNlA3YUxZck1RTDlsVVFvdlVrdEpRUDV0ejVKamNjUUhjdWJaVy1XT2lMQ05JcHFKd3JRX0ZDNlRGZEhBblpDZ0wtYnk2RktNUWdqTnpaNWNHWlIwdzN6UklKdElRY1o5Tk1MTlF0bFBZVXVSRTlJaENTa1RR?oc=5",
+    "summary": "Beyond the screen: How ambient AI is changing the exam room Healthcare IT News",
     "tags": [
       "ambient-ai"
     ]
@@ -183,17 +160,6 @@
     "source": "Telehealth.org",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV20ySkZ1Qy05R01ROUI5ZS1rSHpGMVhiQzlONVRqNnJMRWplZEpOMHdsUk9rcDJCSEkxRDJ1ZXJTemFuSmNqekVHRE9FNWxYRXQ4SnhzRk1xc29PRkJJaDBpMEpPM2gzNWNpUmpCM3B2N0JwSVlJdmVYMFFtLWk0U2ZkenE5N3FpNkV3YkZPM1hZcVV0Y2d5SHRXRG5oaHdMSWtPLW5JbjR3ZGJpc2R0UQ?oc=5",
     "summary": "Large JAMA Study Finds AI Scribes Cut Documentation Time for Ambulatory Clinicians Telehealth.org",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-06-02-zcnj8k",
-    "date": "2026-06-02",
-    "title": "AI scribes are helping hospitals and insurers record patient conversations without your consent",
-    "source": "The American Bazaar",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdGZidHZxa3plRkdjZGluM1VfV3NwRjVVN3VwUC1TV0dtcWw5cVVCRThLY2ExWi1VWXlweDZ2OFZmN2pnYW9fWG9nbFQtOHAzbjY4akZ4WmMwVHBhOHZNbDFzTEk0NEVWRG1TdFp6UlhqcV9oTExUZUZtc0FvclBkMkdTZTU4dEktdTlBZ0lnRTgwOXJIeXFfSDY4Njg3NkloZUM5YW4zS09IMUI4SGxQaV9MZ0NSQ2pNWWFUVmcxcVVXWG1TUGNOWUtMMlhGVW1oSUtoVWN4Q1dPclo1SGxHOA?oc=5",
-    "summary": "AI scribes are helping hospitals and insurers record patient conversations without your consent The American Bazaar",
     "tags": [
       "ambient-ai"
     ]
@@ -254,12 +220,12 @@
     ]
   },
   {
-    "id": "n-2026-05-15-1lss3m",
-    "date": "2026-05-15",
-    "title": "Ambient artificial intelligence scribes reduce clinician documentation time by 16 minutes per encounter",
-    "source": "2 Minute Medicine",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSTBBcEsxTVotdEtXekdxai1vN0R1ZzBMbHhadUhwZFFkVzdRWDljSy1aNjhidGdhMFpzZzVyS3hTWHhDcWktTllaV2MwMmNQcndNeWF3VDZBX1d2cDRFcU81YUJ4M2JLNThGYnNlOXFUTlFmbXUyVUxxU29GSC01NDZfUDJBVlkteXQ2cVRRdjBTV0xVdkZqU0tXSmNVY0hSamhoVmVVczlVbFFqa2xPb3JuLXhKLUJOQThzSC15VGg5VllsS2kzMFA5dUp2aVZIaWc?oc=5",
-    "summary": "Ambient artificial intelligence scribes reduce clinician documentation time by 16 minutes per encounter 2 Minute Medicine",
+    "id": "n-2026-05-16-13fy0gg",
+    "date": "2026-05-16",
+    "title": "Artificial Intelligence Scribes Shape Health Care Delivery",
+    "source": "American Academy Of Family Physicians | AAFP",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTXUyQXZZVV85R1phTVhrRFRETWdzWF9aVjE1Q1V6b2lCQVlTaVd4dWI0TGl5RGJ3TjBZcG5ib093WGx5Q05lT0xDTDlZa293cUhienJESVFLSncxWlRxdm1jUUV4N25jMUMwaXZvaFMtQnE5ZURoRWF6OHZYZk0tbnpyZnlObjQ?oc=5",
+    "summary": "Artificial Intelligence Scribes Shape Health Care Delivery American Academy Of Family Physicians | AAFP",
     "tags": [
       "ambient-ai"
     ]
@@ -298,6 +264,18 @@
     ]
   },
   {
+    "id": "n-2026-05-08-b8geyt",
+    "date": "2026-05-08",
+    "title": "Abridge releases ambient AI tech for nurses",
+    "source": "Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbEw4UzUyb0pKSmlJMkljSTJBdV9EM0wxNk5nNE5mT2hjdkQyUllnLVpHVUNGZzJJTml2dkVLc1JiLUJyakpCT2sxczRHLUxUREl5cVdoWGlwUUliV213dF9xVTFGcG1hVXhHcFZaVC1YbnRNbV9vMGFVaDBvdlU4b1Fxaw?oc=5",
+    "summary": "Abridge releases ambient AI tech for nurses Healthcare IT News",
+    "tags": [
+      "abridge",
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-05-08-1xnnf4f",
     "date": "2026-05-08",
     "title": "Urgent care clinics boost revenue and throughput with AI scribe",
@@ -329,6 +307,28 @@
     "summary": "Is Ambient AI Harder to Build for RNs Than MDs? Abridge CEO Says ‘Yes’ Newsweek",
     "tags": [
       "abridge",
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-05-01-1ppvy30",
+    "date": "2026-05-01",
+    "title": "HIMSSCast: Ambient AI scribes pose important regulatory and legal questions",
+    "source": "Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWZLQzNuX18zQ1ZHcDZLRFRpOVlJTzR3alZ2dGswNTVVWUdLaFpEZlJvckpMVnY2YWNyWndoa2JHWkFFTU80THBEZ1poREJ0R01jSVRaSjl1elVrRnBaSHpXSnVKb1AxWUpNaEZIbmQwbF80Z0wtWXZmTTE5VHAzX1k0UDlfdk5MVlRiUmVxb0tHMFo1anJQYjZJMzdqcnAyYnhzS3p0Q2NaWUc1V0ttR0xKejJZdw?oc=5",
+    "summary": "HIMSSCast: Ambient AI scribes pose important regulatory and legal questions Healthcare IT News",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-05-01-104ervo",
+    "date": "2026-05-01",
+    "title": "AI scribes save clinicians time but fail to reduce overtime work",
+    "source": "News-Medical",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbG1jYVJYZUNzT1VvYWoyNmkzMjQzX0ppRm10ME51QUo0ZkJpcWF0N0dFdDVEaGR1LXNobUNWZXZTWklRSnRJMzRlX3B4aWtRYnFnX0hQQmV0dlVhNVRUUnNJSjRlMEh0LWc0S0M5TUNFZzJBcDAxSU9DTGNNZnY1STBnUTY1akc5SGNWbUtQQTd0dHpmcWN3NC1LMk9hMkt1Z0gxZnVRc2xqRVhSc1VpQkhR?oc=5",
+    "summary": "AI scribes save clinicians time but fail to reduce overtime work News-Medical",
+    "tags": [
       "ambient-ai"
     ]
   }

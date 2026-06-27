@@ -374,6 +374,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-04-30-u6m7xe",
+    "date": "2025-04-30",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "Commure, HealthTap partner for expanded after-hours care",
+    "source": "MobiHealthNews",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNk1SQkhDYW1zNXJlV3ZuV3JBc20xZmt6aUxnVmNHVlA1TEVhVjFkMlMxNEJVUHRHS1M5WEdhTS1KNms5Wnh6aDNfWXFSU0E3RTJpWVYzWVlHcFlEOVVRWFRoMzE4TldzSFlUR0o5T0RNLWVJck05U3AydlZnQ3VvUy0zN2tnM1lKQ0dxUjdGM1U?oc=5",
+    "summary": "Commure, HealthTap partner for expanded after-hours care MobiHealthNews",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-04-16-11equz0",
     "date": "2025-04-16",
     "competitorId": "epic-native",
@@ -511,9 +522,9 @@
     "competitorId": "deepscribe",
     "competitorName": "DeepScribe",
     "title": "Flatiron Health, DeepScribe Unveil Partnership to Provide Oncology-Specific Ambient AI",
-    "source": "AJMC",
+    "source": "The American Journal of Managed Care® (AJMC®)",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmpBRWdTdzJjYWduMmNyU0JYUlZybVZ1Q2J0MmRBY2N0bEZYQkNKZWF0NDR2ZmwwSlR4SzVaMVdKODhWTHBJLXZSbW9HUUUtTHpLcUlTamlCaDNPbFdEUExGNVNQdHZMR0dzSElrWXJUWE05aUhqUTJtSU5WSHdHbkJoc3pCNjJOV2ZkMnJlUG1yTmJiMU5FQ3hjU0E0amhwVGtYWmtjUFNpcTJhYzZQSA?oc=5",
-    "summary": "Flatiron Health, DeepScribe Unveil Partnership to Provide Oncology-Specific Ambient AI AJMC",
+    "summary": "Flatiron Health, DeepScribe Unveil Partnership to Provide Oncology-Specific Ambient AI The American Journal of Managed Care® (AJMC®)",
     "status": "unverified"
   },
   {
@@ -536,17 +547,6 @@
     "source": "PR Newswire",
     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQa2VvN2hOeHRpZHRMQWRHY2FoX0hMTlUxTzl1U21nR1RwSDFJN1Z3d2NDd01MdWVMXzBobll4MURmZlFXd001QmdtWGZKM1J0dkNfZm9IQzd0UTJEXzdnYU11S2tYdFJkYkdtMkp0ckQtX1RiYS1YWXpWY09EWFh4Ulc1OXN3VE15SWVqeDE3LTFQUml1Y09kYThVOGx1eDl0eEZ1cUI3RkRlNTU5OE9ubXVYaWstX003N0hXcUNBMl9IZWNrWnVKWmFNRlZYUVkxbnJiUVI0V214VVR3aUEtcnN4QTRvNW5yd0x3NlJpcUVLR0FHc2Qtc2RGS3Y?oc=5",
     "summary": "DeepScribe and Pearl Health Announce Partnership to Bring Ambient AI Documentation to Value-based Care Providers PR Newswire",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2025-01-13-153mbhf",
-    "date": "2025-01-13",
-    "competitorId": "augmedix-commure",
-    "competitorName": "Augmedix (Commure)",
-    "title": "AWS and General Catalyst partner to speed up development of health-care AI tools",
-    "source": "CNBC",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVlJSGYxby1maHM5SjM3TVBmdE1zOVhpUGQ3aVJYZnB1WHo0RURHZUZWLWNPVXlTN1h5cXVDTWhucjhGVmE5Vk1Ba29FVlFjVFE4UzJBUXBYUEU4ZXgzRGRZa3lvUGo1dVBYUWpoQ3VKZkxRTHJEdTBJSVpaVVUxZGtlYjJpZ1p6X3lIdWRZb3FhdFJNWjJYaGNZaWNMSmxFSG5TQzZ4UGLSAa4BQVVfeXFMUEp5czM2TzJLR3FDekQ2OVRoLUgtU2xiRWxTYkdieE8xamZiSHo5YTQ3UDZaX3N1cUwzVmNwOWpBdzFwMGF6NWY3aTZSaGRoeXNkQ0hZM1I1SmhicDRzejFZNjZCUnh2ZnZzWGxWYVNoTXdRZVRnTnFYWEVsSUNaTUh6WnRXMFF5V2hiNmcxMms3RE92YkNxQ0djbldLRWVlQ2hpdlFCdGJHRzVfOF9n?oc=5",
-    "summary": "AWS and General Catalyst partner to speed up development of health-care AI tools CNBC",
     "status": "unverified"
   }
 ]
