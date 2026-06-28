@@ -11,17 +11,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2026-06-25-18whqca",
-    "date": "2026-06-25",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
-    "title": "AIIMS Bhopal Plans to Deploy ‘Digital Decision Partner’ for Doctors at Bedside",
-    "source": "Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYndrUnVPZ1ZMX19GUmJadV8wUVBNS1NRSEczMmt0bEF6bnBMYzRrMTV1ZzROU2tqek4yZVdhaXRRVG12SlN1SWJaYmdwcGlXZUw3bGVNZHpNRm9MUmdxUmt4Y1U2YmpDSW5EYV92TTVhc2xIOUptTG01dXRDWjBvYWY5TkhLUnBUVmYxWTJ6OVYybElfblkwanVrVVhYZnpDYmV1SG5jRnp5MU95MWln?oc=5",
-    "summary": "AIIMS Bhopal Plans to Deploy ‘Digital Decision Partner’ for Doctors at Bedside Digital Health News",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2026-06-24-nfacv9",
     "date": "2026-06-24",
     "competitorId": "ambience",
@@ -547,6 +536,17 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR0NqNE1FbXVuQnVSQ3dvckEwTDladVBGMjJyQjQwaUdtUXRFVVVpOHNfLV9YSjJXQ2RiZUhZNF92RGlvM3NZTVZZUkowaU5iWG5CREtBWGJWREZSblJ5SnIyVnR4WEJTOGRMQTFhN2tPQUxHb3liUHUzMGxnZGdGWEhCZjZZWFVyeklaRmxJSlNEZFhjRFNDelZlS2xwZFh4eHFzNXdFMFNaNVotX2c?oc=5",
     "summary": "General Catalyst teams up with AWS to co-develop, deploy AI-driven solutions Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-01-10-1wzxpvl",
+    "date": "2025-01-10",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Duke Health and Abridge partner on AI for clinical documentation",
+    "source": "Healthcare Finance News",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnNlaTN0UkxELWhtNGJkRHRmb1pPSTg5LWNnaFA0S3FRci14ZUhrcExyU3RBZDBMTV9tVEZLUVdDd1owY1NCcW9VV1Y1RHZkcWVXX1MxeklJcDh3clVWYlJxcEd4bEREdUg0MHVjVUNoXzZLbEEzZWtwUUFFbmhubXRyQWhYZ2VWZmk2ZU9KblB5Qm9seU5oVWVGZTgtZjR4a3c?oc=5",
+    "summary": "Duke Health and Abridge partner on AI for clinical documentation Healthcare Finance News",
     "status": "unverified"
   }
 ]
