@@ -22,17 +22,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2026-06-25-2tcf6b",
-    "date": "2026-06-25",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
-    "title": "Andhra Health Minister Announces Plan to Deploy AI-based App for Neonatal Care",
-    "source": "Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVnhOUm9ta3lGTlNWTjI3MTVOQldaTlhXYnpOdkpOc1RyTXFqOWQyUWN3OUZsOEFjdlJCel9yYVFWRVliZFUxcy1Ma3hUMG9LTXgzTWY0R2JOcjFtTUR6SEZPbUNkdG5EdmJuWkZHX0tiN0dPM1g5cEV6bDkzMktXR2tMZ3JYQVI0c1pEbDNieFRyLWJxUUpCSXl1RFJhVVlKdldXc2JSaGNBSUV6M0gyc0d3?oc=5",
-    "summary": "Andhra Health Minister Announces Plan to Deploy AI-based App for Neonatal Care Digital Health News",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2026-06-25-18whqca",
     "date": "2026-06-25",
     "competitorId": "ambience",
@@ -63,17 +52,6 @@
     "source": "Digital Health News",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNTlvUDd4ZG9fQUtZRWFiYldBOHN2eUx2d2NnWUhvakhoa21WVG1zSE5COFpZSm9BSUZscVhZY04teTdvQmtjZW9fWGlGalgyZk56TXRwYnh3VmhtbmtIa1ViYUVwdTRhdDlSWHY4bWo2TDZNVlMxcHVYNkhIVUhpREhhcG9sTnYzSkkxN3JrOWI4aDRHX1dKendjbkNBb1NlQ0wzLWRBNlZscHpTS3B5NnJxamxJRS1qWlNfelJQV0hMaElaYlNETw?oc=5",
     "summary": "Cedars-Sinai Deploys OpenEvidence Enterprise Platform for AI-Powered Clinical Decision Support Digital Health News",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2026-05-08-1ydxmg",
-    "date": "2026-05-08",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
-    "title": "MedCognetics Partners with HWRF to Deploy AI-Enabled Mobile Mammography Units in India",
-    "source": "Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdFNKZXQzd0pFLXBaYVB4aEhkUzRhcXBqR0pPQWUxQkJKX05rb29kdXFKZDdXNWh3N2REVEZ0ZzB3R0FsbUhwa1FOb2lpbVc4SXEzWW1FRkxuel9KdmFCWW5pWG51M2NIVGpXd2Z4ak1uVVhVM1Vsbl93dHNmdldvN2toSkN2NDNwc1plM2p1ajRyN1NRX29KM0c1RXByaEdXcUhXZGZsVmN4aUFkNF9PcWdReExJYlkzcUtqUQ?oc=5",
-    "summary": "MedCognetics Partners with HWRF to Deploy AI-Enabled Mobile Mammography Units in India Digital Health News",
     "status": "unverified"
   },
   {
@@ -266,8 +244,8 @@
   {
     "id": "lead-2025-09-04-6m4kzd",
     "date": "2025-09-04",
-    "competitorId": "augmedix-commure",
-    "competitorName": "Augmedix (Commure)",
+    "competitorId": "nuance-dax",
+    "competitorName": "DAX Copilot",
     "title": "WellSpan Health expands relationship with General Catalyst's HATCo",
     "source": "MobiHealthNews",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSy0wN2pYOUZ0UFVVclkycDRBVVRPUUtmNmwyNGR3VFlfZnpLVHZUWk92d1ptbEp1RF9sMXBvWGpfUzU2M1VqTU00YlhTLXdEWkpzNGhEaXVFSGowMlJzRm45cVFNYTRxU1pyWEFTeS1LRU40MkkxV2Y3eFZQTnJuZWVxRVp2NXhXdzFVclZUOEFSUG5oaS03NVZfUW0?oc=5",
@@ -462,6 +440,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-03-03-1w9flua",
+    "date": "2025-03-03",
+    "competitorId": "suki",
+    "competitorName": "Suki Assistant",
+    "title": "Rush expands AI-driven documentation with Suki partnership",
+    "source": "MobiHealthNews",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWXRCTWVvTTJXMjJuR2l0NWx1c09CVlFYNDRyUzUwY1AtTjA5bVg2d2pFRmExanVrSVNFNVlSa3FrN29xaDJoWVBRVFg0ZVpJbmcxX0t6V1ZqbV83SmRDZXBWeHBkcDZRRW9aSEpTUUJvQU1uRE5uRVFNRnhRMUJ0bjFURkVKT2NlUVpYcEVabnFVLXM?oc=5",
+    "summary": "Rush expands AI-driven documentation with Suki partnership MobiHealthNews",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-02-19-18tk9lu",
     "date": "2025-02-19",
     "competitorId": "ambience",
@@ -547,6 +536,17 @@
     "source": "PR Newswire",
     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQa2VvN2hOeHRpZHRMQWRHY2FoX0hMTlUxTzl1U21nR1RwSDFJN1Z3d2NDd01MdWVMXzBobll4MURmZlFXd001QmdtWGZKM1J0dkNfZm9IQzd0UTJEXzdnYU11S2tYdFJkYkdtMkp0ckQtX1RiYS1YWXpWY09EWFh4Ulc1OXN3VE15SWVqeDE3LTFQUml1Y09kYThVOGx1eDl0eEZ1cUI3RkRlNTU5OE9ubXVYaWstX003N0hXcUNBMl9IZWNrWnVKWmFNRlZYUVkxbnJiUVI0V214VVR3aUEtcnN4QTRvNW5yd0x3NlJpcUVLR0FHc2Qtc2RGS3Y?oc=5",
     "summary": "DeepScribe and Pearl Health Announce Partnership to Bring Ambient AI Documentation to Value-based Care Providers PR Newswire",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-01-13-153mbhf",
+    "date": "2025-01-13",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "AWS and General Catalyst partner to speed up development of health-care AI tools",
+    "source": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVlJSGYxby1maHM5SjM3TVBmdE1zOVhpUGQ3aVJYZnB1WHo0RURHZUZWLWNPVXlTN1h5cXVDTWhucjhGVmE5Vk1Ba29FVlFjVFE4UzJBUXBYUEU4ZXgzRGRZa3lvUGo1dVBYUWpoQ3VKZkxRTHJEdTBJSVpaVVUxZGtlYjJpZ1p6X3lIdWRZb3FhdFJNWjJYaGNZaWNMSmxFSG5TQzZ4UGLSAa4BQVVfeXFMUEp5czM2TzJLR3FDekQ2OVRoLUgtU2xiRWxTYkdieE8xamZiSHo5YTQ3UDZaX3N1cUwzVmNwOWpBdzFwMGF6NWY3aTZSaGRoeXNkQ0hZM1I1SmhicDRzejFZNjZCUnh2ZnZzWGxWYVNoTXdRZVRnTnFYWEVsSUNaTUh6WnRXMFF5V2hiNmcxMms3RE92YkNxQ0djbldLRWVlQ2hpdlFCdGJHRzVfOF9n?oc=5",
+    "summary": "AWS and General Catalyst partner to speed up development of health-care AI tools CNBC",
     "status": "unverified"
   }
 ]
