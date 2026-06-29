@@ -22,17 +22,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2026-05-22-1ytbjbu",
-    "date": "2026-05-22",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
-    "title": "Cedars-Sinai Deploys OpenEvidence Enterprise Platform for AI-Powered Clinical Decision Support",
-    "source": "Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNTlvUDd4ZG9fQUtZRWFiYldBOHN2eUx2d2NnWUhvakhoa21WVG1zSE5COFpZSm9BSUZscVhZY04teTdvQmtjZW9fWGlGalgyZk56TXRwYnh3VmhtbmtIa1ViYUVwdTRhdDlSWHY4bWo2TDZNVlMxcHVYNkhIVUhpREhhcG9sTnYzSkkxN3JrOWI4aDRHX1dKendjbkNBb1NlQ0wzLWRBNlZscHpTS3B5NnJxamxJRS1qWlNfelJQV0hMaElaYlNETw?oc=5",
-    "summary": "Cedars-Sinai Deploys OpenEvidence Enterprise Platform for AI-Powered Clinical Decision Support Digital Health News",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2026-05-07-15nuvm4",
     "date": "2026-05-07",
     "competitorId": "augmedix-commure",
@@ -162,17 +151,6 @@
     "source": "HIT Consultant",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZjJGMmNIVm9Ic0F4MmgyRjByLVk1STVZNTVJMkNaZTExSUM2SjF4dThKQWRFc0l0TGtQLXJsVVN6TENMTlFTRGFrQ29kQWtjUDY1ZHgtdHdYQmU2dkZvb1k2S1BkSUx4RGY5THE3SmFmR1ZKYnJ3LXBMMi1pOVh5bU9ydnpraldpRjEzTWZ0VFhFR3Y2N0tabUFUams5WXVIN0NmdWdFRHJMNVk?oc=5",
     "summary": "UI Health to Deploy Abridge AI Directly into Epic EHR Enterprise-Wide - HIT Consultant",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2025-11-10-172bkcc",
-    "date": "2025-11-10",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "Onvida Health and Ambience Healthcare Launch Frontier Ambient AI Capabilities Inside Epic",
-    "source": "Tallahassee Democrat",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZlpiYXVoZGRXSVZYWG0xZVZ0VS05eDdlaXZ5WkMtSG1tR1B3R3pZRDlvSE83V1ZaWFhXdzNRR0FyU0FvMXJ5TVdod0ZJZ2hzVHQzOXF3bTBnYl9fejl3NHQ3MHpRcHkxZVU0TEYwdkJpYWtnUUJPVzFsTzhMNDRRT2NCREU2azQxaHBWUUNoNzNmSmRyY3p4VTlzMFRydTBfU1FYMGNXc05jYXlTR1QzeWx3ZGVRbndqWW9BcHg5OVJyRHl5RDhJVkpDd3VYQTktSzN0eWxuV2RMaDQ?oc=5",
-    "summary": "Onvida Health and Ambience Healthcare Launch Frontier Ambient AI Capabilities Inside Epic Tallahassee Democrat",
     "status": "unverified"
   },
   {
@@ -547,6 +525,28 @@
     "source": "Healthcare Finance News",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnNlaTN0UkxELWhtNGJkRHRmb1pPSTg5LWNnaFA0S3FRci14ZUhrcExyU3RBZDBMTV9tVEZLUVdDd1owY1NCcW9VV1Y1RHZkcWVXX1MxeklJcDh3clVWYlJxcEd4bEREdUg0MHVjVUNoXzZLbEEzZWtwUUFFbmhubXRyQWhYZ2VWZmk2ZU9KblB5Qm9seU5oVWVGZTgtZjR4a3c?oc=5",
     "summary": "Duke Health and Abridge partner on AI for clinical documentation Healthcare Finance News",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-12-18-plvz2e",
+    "date": "2024-12-18",
+    "competitorId": "suki",
+    "competitorName": "Suki Assistant",
+    "title": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians",
+    "source": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQm42WHRpUFpDeFNRTUkzcW1GRDBTUm94VGdCdlR1bFZveXBHdUJtZ21rcXdUcGJ1bTg0RTJUTzBrWnFvSVdBMTZRbkY2X1BmdFpLMS16QkdJcjF1VmY4aDM3YkwxOVE2alNQUXI2d2x0Qi0td1ZESGw5UE55dFVKbEU3Wmlkck1nbFRxRk9oTkNSSVR4YldVNWFZcnktaEnSAaQBQVVfeXFMT2hlS2tJMzlyRTZ1aGgwdDMxMVlkX20zUVZoaV95d28tcndIM1B3eHFLZFlYdXUtQ182cFp1XzhUcUpFVG9JWTdzYWx2a08tOXZPZVRGckJreHZJUjh2U3JFbGhUQy04Rm5kZlo4SnI1bDZqNWNKb2dNck5FTDc0NlpGVkpkZHRpVXZMN3luWmU3b1NQbEh2aFJ0ZmF6UUZpY01xRVM?oc=5",
+    "summary": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians CNBC",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-11-25-1ydlyit",
+    "date": "2024-11-25",
+    "competitorId": "nabla",
+    "competitorName": "Nabla Copilot",
+    "title": "Catalight Partners with Nabla to Reduce Practitioner Documentation Burden and Elevate Autism and I/DD Care",
+    "source": "PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdWRZcGNpUEhmcVRMMXUxM09YcVg1aHYwckx6RUpfZlREb1I4Q3FOaTR6X1NWRGFnNXZUdGRkMGhnd3hpUVdRTHdTU25UbDVXRG54d1FGODQ4N1p4aFQ4VVNSSFprcHRGQkQ2WkNkRlRldjJmc3drUENQdTNXdjJXLWw2NFBMTTdReVB0ZnluUWd1WWo0eGRCUXBFRS1pbGpvOUI3WHdBSV9DZGNOXzZackJDQk5hTXlLcERVNzlMcWRMMFFwaFhNNm8zSk1VeW1XSVB6US0tV0ppbFRSYkpqUFNkZFpUT1BYM05QWERieGF5bFk?oc=5",
+    "summary": "Catalight Partners with Nabla to Reduce Practitioner Documentation Burden and Elevate Autism and I/DD Care PR Newswire",
     "status": "unverified"
   }
 ]

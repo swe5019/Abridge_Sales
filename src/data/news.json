@@ -132,17 +132,6 @@
     ]
   },
   {
-    "id": "n-2026-06-11-k1nt5z",
-    "date": "2026-06-11",
-    "title": "Nvidia partners with clinical note-taking company to improve suite of AI models",
-    "source": "HealthExec",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdkMyZm5IaXNfTlp1a05MNzFwYi1ScFI1Q2oyd2dOazB0WHIyRmhNMDN0QzhWZk1TcUdXTkwtUGJ5YzBTRUZ5WlB3cnkyWlBZY3lCcTFFeFlJU0RLd2x4cWRxZF9VV0VGVXNkZTZTZmNRVC1WWlVIc2dpaVJCYV9CVTdORUVEZnRxRXoxSVdNYjlJQWNCMFZuenhxQWhWOVhLUnJ5LWtzbk1oRjZWWEJIUmRBUTNjWTl2VlhkSk5QMA?oc=5",
-    "summary": "Nvidia partners with clinical note-taking company to improve suite of AI models HealthExec",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
     "id": "n-2026-06-11-1x9ahj8",
     "date": "2026-06-11",
     "title": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it",
@@ -151,6 +140,17 @@
     "summary": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it Fortune",
     "tags": [
       "abridge"
+    ]
+  },
+  {
+    "id": "n-2026-06-11-k1nt5z",
+    "date": "2026-06-11",
+    "title": "Nvidia partners with clinical note-taking company to improve suite of AI models",
+    "source": "HealthExec",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdkMyZm5IaXNfTlp1a05MNzFwYi1ScFI1Q2oyd2dOazB0WHIyRmhNMDN0QzhWZk1TcUdXTkwtUGJ5YzBTRUZ5WlB3cnkyWlBZY3lCcTFFeFlJU0RLd2x4cWRxZF9VV0VGVXNkZTZTZmNRVC1WWlVIc2dpaVJCYV9CVTdORUVEZnRxRXoxSVdNYjlJQWNCMFZuenhxQWhWOVhLUnJ5LWtzbk1oRjZWWEJIUmRBUTNjWTl2VlhkSk5QMA?oc=5",
+    "summary": "Nvidia partners with clinical note-taking company to improve suite of AI models HealthExec",
+    "tags": [
+      "industry"
     ]
   },
   {
@@ -309,6 +309,17 @@
     ]
   },
   {
+    "id": "n-2026-05-18-10zxrko",
+    "date": "2026-05-18",
+    "title": "AI Scribes, Patient Consent, and Expanding Governance Risk in Clinical Documentation – ICD10monitor",
+    "source": "MedLearn Publishing",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa3pTbHN0WUNvSFh5ekRVVlBzaDM4TkVNOXFmU1U1NVUwOWNfQ0RnOXo0VHNuMzJ2c3dlWDhDMlpKU1d4WUJ0dDZqOVA2OXAzS2FtQVFFYWx1bm5LVTEzUlJCLWZwdExBUjNGWWJJZzROY0N5M3ktTVZHTEpTTkkxLXpFRGlUQVJqek1ORDJWRDE3ZHA0bVdlMmMxSEdDeGxtcFhMS0NNQThUMm5tQXhReTdjTk0zU3Yy?oc=5",
+    "summary": "AI Scribes, Patient Consent, and Expanding Governance Risk in Clinical Documentation – ICD10monitor MedLearn Publishing",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-05-15-1lss3m",
     "date": "2026-05-15",
     "title": "Ambient artificial intelligence scribes reduce clinician documentation time by 16 minutes per encounter",
@@ -317,17 +328,6 @@
     "summary": "Ambient artificial intelligence scribes reduce clinician documentation time by 16 minutes per encounter 2 Minute Medicine",
     "tags": [
       "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-05-14-q0kgju",
-    "date": "2026-05-14",
-    "title": "Agentic AI discharge summaries linked to safety, clinician wellbeing",
-    "source": "TechTarget",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc2s4UU8wdGpuYnFRbGRMdXhlbzJ1MzBqMEU1TEs1VXl5dW9GaG02NUhLbmRrYVJuMlZCYk1hOW9KYkxGYWYtR1NGQWdJaVlwZWljYVdrbURoUU9nenp3dDBkN291bllQaE9vMnoySlFDN2hzd0hNczh4WTdkSVpZVEU3d2hRUVJWSWg5dVRzVmVRSXJ4ZU1SUkZaMElEanpseWJBQUNWUm8zWklUWEl5bnU4QzVoem9TNHJnY0xUcWF1Zw?oc=5",
-    "summary": "Agentic AI discharge summaries linked to safety, clinician wellbeing TechTarget",
-    "tags": [
-      "industry"
     ]
   }
 ]
