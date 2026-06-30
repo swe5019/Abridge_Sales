@@ -33,17 +33,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2026-05-06-14fb6gg",
-    "date": "2026-05-06",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
-    "title": "IHH Healthcare Selects Oracle Fusion Cloud to Consolidate Global Enterprise Systems",
-    "source": "Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMEFSd21FcHNtc3hWb0w3OVdKQnpUaFl3Z0dobVFmUnlZNWY0UkV1Y3JuQjFDQklaSlJlR0xjOFFzYkJ2VzZ4N2lfX1g3b2VPbjB4UmlxMC1DRUItb2RxQ3B6b3R1My02YmVXbkZCN1pyQ2EzejJFZEFGTFlucXIwSTFzRUo4eEw3TGlyUWRVWldRbGNiRjdWeEgzODk1eGZpMjdud2FuTmIycTFMd2c2bTVZZDVia0xvWHpmMEd2dFFyYjNt?oc=5",
-    "summary": "IHH Healthcare Selects Oracle Fusion Cloud to Consolidate Global Enterprise Systems Digital Health News",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2026-04-20-1dqobru",
     "date": "2026-04-20",
     "competitorId": "ambience",
@@ -547,6 +536,17 @@
     "source": "Healthcare Dive",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTl9oZVA4QzFCbUFPcnh4dWxpY2syU0lQYlVoSHFrcUhtWmFzRWc4VHJ4QjZVOThqaGtCQmNPZVpfZ1dwQTNvdjIzWFNJN0RSbXJ1WDFWYVpwUzRSNld1MzFWd1Y3T3JrYTlSNWtfV0lsclRXb0NnNTN1YzExWWZ4OHN2Y2J6SzJhOHlFSVpCcEJibUFmcW5SUg?oc=5",
     "summary": "Tenet to deploy Commure’s AI scribe at physician network Healthcare Dive",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-11-21-eioqo8",
+    "date": "2024-11-21",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "Commure rolls out AI scribe for Tenet Healthcare after yearlong customized build",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0h5Y0V4MTFnZkJUU0RoNmptSEtmLWgyRFo3TTVXdVQ3VmRSa2FJUDdYWG9DQlNYOFlnSXZicmszZVJUUDBaQm1kVlpVR3RhQ0t4cmMxSVdtc05mZllKMllXSVZaekJjRy01aTM5Vzc4dWtoNGdQbkxET1R1a0d0N3hraE5zTm41RENHdC12UkNSNGppUHlRV3lndE5IMmVBU2xybm83U3Q4OURDcEVNWkh5amtZWkZVQ0JHNHlzU3lzX2l4TkF3?oc=5",
+    "summary": "Commure rolls out AI scribe for Tenet Healthcare after yearlong customized build Fierce Healthcare",
     "status": "unverified"
   }
 ]
