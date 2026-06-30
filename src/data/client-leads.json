@@ -154,6 +154,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-10-19-11eiyp0",
+    "date": "2025-10-19",
+    "competitorId": "nuance-dax",
+    "competitorName": "DAX Copilot",
+    "title": "Microsoft debuts Dragon Copilot AI clinical assistant for nurses, expands access to 3rd-party apps, agents",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ0Uzb0c4UzFLU2xjOUlVT1F0cDZKRXo5Um5wVDRaZlZxSm1OY09FWmJ6RjFKZUVWSFNuZVgwMGx5ckNWUEtrbjZYZVRySHVRVzQwTmxRMUZMM1JFNEZQTU9qMUx5RlA1NjBRV3AybUdiM3V5cFk3UFpYRDh4S2hwRGxaa0VwUG9VVGtyWEJLQkpDZVNmQWFYOC1wWWdEUzM0TVcyRUtscWFRMVAyMFJ6aE03YWsxaV9pVnF4cU9xVGRjbGhPQXBIak8wNGQ?oc=5",
+    "summary": "Microsoft debuts Dragon Copilot AI clinical assistant for nurses, expands access to 3rd-party apps, agents Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-10-13-1y0b7p6",
     "date": "2025-10-13",
     "competitorId": "epic-native",
@@ -363,17 +374,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-03-13-41pyq3",
-    "date": "2025-03-13",
-    "competitorId": "nabla",
-    "competitorName": "Nabla Copilot",
-    "title": "Tia Implements Nabla’s Clinical AI Assistant Across All Clinics Following Successful Pilot",
-    "source": "Femtech Insider",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU21KZ1JoNFJ0V2J5dFBRMUxENWdWSDNYVHlhS2JHNmVYZVVoemhTa3k1S1NYdzRvYWkwUjNxNngyUFhibTk2amVvZGZRalBxbXpHcVBDb1pUaUFscUZ2WXgwZVl5TTQ4Nlk5NzlwZlpCVWtZenhueXNpSWxVV3hGOWJ4b3hVdk1xYlY0bXo5QXNhVWZKa1lONmRMQzhPVkVDemdKTWx0MjdDTHFXbzdmdEVIalJlMXlr?oc=5",
-    "summary": "Tia Implements Nabla’s Clinical AI Assistant Across All Clinics Following Successful Pilot Femtech Insider",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-03-05-1onpwy1",
     "date": "2025-03-05",
     "competitorId": "epic-native",
@@ -429,17 +429,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-01-30-17byi8x",
-    "date": "2025-01-30",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
-    "title": "Zoom takes Suki partnership to next level",
-    "source": "Healthcare IT News",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWG1HX1N2TWlQX01LeUlJQmdKcUE3ekFuM3JXV3UxRURVQzhEQ0h3UmtPTXJURmxvUG1zcXppZFhDV1psNWF3RlY4X3l0eDBDdlYwa24ydmt5VVBycnFHblh5XzhDb1lZMEpKeklScHlsOUdfOURjWTB5UTFqa1RSSUNn?oc=5",
-    "summary": "Zoom takes Suki partnership to next level Healthcare IT News",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-01-29-15opbnw",
     "date": "2025-01-29",
     "competitorId": "epic-native",
@@ -456,9 +445,9 @@
     "competitorId": "deepscribe",
     "competitorName": "DeepScribe",
     "title": "Flatiron Health, DeepScribe Unveil Partnership to Provide Oncology-Specific Ambient AI",
-    "source": "AJMC",
+    "source": "The American Journal of Managed Care® (AJMC®)",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmpBRWdTdzJjYWduMmNyU0JYUlZybVZ1Q2J0MmRBY2N0bEZYQkNKZWF0NDR2ZmwwSlR4SzVaMVdKODhWTHBJLXZSbW9HUUUtTHpLcUlTamlCaDNPbFdEUExGNVNQdHZMR0dzSElrWXJUWE05aUhqUTJtSU5WSHdHbkJoc3pCNjJOV2ZkMnJlUG1yTmJiMU5FQ3hjU0E0amhwVGtYWmtjUFNpcTJhYzZQSA?oc=5",
-    "summary": "Flatiron Health, DeepScribe Unveil Partnership to Provide Oncology-Specific Ambient AI AJMC",
+    "summary": "Flatiron Health, DeepScribe Unveil Partnership to Provide Oncology-Specific Ambient AI The American Journal of Managed Care® (AJMC®)",
     "status": "unverified"
   },
   {
@@ -547,6 +536,17 @@
     "source": "Healthcare Dive",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTl9oZVA4QzFCbUFPcnh4dWxpY2syU0lQYlVoSHFrcUhtWmFzRWc4VHJ4QjZVOThqaGtCQmNPZVpfZ1dwQTNvdjIzWFNJN0RSbXJ1WDFWYVpwUzRSNld1MzFWd1Y3T3JrYTlSNWtfV0lsclRXb0NnNTN1YzExWWZ4OHN2Y2J6SzJhOHlFSVpCcEJibUFmcW5SUg?oc=5",
     "summary": "Tenet to deploy Commure’s AI scribe at physician network Healthcare Dive",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-11-21-eioqo8",
+    "date": "2024-11-21",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "Commure rolls out AI scribe for Tenet Healthcare after yearlong customized build",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0h5Y0V4MTFnZkJUU0RoNmptSEtmLWgyRFo3TTVXdVQ3VmRSa2FJUDdYWG9DQlNYOFlnSXZicmszZVJUUDBaQm1kVlpVR3RhQ0t4cmMxSVdtc05mZllKMllXSVZaekJjRy01aTM5Vzc4dWtoNGdQbkxET1R1a0d0N3hraE5zTm41RENHdC12UkNSNGppUHlRV3lndE5IMmVBU2xybm83U3Q4OURDcEVNWkh5amtZWkZVQ0JHNHlzU3lzX2l4TkF3?oc=5",
+    "summary": "Commure rolls out AI scribe for Tenet Healthcare after yearlong customized build Fierce Healthcare",
     "status": "unverified"
   }
 ]
