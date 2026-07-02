@@ -132,17 +132,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-10-19-11eiyp0",
-    "date": "2025-10-19",
-    "competitorId": "nuance-dax",
-    "competitorName": "DAX Copilot",
-    "title": "Microsoft debuts Dragon Copilot AI clinical assistant for nurses, expands access to 3rd-party apps, agents",
-    "source": "Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ0Uzb0c4UzFLU2xjOUlVT1F0cDZKRXo5Um5wVDRaZlZxSm1OY09FWmJ6RjFKZUVWSFNuZVgwMGx5ckNWUEtrbjZYZVRySHVRVzQwTmxRMUZMM1JFNEZQTU9qMUx5RlA1NjBRV3AybUdiM3V5cFk3UFpYRDh4S2hwRGxaa0VwUG9VVGtyWEJLQkpDZVNmQWFYOC1wWWdEUzM0TVcyRUtscWFRMVAyMFJ6aE03YWsxaV9pVnF4cU9xVGRjbGhPQXBIak8wNGQ?oc=5",
-    "summary": "Microsoft debuts Dragon Copilot AI clinical assistant for nurses, expands access to 3rd-party apps, agents Fierce Healthcare",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-10-13-1y0b7p6",
     "date": "2025-10-13",
     "competitorId": "epic-native",
@@ -547,6 +536,17 @@
     "source": "Healthcare Finance News",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWhnNnExUGMwcFJJcWFsdkU1Q2VJVWlGZHpQWml4Tk9tdUNEaEJrVWY4QzNWSlhBYWZBZ3I2N3dGRVl1QkpvOURuN3YzSHlZSFR2VlJ4ME1rZDc0RmJpSDUwZTRWdGRENTRNNXpOaHhMWWQtZ2hYV0ZRRjJqNUNtYmpCSkVMMlFQNXNhN29VRVhpNkJDaDV5Zm00N0k?oc=5",
     "summary": "Tenet to deploy AI platform across its physician network Healthcare Finance News",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-11-01-1lintz",
+    "date": "2024-11-01",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "How Zoom is expanding its role in healthcare",
+    "source": "Modern Healthcare News",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQnJWTzhqX2wyRWZBdHJfVmpIZmpoS3pUWmw0OVRqeG10VVdkN0VUYVNOLXdyRFptZ2kzbmEtQThmNlV3emlzMWhjV0FOa0VtazJvSGljWXNrMzBkY2ROWGtqcWJ6ZVo3WGdjd3ZjRE5PY2RveTY4SzV6cHVrSE95NVA0dGxnejRfVVZhazJucTRlb0ZfQVFld3JRUWhXQ3M?oc=5",
+    "summary": "How Zoom is expanding its role in healthcare Modern Healthcare News",
     "status": "unverified"
   }
 ]
