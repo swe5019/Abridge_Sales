@@ -528,17 +528,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2024-11-01-1lintz",
-    "date": "2024-11-01",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "How Zoom is expanding its role in healthcare",
-    "source": "Modern Healthcare News",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQnJWTzhqX2wyRWZBdHJfVmpIZmpoS3pUWmw0OVRqeG10VVdkN0VUYVNOLXdyRFptZ2kzbmEtQThmNlV3emlzMWhjV0FOa0VtazJvSGljWXNrMzBkY2ROWGtqcWJ6ZVo3WGdjd3ZjRE5PY2RveTY4SzV6cHVrSE95NVA0dGxnejRfVVZhazJucTRlb0ZfQVFld3JRUWhXQ3M?oc=5",
-    "summary": "How Zoom is expanding its role in healthcare Modern Healthcare News",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2024-10-25-1uo0tn7",
     "date": "2024-10-25",
     "competitorId": "epic-native",
@@ -547,6 +536,17 @@
     "source": "Healthcare Brew",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeC1Db1BVb0ZYN0FYYzB4Wno0RFVvUEFkazhHOC0xWWxfb09qV3FaUGNEdGZYX084WUxIVU5ybTdkWjRWY1lFSGVucHdGQ1ZvbUdhcThtQUt0dGtqcFhtcUFHOGFjd1RkalBJTzlzLUJwamk0MUVXbGliTTZCb2gyY0lPM3JORGo1ZDltRFRMc2ZnR2F4SDcyb2JuUnh4ODRvTWtndC1pTW8yRl8tejdtRw?oc=5",
     "summary": "Ambient AI company Suki partners with Zoom on clinical documentation Healthcare Brew",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-10-24-xgb8qo",
+    "date": "2024-10-24",
+    "competitorId": "suki",
+    "competitorName": "Suki Assistant",
+    "title": "Zoom, Suki partner to deploy AI clinical documentation",
+    "source": "Healthcare Dive",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN2V6VDF3QmRnSlV2Y25qX1RFMDVIV01QczM2M1o3bEpTZVZmV21Pc3M0VmhKZjhFUk92MGUxcTc1R3lpSTR5NnlsbjF2U1JZOHphcE9qWFk2OUNFNFlWLU41emJZdjJLQmd6Nmt2a2NiVWNKSzBKZHNWZHdPMVNtSXUwYWtUVXRfN3c?oc=5",
+    "summary": "Zoom, Suki partner to deploy AI clinical documentation Healthcare Dive",
     "status": "unverified"
   }
 ]
