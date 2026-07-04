@@ -66,17 +66,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2026-02-04-765021",
-    "date": "2026-02-04",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "Epic AI Charting Rolls Out Alongside an Expanding Set of Built-in AI Capabilities",
-    "source": "Epic Systems",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkxtOTJkYmJKNnd4ejFZMVJacVh0blplWEhyRjZPd0FWUFpKYVVGeXdReFBCbFZMTE80QnZkNFhPUnhIZlhNdGZXWUFqaW5Gb0l0cE80V1Nqcm5ScFFlOGxjcDczeUVaVHVfbE5JRE9ITmhiTFFmb25uTjM2Tnc2NDhGLUZSTUZXa2ZqN0xwazJUYmNZaFI3VW1rRXdLT3ZuSWx0MEk1S2VNLXRDSU1yaUJDZw?oc=5",
-    "summary": "Epic AI Charting Rolls Out Alongside an Expanding Set of Built-in AI Capabilities Epic Systems",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-12-10-1t7ecca",
     "date": "2025-12-10",
     "competitorId": "augmedix-commure",
@@ -404,6 +393,17 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObS1HbFE4SWw5S2hTVUx3eW1mWW5xVjV2TXNGQzJyYVQxMEtuWm9QRjd5bkdmM0dzUC02My1ROEdIcUZMeF95RzdYREh3dHdzX3JqUl9lajhra3gtVElCc3VOM1FSVEFCUzJnaklURzRWWkVla2UzZkRYckFpNjU3NjFFTGx5YVlYM0FfdlZwRGlzdm9aMGtrMVEyN1owbEVEbGFLYmt3NzFRMzhsNlgzYmtWUmNkek03MGQ0MC1fY2JpaUZJUGNWRGZhNnA?oc=5",
     "summary": "Abridge launches generative AI tool for emergency medicine with Emory, Johns Hopkins as early adopters Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-01-24-1x3xcrd",
+    "date": "2025-01-24",
+    "competitorId": "deepscribe",
+    "competitorName": "DeepScribe",
+    "title": "DeepScribe partners with Flatiron Health on oncology-focused ambient AI",
+    "source": "MobiHealthNews",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlZlRFl0Q1BZNi1YX1VjMzEyNjVvRkZ1Wlp6UTB1T2FzQlNPRkItM3NzNk5zZThaUkp0RXBlNVFCTXAxMTl3Tk5FSVJXUTliWGlBOWRheXlGTlg4WktObFNNWmtKN3FWNHltbk1vNWRqNm54MGhqY0RzejRmOHJlZnN3Z2lHT2FNREExN25Xb1d2eFcyWG1uZkJXVURUN0V3?oc=5",
+    "summary": "DeepScribe partners with Flatiron Health on oncology-focused ambient AI MobiHealthNews",
     "status": "unverified"
   },
   {
