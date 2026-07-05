@@ -46,8 +46,8 @@
   {
     "id": "lead-2026-02-05-1yps1mx",
     "date": "2026-02-05",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
+    "competitorId": "deepscribe",
+    "competitorName": "DeepScribe",
     "title": "Epic's AI scribe goes live as EHR giant touts strong adoption of built-in AI features",
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT2VBVVFySnhJX2FUUHBET0swTEtZaGtBaGxHUlh5TGY3WmtLcEZPc1plS3ZTZGgtWG1hZUV3eGhhN01UOTcxZ3RrSmFqbVJQemN1RmhaMUxCajFnQ2ZHS2UtVkdsTktud2tndC1uVXNYWDgtTmhPcENRWUlqZTNXdmpxSVpVaU5ValFkQkpGM2JpaEpzLUw0UFU4NzBmeFlPdUdvZ2pjZjA5c3BCV2JTYkZBUW5Ndm9ka204OEg2YnFpQQ?oc=5",
@@ -418,17 +418,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-01-22-pipn4v",
-    "date": "2025-01-22",
-    "competitorId": "deepscribe",
-    "competitorName": "DeepScribe",
-    "title": "Flatiron Health, DeepScribe Unveil Partnership to Provide Oncology-Specific Ambient AI",
-    "source": "AJMC",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmpBRWdTdzJjYWduMmNyU0JYUlZybVZ1Q2J0MmRBY2N0bEZYQkNKZWF0NDR2ZmwwSlR4SzVaMVdKODhWTHBJLXZSbW9HUUUtTHpLcUlTamlCaDNPbFdEUExGNVNQdHZMR0dzSElrWXJUWE05aUhqUTJtSU5WSHdHbkJoc3pCNjJOV2ZkMnJlUG1yTmJiMU5FQ3hjU0E0amhwVGtYWmtjUFNpcTJhYzZQSA?oc=5",
-    "summary": "Flatiron Health, DeepScribe Unveil Partnership to Provide Oncology-Specific Ambient AI AJMC",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-01-16-14w5irk",
     "date": "2025-01-16",
     "competitorId": "nabla",
@@ -547,6 +536,17 @@
     "source": "Healthcare Finance News",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWhnNnExUGMwcFJJcWFsdkU1Q2VJVWlGZHpQWml4Tk9tdUNEaEJrVWY4QzNWSlhBYWZBZ3I2N3dGRVl1QkpvOURuN3YzSHlZSFR2VlJ4ME1rZDc0RmJpSDUwZTRWdGRENTRNNXpOaHhMWWQtZ2hYV0ZRRjJqNUNtYmpCSkVMMlFQNXNhN29VRVhpNkJDaDV5Zm00N0k?oc=5",
     "summary": "Tenet to deploy AI platform across its physician network Healthcare Finance News",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-10-25-1uo0tn7",
+    "date": "2024-10-25",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Ambient AI company Suki partners with Zoom on clinical documentation",
+    "source": "Healthcare Brew",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeC1Db1BVb0ZYN0FYYzB4Wno0RFVvUEFkazhHOC0xWWxfb09qV3FaUGNEdGZYX084WUxIVU5ybTdkWjRWY1lFSGVucHdGQ1ZvbUdhcThtQUt0dGtqcFhtcUFHOGFjd1RkalBJTzlzLUJwamk0MUVXbGliTTZCb2gyY0lPM3JORGo1ZDltRFRMc2ZnR2F4SDcyb2JuUnh4ODRvTWtndC1pTW8yRl8tejdtRw?oc=5",
+    "summary": "Ambient AI company Suki partners with Zoom on clinical documentation Healthcare Brew",
     "status": "unverified"
   }
 ]
