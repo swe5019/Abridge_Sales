@@ -9,7 +9,6 @@ import FilterBar from '../components/FilterBar.jsx'
 import DataBadge from '../components/DataBadge.jsx'
 import { uniqueValues, bandForBeds } from '../lib/filters'
 import { computeFitScore, scoreTier, scoreTierLabel, FACTOR_KEYS } from '../lib/scoring'
-import { mostlyIllustrative, ILLUSTRATIVE_BANNER } from '../lib/confidence'
 
 const competitorName = (id) => competitors.find((c) => c.id === id)?.name || id
 const battlecardFor = (id) => battlecards.find((b) => b.competitorId === id)
@@ -17,7 +16,7 @@ const battlecardFor = (id) => battlecards.find((b) => b.competitorId === id)
 // Pre-compute derived fields once.
 const enriched = accounts.map((a) => ({
   ...a,
-  sizeBand: bandForBeds(a.beds, meta.sizeBands),
+  sizeBand: a.beds != null ? bandForBeds(a.beds, meta.sizeBands) : 'Unknown',
   fitScore: computeFitScore(a),
   vendorLabel: a.currentAmbientVendor ? competitorName(a.currentAmbientVendor) : 'None (greenfield)',
 }))
@@ -73,7 +72,24 @@ export default function TargetAccounts() {
     { key: 'name', label: 'Health System', accessor: (r) => r.name },
     { key: 'region', label: 'Region' },
     { key: 'state', label: 'State' },
-    { key: 'beds', label: 'Beds', sortAccessor: (r) => r.beds, accessor: (r) => r.beds.toLocaleString() },
+    {
+      key: 'beds',
+      label: 'Beds',
+      sortAccessor: (r) => r.beds ?? -1,
+      accessor: (r) => (r.beds != null ? r.beds.toLocaleString() : '—'),
+    },
+    {
+      key: 'hospitals',
+      label: 'Hospitals',
+      sortAccessor: (r) => r.hospitals ?? -1,
+      accessor: (r) => (r.hospitals != null ? r.hospitals.toLocaleString() : '—'),
+    },
+    {
+      key: 'careSites',
+      label: 'Care sites',
+      sortAccessor: (r) => r.careSites ?? -1,
+      accessor: (r) => (r.careSites != null ? r.careSites.toLocaleString() : '—'),
+    },
     { key: 'ehr', label: 'EHR' },
     {
       key: 'vendorLabel',
@@ -113,7 +129,13 @@ export default function TargetAccounts() {
         </p>
       </div>
 
-      {mostlyIllustrative(accounts) && <div className="banner warn">{ILLUSTRATIVE_BANNER}</div>}
+      <div className="banner info">
+        Firmographics (beds, hospitals, care sites, EHR) are drawn from each system's public
+        pages — click a row for the source link. <strong>Beds</strong> shows “—” where a system
+        doesn't publish a system-wide total; the <strong>Hospitals</strong> and{' '}
+        <strong>Care sites</strong> counts are the reliable size signal. The “Current Vendor”
+        column is a sales hypothesis to verify, not confirmed fact.
+      </div>
 
       <FilterBar fields={fields} values={filters} onChange={update} onReset={reset} />
       <div className="result-count">
@@ -152,13 +174,31 @@ function AccountDetail({ account, onClose }) {
               {account.region} · {account.state}
             </dd>
             <dt>Beds</dt>
-            <dd>{account.beds.toLocaleString()} ({account.sizeBand})</dd>
+            <dd>
+              {account.beds != null
+                ? `${account.beds.toLocaleString()} (${account.sizeBand})`
+                : 'Not publicly reported'}
+            </dd>
+            <dt>Hospitals</dt>
+            <dd>{account.hospitals?.toLocaleString() || '—'}</dd>
+            <dt>Care sites</dt>
+            <dd>{account.careSites != null ? account.careSites.toLocaleString() : '—'}</dd>
             <dt>Physicians</dt>
             <dd>{account.physicianCount?.toLocaleString() || '—'}</dd>
             <dt>EHR</dt>
             <dd>{account.ehr}</dd>
             <dt>Current ambient vendor</dt>
             <dd>{account.vendorLabel}</dd>
+            <dt>Source</dt>
+            <dd>
+              {account.source ? (
+                <a href={account.source} target="_blank" rel="noreferrer">
+                  System facts →
+                </a>
+              ) : (
+                '—'
+              )}
+            </dd>
           </dl>
           {account.notes && (
             <p style={{ marginTop: 14 }}>
