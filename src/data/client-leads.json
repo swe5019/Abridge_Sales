@@ -319,6 +319,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-04-11-9jjuq2",
+    "date": "2025-04-11",
+    "competitorId": "freed",
+    "competitorName": "Freed",
+    "title": "‘I wish we could be more optimistic’: A look at AI implementation at an Arizona FQHC",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbkhrTVdLcGFlS25vR2dPZ1BOQ2k0SURpMWs2cXpVYjVsMmxxdzg4QkduWGQ3Z2NSVmpVRzZWQmlSR1kzNjIxcG5GeGtPZG9kTHN2WHo0N2UxTEhweGI5ckJwSENFZ3cteUFralo4NFZkQjlKdGV3VEZQTkFHTFVqRVN2OE1sMkRCc1BGWmhSSHAxX1ZEU2plN0VyeHJ6ckQ3emxTMHplU0F4NmYtVWZxOVplamFGMDBMZ211XzZ1cFhVSjY4?oc=5",
+    "summary": "‘I wish we could be more optimistic’: A look at AI implementation at an Arizona FQHC Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-03-13-pv7fr3",
     "date": "2025-03-13",
     "competitorId": "nabla",
@@ -343,8 +354,8 @@
   {
     "id": "lead-2025-03-05-1onpwy1",
     "date": "2025-03-05",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
     "title": "HIMSS25 roundup: Zoom launches healthcare AI betas; Teladoc enhances Prism with AI",
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcEd3X1c3dmdJbG5SazFTVUdPUThhcHJUc3l1ZnFpMXBDNWxCT2JJVU1od2VjMzlQUnpGaHEwNGtqYk05UExrRVdxODhWVDdMOVE1SmVRdnBZUENZcklFZW9yZTZYeTBmOF8xd0hMdHo3LXkzNUNWMHVyUU1YeTFSOVJBZmZLRGlVM0ptaHRjZVlTSnh5Rkc0bHRBWTZOZHZqQkxLektleUhHNW8?oc=5",
@@ -536,17 +547,6 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0h5Y0V4MTFnZkJUU0RoNmptSEtmLWgyRFo3TTVXdVQ3VmRSa2FJUDdYWG9DQlNYOFlnSXZicmszZVJUUDBaQm1kVlpVR3RhQ0t4cmMxSVdtc05mZllKMllXSVZaekJjRy01aTM5Vzc4dWtoNGdQbkxET1R1a0d0N3hraE5zTm41RENHdC12UkNSNGppUHlRV3lndE5IMmVBU2xybm83U3Q4OURDcEVNWkh5amtZWkZVQ0JHNHlzU3lzX2l4TkF3?oc=5",
     "summary": "Commure rolls out AI scribe for Tenet Healthcare after yearlong customized build Fierce Healthcare",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2024-11-19-1050jl1",
-    "date": "2024-11-19",
-    "competitorId": "augmedix-commure",
-    "competitorName": "Augmedix (Commure)",
-    "title": "Tenet Health And Commure Announce Landmark Partnership To Deploy Ambient AI Platform",
-    "source": "Forbes",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOUsxTHZaZEpoZGVFYnpZUFhOdjdDUk42Zl96d3BIcWdXQ0hmVm5rczR0WC1pOUw0NFpaN2VHVXJ2cUxjRGN4a2RyV2ExZGVFeUNaNWdEenh0bGYtNnhzX3gzck5xVm40WmhLQ19EaEZ3UmVIdVJLV0s0MWc5dEZkcktqek1pZlFFc20zb0lsV21EdG9CZVJiQWVNUTRNWXVmc1Znc2pJQnJZQ3J0YXNNUVJ1U1BfdU51cTlWYk5SckJpTDlXN0E5TkRVR3dPaU5CWDFTMVFjOA?oc=5",
-    "summary": "Tenet Health And Commure Announce Landmark Partnership To Deploy Ambient AI Platform Forbes",
     "status": "unverified"
   }
 ]
