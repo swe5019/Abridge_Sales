@@ -44,17 +44,6 @@
     ]
   },
   {
-    "id": "n-2026-06-22-1vtku3c",
-    "date": "2026-06-22",
-    "title": "As AI Listens to Patients, Physicians Face New Questions",
-    "source": "Medscape",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUWltWUtSV1BXelJUbTBvQXFiTUdDNW1DbVpUN1lpVTJtajJ0VS1rY3ZWZ1BTa1NWQlhzQ0ItNlF4Vm44dVZ1WUtHeVZyMV9XVmR4cjBVMVlqTENCbEh3UC1VNnZIaDJIYzRPd1B3RGx2SmNHQ2FLX2cxcGtXQUFHbDZqOW9VY05Ba2tYZkpWMXRRUTZVVVNtXy05Mm04TTRN?oc=5",
-    "summary": "As AI Listens to Patients, Physicians Face New Questions Medscape",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
     "id": "n-2026-06-19-1scqoz",
     "date": "2026-06-19",
     "title": "The ambient AI scribe illusion: Doctors need to pay attention",
@@ -199,17 +188,6 @@
     ]
   },
   {
-    "id": "n-2026-06-05-yrx52c",
-    "date": "2026-06-05",
-    "title": "When ‘I Acknowledge’ Isn’t The Same As Consent In Healthcare AI",
-    "source": "Forbes",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNHZVRUJXQ0Yyd1RiMUlyQ0l4VXo2b0I5T21KM291akIyS3BST19GZTdOQUhCYnZpbEhySFRvaU1jZEd6dFl2NkdrY2RtN3V3N0k0VnVsNzVxUEh0TUhZSGJOSHc0R2h1SkRiNFVHUGphNkNPSFl6QUI0NGljVW51b3NKT04zSkhfbW1NYWNOZ2M?oc=5",
-    "summary": "When ‘I Acknowledge’ Isn’t The Same As Consent In Healthcare AI Forbes",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
     "id": "n-2026-06-05-3jjsc9",
     "date": "2026-06-05",
     "title": "AI Scribes in the Clinic: What Patients Should Know",
@@ -328,6 +306,29 @@
     "summary": "Trump and Kennedy Seek To Relax Safeguards for AI Healthcare Tools KFF Health News",
     "tags": [
       "industry"
+    ]
+  },
+  {
+    "id": "n-2026-05-08-1xnnf4f",
+    "date": "2026-05-08",
+    "title": "Urgent care clinics boost revenue and throughput with AI scribe",
+    "source": "Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSGR5Rm9URTlMQndZZnFBTWF5cmxuSlM3cUtudnpiaEtjZ2VtTEd2R3hsZXJHTUUxWmdZZXJyVHhVTkpQWXZubEFzcTBqOVFGaTJDRGlnZTVJNnIyNV90NGVaUXloT1ZtT3JlQ2xMWVVYVmhJQklxV3ljYnhiQWNnTEdPVmdUcV8yQ2JkUnBabUJXMmZfM2hGdkNJQk4?oc=5",
+    "summary": "Urgent care clinics boost revenue and throughput with AI scribe Healthcare IT News",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-05-07-1uiexwi",
+    "date": "2026-05-07",
+    "title": "Is Ambient AI Harder to Build for RNs Than MDs? Abridge CEO Says ‘Yes’",
+    "source": "Newsweek",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkpKOHlQVWFQejV4eTRhZHp2YTY5cDFhemE3U3Bpd0ZZZWd2TFFsNUplQ3ZXaEJpV0k1YmY1Q2FRbWZiZm9pVzdDZ3VuLWdUb3RWS0ZHaGFSWHVsanJGZUFZdi1Sb0JGbEs3QVFlQVIwX1czMHRfY1ZzSEV3RXdWblcxLWNsVTlXbF9TQnpKVnpidldBTjUzNFRoeU5kUEd6UjY2UFZydFlGSGFpTm9jUHkzM2s?oc=5",
+    "summary": "Is Ambient AI Harder to Build for RNs Than MDs? Abridge CEO Says ‘Yes’ Newsweek",
+    "tags": [
+      "abridge",
+      "ambient-ai"
     ]
   }
 ]
