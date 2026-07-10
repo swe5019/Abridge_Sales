@@ -462,17 +462,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-01-15-qy39y9",
-    "date": "2025-01-15",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "Mayo Clinic expands AI documentation partnership with Abridge",
-    "source": "Healthcare Dive",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPejdfMDVJcFdBQ200N2JqazBLSThsdS1uQXRoQ0ZWUVJtX05sdnI2ZWJDb2xHcGp1RE8wbEFfOFZQOHp5SUJKV1dBRl9lVHpJX0dvbnRCejFBVGVVTkJkbDZZOGZndUowY2JMWTU0R3NVb0N0YmV5OUhzYW4tbV9YNFJQZThVOVRJV0xfSDJRYjRKYUtvTGdR?oc=5",
-    "summary": "Mayo Clinic expands AI documentation partnership with Abridge Healthcare Dive",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-01-14-o2697m",
     "date": "2025-01-14",
     "competitorId": "deepscribe",
@@ -547,6 +536,17 @@
     "source": "Healthcare Dive",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTl9oZVA4QzFCbUFPcnh4dWxpY2syU0lQYlVoSHFrcUhtWmFzRWc4VHJ4QjZVOThqaGtCQmNPZVpfZ1dwQTNvdjIzWFNJN0RSbXJ1WDFWYVpwUzRSNld1MzFWd1Y3T3JrYTlSNWtfV0lsclRXb0NnNTN1YzExWWZ4OHN2Y2J6SzJhOHlFSVpCcEJibUFmcW5SUg?oc=5",
     "summary": "Tenet to deploy Commure’s AI scribe at physician network Healthcare Dive",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-11-21-eioqo8",
+    "date": "2024-11-21",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "Commure rolls out AI scribe for Tenet Healthcare after yearlong customized build",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0h5Y0V4MTFnZkJUU0RoNmptSEtmLWgyRFo3TTVXdVQ3VmRSa2FJUDdYWG9DQlNYOFlnSXZicmszZVJUUDBaQm1kVlpVR3RhQ0t4cmMxSVdtc05mZllKMllXSVZaekJjRy01aTM5Vzc4dWtoNGdQbkxET1R1a0d0N3hraE5zTm41RENHdC12UkNSNGppUHlRV3lndE5IMmVBU2xybm83U3Q4OURDcEVNWkh5amtZWkZVQ0JHNHlzU3lzX2l4TkF3?oc=5",
+    "summary": "Commure rolls out AI scribe for Tenet Healthcare after yearlong customized build Fierce Healthcare",
     "status": "unverified"
   }
 ]
