@@ -1,16 +1,5 @@
 [
   {
-    "id": "n-2026-07-10-1euvae6",
-    "date": "2026-07-10",
-    "title": "Ambient Clinical Intelligence Market Surges as Voice AI Reduces",
-    "source": "openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWVRMFA3RHVKbk93VkRGdVlpTUJqNExfU2p2eFI3d1F2ZGREZEpTNVVYS1h5Q05MMFk5YnVOTVc1OE8wMEppVl94TmRIbXZCYWxYNkJlNnJra0RSTm5vdkNheDJ0TUdrVzBiUWRwVURPTmVtcEtVNGRMd1hFMnlGNlktQW5zTDVESE8yN1UyX3FSbzVPYmVFaEVRQW9SNENK?oc=5",
-    "summary": "Ambient Clinical Intelligence Market Surges as Voice AI Reduces openPR.com",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
     "id": "n-2026-07-08-52rzv4",
     "date": "2026-07-08",
     "title": "Where ambient AI actually helps reduce clinical burnout",
@@ -37,9 +26,9 @@
     "id": "n-2026-07-07-1qkd7ur",
     "date": "2026-07-07",
     "title": "Black Book Poll Finds AI Has Entered the EHR, but Governed Scale Remains the Missing Link",
-    "source": "newswire.com",
+    "source": "Newswire.com",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSEpvOV9zeDhfOHV4Y3JmQ2dMUjhscWZnUGg2c2YtM2VfX3VvSlJ2T25heU5CS245dXBmanNyNWk0alRoelo2dGw0alQ5VjVXVUhvdW5mT19ON2FZZ21TVWJtWlhwcUszNTBUYm03UE9nQndIY3NmOTZZSTV3T3JBWEsydU51Ym9fS0Z3bmROMGw1NGZZUXItTEU3Wi1BV3dHWGRMVmZCZ1g?oc=5",
-    "summary": "Black Book Poll Finds AI Has Entered the EHR, but Governed Scale Remains the Missing Link newswire.com",
+    "summary": "Black Book Poll Finds AI Has Entered the EHR, but Governed Scale Remains the Missing Link Newswire.com",
     "tags": [
       "industry"
     ]
@@ -48,9 +37,9 @@
     "id": "n-2026-07-07-1g5k2ig",
     "date": "2026-07-07",
     "title": "How nurses are shaping the next wave of clinical AI tools",
-    "source": "Modern Healthcare News",
+    "source": "Modern Healthcare",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYzVHMHZsQ3RGNjRzbzZieklOa0VlQXZQQ2k2TXBmWEhzX0pXOHQ5RE8wNXlQNWNGMFNoV3pqbmpOMTRVTkRURmg3bXV1ZDdqeXFHVnNPaldoRFJNYzM2MlZkbnFkRkg0R3BKR3kwelRXUVpkLThYU3RtY2tlQ3huUVp5NWFkY1JhMDJVMHpBV2dtdw?oc=5",
-    "summary": "How nurses are shaping the next wave of clinical AI tools Modern Healthcare News",
+    "summary": "How nurses are shaping the next wave of clinical AI tools Modern Healthcare",
     "tags": [
       "industry"
     ]
@@ -328,6 +317,17 @@
     "summary": "Address clinical and IT needs first to help ensure ambient AI success Healthcare IT News",
     "tags": [
       "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-05-14-q0kgju",
+    "date": "2026-05-14",
+    "title": "Agentic AI discharge summaries linked to safety, clinician wellbeing",
+    "source": "TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc2s4UU8wdGpuYnFRbGRMdXhlbzJ1MzBqMEU1TEs1VXl5dW9GaG02NUhLbmRrYVJuMlZCYk1hOW9KYkxGYWYtR1NGQWdJaVlwZWljYVdrbURoUU9nenp3dDBkN291bllQaE9vMnoySlFDN2hzd0hNczh4WTdkSVpZVEU3d2hRUVJWSWg5dVRzVmVRSXJ4ZU1SUkZaMElEanpseWJBQUNWUm8zWklUWEl5bnU4QzVoem9TNHJnY0xUcWF1Zw?oc=5",
+    "summary": "Agentic AI discharge summaries linked to safety, clinician wellbeing TechTarget",
+    "tags": [
+      "industry"
     ]
   }
 ]
