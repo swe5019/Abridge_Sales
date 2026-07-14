@@ -67,17 +67,6 @@
     ]
   },
   {
-    "id": "n-2026-06-23-1a5dvsk",
-    "date": "2026-06-23",
-    "title": "Rhode Island passes ambient AI scribe opt-out law",
-    "source": "Healthcare IT News",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWk1mRkw0VEQwdHZBMkpORGdRZDB2dUlUQnQ2M194WDRzRFg1MUs3X1VFN0ZNNmFnWDVhRktnbjF0N2FUNEVoNkNVdjI0OUM5cS1mcEN1WWZUVGY1R3hSSkY2cjFSb0NiMW0yeXprTlIzNGlINEtXSWFmTFVEcUJWVHlpbzFNUENETkREMVFjb2w?oc=5",
-    "summary": "Rhode Island passes ambient AI scribe opt-out law Healthcare IT News",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
     "id": "n-2026-06-23-pzfwt4",
     "date": "2026-06-23",
     "title": "Ambience Healthcare Introduces Nursing Suite to Extend System of Intelligence Across Inpatient Nursing",
@@ -328,6 +317,17 @@
     "summary": "AI scribe note quality under question as adoption grows TechTarget",
     "tags": [
       "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-05-20-1lkldl6",
+    "date": "2026-05-20",
+    "title": "A doctor shortage is coming. AI could be the only realistic fix",
+    "source": "Fortune",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRG1BWXlzaUg1eWMzV1diZUJjMkh3cEhvX05IM1Q4b0F4MnkzVEdoejJIYmVJUG9uRmdMOXNwbVBuX2lwd1F5UzVLc2txRWdGX3FTSzVVSTBWYzh1b2VkdlVvSjJ3NHl6VFBwRFlEdTllZ200RlB0dVVPdnM2blVad3h6Ni1MT1g5Slo1T1NrSG1kcDNCSlZIS2QxUFQ2dw?oc=5",
+    "summary": "A doctor shortage is coming. AI could be the only realistic fix Fortune",
+    "tags": [
+      "industry"
     ]
   }
 ]
