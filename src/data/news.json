@@ -34,17 +34,6 @@
     ]
   },
   {
-    "id": "n-2026-07-10-1euvae6",
-    "date": "2026-07-10",
-    "title": "Ambient Clinical Intelligence Market Surges as Voice AI Reduces",
-    "source": "openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWVRMFA3RHVKbk93VkRGdVlpTUJqNExfU2p2eFI3d1F2ZGREZEpTNVVYS1h5Q05MMFk5YnVOTVc1OE8wMEppVl94TmRIbXZCYWxYNkJlNnJra0RSTm5vdkNheDJ0TUdrVzBiUWRwVURPTmVtcEtVNGRMd1hFMnlGNlktQW5zTDVESE8yN1UyX3FSbzVPYmVFaEVRQW9SNENK?oc=5",
-    "summary": "Ambient Clinical Intelligence Market Surges as Voice AI Reduces openPR.com",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
     "id": "n-2026-07-08-52rzv4",
     "date": "2026-07-08",
     "title": "Where ambient AI actually helps reduce clinical burnout",
@@ -85,17 +74,6 @@
     "source": "Modern Healthcare",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYzVHMHZsQ3RGNjRzbzZieklOa0VlQXZQQ2k2TXBmWEhzX0pXOHQ5RE8wNXlQNWNGMFNoV3pqbmpOMTRVTkRURmg3bXV1ZDdqeXFHVnNPaldoRFJNYzM2MlZkbnFkRkg0R3BKR3kwelRXUVpkLThYU3RtY2tlQ3huUVp5NWFkY1JhMDJVMHpBV2dtdw?oc=5",
     "summary": "How nurses are shaping the next wave of clinical AI tools Modern Healthcare",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
-    "id": "n-2026-06-24-15dqlbv",
-    "date": "2026-06-24",
-    "title": "Review of Companies Providing Custom AI Solutions for Healthcare",
-    "source": "MedicalResearch.com",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNmV6aTdMWXk2WG93UnNPdFdKTE5JQTZQNUkzNDVtLXFsbWpSUzd1dXVtYjFFWC13dWhlZzhOLXRsVmFvTERFUHlKTkJTT0twX2wxeGtpRjVTbE5DaTU3TWFGakFMQm5qVlViaHlqcWNoWGRTSEVqZmVGeTNLZGJjcU9vOERMX3lyeEdwSVM4dEF2cE4xQVJIUg?oc=5",
-    "summary": "Review of Companies Providing Custom AI Solutions for Healthcare MedicalResearch.com",
     "tags": [
       "industry"
     ]
@@ -153,6 +131,17 @@
     "summary": "Houston Methodist turns ambient AI into an enterprise tool, not just a pilot Healthcare IT News",
     "tags": [
       "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-06-17-1cjbwzv",
+    "date": "2026-06-17",
+    "title": "Healthcare's first big AI use is a pressure valve, not a moonshot",
+    "source": "MarketScale",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc2x3UkZtY0RpN3FEVDR0dDlTeVFHVHVFR1Rybk5WcTB1OFVCX3Z4cXcxTWIwZXBuR3I4SkN6LVRaZVRxM25yYzJ5LTFpTEFqamdiY3BESUlyMEQ4SjV2RmRIcFlnLS1ock5tR0lGZkRfYnMwWm54c1BoVlVWSHlzT1RBRExCd3NSM0ZzMzNVaU9aa083MlJKRUpXQmNOb0lDVG1qSXpuWEFLUUc4cEhsOHNDdXBRbW41NnB3TQ?oc=5",
+    "summary": "Healthcare's first big AI use is a pressure valve, not a moonshot MarketScale",
+    "tags": [
+      "industry"
     ]
   },
   {
@@ -310,17 +299,6 @@
     ]
   },
   {
-    "id": "n-2026-05-27-tbbyjp",
-    "date": "2026-05-27",
-    "title": "AI in Health Care: Litigation Risk, Governance, and the Path to Responsible Adoption",
-    "source": "JD Supra",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVmt3bG0ydUZJbzc4a3RQRmFuNzJnMVl0S0JPNk1ZN2VhSmxoazVUMXZmZW9yYlJEenpuVDkzSXFKaEtBM0hsRk1fN2hrQ1k0ZHkzdkRIRHZUT2Fqb2k5cmMxMHdpMEFxc1VzcHV6V1E5aUxKdFVDd0hMU3FzOExPam5n?oc=5",
-    "summary": "AI in Health Care: Litigation Risk, Governance, and the Path to Responsible Adoption JD Supra",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
     "id": "n-2026-05-26-epigiv",
     "date": "2026-05-26",
     "title": "Sunoh.ai’s Ambient AI Scribe Helps Clinicians Spend Less Time Charting at Night",
@@ -329,6 +307,28 @@
     "summary": "Sunoh.ai’s Ambient AI Scribe Helps Clinicians Spend Less Time Charting at Night Healthcare IT Today",
     "tags": [
       "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-05-20-1artqmd",
+    "date": "2026-05-20",
+    "title": "AI scribe note quality under question as adoption grows",
+    "source": "TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaWJsZndoektoeVhEOVI5VjFhZkE0ZTB4eEdFTllnejVIUkRXVWJaS0hNT0V1bHVSTUpHQVJpTlFGVk9xLVducy0zS3ZDQ29jNlJTeXZkS01TaVRnY2MzQXl3V0ttc2tMN1RjSkVIOGRKb1hQd0pFTXI1WjROU2thNlNHcUpibDdyZW12ZXJ6eFpyNWpyWnZKTkRSVEVLaGdQWV9raFhkbko?oc=5",
+    "summary": "AI scribe note quality under question as adoption grows TechTarget",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-05-20-1lkldl6",
+    "date": "2026-05-20",
+    "title": "A doctor shortage is coming. AI could be the only realistic fix",
+    "source": "Fortune",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRG1BWXlzaUg1eWMzV1diZUJjMkh3cEhvX05IM1Q4b0F4MnkzVEdoejJIYmVJUG9uRmdMOXNwbVBuX2lwd1F5UzVLc2txRWdGX3FTSzVVSTBWYzh1b2VkdlVvSjJ3NHl6VFBwRFlEdTllZ200RlB0dVVPdnM2blVad3h6Ni1MT1g5Slo1T1NrSG1kcDNCSlZIS2QxUFQ2dw?oc=5",
+    "summary": "A doctor shortage is coming. AI could be the only realistic fix Fortune",
+    "tags": [
+      "industry"
     ]
   }
 ]

@@ -22,17 +22,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2026-04-20-1dqobru",
-    "date": "2026-04-20",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
-    "title": "Hippocratic AI rolls out 2 new tools aimed at expanding clinical access, improving nurse workflow",
-    "source": "Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWVZTU9tVlVvZk5mRHlnM0doRjhmbmRFTjBtWnRoeUhqRTVXUko5ZERrQ29Yd2NHY3duWEkxeExMNGY1NWNMSTBSVGZKUktsdzZGMU9GcmpQQkY5aWRrMVh2SlpEVUhGQWliSWxvM2toWDR0bk1RQ2lVY1RYcXN5djdZTU9GNDdOeEszMVhFUG4zU2xBYnlYR0VaMk1ZU3dua1lWUl9ETEJGb2JyalhBUUZFbVZhNTdYUHRRZmUwelo2MDA?oc=5",
-    "summary": "Hippocratic AI rolls out 2 new tools aimed at expanding clinical access, improving nurse workflow Fierce Healthcare",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2026-02-05-1awsm6s",
     "date": "2026-02-05",
     "competitorId": "nabla",
@@ -365,8 +354,8 @@
   {
     "id": "lead-2025-02-19-18tk9lu",
     "date": "2025-02-19",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
     "title": "ViVE 2025: Cleveland Clinic rolls out Ambience's AI for doctors after testing scribe technologies",
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ1M5Z0M2V0FybXlEQi1BMDEwdkpKSEcwSHNPdTVNRmM3MWNPRUdabnhXeEdNQkxyZGowNkh5T1pTVVRhRy1MNEhfeFdyZTgyeHN0SUh5Zkt0TDZLV1FnTGNLTTZPN1VtTVBtcm1mSnRLTWxoT2lTMkRCemFUUFRQWjdhcnFTaXFEaHMzMHpFT1JVd3k4bFN1djQ1VXhaUW1odFE?oc=5",
@@ -547,6 +536,17 @@
     "source": "The Manila Times",
     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSllnVlhHc3lpQWZyTzV3VEVJZTljVVdqREpxXzY4Q2x2amdUeXVYYVEydmxWQWFfRGVqeUNYalA3aUU2c0RiYkxwdFpSVWU3a0NCdWZxZHM3aWxwcGdmdTQzVkZQWTRURDVzWG44eE04Z0dXMXdZUkVUVkdrN291RFBhS1BYdmxPTVVWMy0wRjFVNFdyeVZCQVBweEEwc0RYTkdUQU0wQWY3X1l3WDhERE9JOHRJaERvaUdObzc2NUhhUFRVTUtHbnZpZmp6Sm5LSktoamFCVG1lWHJDMHk4cjR5dU1zbTN4QldQdW04UDhQanBBMUktS1pyY3p5aU1uaGfSAYcCQVVfeXFMTmdwT3FrVzVkUzhLWDZ0WUJXMUVuQmtGQlJOVEtYZkxhMVY3S1VYaGxoREo2eFhNU1k4Mm9fckxfUVV1NDFJQU1OcVVQTTVtUlducDE0MHo4WmxqVEhTNWFSLVF0VDQxeGFtV0xMOEtlQ1RxYXVpNlBkalIwcDBaXzNLUGI5MmVkbU9aeUJvVkZ4blRXazhHcWwzUGJmTFp6ZzVzNWpIX29UVUhRSUNiODdXTnFDM0cyV2U3QVF6bjZGczJTNXhJYVdaMXQ3RFZ1eDZrU0Q5U1dGQXNvT1gtLTk2SVZzdDQ4T3NEZUROYzR4dG5DaWJtOHlDWHRWYXlKNUV3b1Bud0E?oc=5",
     "summary": "Commure to Deploy Ambient AI Platform to Tenet Physician Resources for Enhanced Clinical Workflows The Manila Times",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-10-25-1uo0tn7",
+    "date": "2024-10-25",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Ambient AI company Suki partners with Zoom on clinical documentation",
+    "source": "Healthcare Brew",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeC1Db1BVb0ZYN0FYYzB4Wno0RFVvUEFkazhHOC0xWWxfb09qV3FaUGNEdGZYX084WUxIVU5ybTdkWjRWY1lFSGVucHdGQ1ZvbUdhcThtQUt0dGtqcFhtcUFHOGFjd1RkalBJTzlzLUJwamk0MUVXbGliTTZCb2gyY0lPM3JORGo1ZDltRFRMc2ZnR2F4SDcyb2JuUnh4ODRvTWtndC1pTW8yRl8tejdtRw?oc=5",
+    "summary": "Ambient AI company Suki partners with Zoom on clinical documentation Healthcare Brew",
     "status": "unverified"
   }
 ]
