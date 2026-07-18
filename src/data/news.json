@@ -190,17 +190,6 @@
     ]
   },
   {
-    "id": "n-2026-06-11-1x9ahj8",
-    "date": "2026-06-11",
-    "title": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it",
-    "source": "Fortune",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUF5S0g4cU0xVlVLNFBrVTcyOVlsVm1VczhYbkd1M3lFck1URWFzb2d4X082OHVqN3lmNVg2c0lWR1d2Y0dxZ3gtNHlpNFExal9PdHBYWUVqVUl4S3A2Y1FBTUNZVEJMdWpwTVp0cEFfYzBEaUE4T2RvZFFzUFM4cURDUzhjcWlBbEZPQm9JVGJoNmJPLVE?oc=5",
-    "summary": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it Fortune",
-    "tags": [
-      "abridge"
-    ]
-  },
-  {
     "id": "n-2026-06-10-1dv5yw0",
     "date": "2026-06-10",
     "title": "Why oncology is becoming healthcare AI's toughest test",
@@ -328,6 +317,17 @@
     "source": "Healthcare IT News",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTUd2Z3hGNU1nRnZOVGVWRlpnYUxfZGw5YmVSRkY5NlNGY1ZncWdCVzJRWFRlZlNUdGdNUnhrNEtNblQ0NjRyR1VPNW9IRm5ETFl1VWd3MkMtZ21WV042WUhFSU9qdXdvckFYTjd3c183Zm1KU1FMZnZxX19BbEUwYlhNckU5ME5vdU5peVJqLUwxTWR6Rzl0TzI0ZUwwRnRSRll5Sy1OalM?oc=5",
     "summary": "Address clinical and IT needs first to help ensure ambient AI success Healthcare IT News",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-05-15-1lss3m",
+    "date": "2026-05-15",
+    "title": "Ambient artificial intelligence scribes reduce clinician documentation time by 16 minutes per encounter",
+    "source": "2 Minute Medicine",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSTBBcEsxTVotdEtXekdxai1vN0R1ZzBMbHhadUhwZFFkVzdRWDljSy1aNjhidGdhMFpzZzVyS3hTWHhDcWktTllaV2MwMmNQcndNeWF3VDZBX1d2cDRFcU81YUJ4M2JLNThGYnNlOXFUTlFmbXUyVUxxU29GSC01NDZfUDJBVlkteXQ2cVRRdjBTV0xVdkZqU0tXSmNVY0hSamhoVmVVczlVbFFqa2xPb3JuLXhKLUJOQThzSC15VGg5VllsS2kzMFA5dUp2aVZIaWc?oc=5",
+    "summary": "Ambient artificial intelligence scribes reduce clinician documentation time by 16 minutes per encounter 2 Minute Medicine",
     "tags": [
       "ambient-ai"
     ]
