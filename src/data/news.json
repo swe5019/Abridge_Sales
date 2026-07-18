@@ -1,5 +1,17 @@
 [
   {
+    "id": "n-2026-07-17-2tbxl4",
+    "date": "2026-07-17",
+    "title": "KLAS Arch Collaborative 2026 Report: Early Insights into Epic AI Adoption and Clinician Experience",
+    "source": "HIT Consultant",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLVlfTmJwZTlFMmkxemhuQnQyUWxEQzV2VG92Y2ZHcXd2ODZOZmR4bWdEVkpveXhlTFBfR196VkVOdktQSUNRRWR2OEQtdm43bjJ2aUp0OUI1V3k2TnZjbDlBdkZfRWVjQTNSMEw4MzBKa25LUjIteW1JeF8wVzNadlY4clI1NTQ5YUhkNUhuR1o5NVE?oc=5",
+    "summary": "KLAS Arch Collaborative 2026 Report: Early Insights into Epic AI Adoption and Clinician Experience HIT Consultant",
+    "tags": [
+      "competitor:epic-native",
+      "klas"
+    ]
+  },
+  {
     "id": "n-2026-07-15-q7ek8h",
     "date": "2026-07-15",
     "title": "athenahealth Selects iScribeHealth as a Preferred Partner for Ambient Clinical Documentation, Elevating a Long-Standing Collaboration",
@@ -54,17 +66,6 @@
     "tags": [
       "ambient-ai",
       "burnout"
-    ]
-  },
-  {
-    "id": "n-2026-07-08-1cdkbyo",
-    "date": "2026-07-08",
-    "title": "AI Medical Scribing Market Size To Exceed $9.67 Billion By 2035",
-    "source": "SNS Insider",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uQzI0eFVibjZ3ZURlX0FTTFAtOHl0S3g4al9FbnpfOEo4bFM0QW9Kc3UweUhHY2ZMSXZaN09KZ0xxSlVJV3FxTmVXajVpa05FQ3hya0liZ2hzSVNQZ2VXdmtwR2JxMkJERC1HRE1Zd0p6YzdGTDlodkdKb3pOWGc?oc=5",
-    "summary": "AI Medical Scribing Market Size To Exceed $9.67 Billion By 2035 SNS Insider",
-    "tags": [
-      "industry"
     ]
   },
   {
@@ -184,6 +185,17 @@
     "source": "PYMNTS.com",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHVJaUZfc2liVjBGUlc2RFlubGdEY2JVMWdhQnVpZ0dmVW40VktwQ2hKMV9rYnFTckpVVE44cmZ4VWY2TkdmYnBEQ0l4S2tDcGNTUUtNWFpodXlhdmNEZ1dvNVFEZFkzY0tiUEh4bWd5eXh2WmxHc2JLYi05ZzBZSVpKQ1hlM2VFTTl4MnItU1lybHVrN3NXc2VMblFHeDA0UW05QXRKXzR1Y08xVXFvOA?oc=5",
     "summary": "Nvidia Taps Abridge to Train AI on Real Doctor Visits PYMNTS.com",
+    "tags": [
+      "abridge"
+    ]
+  },
+  {
+    "id": "n-2026-06-11-1x9ahj8",
+    "date": "2026-06-11",
+    "title": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it",
+    "source": "Fortune",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUF5S0g4cU0xVlVLNFBrVTcyOVlsVm1VczhYbkd1M3lFck1URWFzb2d4X082OHVqN3lmNVg2c0lWR1d2Y0dxZ3gtNHlpNFExal9PdHBYWUVqVUl4S3A2Y1FBTUNZVEJMdWpwTVp0cEFfYzBEaUE4T2RvZFFzUFM4cURDUzhjcWlBbEZPQm9JVGJoNmJPLVE?oc=5",
+    "summary": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it Fortune",
     "tags": [
       "abridge"
     ]
@@ -316,17 +328,6 @@
     "source": "Healthcare IT News",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTUd2Z3hGNU1nRnZOVGVWRlpnYUxfZGw5YmVSRkY5NlNGY1ZncWdCVzJRWFRlZlNUdGdNUnhrNEtNblQ0NjRyR1VPNW9IRm5ETFl1VWd3MkMtZ21WV042WUhFSU9qdXdvckFYTjd3c183Zm1KU1FMZnZxX19BbEUwYlhNckU5ME5vdU5peVJqLUwxTWR6Rzl0TzI0ZUwwRnRSRll5Sy1OalM?oc=5",
     "summary": "Address clinical and IT needs first to help ensure ambient AI success Healthcare IT News",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-05-15-1lss3m",
-    "date": "2026-05-15",
-    "title": "Ambient artificial intelligence scribes reduce clinician documentation time by 16 minutes per encounter",
-    "source": "2 Minute Medicine",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSTBBcEsxTVotdEtXekdxai1vN0R1ZzBMbHhadUhwZFFkVzdRWDljSy1aNjhidGdhMFpzZzVyS3hTWHhDcWktTllaV2MwMmNQcndNeWF3VDZBX1d2cDRFcU81YUJ4M2JLNThGYnNlOXFUTlFmbXUyVUxxU29GSC01NDZfUDJBVlkteXQ2cVRRdjBTV0xVdkZqU0tXSmNVY0hSamhoVmVVczlVbFFqa2xPb3JuLXhKLUJOQThzSC15VGg5VllsS2kzMFA5dUp2aVZIaWc?oc=5",
-    "summary": "Ambient artificial intelligence scribes reduce clinician documentation time by 16 minutes per encounter 2 Minute Medicine",
     "tags": [
       "ambient-ai"
     ]
