@@ -29,15 +29,15 @@
     "hospitals": 33,
     "careSites": 385,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "nuance-dax",
     "physicianCount": 4600,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 5,
+      "greenfield": 2,
       "size": 5,
       "region": 4
     },
-    "notes": "Epic enterprise, strong innovation reputation. High-fit greenfield target.",
+    "notes": "Epic enterprise, strong innovation reputation. High-fit greenfield target. Publicly reported nuance-dax deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://intermountainhealthcare.org/about/who-we-are"
   },
@@ -50,7 +50,7 @@
     "hospitals": 47,
     "careSites": 370,
     "ehr": "Epic",
-    "currentAmbientVendor": "nuance-dax",
+    "currentAmbientVendor": "deepscribe",
     "physicianCount": 4900,
     "fitFactors": {
       "ehrFit": 5,
@@ -58,7 +58,7 @@
       "size": 5,
       "region": 5
     },
-    "notes": "Hospital count includes managed/affiliated facilities. Possible incumbent ambient deployment — treat as displacement / expansion play (verify).",
+    "notes": "Hospital count includes managed/affiliated facilities. Possible incumbent ambient deployment — treat as displacement / expansion play (verify). Publicly reported deepscribe deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.ochsner.org/about-ochsner"
   },
@@ -71,15 +71,15 @@
     "hospitals": 69,
     "careSites": 1000,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "nuance-dax",
     "physicianCount": 5700,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 5,
+      "greenfield": 2,
       "size": 5,
       "region": 5
     },
-    "notes": "Combined Advocate Health enterprise (Atrium + Advocate Aurora), 6 states. Hospital count includes the full enterprise. Flagship greenfield target. Beds = acute-care system total (AHRQ Compendium via Becker’s).",
+    "notes": "Combined Advocate Health enterprise (Atrium + Advocate Aurora), 6 states. Hospital count includes the full enterprise. Flagship greenfield target. Beds = acute-care system total (AHRQ Compendium via Becker’s). Publicly reported nuance-dax deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.advocatehealth.com/about-us/corporate-overview"
   },
@@ -134,15 +134,15 @@
     "hospitals": 12,
     "careSites": 200,
     "ehr": "Cerner / Oracle Health",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "nuance-dax",
     "physicianCount": 4500,
     "fitFactors": {
       "ehrFit": 3,
-      "greenfield": 5,
+      "greenfield": 2,
       "size": 4,
       "region": 5
     },
-    "notes": "Oracle Health shop; integration-led pitch. Greenfield.",
+    "notes": "Oracle Health shop; integration-led pitch. Greenfield. Publicly reported nuance-dax deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://baptisthealth.net/about-baptist-health/facts-and-stats"
   },
@@ -155,7 +155,7 @@
     "hospitals": 27,
     "careSites": 600,
     "ehr": "Epic",
-    "currentAmbientVendor": "ambience",
+    "currentAmbientVendor": "augmedix-commure",
     "physicianCount": 12000,
     "fitFactors": {
       "ehrFit": 5,
@@ -163,7 +163,7 @@
       "size": 5,
       "region": 3
     },
-    "notes": "Physician figure includes affiliated medical-group clinicians. Possible challenger ambient pilot — competitive displacement scenario (verify).",
+    "notes": "Physician figure includes affiliated medical-group clinicians. Possible challenger ambient pilot — competitive displacement scenario (verify). Publicly reported augmedix-commure deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.sutterhealth.org/about-us/sutter-health-overview"
   },
@@ -197,15 +197,15 @@
     "hospitals": 21,
     "careSites": 300,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": 11500,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 5,
+      "greenfield": 1,
       "size": 5,
       "region": 5
     },
-    "notes": "Formed by 2022 Spectrum Health + Beaumont merger. Beds figure is licensed; physician figure includes APPs. Large Midwest Epic enterprise. High priority.",
+    "notes": "Formed by 2022 Spectrum Health + Beaumont merger. Beds figure is licensed; physician figure includes APPs. Large Midwest Epic enterprise. High priority. Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://corewellhealth.org/about"
   },
@@ -260,15 +260,15 @@
     "hospitals": 9,
     "careSites": 220,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "nuance-dax",
     "physicianCount": 2700,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 5,
+      "greenfield": 2,
       "size": 4,
       "region": 4
     },
-    "notes": "Physician figure includes APPs. Epic system. Greenfield, priority region.",
+    "notes": "Physician figure includes APPs. Epic system. Greenfield, priority region. Publicly reported nuance-dax deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.wellspan.org/about-wellspan"
   },
@@ -281,15 +281,15 @@
     "hospitals": 13,
     "careSites": 300,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "ambience",
     "physicianCount": 2300,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 5,
+      "greenfield": 2,
       "size": 4,
       "region": 3
     },
-    "notes": "Beds figure is licensed (2021 filing; likely higher now). Pacific NW Epic system. Greenfield.",
+    "notes": "Beds figure is licensed (2021 filing; likely higher now). Pacific NW Epic system. Greenfield. Publicly reported ambience deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.multicare.org/newsroom/organization-facts/"
   },
@@ -302,15 +302,15 @@
     "hospitals": 17,
     "careSites": 280,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "ambience",
     "physicianCount": 5500,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 5,
+      "greenfield": 2,
       "size": 5,
       "region": 4
     },
-    "notes": "14 owned/operated + 3 JV hospitals. Beds figure is licensed; physician figure is affiliated. Large Houston Epic enterprise. High priority greenfield.",
+    "notes": "14 owned/operated + 3 JV hospitals. Beds figure is licensed; physician figure is affiliated. Large Houston Epic enterprise. High priority greenfield. Publicly reported ambience deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://memorialhermann.org/about-us/newsroom/facts-figures"
   },
@@ -323,7 +323,7 @@
     "hospitals": 19,
     "careSites": 320,
     "ehr": "Epic",
-    "currentAmbientVendor": "suki",
+    "currentAmbientVendor": null,
     "physicianCount": 2200,
     "fitFactors": {
       "ehrFit": 5,
@@ -386,15 +386,15 @@
     "hospitals": 190,
     "careSites": null,
     "ehr": "Meditech",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "augmedix-commure",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 3,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 5,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported augmedix-commure deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000860730&type=10-K"
   },
@@ -428,15 +428,15 @@
     "hospitals": 137,
     "careSites": null,
     "ehr": "Unknown",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "augmedix-commure",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 3,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 5,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported augmedix-commure deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.beckershospitalreview.com/rankings-and-ratings/25-largest-health-systems-by-hospital-beds-2024/"
   },
@@ -638,15 +638,15 @@
     "hospitals": 51,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "nuance-dax",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 5,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported nuance-dax deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.beckershospitalreview.com/rankings-and-ratings/25-largest-health-systems-by-hospital-beds-2024/"
   },
@@ -659,15 +659,15 @@
     "hospitals": 49,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 5,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://www.beckershospitalreview.com/rankings-and-ratings/25-largest-health-systems-by-hospital-beds-2024/"
   },
@@ -743,15 +743,15 @@
     "hospitals": 40,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 5,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://www.upmc.com/about/facts/numbers"
   },
@@ -764,15 +764,15 @@
     "hospitals": 40,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 5,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://www.beckershospitalreview.com/rankings-and-ratings/25-largest-health-systems-by-hospital-beds-2024/"
   },
@@ -827,15 +827,15 @@
     "hospitals": 30,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "ambience",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 5,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported ambience deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.beckershospitalreview.com/rankings-and-ratings/40-largest-health-systems-in-the-us-2024/"
   },
@@ -848,15 +848,15 @@
     "hospitals": 22,
     "careSites": null,
     "ehr": "Unknown",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 3,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 5,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://www.beckershospitalreview.com/rankings-and-ratings/25-largest-health-systems-by-hospital-beds-2024/"
   },
@@ -974,15 +974,15 @@
     "hospitals": 23,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "ambience",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 5,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported ambience deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://my.clevelandclinic.org/about/overview/who-we-are/facts-figures"
   },
@@ -1100,15 +1100,15 @@
     "hospitals": 16,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "nuance-dax",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 4,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported nuance-dax deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.massgeneralbrigham.org/en/about"
   },
@@ -1121,15 +1121,15 @@
     "hospitals": 6,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 3,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://www.hopkinsmedicine.org/about"
   },
@@ -1142,15 +1142,15 @@
     "hospitals": 4,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 4,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://corporate.dukehealth.org/clinical-care/health-system-overview"
   },
@@ -1163,15 +1163,15 @@
     "hospitals": 15,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 4,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://www.uncmedicalcenter.org/uncmc/about/"
   },
@@ -1184,15 +1184,15 @@
     "hospitals": 7,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "nuance-dax",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 3,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported nuance-dax deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.vumc.org/main/about"
   },
@@ -1205,15 +1205,15 @@
     "hospitals": 11,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 4,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://www.emoryhealthcare.org/about"
   },
@@ -1247,15 +1247,15 @@
     "hospitals": 3,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "ambience",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 2,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported ambience deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.ucsfhealth.org/about"
   },
@@ -1268,15 +1268,15 @@
     "hospitals": 3,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "nuance-dax",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 2,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported nuance-dax deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://stanfordhealthcare.org/about-us.html"
   },
@@ -1352,15 +1352,15 @@
     "hospitals": 5,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 4,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://www.ynhhs.org/about/corporate-overview/system-statistics"
   },
@@ -1457,15 +1457,15 @@
     "hospitals": 16,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 4,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://www.ohiohealth.com/about-us/"
   },
@@ -1499,15 +1499,15 @@
     "hospitals": 3,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "suki",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 2,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported suki deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.rush.edu/about-us/about-our-system"
   },
@@ -1562,15 +1562,15 @@
     "hospitals": 10,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "nabla",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 5,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported nabla deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.mhealthfairview.org/about-us"
   },
@@ -1625,15 +1625,15 @@
     "hospitals": 5,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 4,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://www.inova.org/about-inova"
   },
@@ -1688,15 +1688,15 @@
     "hospitals": 2,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "nuance-dax",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 2,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported nuance-dax deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.tgh.org/about-tgh/tgh-fact-sheet"
   },
@@ -1730,15 +1730,15 @@
     "hospitals": 8,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "ambience",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 3,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported ambience deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.houstonmethodist.org/newsroom/facts-statistics/"
   },
@@ -1793,15 +1793,15 @@
     "hospitals": 11,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "nuance-dax",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 4,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported nuance-dax deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.nm.org/about-us"
   },
@@ -1814,15 +1814,15 @@
     "hospitals": 7,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "nuance-dax",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 4,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported nuance-dax deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://wexnermedical.osu.edu/about-us"
   },
@@ -1835,15 +1835,15 @@
     "hospitals": 3,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 2,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://www.uchicagomedicine.org/about-us/overview-and-facts-at-a-glance"
   },
@@ -1898,15 +1898,15 @@
     "hospitals": 13,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 4,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://www.uchealth.org/about/"
   },
@@ -1919,15 +1919,15 @@
     "hospitals": 3,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 3,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://www.kansashealthsystem.com/about"
   },
@@ -1961,15 +1961,15 @@
     "hospitals": 10,
     "careSites": null,
     "ehr": "Cerner / Oracle Health",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "suki",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 3,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 4,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported suki deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.medstarhealth.org/about/facts-and-figures"
   },
@@ -2024,15 +2024,15 @@
     "hospitals": 16,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 4,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://www.mayoclinic.org/about-mayo-clinic"
   },
@@ -2255,15 +2255,15 @@
     "hospitals": 7,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 3,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://hartfordhealthcare.org/about-us"
   },
@@ -2381,15 +2381,15 @@
     "hospitals": 13,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 4,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://www.mainehealth.org/about-us"
   },
@@ -2570,15 +2570,15 @@
     "hospitals": 5,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 3,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://www.riversideonline.com/about-us"
   },
@@ -2633,15 +2633,15 @@
     "hospitals": 5,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "epic-native",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 3,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported epic-native deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.wakemed.org/about-us"
   },
@@ -2780,15 +2780,15 @@
     "hospitals": 9,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "nuance-dax",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 3,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported nuance-dax deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.ecommunity.com/about"
   },
@@ -2843,15 +2843,15 @@
     "hospitals": 5,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "nabla",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 3,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported nabla deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://carle.org/about"
   },
@@ -2864,15 +2864,15 @@
     "hospitals": 9,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 3,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://www.endeavorhealth.org/about"
   },
@@ -3074,15 +3074,15 @@
     "hospitals": 4,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 4,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://www.sharp.com/about/fact-sheet"
   },
@@ -3137,15 +3137,15 @@
     "hospitals": 2,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "ambience",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 2,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported ambience deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.johnmuirhealth.com/about-john-muir-health.html"
   },
@@ -3326,15 +3326,15 @@
     "hospitals": 6,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "ambience",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 3,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported ambience deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.stlukesonline.org/about-st-lukes"
   },
