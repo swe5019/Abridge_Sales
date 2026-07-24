@@ -25,8 +25,8 @@ export default function CompetitorLandscape() {
         <div className="eyebrow">Market Map</div>
         <h1>Competitor Landscape</h1>
         <p>
-          The ambient clinical documentation field, grouped by competitor type. Vendor identities
-          and positioning are public; client counts below are illustrative samples.
+          The ambient clinical documentation field, grouped by competitor type. Vendor identities,
+          positioning, and the client counts below are all drawn from public announcements.
         </p>
       </div>
 
@@ -52,7 +52,7 @@ export default function CompetitorLandscape() {
                   ))}
                 </div>
                 <div className="spread" style={{ fontSize: 13 }}>
-                  <span className="muted">{clientCount(c.id)} sample client(s) tracked</span>
+                  <span className="muted">{clientCount(c.id)} public client(s) tracked</span>
                   {hasBattlecard(c.id) && (
                     <Link className="pill-link" to={`/battlecards/${c.id}`}>
                       Battlecard →
