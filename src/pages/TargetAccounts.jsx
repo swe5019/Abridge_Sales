@@ -18,7 +18,12 @@ const enriched = accounts.map((a) => ({
   ...a,
   sizeBand: a.beds != null ? bandForBeds(a.beds, meta.sizeBands) : 'Unknown',
   fitScore: computeFitScore(a),
-  vendorLabel: a.currentAmbientVendor ? competitorName(a.currentAmbientVendor) : 'None (greenfield)',
+  vendorLabel:
+    a.currentAmbientVendor === 'abridge'
+      ? 'Abridge (customer)'
+      : a.currentAmbientVendor
+        ? competitorName(a.currentAmbientVendor)
+        : 'No known vendor',
 }))
 
 const FIT_RANGES = [
@@ -95,10 +100,12 @@ export default function TargetAccounts() {
       key: 'vendorLabel',
       label: 'Current Vendor',
       render: (r) =>
-        r.currentAmbientVendor ? (
+        r.currentAmbientVendor === 'abridge' ? (
+          <span className="badge known">✓ Abridge customer</span>
+        ) : r.currentAmbientVendor ? (
           <span className="badge cat">{r.vendorLabel}</span>
         ) : (
-          <span className="muted">None (greenfield)</span>
+          <span className="muted">No known vendor</span>
         ),
     },
     {
@@ -207,7 +214,12 @@ function AccountDetail({ account, onClose }) {
           )}
           <h3 style={{ marginTop: 16 }}>Suggested talking points</h3>
           <ul className="list-clean">
-            {account.currentAmbientVendor ? (
+            {account.currentAmbientVendor === 'abridge' ? (
+              <li>
+                <strong>Existing Abridge customer</strong> — expansion / land-and-expand. Focus on
+                adoption, new service lines, and deeper EHR workflows, not a new-logo pitch.
+              </li>
+            ) : account.currentAmbientVendor ? (
               <li>
                 Displacement play — they may already run{' '}
                 <strong>{account.vendorLabel}</strong>. Lead with #1 KLAS note quality and a
@@ -215,8 +227,8 @@ function AccountDetail({ account, onClose }) {
               </li>
             ) : (
               <li>
-                Greenfield — no incumbent ambient vendor. Lead with clinician burnout / retention
-                and the #1 KLAS ranking.
+                No known incumbent — likely greenfield (unverified). Lead with clinician burnout /
+                retention and the #1 KLAS ranking.
               </li>
             )}
             {account.ehr === 'Epic' ? (
