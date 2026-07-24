@@ -90,6 +90,17 @@
     ]
   },
   {
+    "id": "n-2026-06-23-1dsuc5g",
+    "date": "2026-06-23",
+    "title": "Ambience Healthcare Unveils AI-Native Inpatient Nursing Suite to Reduce Cognitive Burden",
+    "source": "HIT Consultant",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOamJHVlltVUk3dVM4b2hsUTd1VWp5V0toMm8tSGhlTDBaYWxCRG5CbDJyRVYzdFBpcDBST0swWnFUN2t3UldBdXFwcjB5VV9XLTJsbGRkVEhUaUl2WVRkUmU1Q3JjX051WFhLN1BHeFZlV0VXOVRDZWFVRFNmOFRxR3lveXh2TkM4VjJURWNlR2l1TzV6?oc=5",
+    "summary": "Ambience Healthcare Unveils AI-Native Inpatient Nursing Suite to Reduce Cognitive Burden HIT Consultant",
+    "tags": [
+      "competitor:ambience"
+    ]
+  },
+  {
     "id": "n-2026-06-22-1vtku3c",
     "date": "2026-06-22",
     "title": "As AI Listens to Patients, Physicians Face New Questions",
@@ -233,6 +244,17 @@
     ]
   },
   {
+    "id": "n-2026-06-03-1oympoc",
+    "date": "2026-06-03",
+    "title": "JAMA: AI Scribes Cut EHR Documentation Time for Clinicians",
+    "source": "Telehealth.org",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV20ySkZ1Qy05R01ROUI5ZS1rSHpGMVhiQzlONVRqNnJMRWplZEpOMHdsUk9rcDJCSEkxRDJ1ZXJTemFuSmNqekVHRE9FNWxYRXQ4SnhzRk1xc29PRkJJaDBpMEpPM2gzNWNpUmpCM3B2N0JwSVlJdmVYMFFtLWk0U2ZkenE5N3FpNkV3YkZPM1hZcVV0Y2d5SHRXRG5oaHdMSWtPLW5JbjR3ZGJpc2R0UQ?oc=5",
+    "summary": "JAMA: AI Scribes Cut EHR Documentation Time for Clinicians Telehealth.org",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-06-03-t02kaz",
     "date": "2026-06-03",
     "title": "Large JAMA Study Finds AI Scribes Cut Documentation Time for Ambulatory Clinicians",
@@ -307,28 +329,6 @@
     "summary": "Address clinical and IT needs first to help ensure ambient AI success Healthcare IT News",
     "tags": [
       "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-05-15-1lss3m",
-    "date": "2026-05-15",
-    "title": "Ambient artificial intelligence scribes reduce clinician documentation time by 16 minutes per encounter",
-    "source": "2 Minute Medicine",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSTBBcEsxTVotdEtXekdxai1vN0R1ZzBMbHhadUhwZFFkVzdRWDljSy1aNjhidGdhMFpzZzVyS3hTWHhDcWktTllaV2MwMmNQcndNeWF3VDZBX1d2cDRFcU81YUJ4M2JLNThGYnNlOXFUTlFmbXUyVUxxU29GSC01NDZfUDJBVlkteXQ2cVRRdjBTV0xVdkZqU0tXSmNVY0hSamhoVmVVczlVbFFqa2xPb3JuLXhKLUJOQThzSC15VGg5VllsS2kzMFA5dUp2aVZIaWc?oc=5",
-    "summary": "Ambient artificial intelligence scribes reduce clinician documentation time by 16 minutes per encounter 2 Minute Medicine",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-05-14-q0kgju",
-    "date": "2026-05-14",
-    "title": "Agentic AI discharge summaries linked to safety, clinician wellbeing",
-    "source": "TechTarget",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc2s4UU8wdGpuYnFRbGRMdXhlbzJ1MzBqMEU1TEs1VXl5dW9GaG02NUhLbmRrYVJuMlZCYk1hOW9KYkxGYWYtR1NGQWdJaVlwZWljYVdrbURoUU9nenp3dDBkN291bllQaE9vMnoySlFDN2hzd0hNczh4WTdkSVpZVEU3d2hRUVJWSWg5dVRzVmVRSXJ4ZU1SUkZaMElEanpseWJBQUNWUm8zWklUWEl5bnU4QzVoem9TNHJnY0xUcWF1Zw?oc=5",
-    "summary": "Agentic AI discharge summaries linked to safety, clinician wellbeing TechTarget",
-    "tags": [
-      "industry"
     ]
   }
 ]
