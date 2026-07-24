@@ -2108,17 +2108,17 @@
     "hospitals": 16,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 4,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer — Highmark Health (AHN's parent) announced a system-wide Abridge collaboration across its payer-provider ecosystem (Aug 2025). Expansion / land-and-expand motion, not a greenfield prospect.",
     "sourceConfidence": "known-public",
-    "source": "https://www.ahn.org/"
+    "source": "https://www.prnewswire.com/news-releases/first-of-its-kind-relationship-highmark-health-abridge-announce-unique-collaboration-to-scale-and-deploy-ai-technologies-across-an-entire-payer-provider-ecosystem-302527334.html"
   },
   {
     "id": "ta-102",
