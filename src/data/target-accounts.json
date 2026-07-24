@@ -554,15 +554,15 @@
     "hospitals": 61,
     "careSites": null,
     "ehr": "Unknown",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 3,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 5,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://www.beckershospitalreview.com/rankings-and-ratings/40-largest-health-systems-in-the-us-2024/"
   },
@@ -617,15 +617,15 @@
     "hospitals": 51,
     "careSites": null,
     "ehr": "Unknown",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "nuance-dax",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 3,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 5,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported nuance-dax deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.beckershospitalreview.com/rankings-and-ratings/25-largest-health-systems-by-hospital-beds-2024/"
   },
@@ -911,15 +911,15 @@
     "hospitals": 25,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 5,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://wvumedicine.org/"
   },
@@ -1226,15 +1226,15 @@
     "hospitals": 5,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "nabla",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 3,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported nabla deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.uclahealth.org/about-us"
   },
@@ -1331,15 +1331,15 @@
     "hospitals": 4,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 3,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://www.uwmedicine.org/about"
   },
@@ -1394,15 +1394,15 @@
     "hospitals": 7,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "nuance-dax",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 5,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported nuance-dax deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.mountsinai.org/about"
   },
@@ -1415,15 +1415,15 @@
     "hospitals": 5,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "abridge",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 1,
       "size": 4,
       "region": 4
     },
-    "notes": "",
+    "notes": "Existing Abridge customer (publicly announced) — expansion motion.",
     "sourceConfidence": "known-public",
     "source": "https://nyulangone.org/news/nyu-langone-health-facts-glance"
   },
@@ -1436,15 +1436,15 @@
     "hospitals": 6,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "nuance-dax",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 3,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported nuance-dax deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.pennmedicine.org/about"
   },
@@ -1604,15 +1604,15 @@
     "hospitals": 32,
     "careSites": null,
     "ehr": "Epic",
-    "currentAmbientVendor": null,
+    "currentAmbientVendor": "nuance-dax",
     "physicianCount": null,
     "fitFactors": {
       "ehrFit": 5,
-      "greenfield": 4,
+      "greenfield": 2,
       "size": 5,
       "region": 4
     },
-    "notes": "",
+    "notes": "Publicly reported nuance-dax deployment — displacement target.",
     "sourceConfidence": "known-public",
     "source": "https://www.jeffersonhealth.org/about-us"
   },

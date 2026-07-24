@@ -625,5 +625,60 @@
     "relationshipType": "deployment",
     "publicSource": "https://www.getfreed.ai/blog/case-study-camarena-health",
     "sourceConfidence": "known-public"
+  },
+  {
+    "id": "cc-058",
+    "competitorId": "nuance-dax",
+    "healthSystem": "Mount Sinai Health System",
+    "ehr": "Epic",
+    "region": "Northeast",
+    "state": "NY",
+    "relationshipType": "deployment",
+    "publicSource": "https://medcitynews.com/2026/02/mount-sinai-microsoft-clinical-documentation/",
+    "sourceConfidence": "known-public"
+  },
+  {
+    "id": "cc-059",
+    "competitorId": "nuance-dax",
+    "healthSystem": "Penn Medicine",
+    "ehr": "Epic",
+    "region": "Northeast",
+    "state": "PA",
+    "relationshipType": "deployment",
+    "publicSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11840636/",
+    "sourceConfidence": "known-public"
+  },
+  {
+    "id": "cc-060",
+    "competitorId": "nuance-dax",
+    "healthSystem": "Jefferson Health",
+    "ehr": "Epic",
+    "region": "Northeast",
+    "state": "PA",
+    "relationshipType": "deployment",
+    "publicSource": "https://www.ama-assn.org/practice-management/digital-health/health-ai-jefferson-health-moves-quickly-care",
+    "sourceConfidence": "known-public"
+  },
+  {
+    "id": "cc-061",
+    "competitorId": "nuance-dax",
+    "healthSystem": "AdventHealth",
+    "ehr": "Epic",
+    "region": "Southeast",
+    "state": "FL",
+    "relationshipType": "deployment",
+    "publicSource": "https://www.aha.org/aha-center-health-innovation-market-scan/2026-04-14-6-health-systems-enhancing-care-delivery-ambient-ai-scribes",
+    "sourceConfidence": "known-public"
+  },
+  {
+    "id": "cc-062",
+    "competitorId": "nabla",
+    "healthSystem": "UCLA Health",
+    "ehr": "Epic",
+    "region": "West",
+    "state": "CA",
+    "relationshipType": "deployment",
+    "publicSource": "https://www.uclahealth.org/news/release/ucla-study-finds-ai-scribes-may-reduce-documentation-time",
+    "sourceConfidence": "known-public"
   }
 ]
