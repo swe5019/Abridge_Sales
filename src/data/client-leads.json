@@ -77,17 +77,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2026-01-15-fgqqj6",
-    "date": "2026-01-15",
-    "competitorId": "nabla",
-    "competitorName": "Nabla Copilot",
-    "title": "Aultman Health System Deploys Nabla’s Ambient AI within Oracle Cerner EHR",
-    "source": "HIT Consultant",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRGtUTHQ2Y0ctMV9CamJqLWdJWlFkTW1TYjhmbmxpXy1LclZXS095MS1BaG5SbnpwSHNNVk9uZUZJWUNCeHZaVlZJUlhfQlJEcHhLWnNtUzVmd2pRLTkzNGNRU1lRR2ptS2h6Yjg4dlZnVGVKYnlONUszRUhjX0l4VkpVTFJjcFZDNGlJdXBPa0dVUlJqX3hNejhHQkdVQQ?oc=5",
-    "summary": "Aultman Health System Deploys Nabla’s Ambient AI within Oracle Cerner EHR HIT Consultant",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-12-03-b7cemm",
     "date": "2025-12-03",
     "competitorId": "nabla",
@@ -547,6 +536,17 @@
     "source": "Healthcare Dive",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTl9oZVA4QzFCbUFPcnh4dWxpY2syU0lQYlVoSHFrcUhtWmFzRWc4VHJ4QjZVOThqaGtCQmNPZVpfZ1dwQTNvdjIzWFNJN0RSbXJ1WDFWYVpwUzRSNld1MzFWd1Y3T3JrYTlSNWtfV0lsclRXb0NnNTN1YzExWWZ4OHN2Y2J6SzJhOHlFSVpCcEJibUFmcW5SUg?oc=5",
     "summary": "Tenet to deploy Commure’s AI scribe at physician network Healthcare Dive",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-11-21-eioqo8",
+    "date": "2024-11-21",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "Commure rolls out AI scribe for Tenet Healthcare after yearlong customized build",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0h5Y0V4MTFnZkJUU0RoNmptSEtmLWgyRFo3TTVXdVQ3VmRSa2FJUDdYWG9DQlNYOFlnSXZicmszZVJUUDBaQm1kVlpVR3RhQ0t4cmMxSVdtc05mZllKMllXSVZaekJjRy01aTM5Vzc4dWtoNGdQbkxET1R1a0d0N3hraE5zTm41RENHdC12UkNSNGppUHlRV3lndE5IMmVBU2xybm83U3Q4OURDcEVNWkh5amtZWkZVQ0JHNHlzU3lzX2l4TkF3?oc=5",
+    "summary": "Commure rolls out AI scribe for Tenet Healthcare after yearlong customized build Fierce Healthcare",
     "status": "unverified"
   }
 ]
