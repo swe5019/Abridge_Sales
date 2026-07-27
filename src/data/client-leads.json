@@ -44,6 +44,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2026-04-01-1sd6p8p",
+    "date": "2026-04-01",
+    "competitorId": "nabla",
+    "competitorName": "Nabla Copilot",
+    "title": "University of Toledo Health to Deploy Nabla’s Ambient AI Documentation in Epic EHR",
+    "source": "HIT Consultant",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa2RZSEdBVkgzZ2swTk5sSXpaZG4wWGZ1Wkk3Z2VaODNZdjBUYkh0VGw0bTFDcmE1U281Y2RBYXBMQ3FuYkhERU9relhZWVEwdTNKem5aTjh2eTFlZk5NUTZ5bGJRd1RFQU9mcHJJdEJQLWhYellNeV9KalBobVVLRlF6c1VVZk02UmZid3d5RHh5TDh1d0hNekxYcFlYZw?oc=5",
+    "summary": "University of Toledo Health to Deploy Nabla’s Ambient AI Documentation in Epic EHR HIT Consultant",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2026-02-05-1awsm6s",
     "date": "2026-02-05",
     "competitorId": "nabla",
@@ -96,17 +107,6 @@
     "source": "Epic Systems",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkxtOTJkYmJKNnd4ejFZMVJacVh0blplWEhyRjZPd0FWUFpKYVVGeXdReFBCbFZMTE80QnZkNFhPUnhIZlhNdGZXWUFqaW5Gb0l0cE80V1Nqcm5ScFFlOGxjcDczeUVaVHVfbE5JRE9ITmhiTFFmb25uTjM2Tnc2NDhGLUZSTUZXa2ZqN0xwazJUYmNZaFI3VW1rRXdLT3ZuSWx0MEk1S2VNLXRDSU1yaUJDZw?oc=5",
     "summary": "Epic AI Charting Rolls Out Alongside an Expanding Set of Built-in AI Capabilities Epic Systems",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2026-01-15-fgqqj6",
-    "date": "2026-01-15",
-    "competitorId": "nabla",
-    "competitorName": "Nabla Copilot",
-    "title": "Aultman Health System Deploys Nabla’s Ambient AI within Oracle Cerner EHR",
-    "source": "HIT Consultant",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRGtUTHQ2Y0ctMV9CamJqLWdJWlFkTW1TYjhmbmxpXy1LclZXS095MS1BaG5SbnpwSHNNVk9uZUZJWUNCeHZaVlZJUlhfQlJEcHhLWnNtUzVmd2pRLTkzNGNRU1lRR2ptS2h6Yjg4dlZnVGVKYnlONUszRUhjX0l4VkpVTFJjcFZDNGlJdXBPa0dVUlJqX3hNejhHQkdVQQ?oc=5",
-    "summary": "Aultman Health System Deploys Nabla’s Ambient AI within Oracle Cerner EHR HIT Consultant",
     "status": "unverified"
   },
   {
@@ -440,6 +440,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-01-22-pipn4v",
+    "date": "2025-01-22",
+    "competitorId": "deepscribe",
+    "competitorName": "DeepScribe",
+    "title": "Flatiron Health, DeepScribe Unveil Partnership to Provide Oncology-Specific Ambient AI",
+    "source": "The American Journal of Managed Care",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmpBRWdTdzJjYWduMmNyU0JYUlZybVZ1Q2J0MmRBY2N0bEZYQkNKZWF0NDR2ZmwwSlR4SzVaMVdKODhWTHBJLXZSbW9HUUUtTHpLcUlTamlCaDNPbFdEUExGNVNQdHZMR0dzSElrWXJUWE05aUhqUTJtSU5WSHdHbkJoc3pCNjJOV2ZkMnJlUG1yTmJiMU5FQ3hjU0E0amhwVGtYWmtjUFNpcTJhYzZQSA?oc=5",
+    "summary": "Flatiron Health, DeepScribe Unveil Partnership to Provide Oncology-Specific Ambient AI The American Journal of Managed Care",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-01-22-u29d6g",
     "date": "2025-01-22",
     "competitorId": "deepscribe",
@@ -536,17 +547,6 @@
     "source": "Healthcare Dive",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTl9oZVA4QzFCbUFPcnh4dWxpY2syU0lQYlVoSHFrcUhtWmFzRWc4VHJ4QjZVOThqaGtCQmNPZVpfZ1dwQTNvdjIzWFNJN0RSbXJ1WDFWYVpwUzRSNld1MzFWd1Y3T3JrYTlSNWtfV0lsclRXb0NnNTN1YzExWWZ4OHN2Y2J6SzJhOHlFSVpCcEJibUFmcW5SUg?oc=5",
     "summary": "Tenet to deploy Commure’s AI scribe at physician network Healthcare Dive",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2024-11-21-eioqo8",
-    "date": "2024-11-21",
-    "competitorId": "augmedix-commure",
-    "competitorName": "Augmedix (Commure)",
-    "title": "Commure rolls out AI scribe for Tenet Healthcare after yearlong customized build",
-    "source": "Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0h5Y0V4MTFnZkJUU0RoNmptSEtmLWgyRFo3TTVXdVQ3VmRSa2FJUDdYWG9DQlNYOFlnSXZicmszZVJUUDBaQm1kVlpVR3RhQ0t4cmMxSVdtc05mZllKMllXSVZaekJjRy01aTM5Vzc4dWtoNGdQbkxET1R1a0d0N3hraE5zTm41RENHdC12UkNSNGppUHlRV3lndE5IMmVBU2xybm83U3Q4OURDcEVNWkh5amtZWkZVQ0JHNHlzU3lzX2l4TkF3?oc=5",
-    "summary": "Commure rolls out AI scribe for Tenet Healthcare after yearlong customized build Fierce Healthcare",
     "status": "unverified"
   }
 ]
