@@ -1,11 +1,22 @@
 [
   {
+    "id": "n-2026-07-29-wom2rw",
+    "date": "2026-07-29",
+    "title": "Two visions for ambient AI and the future of the EHR",
+    "source": "Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcTRUQVFSNWJXYno0bDJxZkllNzVQRmltOGZXU3k4WnJvbE9WcGtqMWc3ZGw0bC1DQkR3cjlpcm1wNXkzM1dETnAzY1AwMnNDemduSEtJQnk4UUx1RWZjQ0xwU2tCR1FyRDJXNFdWRm5uWGdBczZOWTROX05Td05UUg?oc=5",
+    "summary": "Two visions for ambient AI and the future of the EHR Healthcare IT News",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-07-29-1n8mamf",
     "date": "2026-07-29",
     "title": "Mount Sinai Extends Epic Ambient AI Tool to Nurses After Cutting Physician Documentation Time",
-    "source": "AIM Media House",
+    "source": "aimmediahouse.com",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcjRTTmo0b2pJczFvWHBkQ2pZS0g2eXFqc3h0Y2p3ZGljbHJuWmhyX3RBU29DdlZZc2lCeVRleU1SaGpIZmduUmpzVEQtT1lXV1RmNUpzMno5UDlTSmJfLTVqZVJzUUQ4NDBOZmh1eDhIYUxkZEpVRGJzWHJPUDMxUzJEX3JSa3BPcmZkZ3p3QV9IZjRya09YLW9TUEw5cjJxNlk0Q3FlTDV2eTFCNEFkejIxQTlJckR5UnRVa3BiX043Q2pBakJ1c3NOTzhES1c1ZmNBOFZqVkJjRmvSAdsBQVVfeXFMUHI0U05qNG9qSXMxb1hwZENqWUtINnlxanN4dGNqd2RpY2xyblpocl90QVNvQ3ZWWXNpQnlUZXlNUmhqSGZnblJqc1RELU9ZV1dUZjVKczJ6OVA5U0piXy01amVSc1FEODQwTmZodXg4SGFMZGRKVURic1hyT1AzMVMyRF9yUmtwT3JmZGd6d0FfSGY0cmtPWC1vU1BMOXIycTZZNENxZUw1dnkxQjRBZHoyMUE5SXJEeVJ0VWtwYl9ON0NqQWpCdXNzTk84REtXNWZjQThWalZCY0Zr?oc=5",
-    "summary": "Mount Sinai Extends Epic Ambient AI Tool to Nurses After Cutting Physician Documentation Time AIM Media House",
+    "summary": "Mount Sinai Extends Epic Ambient AI Tool to Nurses After Cutting Physician Documentation Time aimmediahouse.com",
     "tags": [
       "competitor:epic-native",
       "ambient-ai"
@@ -219,9 +230,9 @@
     "id": "n-2026-06-12-lb51gy",
     "date": "2026-06-12",
     "title": "Health Brief: The AI scribe evolution",
-    "source": "The Washington Post",
+    "source": "washingtonpost.com",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQVRoMTZGYUsyQkpDZDE2dnVpTDNkQkFmXzdKcUtLTmdMNmdoSG4wSFlzTTBpVlRDUW9sdjNOdV9IbXhfcS1Va2xuaUlUWUF3cE9vT21lTDNlTTR1U3lCdmM5TWhKR0daWTFJRlhZM3pyS1BsNW1uYW1YYnRmVnVvVV9GMkx0ZVJCWVN0MFc2Q093d2pFUHVIVVdEblM4Um1sMHZycXJWRQ?oc=5",
-    "summary": "Health Brief: The AI scribe evolution The Washington Post",
+    "summary": "Health Brief: The AI scribe evolution washingtonpost.com",
     "tags": [
       "ambient-ai"
     ]
@@ -249,17 +260,6 @@
     ]
   },
   {
-    "id": "n-2026-06-11-16d6xws",
-    "date": "2026-06-11",
-    "title": "Nvidia Taps Abridge to Train AI on Real Doctor Visits",
-    "source": "PYMNTS.com",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHVJaUZfc2liVjBGUlc2RFlubGdEY2JVMWdhQnVpZ0dmVW40VktwQ2hKMV9rYnFTckpVVE44cmZ4VWY2TkdmYnBEQ0l4S2tDcGNTUUtNWFpodXlhdmNEZ1dvNVFEZFkzY0tiUEh4bWd5eXh2WmxHc2JLYi05ZzBZSVpKQ1hlM2VFTTl4MnItU1lybHVrN3NXc2VMblFHeDA0UW05QXRKXzR1Y08xVXFvOA?oc=5",
-    "summary": "Nvidia Taps Abridge to Train AI on Real Doctor Visits PYMNTS.com",
-    "tags": [
-      "abridge"
-    ]
-  },
-  {
     "id": "n-2026-06-10-1dv5yw0",
     "date": "2026-06-10",
     "title": "Why oncology is becoming healthcare AI's toughest test",
@@ -274,9 +274,9 @@
     "id": "n-2026-06-10-1gvwwdg",
     "date": "2026-06-10",
     "title": "Ambient artificial intelligence scribes used for billing may increase health care spending and erode patient trust",
-    "source": "verahealth.ai",
+    "source": "Vera Health",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYlpwYjVHdW9Vc0VsTDlhcUd5T0c4RlhqcUZtN19pYnIzczNBVHRRLUF1bFdGblE0Q0JkOFVJek5rVmZGcVJDT2Y1dGNRV0o2S0N3WExEU0FhV0syY1psNTBjcjR1UEdIMjJZdVVMNzFxMVFNcFR4RTd3cW5jZU5ZdlROWlkxQmgwcVNLLUVqZzBqOFhPZks2bHhEOVpENmJXQzgtaW5PLXJNTFdqaVZB?oc=5",
-    "summary": "Ambient artificial intelligence scribes used for billing may increase health care spending and erode patient trust verahealth.ai",
+    "summary": "Ambient artificial intelligence scribes used for billing may increase health care spending and erode patient trust Vera Health",
     "tags": [
       "ambient-ai"
     ]
