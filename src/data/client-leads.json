@@ -110,17 +110,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2026-01-15-fgqqj6",
-    "date": "2026-01-15",
-    "competitorId": "nabla",
-    "competitorName": "Nabla Copilot",
-    "title": "Aultman Health System Deploys Nabla’s Ambient AI within Oracle Cerner EHR",
-    "source": "HIT Consultant",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRGtUTHQ2Y0ctMV9CamJqLWdJWlFkTW1TYjhmbmxpXy1LclZXS095MS1BaG5SbnpwSHNNVk9uZUZJWUNCeHZaVlZJUlhfQlJEcHhLWnNtUzVmd2pRLTkzNGNRU1lRR2ptS2h6Yjg4dlZnVGVKYnlONUszRUhjX0l4VkpVTFJjcFZDNGlJdXBPa0dVUlJqX3hNejhHQkdVQQ?oc=5",
-    "summary": "Aultman Health System Deploys Nabla’s Ambient AI within Oracle Cerner EHR HIT Consultant",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-12-03-b7cemm",
     "date": "2025-12-03",
     "competitorId": "nabla",
@@ -547,6 +536,17 @@
     "source": "CNBC",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQm42WHRpUFpDeFNRTUkzcW1GRDBTUm94VGdCdlR1bFZveXBHdUJtZ21rcXdUcGJ1bTg0RTJUTzBrWnFvSVdBMTZRbkY2X1BmdFpLMS16QkdJcjF1VmY4aDM3YkwxOVE2alNQUXI2d2x0Qi0td1ZESGw5UE55dFVKbEU3Wmlkck1nbFRxRk9oTkNSSVR4YldVNWFZcnktaEnSAaQBQVVfeXFMT2hlS2tJMzlyRTZ1aGgwdDMxMVlkX20zUVZoaV95d28tcndIM1B3eHFLZFlYdXUtQ182cFp1XzhUcUpFVG9JWTdzYWx2a08tOXZPZVRGckJreHZJUjh2U3JFbGhUQy04Rm5kZlo4SnI1bDZqNWNKb2dNck5FTDc0NlpGVkpkZHRpVXZMN3luWmU3b1NQbEh2aFJ0ZmF6UUZpY01xRVM?oc=5",
     "summary": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians CNBC",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-11-22-sn43az",
+    "date": "2024-11-22",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "Tenet to deploy Commure’s AI scribe at physician network",
+    "source": "Healthcare Dive",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTl9oZVA4QzFCbUFPcnh4dWxpY2syU0lQYlVoSHFrcUhtWmFzRWc4VHJ4QjZVOThqaGtCQmNPZVpfZ1dwQTNvdjIzWFNJN0RSbXJ1WDFWYVpwUzRSNld1MzFWd1Y3T3JrYTlSNWtfV0lsclRXb0NnNTN1YzExWWZ4OHN2Y2J6SzJhOHlFSVpCcEJibUFmcW5SUg?oc=5",
+    "summary": "Tenet to deploy Commure’s AI scribe at physician network Healthcare Dive",
     "status": "unverified"
   }
 ]
