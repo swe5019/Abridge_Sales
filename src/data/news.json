@@ -1,16 +1,5 @@
 [
   {
-    "id": "n-2026-07-31-1dc2481",
-    "date": "2026-07-31",
-    "title": "How Ambient AI Is Transforming Procedural Performance",
-    "source": "HCI Innovation Group",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOXQ0dnhqbFBYTWpBM2gtZUtPcmViMndnS0FuV0RTM2lyQk1xOVg5Nmp0UzZkZlB5SEpKaDhIM1Aydk1NU1M2ejFmMlVRT1lOZi1VTFBjTDI4RHFqTlN4X3hmY0VoUlhXLXhfRzNRVEVtRU1CbUhiRngtOEl1Rm5MdGtRQlp1YklFTTRqWEZSWFhJa0tKS2xkcHNxcHJibkNPOHZSY2hoUDNvQi1DYVNoR1d3eGF2V3dGWkxJeXRWSDcxLWM?oc=5",
-    "summary": "How Ambient AI Is Transforming Procedural Performance HCI Innovation Group",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
     "id": "n-2026-07-29-wom2rw",
     "date": "2026-07-29",
     "title": "Two visions for ambient AI and the future of the EHR",
@@ -50,9 +39,9 @@
     "id": "n-2026-07-28-a7v34y",
     "date": "2026-07-28",
     "title": "Mount Sinai Miami Beach Extends Epic’s Ambient AI to Nurses",
-    "source": "Unite.AI",
+    "source": "unite.ai",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0dZYldlbnNYY2RpQlRGNzhJdXVMbGxlQjlzelNQUzNkZk1YbW1SWnZDNHpaeEUtLXpWRzBQUHN5elJ3bHhsck1renFfU0tKUDByVzR1UmNDbkJ0NXlpZkFUd3NUS0NuM1gxckxLQzlkaHh2VllmeWpYTUhhQW5mSmluZS0zZ28?oc=5",
-    "summary": "Mount Sinai Miami Beach Extends Epic’s Ambient AI to Nurses Unite.AI",
+    "summary": "Mount Sinai Miami Beach Extends Epic’s Ambient AI to Nurses unite.ai",
     "tags": [
       "competitor:epic-native",
       "ambient-ai"
@@ -85,9 +74,9 @@
     "id": "n-2026-07-17-2tbxl4",
     "date": "2026-07-17",
     "title": "KLAS Arch Collaborative 2026 Report: Early Insights into Epic AI Adoption and Clinician Experience",
-    "source": "hitconsultant.net",
+    "source": "HIT Consultant",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLVlfTmJwZTlFMmkxemhuQnQyUWxEQzV2VG92Y2ZHcXd2ODZOZmR4bWdEVkpveXhlTFBfR196VkVOdktQSUNRRWR2OEQtdm43bjJ2aUp0OUI1V3k2TnZjbDlBdkZfRWVjQTNSMEw4MzBKa25LUjIteW1JeF8wVzNadlY4clI1NTQ5YUhkNUhuR1o5NVE?oc=5",
-    "summary": "KLAS Arch Collaborative 2026 Report: Early Insights into Epic AI Adoption and Clinician Experience hitconsultant.net",
+    "summary": "KLAS Arch Collaborative 2026 Report: Early Insights into Epic AI Adoption and Clinician Experience HIT Consultant",
     "tags": [
       "competitor:epic-native",
       "klas"
@@ -282,17 +271,6 @@
     ]
   },
   {
-    "id": "n-2026-06-11-1x9ahj8",
-    "date": "2026-06-11",
-    "title": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it",
-    "source": "Fortune",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUF5S0g4cU0xVlVLNFBrVTcyOVlsVm1VczhYbkd1M3lFck1URWFzb2d4X082OHVqN3lmNVg2c0lWR1d2Y0dxZ3gtNHlpNFExal9PdHBYWUVqVUl4S3A2Y1FBTUNZVEJMdWpwTVp0cEFfYzBEaUE4T2RvZFFzUFM4cURDUzhjcWlBbEZPQm9JVGJoNmJPLVE?oc=5",
-    "summary": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it Fortune",
-    "tags": [
-      "abridge"
-    ]
-  },
-  {
     "id": "n-2026-06-10-1dv5yw0",
     "date": "2026-06-10",
     "title": "Why oncology is becoming healthcare AI's toughest test",
@@ -334,6 +312,28 @@
     "summary": "JAMA: AI Scribes Cut EHR Documentation Time for Clinicians Telehealth.org",
     "tags": [
       "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-06-02-zcnj8k",
+    "date": "2026-06-02",
+    "title": "AI scribes are helping hospitals and insurers record patient conversations without your consent",
+    "source": "The American Bazaar",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdGZidHZxa3plRkdjZGluM1VfV3NwRjVVN3VwUC1TV0dtcWw5cVVCRThLY2ExWi1VWXlweDZ2OFZmN2pnYW9fWG9nbFQtOHAzbjY4akZ4WmMwVHBhOHZNbDFzTEk0NEVWRG1TdFp6UlhqcV9oTExUZUZtc0FvclBkMkdTZTU4dEktdTlBZ0lnRTgwOXJIeXFfSDY4Njg3NkloZUM5YW4zS09IMUI4SGxQaV9MZ0NSQ2pNWWFUVmcxcVVXWG1TUGNOWUtMMlhGVW1oSUtoVWN4Q1dPclo1SGxHOA?oc=5",
+    "summary": "AI scribes are helping hospitals and insurers record patient conversations without your consent The American Bazaar",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-05-29-hxhrgj",
+    "date": "2026-05-29",
+    "title": "Ambience Healthcare Expands Chart-Aware Intelligence to Full Inpatient Workflow",
+    "source": "Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTjJvMHZFbGMxU19adzEyQjVJRG40MFppbHd3MmNQQ3lNYlJUX3VpSEFCdXQ4aWJES3I5eXhIWVVETnBHRzJ3dzNRWHhNMURhUmE0c19xNGFLMFZkZllWaDFPTFJBYnIyWm52VjhGSWtOMkpaVno5bU55MVVIYlBfdWNQTzFnNHgyZGZxU0hSVFBsOFNRYS1obk1BQ0dORVltcy1oTlN1MDhhdkxFRExybFNYV0xGa090YUVMRzhEcDc2T18tM0R1NFV2eWJWejlhcUE?oc=5",
+    "summary": "Ambience Healthcare Expands Chart-Aware Intelligence to Full Inpatient Workflow Business Wire",
+    "tags": [
+      "competitor:ambience"
     ]
   }
 ]
