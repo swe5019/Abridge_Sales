@@ -132,6 +132,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-11-24-r36fho",
+    "date": "2025-11-24",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "UI Health to Deploy Abridge AI Directly into Epic EHR Enterprise-Wide -",
+    "source": "HIT Consultant",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZjJGMmNIVm9Ic0F4MmgyRjByLVk1STVZNTVJMkNaZTExSUM2SjF4dThKQWRFc0l0TGtQLXJsVVN6TENMTlFTRGFrQ29kQWtjUDY1ZHgtdHdYQmU2dkZvb1k2S1BkSUx4RGY5THE3SmFmR1ZKYnJ3LXBMMi1pOVh5bU9ydnpraldpRjEzTWZ0VFhFR3Y2N0tabUFUams5WXVIN0NmdWdFRHJMNVk?oc=5",
+    "summary": "UI Health to Deploy Abridge AI Directly into Epic EHR Enterprise-Wide - HIT Consultant",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-10-30-1u6vsmm",
     "date": "2025-10-30",
     "competitorId": "suki",
@@ -343,8 +354,8 @@
   {
     "id": "lead-2025-03-03-1w9flua",
     "date": "2025-03-03",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
     "title": "Rush expands AI-driven documentation with Suki partnership",
     "source": "MobiHealthNews",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWXRCTWVvTTJXMjJuR2l0NWx1c09CVlFYNDRyUzUwY1AtTjA5bVg2d2pFRmExanVrSVNFNVlSa3FrN29xaDJoWVBRVFg0ZVpJbmcxX0t6V1ZqbV83SmRDZXBWeHBkcDZRRW9aSEpTUUJvQU1uRE5uRVFNRnhRMUJ0bjFURkVKT2NlUVpYcEVabnFVLXM?oc=5",
@@ -396,6 +407,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-01-22-u29d6g",
+    "date": "2025-01-22",
+    "competitorId": "deepscribe",
+    "competitorName": "DeepScribe",
+    "title": "DeepScribe and Flatiron Health Announce Partnership To Bring Oncology-Specific Ambient AI to Flatiron's 4,200+ Providers",
+    "source": "PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQM2ZackVQZExtN0M0dF80TnE5c2t3WlRtWnhxR2R0UlIySWR1TnZIdmRIVmRjRGJHNGRTUU9MYjVLOHY5WVFaQnBpaFpFOEhsRk9RSTg1VzY4UjRZZDdiNEo2MlN2M3VvZVFaVTFuZE1za1JtdE9peHdTU3N0SGZ3QS1xeWp0cW1RSkhpY2diSnFCOExaejRVdE9lbGV4NmlkT2ZFWmdLVXZfRWFIUHpRMDlyWHY4ODhrSkhLd0ZPYWd5dndtbkl1U2FTOEViSkhpWldzZjdtWmh5bThBMmVwaTVGal9qUWFSOUN3YzRSdkpXb3c1VE5saEZfdmRvT0hXeW5NTw?oc=5",
+    "summary": "DeepScribe and Flatiron Health Announce Partnership To Bring Oncology-Specific Ambient AI to Flatiron's 4,200+ Providers PR Newswire",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-01-16-14w5irk",
     "date": "2025-01-16",
     "competitorId": "nabla",
@@ -423,9 +445,9 @@
     "competitorId": "augmedix-commure",
     "competitorName": "Augmedix (Commure)",
     "title": "AWS and General Catalyst partner to speed up development of health-care AI tools",
-    "source": "CNBC",
+    "source": "cnbc.com",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVlJSGYxby1maHM5SjM3TVBmdE1zOVhpUGQ3aVJYZnB1WHo0RURHZUZWLWNPVXlTN1h5cXVDTWhucjhGVmE5Vk1Ba29FVlFjVFE4UzJBUXBYUEU4ZXgzRGRZa3lvUGo1dVBYUWpoQ3VKZkxRTHJEdTBJSVpaVVUxZGtlYjJpZ1p6X3lIdWRZb3FhdFJNWjJYaGNZaWNMSmxFSG5TQzZ4UGLSAa4BQVVfeXFMUEp5czM2TzJLR3FDekQ2OVRoLUgtU2xiRWxTYkdieE8xamZiSHo5YTQ3UDZaX3N1cUwzVmNwOWpBdzFwMGF6NWY3aTZSaGRoeXNkQ0hZM1I1SmhicDRzejFZNjZCUnh2ZnZzWGxWYVNoTXdRZVRnTnFYWEVsSUNaTUh6WnRXMFF5V2hiNmcxMms3RE92YkNxQ0djbldLRWVlQ2hpdlFCdGJHRzVfOF9n?oc=5",
-    "summary": "AWS and General Catalyst partner to speed up development of health-care AI tools CNBC",
+    "summary": "AWS and General Catalyst partner to speed up development of health-care AI tools cnbc.com",
     "status": "unverified"
   },
   {
@@ -456,9 +478,9 @@
     "competitorId": "suki",
     "competitorName": "Suki Assistant",
     "title": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians",
-    "source": "CNBC",
+    "source": "cnbc.com",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQm42WHRpUFpDeFNRTUkzcW1GRDBTUm94VGdCdlR1bFZveXBHdUJtZ21rcXdUcGJ1bTg0RTJUTzBrWnFvSVdBMTZRbkY2X1BmdFpLMS16QkdJcjF1VmY4aDM3YkwxOVE2alNQUXI2d2x0Qi0td1ZESGw5UE55dFVKbEU3Wmlkck1nbFRxRk9oTkNSSVR4YldVNWFZcnktaEnSAaQBQVVfeXFMT2hlS2tJMzlyRTZ1aGgwdDMxMVlkX20zUVZoaV95d28tcndIM1B3eHFLZFlYdXUtQ182cFp1XzhUcUpFVG9JWTdzYWx2a08tOXZPZVRGckJreHZJUjh2U3JFbGhUQy04Rm5kZlo4SnI1bDZqNWNKb2dNck5FTDc0NlpGVkpkZHRpVXZMN3luWmU3b1NQbEh2aFJ0ZmF6UUZpY01xRVM?oc=5",
-    "summary": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians CNBC",
+    "summary": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians cnbc.com",
     "status": "unverified"
   },
   {
@@ -525,28 +547,6 @@
     "source": "Healthcare Brew",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeC1Db1BVb0ZYN0FYYzB4Wno0RFVvUEFkazhHOC0xWWxfb09qV3FaUGNEdGZYX084WUxIVU5ybTdkWjRWY1lFSGVucHdGQ1ZvbUdhcThtQUt0dGtqcFhtcUFHOGFjd1RkalBJTzlzLUJwamk0MUVXbGliTTZCb2gyY0lPM3JORGo1ZDltRFRMc2ZnR2F4SDcyb2JuUnh4ODRvTWtndC1pTW8yRl8tejdtRw?oc=5",
     "summary": "Ambient AI company Suki partners with Zoom on clinical documentation Healthcare Brew",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2024-10-22-hcuwmu",
-    "date": "2024-10-22",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
-    "title": "HLTH24: Suki balloons AI assistant footprint through new strategic partnership with Zoom Healthcare",
-    "source": "Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDNXamdnY0ZKdURDeUIyN1FnMm5pUEl2ZGRYQXgxdnhRUFQyRnRvWEpHRTQ0ZlhsU0VndC1uc1Nnb2V4eHJybloyd25Cb2VwVVVfUno0dlhLVFp2ZnBJUlRicU0xNG00S0VzSHlvZnZlLWdaRVpzV0RqNVN5ZjRMOEQzOUZybTdsWHdDMzdEb3RnU1ZQXzA0ZzU0RmtuMGVuUjB5WGtWRlJaeU4wdmN0OV8xR0tMcDdOR2s3SkdhVQ?oc=5",
-    "summary": "HLTH24: Suki balloons AI assistant footprint through new strategic partnership with Zoom Healthcare Fierce Healthcare",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2024-10-16-1kwv9lb",
-    "date": "2024-10-16",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "Microsoft rolls out new healthcare AI tools in partnership with Epic, Paige.ai, major health systems",
-    "source": "Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdldES3R5aUEtWUd0V1pXWEhpNG5JWmJ5ZGZIN1E1UTVpTWdHSjU3MlBkUTlOdGZ2WGhfWFVoV0JVQzFOdE9GTUtTSmhUOFp2bUhOTFhlOVB2LUZZRUJyV0JQNkc3SkRIT1g5UVd3RnRaSHFfRTJyajhCekxpN3VrU3kzWFFlQ2xtdDNXMFVqSGJGUDdxTFUybTM5SG1VZDF5UVBvSVVmc3p2WUFZRlpUWWxjMFg4b1h1Z0dndXRhT082OW5nM0tONFpKcw?oc=5",
-    "summary": "Microsoft rolls out new healthcare AI tools in partnership with Epic, Paige.ai, major health systems Fierce Healthcare",
     "status": "unverified"
   }
 ]
