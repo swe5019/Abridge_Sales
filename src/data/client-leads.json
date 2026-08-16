@@ -1,16 +1,5 @@
 [
   {
-    "id": "lead-2026-07-25-1aclfvd",
-    "date": "2026-07-25",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
-    "title": "Ambience Healthcare Highlights Epic EHR Partnership and Scales Senior Hiring to Drive AI Growth",
-    "source": "TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVVNHYkJfNkZNTk5CVnN0aGt5U2VpWDhqTmQzZWE5V1U3aU5oS1FudG5ZWktXSEdRRFVQbTV1Ul9zSFQ2WEFlY2djMEhOTUhNV1d5bUJXVy05ZzBiYlcxVHlSS1JOVUR5Ymg0TG5kMmFzd0J2ci1RR3lLa0JIZWpzRWpEdXpNb0pjYmRDRGsxdmpKenEzR000NktHVlBFWHFEdlZuemItT2ZUdGJ3UGtLTU1INHluU1dRVmFoRERYT180QXJtZEMyeEhfcWFURUtfTUlrMmtRTXZCMjg?oc=5",
-    "summary": "Ambience Healthcare Highlights Epic EHR Partnership and Scales Senior Hiring to Drive AI Growth TipRanks",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2026-07-21-6pfz3a",
     "date": "2026-07-21",
     "competitorId": "augmedix-commure",
@@ -170,9 +159,9 @@
     "competitorId": "epic-native",
     "competitorName": "Epic Native Ambient (Art / partners)",
     "title": "Insight Health AI Scribe Achieves Epic Toolbox Designation for Ambient Note Generation",
-    "source": "Business Wire",
+    "source": "businesswire.com",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdXkyU1RZMEwtTk1MQXZweGFFR21qYkV2TVFqbGd5TmQySVlzaFpoTU00VWk5aEtDSkM1dzh0Y050bkZLaWN6Z1BVbDNla1VXY1l0TWNzYUZ6d09hdjhLenZhT0Z5VHg3ZmlqcEN1X3NSeFpjNVpkSDJ4WkNvR0pfRkx5UDlOMXFKSl9vVDkzd2x0YWJCOEtPdF9jYTJXVVFxMFRvMUZWQ096Q2RGcmJoWVJ0LU1XbTBzZThpQTZRRjlUVkk3SThyLXB4MUVqUWwwRzNnbDhOT1ZaNTA?oc=5",
-    "summary": "Insight Health AI Scribe Achieves Epic Toolbox Designation for Ambient Note Generation Business Wire",
+    "summary": "Insight Health AI Scribe Achieves Epic Toolbox Designation for Ambient Note Generation businesswire.com",
     "status": "unverified"
   },
   {
@@ -489,9 +478,9 @@
     "competitorId": "epic-native",
     "competitorName": "Epic Native Ambient (Art / partners)",
     "title": "Duke Health and Abridge partner on AI for clinical documentation",
-    "source": "healthcarefinancenews.com",
+    "source": "Healthcare Finance News",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnNlaTN0UkxELWhtNGJkRHRmb1pPSTg5LWNnaFA0S3FRci14ZUhrcExyU3RBZDBMTV9tVEZLUVdDd1owY1NCcW9VV1Y1RHZkcWVXX1MxeklJcDh3clVWYlJxcEd4bEREdUg0MHVjVUNoXzZLbEEzZWtwUUFFbmhubXRyQWhYZ2VWZmk2ZU9KblB5Qm9seU5oVWVGZTgtZjR4a3c?oc=5",
-    "summary": "Duke Health and Abridge partner on AI for clinical documentation healthcarefinancenews.com",
+    "summary": "Duke Health and Abridge partner on AI for clinical documentation Healthcare Finance News",
     "status": "unverified"
   },
   {
@@ -544,9 +533,20 @@
     "competitorId": "augmedix-commure",
     "competitorName": "Augmedix (Commure)",
     "title": "Tenet to deploy AI platform across its physician network",
-    "source": "healthcarefinancenews.com",
+    "source": "Healthcare Finance News",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWhnNnExUGMwcFJJcWFsdkU1Q2VJVWlGZHpQWml4Tk9tdUNEaEJrVWY4QzNWSlhBYWZBZ3I2N3dGRVl1QkpvOURuN3YzSHlZSFR2VlJ4ME1rZDc0RmJpSDUwZTRWdGRENTRNNXpOaHhMWWQtZ2hYV0ZRRjJqNUNtYmpCSkVMMlFQNXNhN29VRVhpNkJDaDV5Zm00N0k?oc=5",
-    "summary": "Tenet to deploy AI platform across its physician network healthcarefinancenews.com",
+    "summary": "Tenet to deploy AI platform across its physician network Healthcare Finance News",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-11-19-1050jl1",
+    "date": "2024-11-19",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "Tenet Health And Commure Announce Landmark Partnership To Deploy Ambient AI Platform",
+    "source": "Forbes",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOUsxTHZaZEpoZGVFYnpZUFhOdjdDUk42Zl96d3BIcWdXQ0hmVm5rczR0WC1pOUw0NFpaN2VHVXJ2cUxjRGN4a2RyV2ExZGVFeUNaNWdEenh0bGYtNnhzX3gzck5xVm40WmhLQ19EaEZ3UmVIdVJLV0s0MWc5dEZkcktqek1pZlFFc20zb0lsV21EdG9CZVJiQWVNUTRNWXVmc1Znc2pJQnJZQ3J0YXNNUVJ1U1BfdU51cTlWYk5SckJpTDlXN0E5TkRVR3dPaU5CWDFTMVFjOA?oc=5",
+    "summary": "Tenet Health And Commure Announce Landmark Partnership To Deploy Ambient AI Platform Forbes",
     "status": "unverified"
   }
 ]
