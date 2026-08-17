@@ -60,9 +60,9 @@
     "competitorId": "nabla",
     "competitorName": "Nabla Copilot",
     "title": "University of Toledo Health to Deploy Nabla’s Ambient AI Documentation in Epic EHR",
-    "source": "UToledo News",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVngzMmFSc3Q3aXFZd0M0RWduM1hhby05UUxrRWhUaGJ3c283YkpiUUNoMGRnai1GZ2RrbVJMWTBRbzZ6VXNiYmNnOTZjNE5kVGcxZFRKcFh6ZFJPMXJDeHJFQVBPN0Y0NXlmSXk4MTF0NjJXNUtVRFhMV1BBNzh1c3p5Rm1GNGV6U2FJMXNOMDh5REJrUG9TTHM2YTBxdFFjcWZlR241MGNqN2lfa2J1QUU4TGdVaGRHVkNxTlRTb2puZ3NDZWc?oc=5",
-    "summary": "University of Toledo Health to Deploy Nabla’s Ambient AI Documentation in Epic EHR UToledo News",
+    "source": "HIT Consultant",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa2RZSEdBVkgzZ2swTk5sSXpaZG4wWGZ1Wkk3Z2VaODNZdjBUYkh0VGw0bTFDcmE1U281Y2RBYXBMQ3FuYkhERU9relhZWVEwdTNKem5aTjh2eTFlZk5NUTZ5bGJRd1RFQU9mcHJJdEJQLWhYellNeV9KalBobVVLRlF6c1VVZk02UmZid3d5RHh5TDh1d0hNekxYcFlYZw?oc=5",
+    "summary": "University of Toledo Health to Deploy Nabla’s Ambient AI Documentation in Epic EHR HIT Consultant",
     "status": "unverified"
   },
   {
@@ -71,9 +71,9 @@
     "competitorId": "epic-native",
     "competitorName": "Epic Native Ambient (Art / partners)",
     "title": "Epic Rolls Out AI Charting as Built-In AI Adoption Accelerates Across Its EHR Platform",
-    "source": "digitalhealthnews.com",
+    "source": "Digital Health News",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZFNHdjlFMURHam55aHhyOThCTU5CMF9jYUt4Vk5RQ0FMZ1U1eHV5SC03dUpaTXlyN290TUozM0hfVTBkQVFENHlQQUlaRnc5aFQ1SGFfSTc5Q19LbElvMUE1UXE5Ri1MM2hZYkxXdjlFQUR0RkdPSkt4Qm1zVXFtRmtmTHc1dW5MeEllZlp1X3E2VkhfYXRpUy1GQXJwazRtQUYyNmJvODJkLUFsUUpDZzRrQUZ1V3BTTGVIdA?oc=5",
-    "summary": "Epic Rolls Out AI Charting as Built-In AI Adoption Accelerates Across Its EHR Platform digitalhealthnews.com",
+    "summary": "Epic Rolls Out AI Charting as Built-In AI Adoption Accelerates Across Its EHR Platform Digital Health News",
     "status": "unverified"
   },
   {
@@ -118,6 +118,17 @@
     "source": "PR Newswire",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOGg4VmJVcXJIcjd0OHNibDRYZkp0d2ZrdEQ5T0N0eDlGSXBseW1UdVdoYmduNHFCdllzVVhodVFVTGpDN1pSU3hUdmgtdWhPLWVfNG1aUHJqdzhyZENJLVlYQmJpZkZNWjRwZWhVUmo1dE9WWlFiZHpXUTc1dTlEbEJIQU53QTNPbEJib2k4dllEVEN2cXpxZkdKWkYzQ3daTHA0ZlRkcU5tcmwtLW1jOWVyQjhjU0YyV0czOXVMVFZxODhwd2c?oc=5",
     "summary": "LCMC Health Selects Nabla to Power Systemwide Ambient AI Implementation PR Newswire",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-11-24-r36fho",
+    "date": "2025-11-24",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "UI Health to Deploy Abridge AI Directly into Epic EHR Enterprise-Wide -",
+    "source": "HIT Consultant",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZjJGMmNIVm9Ic0F4MmgyRjByLVk1STVZNTVJMkNaZTExSUM2SjF4dThKQWRFc0l0TGtQLXJsVVN6TENMTlFTRGFrQ29kQWtjUDY1ZHgtdHdYQmU2dkZvb1k2S1BkSUx4RGY5THE3SmFmR1ZKYnJ3LXBMMi1pOVh5bU9ydnpraldpRjEzTWZ0VFhFR3Y2N0tabUFUams5WXVIN0NmdWdFRHJMNVk?oc=5",
+    "summary": "UI Health to Deploy Abridge AI Directly into Epic EHR Enterprise-Wide - HIT Consultant",
     "status": "unverified"
   },
   {
@@ -209,17 +220,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-08-20-a7b361",
-    "date": "2025-08-20",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "Epic announces the launch of native AI charting tool",
-    "source": "Home | Digital Health",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmNucHpKYnFPellVQnU1Ukx0TzZBcTl5bm5wY2FSV2lteFJ6b19TdGgyRFFLUHlRMmVWTHQzRjY5Q0YxcEVvX3k2X2NNbDZ0Rl9jdzdrVlNybng1SjIwRnJvQXE2bjJmZFBEU3dwcW1JS0V5bk5weGNZaE0tRVdLR0ZmdVpaYmExRTdvaVl1LXZJLW1rTmc?oc=5",
-    "summary": "Epic announces the launch of native AI charting tool Home | Digital Health",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-07-09-1jxuimw",
     "date": "2025-07-09",
     "competitorId": "nabla",
@@ -269,9 +269,9 @@
     "competitorId": "epic-native",
     "competitorName": "Epic Native Ambient (Art / partners)",
     "title": "Mayo Clinic partners, invests in Clearwater AI healthtech company",
-    "source": "The Business Journals",
+    "source": "bizjournals.com",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON0MxalVtVVFybDJ5LTJyNUxDX3RDZUxqajVfUEFmZ2x5SjljSGlkcU9tYjd1TlR5Uk9zVU1QdHp1c1dWQUNVLU52TERzdXlYX1FYb2RzaDE1b25pNV9SdXlwMlR2cjZ3N2J4dTY2MHp4eHR2WU5Ha1RIRWFQUlFaVFdISVBvWXNjMzhSYjhOVjJuZVBtOGszRUR3?oc=5",
-    "summary": "Mayo Clinic partners, invests in Clearwater AI healthtech company The Business Journals",
+    "summary": "Mayo Clinic partners, invests in Clearwater AI healthtech company bizjournals.com",
     "status": "unverified"
   },
   {
