@@ -71,9 +71,9 @@
     "competitorId": "nabla",
     "competitorName": "Nabla Copilot",
     "title": "University of Toledo Health to Deploy Nabla’s Ambient AI Documentation in Epic EHR",
-    "source": "UToledo News",
+    "source": "news.utoledo.edu",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVngzMmFSc3Q3aXFZd0M0RWduM1hhby05UUxrRWhUaGJ3c283YkpiUUNoMGRnai1GZ2RrbVJMWTBRbzZ6VXNiYmNnOTZjNE5kVGcxZFRKcFh6ZFJPMXJDeHJFQVBPN0Y0NXlmSXk4MTF0NjJXNUtVRFhMV1BBNzh1c3p5Rm1GNGV6U2FJMXNOMDh5REJrUG9TTHM2YTBxdFFjcWZlR241MGNqN2lfa2J1QUU4TGdVaGRHVkNxTlRTb2puZ3NDZWc?oc=5",
-    "summary": "University of Toledo Health to Deploy Nabla’s Ambient AI Documentation in Epic EHR UToledo News",
+    "summary": "University of Toledo Health to Deploy Nabla’s Ambient AI Documentation in Epic EHR news.utoledo.edu",
     "status": "unverified"
   },
   {
@@ -140,6 +140,17 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaTR2SUh2ZEtwWDhaRGZLZFVINFNaRTdmTFhOYWZjVnVWSGdmS0c0akZxUkJBTjdnM3RvSEFzamVnNUZjQTIwMzlYZjhiOFRRXzFMMW9fYWh4VkZyQzNHZ0JpNnZLc3NVMThhc3JFUG5QR1pLSEZ4UzdHYTNXNUU3eW45M2U4TjZ2V0pWZEJHYksxeWd6NlhITmoxTGpPU0trb2NZMV9UMzdIOGR4SEJiLVhNQXBCWXd4eVo4YkR5UGZFU05v?oc=5",
     "summary": "Suki inks partnership with WellSky to integrate ambient AI into specialty care EHR Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-10-15-1sx9wat",
+    "date": "2025-10-15",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Northwell to implement Abridge’s AI tool for clinical documentation across 28 hospitals",
+    "source": "DOTmed",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kNWw5ZDlGSmpKV2Y0bWhTbU9PT0RuVnUwcDBPQVN5Y0NyRUZfSXFVTmVUMEhGMS1NcldFbTdoX1FHMl9uOHFuMXlpOTJNUGpF?oc=5",
+    "summary": "Northwell to implement Abridge’s AI tool for clinical documentation across 28 hospitals DOTmed",
     "status": "unverified"
   },
   {
@@ -407,6 +418,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-01-22-pipn4v",
+    "date": "2025-01-22",
+    "competitorId": "deepscribe",
+    "competitorName": "DeepScribe",
+    "title": "Flatiron Health, DeepScribe Unveil Partnership to Provide Oncology-Specific Ambient AI",
+    "source": "The American Journal of Managed Care",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmpBRWdTdzJjYWduMmNyU0JYUlZybVZ1Q2J0MmRBY2N0bEZYQkNKZWF0NDR2ZmwwSlR4SzVaMVdKODhWTHBJLXZSbW9HUUUtTHpLcUlTamlCaDNPbFdEUExGNVNQdHZMR0dzSElrWXJUWE05aUhqUTJtSU5WSHdHbkJoc3pCNjJOV2ZkMnJlUG1yTmJiMU5FQ3hjU0E0amhwVGtYWmtjUFNpcTJhYzZQSA?oc=5",
+    "summary": "Flatiron Health, DeepScribe Unveil Partnership to Provide Oncology-Specific Ambient AI The American Journal of Managed Care",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-01-22-u29d6g",
     "date": "2025-01-22",
     "competitorId": "deepscribe",
@@ -525,28 +547,6 @@
     "source": "Healthcare Finance News",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWhnNnExUGMwcFJJcWFsdkU1Q2VJVWlGZHpQWml4Tk9tdUNEaEJrVWY4QzNWSlhBYWZBZ3I2N3dGRVl1QkpvOURuN3YzSHlZSFR2VlJ4ME1rZDc0RmJpSDUwZTRWdGRENTRNNXpOaHhMWWQtZ2hYV0ZRRjJqNUNtYmpCSkVMMlFQNXNhN29VRVhpNkJDaDV5Zm00N0k?oc=5",
     "summary": "Tenet to deploy AI platform across its physician network Healthcare Finance News",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2024-11-19-1050jl1",
-    "date": "2024-11-19",
-    "competitorId": "augmedix-commure",
-    "competitorName": "Augmedix (Commure)",
-    "title": "Tenet Health And Commure Announce Landmark Partnership To Deploy Ambient AI Platform",
-    "source": "Forbes",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOUsxTHZaZEpoZGVFYnpZUFhOdjdDUk42Zl96d3BIcWdXQ0hmVm5rczR0WC1pOUw0NFpaN2VHVXJ2cUxjRGN4a2RyV2ExZGVFeUNaNWdEenh0bGYtNnhzX3gzck5xVm40WmhLQ19EaEZ3UmVIdVJLV0s0MWc5dEZkcktqek1pZlFFc20zb0lsV21EdG9CZVJiQWVNUTRNWXVmc1Znc2pJQnJZQ3J0YXNNUVJ1U1BfdU51cTlWYk5SckJpTDlXN0E5TkRVR3dPaU5CWDFTMVFjOA?oc=5",
-    "summary": "Tenet Health And Commure Announce Landmark Partnership To Deploy Ambient AI Platform Forbes",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2024-10-25-1uo0tn7",
-    "date": "2024-10-25",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "Ambient AI company Suki partners with Zoom on clinical documentation",
-    "source": "Healthcare Brew",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeC1Db1BVb0ZYN0FYYzB4Wno0RFVvUEFkazhHOC0xWWxfb09qV3FaUGNEdGZYX084WUxIVU5ybTdkWjRWY1lFSGVucHdGQ1ZvbUdhcThtQUt0dGtqcFhtcUFHOGFjd1RkalBJTzlzLUJwamk0MUVXbGliTTZCb2gyY0lPM3JORGo1ZDltRFRMc2ZnR2F4SDcyb2JuUnh4ODRvTWtndC1pTW8yRl8tejdtRw?oc=5",
-    "summary": "Ambient AI company Suki partners with Zoom on clinical documentation Healthcare Brew",
     "status": "unverified"
   }
 ]
