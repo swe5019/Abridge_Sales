@@ -1,5 +1,16 @@
 [
   {
+    "id": "lead-2026-08-21-vhfypn",
+    "date": "2026-08-21",
+    "competitorId": "ambience",
+    "competitorName": "Ambience AutoScribe",
+    "title": "Weekly Rundown: Expressable joins Amazon's health conditions program; Function launches data connector for AI platforms",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3NiYXJXNXRlbzJ2ZzFrMUNYQy1vcGMwcUdDUEh1RXFHUmNzUkh1WDRjc1VWUG1RRTgyc0xxRnVIQWJKVWVBTGt2NnczNWpMYTloaXpzYzM3c1FWRzZUWHhEQmppOEtQVmJIb3dzblB4NUhBZGhQLTA0UmlXU1dqUWtOVUNsYUg3S2E5Zlh6OEpyQUQ5RkZpU29sYUFpX25JZG5YRTQ3NzhET21KZHBGTFFEREVCZnNMQmcwOHRwWE9zNDZ4U1NFQU9R?oc=5",
+    "summary": "Weekly Rundown: Expressable joins Amazon's health conditions program; Function launches data connector for AI platforms Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2026-08-20-1xn4pu3",
     "date": "2026-08-20",
     "competitorId": "ambience",
@@ -19,17 +30,6 @@
     "source": "Business Wire",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVXo2aTFCYloxNy0yMkFZdG8ycm1XSEtYT2V1MEVYWjExTndsVXgzNGcyb2o1emRUQ3BwU3FGSlBJLUlQdmhBMzU1bE1uWEV3RlRXdEFEa3pXeWdVOGRMcm9NNmt0RU8xdEp2OGRncGpyZENDQ2xzeWtHd3B3MVRiQTR1NFBhY25fZ1YxRExiQTRfc0t3bDJIMlR2dVVnM0xDbmdWd1BiQUx4bE5wVU5zSTBqUHYzNWVNU3lGUGJacV9qeHZYcndpN093?oc=5",
     "summary": "Ambience Healthcare Sets a New Standard for AI Partnerships in Healthcare Business Wire",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2026-08-19-12lzat6",
-    "date": "2026-08-19",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
-    "title": "Ambience Healthcare Launches The Ambience Standard, Linking AI Platform Fees Directly to Measurable Clinical and Financial Outcomes",
-    "source": "HIT Consultant",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbC1RQTVyVE1jYkRwcnFxRHdzWGhUWVRxV0gzNHNKR2pabmRqanhFQ1RYWTBSOVpDVllBRFczOEVjZUdubnVTbGtRRTV0NlBWbnBRMXM4VWNhLTlsV2lsRmdReHpBYTFtRzJUai1WWm5qczFmRl9TT19LWEJKUGZYZnFWZldhWGkyaGxDQTFGbW1ueWlka18xSng0OG02ZTNGY1dUVFBScm1wWEE?oc=5",
-    "summary": "Ambience Healthcare Launches The Ambience Standard, Linking AI Platform Fees Directly to Measurable Clinical and Financial Outcomes HIT Consultant",
     "status": "unverified"
   },
   {
@@ -165,6 +165,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-10-19-11eiyp0",
+    "date": "2025-10-19",
+    "competitorId": "nuance-dax",
+    "competitorName": "DAX Copilot",
+    "title": "Microsoft debuts Dragon Copilot AI clinical assistant for nurses, expands access to 3rd-party apps, agents",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ0Uzb0c4UzFLU2xjOUlVT1F0cDZKRXo5Um5wVDRaZlZxSm1OY09FWmJ6RjFKZUVWSFNuZVgwMGx5ckNWUEtrbjZYZVRySHVRVzQwTmxRMUZMM1JFNEZQTU9qMUx5RlA1NjBRV3AybUdiM3V5cFk3UFpYRDh4S2hwRGxaa0VwUG9VVGtyWEJLQkpDZVNmQWFYOC1wWWdEUzM0TVcyRUtscWFRMVAyMFJ6aE03YWsxaV9pVnF4cU9xVGRjbGhPQXBIak8wNGQ?oc=5",
+    "summary": "Microsoft debuts Dragon Copilot AI clinical assistant for nurses, expands access to 3rd-party apps, agents Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-10-13-1y0b7p6",
     "date": "2025-10-13",
     "competitorId": "epic-native",
@@ -200,8 +211,8 @@
   {
     "id": "lead-2025-09-04-6m4kzd",
     "date": "2025-09-04",
-    "competitorId": "nuance-dax",
-    "competitorName": "DAX Copilot",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
     "title": "WellSpan Health expands relationship with General Catalyst's HATCo",
     "source": "MobiHealthNews",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSy0wN2pYOUZ0UFVVclkycDRBVVRPUUtmNmwyNGR3VFlfZnpLVHZUWk92d1ptbEp1RF9sMXBvWGpfUzU2M1VqTU00YlhTLXdEWkpzNGhEaXVFSGowMlJzRm45cVFNYTRxU1pyWEFTeS1LRU40MkkxV2Y3eFZQTnJuZWVxRVp2NXhXdzFVclZUOEFSUG5oaS03NVZfUW0?oc=5",
@@ -536,17 +547,6 @@
     "source": "Healthcare Dive",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTl9oZVA4QzFCbUFPcnh4dWxpY2syU0lQYlVoSHFrcUhtWmFzRWc4VHJ4QjZVOThqaGtCQmNPZVpfZ1dwQTNvdjIzWFNJN0RSbXJ1WDFWYVpwUzRSNld1MzFWd1Y3T3JrYTlSNWtfV0lsclRXb0NnNTN1YzExWWZ4OHN2Y2J6SzJhOHlFSVpCcEJibUFmcW5SUg?oc=5",
     "summary": "Tenet to deploy Commure’s AI scribe at physician network Healthcare Dive",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2024-11-21-eioqo8",
-    "date": "2024-11-21",
-    "competitorId": "augmedix-commure",
-    "competitorName": "Augmedix (Commure)",
-    "title": "Commure rolls out AI scribe for Tenet Healthcare after yearlong customized build",
-    "source": "Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0h5Y0V4MTFnZkJUU0RoNmptSEtmLWgyRFo3TTVXdVQ3VmRSa2FJUDdYWG9DQlNYOFlnSXZicmszZVJUUDBaQm1kVlpVR3RhQ0t4cmMxSVdtc05mZllKMllXSVZaekJjRy01aTM5Vzc4dWtoNGdQbkxET1R1a0d0N3hraE5zTm41RENHdC12UkNSNGppUHlRV3lndE5IMmVBU2xybm83U3Q4OURDcEVNWkh5amtZWkZVQ0JHNHlzU3lzX2l4TkF3?oc=5",
-    "summary": "Commure rolls out AI scribe for Tenet Healthcare after yearlong customized build Fierce Healthcare",
     "status": "unverified"
   }
 ]
