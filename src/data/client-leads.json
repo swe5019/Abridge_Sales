@@ -77,6 +77,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2026-04-20-1dqobru",
+    "date": "2026-04-20",
+    "competitorId": "ambience",
+    "competitorName": "Ambience AutoScribe",
+    "title": "Hippocratic AI rolls out 2 new tools aimed at expanding clinical access, improving nurse workflow",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWVZTU9tVlVvZk5mRHlnM0doRjhmbmRFTjBtWnRoeUhqRTVXUko5ZERrQ29Yd2NHY3duWEkxeExMNGY1NWNMSTBSVGZKUktsdzZGMU9GcmpQQkY5aWRrMVh2SlpEVUhGQWliSWxvM2toWDR0bk1RQ2lVY1RYcXN5djdZTU9GNDdOeEszMVhFUG4zU2xBYnlYR0VaMk1ZU3dua1lWUl9ETEJGb2JyalhBUUZFbVZhNTdYUHRRZmUwelo2MDA?oc=5",
+    "summary": "Hippocratic AI rolls out 2 new tools aimed at expanding clinical access, improving nurse workflow Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2026-04-01-1sd6p8p",
     "date": "2026-04-01",
     "competitorId": "nabla",
@@ -162,17 +173,6 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaTR2SUh2ZEtwWDhaRGZLZFVINFNaRTdmTFhOYWZjVnVWSGdmS0c0akZxUkJBTjdnM3RvSEFzamVnNUZjQTIwMzlYZjhiOFRRXzFMMW9fYWh4VkZyQzNHZ0JpNnZLc3NVMThhc3JFUG5QR1pLSEZ4UzdHYTNXNUU3eW45M2U4TjZ2V0pWZEJHYksxeWd6NlhITmoxTGpPU0trb2NZMV9UMzdIOGR4SEJiLVhNQXBCWXd4eVo4YkR5UGZFU05v?oc=5",
     "summary": "Suki inks partnership with WellSky to integrate ambient AI into specialty care EHR Fierce Healthcare",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2025-10-19-11eiyp0",
-    "date": "2025-10-19",
-    "competitorId": "nuance-dax",
-    "competitorName": "DAX Copilot",
-    "title": "Microsoft debuts Dragon Copilot AI clinical assistant for nurses, expands access to 3rd-party apps, agents",
-    "source": "Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ0Uzb0c4UzFLU2xjOUlVT1F0cDZKRXo5Um5wVDRaZlZxSm1OY09FWmJ6RjFKZUVWSFNuZVgwMGx5ckNWUEtrbjZYZVRySHVRVzQwTmxRMUZMM1JFNEZQTU9qMUx5RlA1NjBRV3AybUdiM3V5cFk3UFpYRDh4S2hwRGxaa0VwUG9VVGtyWEJLQkpDZVNmQWFYOC1wWWdEUzM0TVcyRUtscWFRMVAyMFJ6aE03YWsxaV9pVnF4cU9xVGRjbGhPQXBIak8wNGQ?oc=5",
-    "summary": "Microsoft debuts Dragon Copilot AI clinical assistant for nurses, expands access to 3rd-party apps, agents Fierce Healthcare",
     "status": "unverified"
   },
   {
@@ -387,8 +387,8 @@
   {
     "id": "lead-2025-03-03-1w9flua",
     "date": "2025-03-03",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
     "title": "Rush expands AI-driven documentation with Suki partnership",
     "source": "MobiHealthNews",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWXRCTWVvTTJXMjJuR2l0NWx1c09CVlFYNDRyUzUwY1AtTjA5bVg2d2pFRmExanVrSVNFNVlSa3FrN29xaDJoWVBRVFg0ZVpJbmcxX0t6V1ZqbV83SmRDZXBWeHBkcDZRRW9aSEpTUUJvQU1uRE5uRVFNRnhRMUJ0bjFURkVKT2NlUVpYcEVabnFVLXM?oc=5",
