@@ -143,6 +143,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2026-02-04-765021",
+    "date": "2026-02-04",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Epic AI Charting Rolls Out Alongside an Expanding Set of Built-in AI Capabilities",
+    "source": "Epic Systems",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkxtOTJkYmJKNnd4ejFZMVJacVh0blplWEhyRjZPd0FWUFpKYVVGeXdReFBCbFZMTE80QnZkNFhPUnhIZlhNdGZXWUFqaW5Gb0l0cE80V1Nqcm5ScFFlOGxjcDczeUVaVHVfbE5JRE9ITmhiTFFmb25uTjM2Tnc2NDhGLUZSTUZXa2ZqN0xwazJUYmNZaFI3VW1rRXdLT3ZuSWx0MEk1S2VNLXRDSU1yaUJDZw?oc=5",
+    "summary": "Epic AI Charting Rolls Out Alongside an Expanding Set of Built-in AI Capabilities Epic Systems",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-12-03-b7cemm",
     "date": "2025-12-03",
     "competitorId": "nabla",
@@ -211,8 +222,8 @@
   {
     "id": "lead-2025-09-04-6m4kzd",
     "date": "2025-09-04",
-    "competitorId": "augmedix-commure",
-    "competitorName": "Augmedix (Commure)",
+    "competitorId": "nuance-dax",
+    "competitorName": "DAX Copilot",
     "title": "WellSpan Health expands relationship with General Catalyst's HATCo",
     "source": "MobiHealthNews",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSy0wN2pYOUZ0UFVVclkycDRBVVRPUUtmNmwyNGR3VFlfZnpLVHZUWk92d1ptbEp1RF9sMXBvWGpfUzU2M1VqTU00YlhTLXdEWkpzNGhEaXVFSGowMlJzRm45cVFNYTRxU1pyWEFTeS1LRU40MkkxV2Y3eFZQTnJuZWVxRVp2NXhXdzFVclZUOEFSUG5oaS03NVZfUW0?oc=5",
@@ -536,17 +547,6 @@
     "source": "Healthcare Finance News",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnNlaTN0UkxELWhtNGJkRHRmb1pPSTg5LWNnaFA0S3FRci14ZUhrcExyU3RBZDBMTV9tVEZLUVdDd1owY1NCcW9VV1Y1RHZkcWVXX1MxeklJcDh3clVWYlJxcEd4bEREdUg0MHVjVUNoXzZLbEEzZWtwUUFFbmhubXRyQWhYZ2VWZmk2ZU9KblB5Qm9seU5oVWVGZTgtZjR4a3c?oc=5",
     "summary": "Duke Health and Abridge partner on AI for clinical documentation Healthcare Finance News",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2024-12-18-plvz2e",
-    "date": "2024-12-18",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
-    "title": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians",
-    "source": "CNBC",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQm42WHRpUFpDeFNRTUkzcW1GRDBTUm94VGdCdlR1bFZveXBHdUJtZ21rcXdUcGJ1bTg0RTJUTzBrWnFvSVdBMTZRbkY2X1BmdFpLMS16QkdJcjF1VmY4aDM3YkwxOVE2alNQUXI2d2x0Qi0td1ZESGw5UE55dFVKbEU3Wmlkck1nbFRxRk9oTkNSSVR4YldVNWFZcnktaEnSAaQBQVVfeXFMT2hlS2tJMzlyRTZ1aGgwdDMxMVlkX20zUVZoaV95d28tcndIM1B3eHFLZFlYdXUtQ182cFp1XzhUcUpFVG9JWTdzYWx2a08tOXZPZVRGckJreHZJUjh2U3JFbGhUQy04Rm5kZlo4SnI1bDZqNWNKb2dNck5FTDc0NlpGVkpkZHRpVXZMN3luWmU3b1NQbEh2aFJ0ZmF6UUZpY01xRVM?oc=5",
-    "summary": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians CNBC",
     "status": "unverified"
   }
 ]
