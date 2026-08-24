@@ -1,5 +1,16 @@
 [
   {
+    "id": "n-2026-08-24-6gds8p",
+    "date": "2026-08-24",
+    "title": "FDB Extends Ambient AI from Documentation to Prescribing in First Commercial Deployment of Script Agent™ with Tebra",
+    "source": "citybiz",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQejVXLTZ5TjVRYkptNHV2RFlCNk8tY2UxXzJyUHN3b0VBMmJ3VE1rRjZEX1FBZTdlbVlOLU5jTE1WMWpjZmVXU2phZFo3QVlVZExXMXoxeGhwM0xQWlk0dmtTaU93LTJzWmRHU0pScVI0T2lKeWFiNkNlcE5xbFB2MWJLZkJFZjZtLXRmaGlRZHF2d3VfWDFscWk0UEZEczFhZU1nTHllZW52dXhTYmN2ckEybHVsRmNPU0lxYkFORVdoT2JZWk95RXIzUmhISVd4aHpQaVh0UmNPMWpTdS02SmMtNzcweGN5?oc=5",
+    "summary": "FDB Extends Ambient AI from Documentation to Prescribing in First Commercial Deployment of Script Agent™ with Tebra citybiz",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-08-23-gph9t9",
     "date": "2026-08-23",
     "title": "Mapping Microsoft’s Potential Healthcare AI and Technology Acquisition Horizons Across North America, Europe and the Commonwealth",
@@ -159,6 +170,17 @@
     ]
   },
   {
+    "id": "n-2026-07-16-dkegx5",
+    "date": "2026-07-16",
+    "title": "Arrowhead Regional Medical Center advances surgical capabilities and launches ambient AI technology",
+    "source": "San Bernardino County (.gov)",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbGlpWHVpYmxhTEtfNjlicGpoc1MtN1luc296RzN2RDBuVlJmOGo2a2dIbG5YMDgxU0ZGWkZ4WkpaVXdIa0ZSd2lqUnFlUXczRHAtazBYOGUzd3BfbkhqN1diUldDM1RkcUpxenBBMUUwOVdiUTRndFdiVEMtX2lSMkFyampGMFJNRGc4aE9zQi1TVzdPRWxuclh4Mjd5eC1DOVFNcXhyUUxKazhtNXlmSVVLUWpVRmY1bjdmVG9BcnVEeGY5Y1oySnhseHRaR2Y0V1dN?oc=5",
+    "summary": "Arrowhead Regional Medical Center advances surgical capabilities and launches ambient AI technology San Bernardino County (.gov)",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-07-15-q7ek8h",
     "date": "2026-07-15",
     "title": "athenahealth Selects iScribeHealth as a Preferred Partner for Ambient Clinical Documentation, Elevating a Long-Standing Collaboration",
@@ -308,28 +330,6 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLVVXMk02aTliaXJLSTVfNEttVGtzbjNIMDd1QmNhLVRqczN1N3dNaloyVHEzMzhvc29jamJxMmZ6U2o1OVM0bURwZ2V1MkF0WjhVUTRhQzhZZTFvVTBaTGV3dWdfaHhSbVhVbWRMYUtfQUdJLW4tclBXaE5aSjBFZW5WOG5qVVM4eENhdno5SkpsMzVocDFab0ZMTXZzUmo0TGhrekItQXdCZi1EMVhROHRvdUZhRWg0bzZrQWU1UHk5RExHRWw2eGZ3?oc=5",
     "summary": "Abridge picks up strategic investment from Eli Lilly, expands payer, research workflows Fierce Healthcare",
-    "tags": [
-      "abridge"
-    ]
-  },
-  {
-    "id": "n-2026-06-11-k1nt5z",
-    "date": "2026-06-11",
-    "title": "Nvidia partners with clinical note-taking company to improve suite of AI models",
-    "source": "Health Exec",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdkMyZm5IaXNfTlp1a05MNzFwYi1ScFI1Q2oyd2dOazB0WHIyRmhNMDN0QzhWZk1TcUdXTkwtUGJ5YzBTRUZ5WlB3cnkyWlBZY3lCcTFFeFlJU0RLd2x4cWRxZF9VV0VGVXNkZTZTZmNRVC1WWlVIc2dpaVJCYV9CVTdORUVEZnRxRXoxSVdNYjlJQWNCMFZuenhxQWhWOVhLUnJ5LWtzbk1oRjZWWEJIUmRBUTNjWTl2VlhkSk5QMA?oc=5",
-    "summary": "Nvidia partners with clinical note-taking company to improve suite of AI models Health Exec",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
-    "id": "n-2026-06-11-1x9ahj8",
-    "date": "2026-06-11",
-    "title": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it",
-    "source": "Fortune",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUF5S0g4cU0xVlVLNFBrVTcyOVlsVm1VczhYbkd1M3lFck1URWFzb2d4X082OHVqN3lmNVg2c0lWR1d2Y0dxZ3gtNHlpNFExal9PdHBYWUVqVUl4S3A2Y1FBTUNZVEJMdWpwTVp0cEFfYzBEaUE4T2RvZFFzUFM4cURDUzhjcWlBbEZPQm9JVGJoNmJPLVE?oc=5",
-    "summary": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it Fortune",
     "tags": [
       "abridge"
     ]
