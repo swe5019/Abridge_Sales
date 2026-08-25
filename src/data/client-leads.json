@@ -22,17 +22,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2026-05-15-1qwy76r",
-    "date": "2026-05-15",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
-    "title": "Anthropic & Gates Foundation Expand AI Efforts in Health & Education with $200 Mn Plan",
-    "source": "Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcUtONTdQdUtxWnNrdmN3WDIzU1VDN0xxZUZiRTZLS2VqWVhaSjdyYndxYjB2enVhZ0FrNTJLaXNyWExWNTdDZzl6RHJicE1DX0pHMUlXQUh3SGgwNm9qTG5EcVhOUHpRSzBERWZENVR1dGxOdEVMdjRPcmNIbjM4NWdWalFHSlVvQW9oUW1PQUxoZ0VTY09yMi1kTkVNZjNvTUx6OVBrZ2hTelJPTWtsazZnd1BWZw?oc=5",
-    "summary": "Anthropic & Gates Foundation Expand AI Efforts in Health & Education with $200 Mn Plan Digital Health News",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2026-05-07-15nuvm4",
     "date": "2026-05-07",
     "competitorId": "augmedix-commure",
@@ -77,17 +66,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2026-02-06-1vb6zwq",
-    "date": "2026-02-06",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "Epic Rolls Out AI Charting as Built-In AI Adoption Accelerates Across Its EHR Platform",
-    "source": "Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZFNHdjlFMURHam55aHhyOThCTU5CMF9jYUt4Vk5RQ0FMZ1U1eHV5SC03dUpaTXlyN290TUozM0hfVTBkQVFENHlQQUlaRnc5aFQ1SGFfSTc5Q19LbElvMUE1UXE5Ri1MM2hZYkxXdjlFQUR0RkdPSkt4Qm1zVXFtRmtmTHc1dW5MeEllZlp1X3E2VkhfYXRpUy1GQXJwazRtQUYyNmJvODJkLUFsUUpDZzRrQUZ1V3BTTGVIdA?oc=5",
-    "summary": "Epic Rolls Out AI Charting as Built-In AI Adoption Accelerates Across Its EHR Platform Digital Health News",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2026-02-05-1awsm6s",
     "date": "2026-02-05",
     "competitorId": "nabla",
@@ -129,6 +107,17 @@
     "source": "Epic Systems",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkxtOTJkYmJKNnd4ejFZMVJacVh0blplWEhyRjZPd0FWUFpKYVVGeXdReFBCbFZMTE80QnZkNFhPUnhIZlhNdGZXWUFqaW5Gb0l0cE80V1Nqcm5ScFFlOGxjcDczeUVaVHVfbE5JRE9ITmhiTFFmb25uTjM2Tnc2NDhGLUZSTUZXa2ZqN0xwazJUYmNZaFI3VW1rRXdLT3ZuSWx0MEk1S2VNLXRDSU1yaUJDZw?oc=5",
     "summary": "Epic AI Charting Rolls Out Alongside an Expanding Set of Built-in AI Capabilities Epic Systems",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2026-02-02-k4fdew",
+    "date": "2026-02-02",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Two-thirds of Epic hospitals have adopted ambient AI tools",
+    "source": "TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0FNb0xad3N1M0N6V2stbms2Sl9yNVB0R2djbEN3em5ndW03ejJLd25PZFExa1BvRl9BQml3d2xNZEpIUjU0VV9qbUxNVWVCOFVqVFhYdzFhZmVVSjVMWkkyMXM0Y0JRanRaQlkwa1JvVlNuS3ZBT2JVc1RQTjU3bXdWaW80MFNDU0ZidFk4TFhTM3FEM0s1bG8xZzdUbGI1R3F5MGFrT3huOVNFUmt5c3RISzlYZw?oc=5",
+    "summary": "Two-thirds of Epic hospitals have adopted ambient AI tools TechTarget",
     "status": "unverified"
   },
   {
@@ -211,8 +200,8 @@
   {
     "id": "lead-2025-09-03-s5es5f",
     "date": "2025-09-03",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
     "title": "Onvida Health and Ambience Healthcare Launch Ambient AI Integration with Epic",
     "source": "HIT Consultant",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMkZmOV9tRzJCVFJkLXItRWxweXpQZkVFbTJad1U2eW5oS2ctV2dUbWZGM3p6V3Q2bl95c2lfVGhmbHhuMV90MC1GOEFBX2xIRWZtaG94bmgzdk5jQUF6UWZxS2lHblpOQUV1Mjg4cnBZdWlrcTZSVG4zWGRFSDJNaTg2UW9BOG00MWUzTzdGQU9sZWJoaGRjcHVXZTVpQQ?oc=5",
@@ -547,6 +536,17 @@
     "source": "Healthcare Finance News",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnNlaTN0UkxELWhtNGJkRHRmb1pPSTg5LWNnaFA0S3FRci14ZUhrcExyU3RBZDBMTV9tVEZLUVdDd1owY1NCcW9VV1Y1RHZkcWVXX1MxeklJcDh3clVWYlJxcEd4bEREdUg0MHVjVUNoXzZLbEEzZWtwUUFFbmhubXRyQWhYZ2VWZmk2ZU9KblB5Qm9seU5oVWVGZTgtZjR4a3c?oc=5",
     "summary": "Duke Health and Abridge partner on AI for clinical documentation Healthcare Finance News",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-12-18-plvz2e",
+    "date": "2024-12-18",
+    "competitorId": "suki",
+    "competitorName": "Suki Assistant",
+    "title": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians",
+    "source": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQm42WHRpUFpDeFNRTUkzcW1GRDBTUm94VGdCdlR1bFZveXBHdUJtZ21rcXdUcGJ1bTg0RTJUTzBrWnFvSVdBMTZRbkY2X1BmdFpLMS16QkdJcjF1VmY4aDM3YkwxOVE2alNQUXI2d2x0Qi0td1ZESGw5UE55dFVKbEU3Wmlkck1nbFRxRk9oTkNSSVR4YldVNWFZcnktaEnSAaQBQVVfeXFMT2hlS2tJMzlyRTZ1aGgwdDMxMVlkX20zUVZoaV95d28tcndIM1B3eHFLZFlYdXUtQ182cFp1XzhUcUpFVG9JWTdzYWx2a08tOXZPZVRGckJreHZJUjh2U3JFbGhUQy04Rm5kZlo4SnI1bDZqNWNKb2dNck5FTDc0NlpGVkpkZHRpVXZMN3luWmU3b1NQbEh2aFJ0ZmF6UUZpY01xRVM?oc=5",
+    "summary": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians CNBC",
     "status": "unverified"
   }
 ]

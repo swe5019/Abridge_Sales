@@ -101,6 +101,29 @@
     ]
   },
   {
+    "id": "n-2026-07-29-ko237j",
+    "date": "2026-07-29",
+    "title": "MHRA clarifies regulatory status of ambient voice technologies used in the NHS",
+    "source": "GOV.UK",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc2duLWktcTMwNlhaMmoxTVJwMjZ6REFlR2dvTXE0UHl0WkpNb29XZTVpZUtXLXBiOGR4czlwWF9GcEh0VnRfZURsVmFGRTVrVUtMSHN4TVB6VHlzMkgtZ0J1dDlJSjhVVjcyZURBaUU2LUx4S3IxdUViTXBrYkdhMUhMYXRISzFLSDVDYlpYbkxCekRwdUtBU245aUIwUDlSNUp3UGY5Nm5SbENITXp6SVBtcw?oc=5",
+    "summary": "MHRA clarifies regulatory status of ambient voice technologies used in the NHS GOV.UK",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-07-28-1n8mamf",
+    "date": "2026-07-28",
+    "title": "Mount Sinai Extends Epic Ambient AI Tool to Nurses After Cutting Physician Documentation Time",
+    "source": "AIM Media House",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUExKcjB6eko4dEQzRjQ4d2t4M0o5NndLWFJ4RUtuWjhFS001M2s0U1FGQ21EZFhEOFprQzZUV3ZEcnloWGlZeEw1bTI5STZYSUoxRmQzRjRobmtjbk5abnVhaktucjI2MWd2OEFNeUQ0ZzRZUW9hU0FOLXZUSzRIZ0Jhb2YtRUZ5SVplOVhNWGt0Rm5wbUoxUi1IQldnbGlPci00bm0xckZyOEFWM05leVJEaENuT2wwLTBEVGxlNUc2RnJrdFF4NmJMTWdmNHVS?oc=5",
+    "summary": "Mount Sinai Extends Epic Ambient AI Tool to Nurses After Cutting Physician Documentation Time AIM Media House",
+    "tags": [
+      "competitor:epic-native",
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-07-27-m17z48",
     "date": "2026-07-27",
     "title": "As AI scribe adoption grows, researchers at Suki challenge the industry's quality playbook",
@@ -189,6 +212,17 @@
     "summary": "How nurses are shaping the next wave of clinical AI tools Modern Healthcare",
     "tags": [
       "industry"
+    ]
+  },
+  {
+    "id": "n-2026-07-07-1ffe8oo",
+    "date": "2026-07-07",
+    "title": "AI Notetakers For Doctors Raise 'Bycatching' Liability Risks",
+    "source": "Law360",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdWN2VTlwaTN6QXFDQl9lM3pOS01fNlhhTE9wcU9IZ2hwZk0yV1F0ekkyV2RlQVZKblV5X1dmb2xMTGpPS2x6LUVmT0FmVjhqWkJ4RHpUT0pmSzRhY3M0R0hBQlpJSjZiUVY4clFweDRtaFRodERpSzJEbGRBdFBsM1VrY2dKaXVBUmptbDZ3bUs4ZHZoS1lxWkdzWDVyYnBlUkhiZzM2a2dfc0xkOEVwRHhXWFhFVl9KVjQw0gFyQVVfeXFMTVFFb0I3M3JpZFhHazcyOE82MmxfaG5QOHBwcjE0a3huUlh5WVhmdkd5RnJNeFlSQmdPZ1V0dnA0QVRXdHdZVFhndzdIQ1EwQm9QTHlJRmZJZ0trbEZVUF9kbnRUcHFMLVQ1SWNoRHZ1dnp3?oc=5",
+    "summary": "AI Notetakers For Doctors Raise 'Bycatching' Liability Risks Law360",
+    "tags": [
+      "funding"
     ]
   },
   {
@@ -299,39 +333,6 @@
     "summary": "Healthcare AI Beyond the Buzzwords: Ambient, Generative, and Agentic Explained MedCity News",
     "tags": [
       "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-06-12-lb51gy",
-    "date": "2026-06-12",
-    "title": "Health Brief: The AI scribe evolution",
-    "source": "The Washington Post",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQVRoMTZGYUsyQkpDZDE2dnVpTDNkQkFmXzdKcUtLTmdMNmdoSG4wSFlzTTBpVlRDUW9sdjNOdV9IbXhfcS1Va2xuaUlUWUF3cE9vT21lTDNlTTR1U3lCdmM5TWhKR0daWTFJRlhZM3pyS1BsNW1uYW1YYnRmVnVvVV9GMkx0ZVJCWVN0MFc2Q093d2pFUHVIVVdEblM4Um1sMHZycXJWRQ?oc=5",
-    "summary": "Health Brief: The AI scribe evolution The Washington Post",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-06-11-1ww8bt5",
-    "date": "2026-06-11",
-    "title": "Abridge picks up strategic investment from Eli Lilly, expands payer, research workflows",
-    "source": "Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLVVXMk02aTliaXJLSTVfNEttVGtzbjNIMDd1QmNhLVRqczN1N3dNaloyVHEzMzhvc29jamJxMmZ6U2o1OVM0bURwZ2V1MkF0WjhVUTRhQzhZZTFvVTBaTGV3dWdfaHhSbVhVbWRMYUtfQUdJLW4tclBXaE5aSjBFZW5WOG5qVVM4eENhdno5SkpsMzVocDFab0ZMTXZzUmo0TGhrekItQXdCZi1EMVhROHRvdUZhRWg0bzZrQWU1UHk5RExHRWw2eGZ3?oc=5",
-    "summary": "Abridge picks up strategic investment from Eli Lilly, expands payer, research workflows Fierce Healthcare",
-    "tags": [
-      "abridge"
-    ]
-  },
-  {
-    "id": "n-2026-06-11-1x9ahj8",
-    "date": "2026-06-11",
-    "title": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it",
-    "source": "Fortune",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUF5S0g4cU0xVlVLNFBrVTcyOVlsVm1VczhYbkd1M3lFck1URWFzb2d4X082OHVqN3lmNVg2c0lWR1d2Y0dxZ3gtNHlpNFExal9PdHBYWUVqVUl4S3A2Y1FBTUNZVEJMdWpwTVp0cEFfYzBEaUE4T2RvZFFzUFM4cURDUzhjcWlBbEZPQm9JVGJoNmJPLVE?oc=5",
-    "summary": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it Fortune",
-    "tags": [
-      "abridge"
     ]
   }
 ]
