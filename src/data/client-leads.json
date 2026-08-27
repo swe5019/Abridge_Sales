@@ -66,17 +66,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2026-04-07-2h7bun",
-    "date": "2026-04-07",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
-    "title": "Ambience Healthcare Launches Chart Chat, AI Copilot for Nurses Integrated With EHR",
-    "source": "Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN1VVSGd1Um5fNzN3S21yWnhvTDJBNjRaZTB2MXQ2NHdzdVk3TW1LWXM2dmUwV3hTOERiZk9GX0RoTm12Ni1obzNwSXFtTmpEWldpRnBnSGhYdFBwTEtieGR6cEMzTmF4dkhrZTBUbjA0em9FeV90RlMybVJGVWROX1RRc0E1SmVuMlJ5MDI1YUVvLVNWc0F0V1JYRWl6SkhTZEtiRXo0TTBxR1h4aVg4SjFuTy0wcUk?oc=5",
-    "summary": "Ambience Healthcare Launches Chart Chat, AI Copilot for Nurses Integrated With EHR Digital Health News",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2026-04-01-1sd6p8p",
     "date": "2026-04-01",
     "competitorId": "nabla",
@@ -101,8 +90,8 @@
   {
     "id": "lead-2026-02-05-1yps1mx",
     "date": "2026-02-05",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
+    "competitorId": "deepscribe",
+    "competitorName": "DeepScribe",
     "title": "Epic's AI scribe goes live as EHR giant touts strong adoption of built-in AI features",
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT2VBVVFySnhJX2FUUHBET0swTEtZaGtBaGxHUlh5TGY3WmtLcEZPc1plS3ZTZGgtWG1hZUV3eGhhN01UOTcxZ3RrSmFqbVJQemN1RmhaMUxCajFnQ2ZHS2UtVkdsTktud2tndC1uVXNYWDgtTmhPcENRWUlqZTNXdmpxSVpVaU5ValFkQkpGM2JpaEpzLUw0UFU4NzBmeFlPdUdvZ2pjZjA5c3BCV2JTYkZBUW5Ndm9ka204OEg2YnFpQQ?oc=5",
@@ -140,6 +129,17 @@
     "source": "Health Data Management",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcC1YbVVMTkVQckpHZnl6R0xwRG52UWxQd3ZMUENqV1VUUFVDdS12NHlNcTgtMXhoeXJWX0JUR3RpTDlPYlhoRVhBUW5ELUpFc1BBa3g1MW93ekhYY1J1N2d0ODA0QjNBX1kwYVhVblk1YUhIMHA3bk5UTFJaNzJBZGdNZHdLam5oSzRBYlRuQmRGeDAyZUZzaGlXVFRjX2xmUVEyNGlIZGpubnN4TlA1V2R5Q3pyakYtdmc?oc=5",
     "summary": "Small Illinois facility rolls out Epic and pursues AI benefits Health Data Management",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-11-06-1h1140d",
+    "date": "2025-11-06",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "Commure Partners with DRH Health to Reduce Clinician Documentation Burden with MEDITECH-Integrated Ambient AI",
+    "source": "The Manila Times",
+    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcFNfcDVfaU9lYWRObE91Vm8tY3VKVFBPUS16c1NWU1hLVjJRTHBXODN2R2pFd2R1UXprcno5TnFFRldtVXZkTUFZSDNwVDRkRENmbHZEcGVHdnNEUG5uWFloSGFQNXhtanFkcUhpcktUYnBXWTZKaC1EUGk0UVBSWWlueTlUV29DWU9jRmVBR0NmekdUQktDNVZzZXZzQjhKT2NQeXFjbWRTZ1U3c25lU1Fmc1ZQdW5EV2VEcmM5Nk1vSnNWUVRQbExhWjBLU2xxUmxRbEFtaXI0NC1fM3JkczRqT3hqZ2xESFZrdEp3RXlsZDF5aXBWY1o0eEFmc2F0ZzRhdUFSd3I1Y2R3UjBvQtIBlgJBVV95cUxOVVdPQ003RGN4VWRfZG9YRXRlREdpcDNVM1lpcWxOeHgtUzQ5UUtGWldsVlVWSFRKYjhhYmUzb1h5VzZCM0VFUFJob0hYd19ZNXhUUU1vR1h0UFozODNxOGRDWkwyN3ZfM2hlQ1JnNHJBLTNmV0lDU2JZaTFzN1BqRVBLcU1WTzdTbGFBM01SUG00Wkk0NmpYdUMwVkJvVEZGc3hvYVFxcjF3Y1JxNml0cEJNT1NhbWRJX1lHMUtkVDdDaWlnRkIyU3VvakNjNkF1THNVQmRQTl96V21Jc1BFSTdPSHFxWjI4WHExRTlsbHhGcXFKaWhDM2xXcm9aQlVDT081YVZKekItUkRaVWFjUmdvUTZfUQ?oc=5",
+    "summary": "Commure Partners with DRH Health to Reduce Clinician Documentation Burden with MEDITECH-Integrated Ambient AI The Manila Times",
     "status": "unverified"
   },
   {
@@ -473,17 +473,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-01-22-pipn4v",
-    "date": "2025-01-22",
-    "competitorId": "deepscribe",
-    "competitorName": "DeepScribe",
-    "title": "Flatiron Health, DeepScribe Unveil Partnership to Provide Oncology-Specific Ambient AI",
-    "source": "The American Journal of Managed Care",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmpBRWdTdzJjYWduMmNyU0JYUlZybVZ1Q2J0MmRBY2N0bEZYQkNKZWF0NDR2ZmwwSlR4SzVaMVdKODhWTHBJLXZSbW9HUUUtTHpLcUlTamlCaDNPbFdEUExGNVNQdHZMR0dzSElrWXJUWE05aUhqUTJtSU5WSHdHbkJoc3pCNjJOV2ZkMnJlUG1yTmJiMU5FQ3hjU0E0amhwVGtYWmtjUFNpcTJhYzZQSA?oc=5",
-    "summary": "Flatiron Health, DeepScribe Unveil Partnership to Provide Oncology-Specific Ambient AI The American Journal of Managed Care",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-01-16-14w5irk",
     "date": "2025-01-16",
     "competitorId": "nabla",
@@ -547,6 +536,17 @@
     "source": "Healthcare Finance News",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnNlaTN0UkxELWhtNGJkRHRmb1pPSTg5LWNnaFA0S3FRci14ZUhrcExyU3RBZDBMTV9tVEZLUVdDd1owY1NCcW9VV1Y1RHZkcWVXX1MxeklJcDh3clVWYlJxcEd4bEREdUg0MHVjVUNoXzZLbEEzZWtwUUFFbmhubXRyQWhYZ2VWZmk2ZU9KblB5Qm9seU5oVWVGZTgtZjR4a3c?oc=5",
     "summary": "Duke Health and Abridge partner on AI for clinical documentation Healthcare Finance News",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-12-18-plvz2e",
+    "date": "2024-12-18",
+    "competitorId": "suki",
+    "competitorName": "Suki Assistant",
+    "title": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians",
+    "source": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQm42WHRpUFpDeFNRTUkzcW1GRDBTUm94VGdCdlR1bFZveXBHdUJtZ21rcXdUcGJ1bTg0RTJUTzBrWnFvSVdBMTZRbkY2X1BmdFpLMS16QkdJcjF1VmY4aDM3YkwxOVE2alNQUXI2d2x0Qi0td1ZESGw5UE55dFVKbEU3Wmlkck1nbFRxRk9oTkNSSVR4YldVNWFZcnktaEnSAaQBQVVfeXFMT2hlS2tJMzlyRTZ1aGgwdDMxMVlkX20zUVZoaV95d28tcndIM1B3eHFLZFlYdXUtQ182cFp1XzhUcUpFVG9JWTdzYWx2a08tOXZPZVRGckJreHZJUjh2U3JFbGhUQy04Rm5kZlo4SnI1bDZqNWNKb2dNck5FTDc0NlpGVkpkZHRpVXZMN3luWmU3b1NQbEh2aFJ0ZmF6UUZpY01xRVM?oc=5",
+    "summary": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians CNBC",
     "status": "unverified"
   }
 ]
