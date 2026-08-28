@@ -176,17 +176,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-10-19-11eiyp0",
-    "date": "2025-10-19",
-    "competitorId": "nuance-dax",
-    "competitorName": "DAX Copilot",
-    "title": "Microsoft debuts Dragon Copilot AI clinical assistant for nurses, expands access to 3rd-party apps, agents",
-    "source": "Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ0Uzb0c4UzFLU2xjOUlVT1F0cDZKRXo5Um5wVDRaZlZxSm1OY09FWmJ6RjFKZUVWSFNuZVgwMGx5ckNWUEtrbjZYZVRySHVRVzQwTmxRMUZMM1JFNEZQTU9qMUx5RlA1NjBRV3AybUdiM3V5cFk3UFpYRDh4S2hwRGxaa0VwUG9VVGtyWEJLQkpDZVNmQWFYOC1wWWdEUzM0TVcyRUtscWFRMVAyMFJ6aE03YWsxaV9pVnF4cU9xVGRjbGhPQXBIak8wNGQ?oc=5",
-    "summary": "Microsoft debuts Dragon Copilot AI clinical assistant for nurses, expands access to 3rd-party apps, agents Fierce Healthcare",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-10-13-1y0b7p6",
     "date": "2025-10-13",
     "competitorId": "epic-native",
@@ -239,17 +228,6 @@
     "source": "HIT Consultant",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMkZmOV9tRzJCVFJkLXItRWxweXpQZkVFbTJad1U2eW5oS2ctV2dUbWZGM3p6V3Q2bl95c2lfVGhmbHhuMV90MC1GOEFBX2xIRWZtaG94bmgzdk5jQUF6UWZxS2lHblpOQUV1Mjg4cnBZdWlrcTZSVG4zWGRFSDJNaTg2UW9BOG00MWUzTzdGQU9sZWJoaGRjcHVXZTVpQQ?oc=5",
     "summary": "Onvida Health and Ambience Healthcare Launch Ambient AI Integration with Epic HIT Consultant",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2025-09-02-jqgcu1",
-    "date": "2025-09-02",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "Hartford HealthCare Selects Abridge to Reduce Clinician Burnout with AI Documentation -",
-    "source": "HIT Consultant",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM2JkeGwzVE5Rb1FhaWduMzFraFJTcEpFcFdVYVYwNXBiOEEwakN0bW83VXN6cG1fV1o2NUxtZGpXOEVYSGllZTdvdUdaa21IU0xRcGItUGVTVmtuZkMzNjhveE95bzg5cjd2LUdOeGtscWpZN0NlUWdiZlRsdGo3ck9iTFRFcm1WMS0zX3RMRXFYbnJ6bnZkLTRlOVI4cXJzd0ZDWlQtYW5HbkZEN291VGM3OHBycEV5aVRrb0UzMnU?oc=5",
-    "summary": "Hartford HealthCare Selects Abridge to Reduce Clinician Burnout with AI Documentation - HIT Consultant",
     "status": "unverified"
   },
   {
@@ -517,6 +495,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-01-15-8qbqoo",
+    "date": "2025-01-15",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "Augmedix granted Vizient contract for ambient AI documentation platform",
+    "source": "MobiHealthNews",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNODU3Q2ZNQTZOVTZudHdMUWZSWDh3ZXR3RmJMMTNMV25xejRnLXdfd1I0S1lkQm5xMkxDaHpsSEwzRF8zNUZ5d2RZelJuSGVreDVPWF82Z1J2X2JNX0FHejQySmtkeTNiV1lQOG1wNzRDU3hUUVhuRTBXX2UzalQzbFI1ZnAzMVQtdEZVMWtmZW50SXlmSTNuWEFMWTZDVkY2R3d0M19B?oc=5",
+    "summary": "Augmedix granted Vizient contract for ambient AI documentation platform MobiHealthNews",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-01-14-o2697m",
     "date": "2025-01-14",
     "competitorId": "deepscribe",
@@ -547,6 +536,17 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR0NqNE1FbXVuQnVSQ3dvckEwTDladVBGMjJyQjQwaUdtUXRFVVVpOHNfLV9YSjJXQ2RiZUhZNF92RGlvM3NZTVZZUkowaU5iWG5CREtBWGJWREZSblJ5SnIyVnR4WEJTOGRMQTFhN2tPQUxHb3liUHUzMGxnZGdGWEhCZjZZWFVyeklaRmxJSlNEZFhjRFNDelZlS2xwZFh4eHFzNXdFMFNaNVotX2c?oc=5",
     "summary": "General Catalyst teams up with AWS to co-develop, deploy AI-driven solutions Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-01-10-1wzxpvl",
+    "date": "2025-01-10",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Duke Health and Abridge partner on AI for clinical documentation",
+    "source": "Healthcare Finance News",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnNlaTN0UkxELWhtNGJkRHRmb1pPSTg5LWNnaFA0S3FRci14ZUhrcExyU3RBZDBMTV9tVEZLUVdDd1owY1NCcW9VV1Y1RHZkcWVXX1MxeklJcDh3clVWYlJxcEd4bEREdUg0MHVjVUNoXzZLbEEzZWtwUUFFbmhubXRyQWhYZ2VWZmk2ZU9KblB5Qm9seU5oVWVGZTgtZjR4a3c?oc=5",
+    "summary": "Duke Health and Abridge partner on AI for clinical documentation Healthcare Finance News",
     "status": "unverified"
   }
 ]
