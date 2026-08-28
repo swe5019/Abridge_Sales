@@ -66,6 +66,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2026-04-20-1dqobru",
+    "date": "2026-04-20",
+    "competitorId": "ambience",
+    "competitorName": "Ambience AutoScribe",
+    "title": "Hippocratic AI rolls out 2 new tools aimed at expanding clinical access, improving nurse workflow",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWVZTU9tVlVvZk5mRHlnM0doRjhmbmRFTjBtWnRoeUhqRTVXUko5ZERrQ29Yd2NHY3duWEkxeExMNGY1NWNMSTBSVGZKUktsdzZGMU9GcmpQQkY5aWRrMVh2SlpEVUhGQWliSWxvM2toWDR0bk1RQ2lVY1RYcXN5djdZTU9GNDdOeEszMVhFUG4zU2xBYnlYR0VaMk1ZU3dua1lWUl9ETEJGb2JyalhBUUZFbVZhNTdYUHRRZmUwelo2MDA?oc=5",
+    "summary": "Hippocratic AI rolls out 2 new tools aimed at expanding clinical access, improving nurse workflow Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2026-04-01-1sd6p8p",
     "date": "2026-04-01",
     "competitorId": "nabla",
@@ -132,6 +143,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-11-09-1ndk917",
+    "date": "2025-11-09",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "DRH Health expanding AI technology into clinical documentation",
+    "source": "Healthcare Finance News",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPanlGM01NVTdGMWtTRXdQeVhvbExPS3duWVlUd09NcVAxRkZmZDlia2RnZlRVWlQwTVBPT1Qtd0lMd3FTTllXZUtCQl9walhHdnRiZG1EUnRpaWZSTW90MlI3MVBvYVEteUlFNDRLQkt6NHNoSktqbXVXYjVvcWJBRFNHOW5xaGI0akhCZWotUjhUUVVRcUlmVGdJSUhySExJRWc?oc=5",
+    "summary": "DRH Health expanding AI technology into clinical documentation Healthcare Finance News",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-11-06-1h1140d",
     "date": "2025-11-06",
     "competitorId": "augmedix-commure",
@@ -151,6 +173,17 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaTR2SUh2ZEtwWDhaRGZLZFVINFNaRTdmTFhOYWZjVnVWSGdmS0c0akZxUkJBTjdnM3RvSEFzamVnNUZjQTIwMzlYZjhiOFRRXzFMMW9fYWh4VkZyQzNHZ0JpNnZLc3NVMThhc3JFUG5QR1pLSEZ4UzdHYTNXNUU3eW45M2U4TjZ2V0pWZEJHYksxeWd6NlhITmoxTGpPU0trb2NZMV9UMzdIOGR4SEJiLVhNQXBCWXd4eVo4YkR5UGZFU05v?oc=5",
     "summary": "Suki inks partnership with WellSky to integrate ambient AI into specialty care EHR Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-10-19-11eiyp0",
+    "date": "2025-10-19",
+    "competitorId": "nuance-dax",
+    "competitorName": "DAX Copilot",
+    "title": "Microsoft debuts Dragon Copilot AI clinical assistant for nurses, expands access to 3rd-party apps, agents",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ0Uzb0c4UzFLU2xjOUlVT1F0cDZKRXo5Um5wVDRaZlZxSm1OY09FWmJ6RjFKZUVWSFNuZVgwMGx5ckNWUEtrbjZYZVRySHVRVzQwTmxRMUZMM1JFNEZQTU9qMUx5RlA1NjBRV3AybUdiM3V5cFk3UFpYRDh4S2hwRGxaa0VwUG9VVGtyWEJLQkpDZVNmQWFYOC1wWWdEUzM0TVcyRUtscWFRMVAyMFJ6aE03YWsxaV9pVnF4cU9xVGRjbGhPQXBIak8wNGQ?oc=5",
+    "summary": "Microsoft debuts Dragon Copilot AI clinical assistant for nurses, expands access to 3rd-party apps, agents Fierce Healthcare",
     "status": "unverified"
   },
   {
@@ -200,8 +233,8 @@
   {
     "id": "lead-2025-09-03-s5es5f",
     "date": "2025-09-03",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
     "title": "Onvida Health and Ambience Healthcare Launch Ambient AI Integration with Epic",
     "source": "HIT Consultant",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMkZmOV9tRzJCVFJkLXItRWxweXpQZkVFbTJad1U2eW5oS2ctV2dUbWZGM3p6V3Q2bl95c2lfVGhmbHhuMV90MC1GOEFBX2xIRWZtaG94bmgzdk5jQUF6UWZxS2lHblpOQUV1Mjg4cnBZdWlrcTZSVG4zWGRFSDJNaTg2UW9BOG00MWUzTzdGQU9sZWJoaGRjcHVXZTVpQQ?oc=5",
@@ -484,17 +517,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-01-15-8qbqoo",
-    "date": "2025-01-15",
-    "competitorId": "augmedix-commure",
-    "competitorName": "Augmedix (Commure)",
-    "title": "Augmedix granted Vizient contract for ambient AI documentation platform",
-    "source": "MobiHealthNews",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNODU3Q2ZNQTZOVTZudHdMUWZSWDh3ZXR3RmJMMTNMV25xejRnLXdfd1I0S1lkQm5xMkxDaHpsSEwzRF8zNUZ5d2RZelJuSGVreDVPWF82Z1J2X2JNX0FHejQySmtkeTNiV1lQOG1wNzRDU3hUUVhuRTBXX2UzalQzbFI1ZnAzMVQtdEZVMWtmZW50SXlmSTNuWEFMWTZDVkY2R3d0M19B?oc=5",
-    "summary": "Augmedix granted Vizient contract for ambient AI documentation platform MobiHealthNews",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-01-14-o2697m",
     "date": "2025-01-14",
     "competitorId": "deepscribe",
@@ -525,28 +547,6 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR0NqNE1FbXVuQnVSQ3dvckEwTDladVBGMjJyQjQwaUdtUXRFVVVpOHNfLV9YSjJXQ2RiZUhZNF92RGlvM3NZTVZZUkowaU5iWG5CREtBWGJWREZSblJ5SnIyVnR4WEJTOGRMQTFhN2tPQUxHb3liUHUzMGxnZGdGWEhCZjZZWFVyeklaRmxJSlNEZFhjRFNDelZlS2xwZFh4eHFzNXdFMFNaNVotX2c?oc=5",
     "summary": "General Catalyst teams up with AWS to co-develop, deploy AI-driven solutions Fierce Healthcare",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2025-01-10-1wzxpvl",
-    "date": "2025-01-10",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "Duke Health and Abridge partner on AI for clinical documentation",
-    "source": "Healthcare Finance News",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnNlaTN0UkxELWhtNGJkRHRmb1pPSTg5LWNnaFA0S3FRci14ZUhrcExyU3RBZDBMTV9tVEZLUVdDd1owY1NCcW9VV1Y1RHZkcWVXX1MxeklJcDh3clVWYlJxcEd4bEREdUg0MHVjVUNoXzZLbEEzZWtwUUFFbmhubXRyQWhYZ2VWZmk2ZU9KblB5Qm9seU5oVWVGZTgtZjR4a3c?oc=5",
-    "summary": "Duke Health and Abridge partner on AI for clinical documentation Healthcare Finance News",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2024-12-18-plvz2e",
-    "date": "2024-12-18",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
-    "title": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians",
-    "source": "CNBC",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQm42WHRpUFpDeFNRTUkzcW1GRDBTUm94VGdCdlR1bFZveXBHdUJtZ21rcXdUcGJ1bTg0RTJUTzBrWnFvSVdBMTZRbkY2X1BmdFpLMS16QkdJcjF1VmY4aDM3YkwxOVE2alNQUXI2d2x0Qi0td1ZESGw5UE55dFVKbEU3Wmlkck1nbFRxRk9oTkNSSVR4YldVNWFZcnktaEnSAaQBQVVfeXFMT2hlS2tJMzlyRTZ1aGgwdDMxMVlkX20zUVZoaV95d28tcndIM1B3eHFLZFlYdXUtQ182cFp1XzhUcUpFVG9JWTdzYWx2a08tOXZPZVRGckJreHZJUjh2U3JFbGhUQy04Rm5kZlo4SnI1bDZqNWNKb2dNck5FTDc0NlpGVkpkZHRpVXZMN3luWmU3b1NQbEh2aFJ0ZmF6UUZpY01xRVM?oc=5",
-    "summary": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians CNBC",
     "status": "unverified"
   }
 ]
