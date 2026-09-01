@@ -71,9 +71,9 @@
     "competitorId": "augmedix-commure",
     "competitorName": "Augmedix (Commure)",
     "title": "Willis Knighton Health Selects Commure as Enterprise Ambient Scribe AI Partner",
-    "source": "globenewswire.com",
+    "source": "GlobeNewswire",
     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRzhTeWpzQXFRQzRWZnRPX3p1RVJKLWlDVEVDZTh1dXJwNlA2eVNlUWJRSEQyd19uMm00M3pReElJdzVJMnpaMzgzTGFtU0VPbTJiU081d0VlVXYzeWJvdzRTWm94VjZZbWpjUFJKcGl2ZmNtUGdSUHB4Z3NQTG1uVDhWUFVYMHlTMDZtS3ZwM3ZMUTMzdnNwcmI1R1ZwWnZ5aFZtdEFkeWJneGhyYXVaUzROOUNJTHZjcmJyT2RnTm9wRGdzS1lhQmswZzJzSVFQVDNkdkVjRkdndjY0eWRpbHZaV28?oc=5",
-    "summary": "Willis Knighton Health Selects Commure as Enterprise Ambient Scribe AI Partner globenewswire.com",
+    "summary": "Willis Knighton Health Selects Commure as Enterprise Ambient Scribe AI Partner GlobeNewswire",
     "status": "unverified"
   },
   {
@@ -126,9 +126,9 @@
     "competitorId": "epic-native",
     "competitorName": "Epic Native Ambient (Art / partners)",
     "title": "Epic rolls out AI charting tool as scribe market heats up",
-    "source": "healthcaredive.com",
+    "source": "Healthcare Dive",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDNsVElCZGdVdHpmUXoxczRxMWNqdDdURWdqSzlCVzB4Z2pMU1BhbVlVTGNnV3JOcWJsZjJOZGY0MURtbW5DTGxTTHZGOGZFZy0wdDVYWjBUdTZtX2laQnhrN0ZnbjhMa0JYbkNNWnlUeHV6MUpIaUFrcmFacU1DQ3FYMVF0REowaXZUcmlsZVhMSmRZZFVVaHcteklSQ1J6T2ZiTEJKSjdpdw?oc=5",
-    "summary": "Epic rolls out AI charting tool as scribe market heats up healthcaredive.com",
+    "summary": "Epic rolls out AI charting tool as scribe market heats up Healthcare Dive",
     "status": "unverified"
   },
   {
@@ -316,17 +316,6 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV3BacTZzQVl0OUp5eE16WUVDQUJIMm41eHRQc0E4TzFjWEdRSXdKcndJVVdGM0NfOWFDNkM5TVdZdnc4V3NaSno1Zm5NXzZSM1A1Qm80NVpPbXNDUldYWHljMjE4YTFoblB6ZV9FTnlEOVFIRkNGTEZTbml0WnFpMFk4cHdVZFM2Q3kyY0FkREM0WFh6MVRtVjZjUmVGYldwQkVFMHd5Uzk4MVpHVF9SaEpqcWNlZnkzcWl6VENmOHdidw?oc=5",
     "summary": "Abridge rolls out customized well visit note for pediatric primary care Fierce Healthcare",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2025-05-19-13wadkw",
-    "date": "2025-05-19",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
-    "title": "Dr. William Morris, CMO at Ambience Healthcare, talks partnership with Houston Methodist",
-    "source": "vator.tv",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWEZOSWdabWUtNTIxT3VsNDFmODFEeEk2MFktb1ZjNU9zX1ctVUg3TDRyd2dfQjBrVjUwUE5MdzZSTW5BRlpzcm9OS3A2WGRHajJNVU4tYUtxTHRBTHNBUldwYlhlcnBGRjE0X0I5VDYzUGF5ZGtzLVpKT0V1VE9FSTMzaExlM1NwTk1HcDBrTS1zZG1XTmZEanAwQzYydzc4M3pkY0JR?oc=5",
-    "summary": "Dr. William Morris, CMO at Ambience Healthcare, talks partnership with Houston Methodist vator.tv",
     "status": "unverified"
   },
   {
@@ -544,9 +533,20 @@
     "competitorId": "augmedix-commure",
     "competitorName": "Augmedix (Commure)",
     "title": "Tenet to deploy Commure’s AI scribe at physician network",
-    "source": "healthcaredive.com",
+    "source": "Healthcare Dive",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTl9oZVA4QzFCbUFPcnh4dWxpY2syU0lQYlVoSHFrcUhtWmFzRWc4VHJ4QjZVOThqaGtCQmNPZVpfZ1dwQTNvdjIzWFNJN0RSbXJ1WDFWYVpwUzRSNld1MzFWd1Y3T3JrYTlSNWtfV0lsclRXb0NnNTN1YzExWWZ4OHN2Y2J6SzJhOHlFSVpCcEJibUFmcW5SUg?oc=5",
-    "summary": "Tenet to deploy Commure’s AI scribe at physician network healthcaredive.com",
+    "summary": "Tenet to deploy Commure’s AI scribe at physician network Healthcare Dive",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-11-21-eioqo8",
+    "date": "2024-11-21",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "Commure rolls out AI scribe for Tenet Healthcare after yearlong customized build",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0h5Y0V4MTFnZkJUU0RoNmptSEtmLWgyRFo3TTVXdVQ3VmRSa2FJUDdYWG9DQlNYOFlnSXZicmszZVJUUDBaQm1kVlpVR3RhQ0t4cmMxSVdtc05mZllKMllXSVZaekJjRy01aTM5Vzc4dWtoNGdQbkxET1R1a0d0N3hraE5zTm41RENHdC12UkNSNGppUHlRV3lndE5IMmVBU2xybm83U3Q4OURDcEVNWkh5amtZWkZVQ0JHNHlzU3lzX2l4TkF3?oc=5",
+    "summary": "Commure rolls out AI scribe for Tenet Healthcare after yearlong customized build Fierce Healthcare",
     "status": "unverified"
   }
 ]
