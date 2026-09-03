@@ -1,11 +1,22 @@
 [
   {
+    "id": "n-2026-09-01-1gmj4mv",
+    "date": "2026-09-01",
+    "title": "What belongs in the medical record in the AI era?",
+    "source": "Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yN3k2OHptRVIxNkRqSTg3bDRJaUM0NFdLQUkwT2kwdVFUOTI0d1l6cTRzMnRfeDdVWFhsbUx2MDloSDVKd1NlZ1cwZUNKZVNwMFVUZFByemVYel8zM003YlB0X1hyVmF1TjVoMDdOYzFKUHhoYllfTmFfSHY?oc=5",
+    "summary": "What belongs in the medical record in the AI era? Healthcare IT News",
+    "tags": [
+      "industry"
+    ]
+  },
+  {
     "id": "n-2026-08-31-vk0avq",
     "date": "2026-08-31",
     "title": "Ardent Health Announces Enterprise Rollout of Ambience Healthcare's AI Platform for Documentation, Coding and Clinical Workflows",
-    "source": "ithacajournal.com",
+    "source": "The Ithaca Journal",
     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeTI0UUw5Q1l0QVlOLUdEVTRaYURFY08tbGdKemJ3MjBPclRHemZJaXN3bGdyb1ZnMnJNQ3ptMUNTdEV2UFppZmpzNWpZZ0tQRHBTTW5jeFBzNU1JRXZnWnZyZ2xva21iNzdhOXlyMmZseEFVeEpxdDBiaVVpZUd0NlJ3em91Qnl5UjB6d3NjYVZwVDJTRkFaUHB1YXJDY1UxbzdFYjZKTE5HbWJCYzEwRGFUeDBPeFl5UGw4cmVoRGx2YXJmSWdWQUFqYVdYV21lQVV0cDYxOEFQOXNTZUtzd1hkVnFaWFVvSnUzRFNCemJidkI2MEN3VWtlWkFRSmdIaTlJcG5xbmtFdw?oc=5",
-    "summary": "Ardent Health Announces Enterprise Rollout of Ambience Healthcare's AI Platform for Documentation, Coding and Clinical Workflows ithacajournal.com",
+    "summary": "Ardent Health Announces Enterprise Rollout of Ambience Healthcare's AI Platform for Documentation, Coding and Clinical Workflows The Ithaca Journal",
     "tags": [
       "competitor:ambience"
     ]
@@ -78,23 +89,23 @@
     ]
   },
   {
+    "id": "n-2026-08-10-15gphay",
+    "date": "2026-08-10",
+    "title": "Generative AI for Clinical Documentation Market Size [2034]",
+    "source": "Fortune Business Insights",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMUVoUnBEWEtBZkl6ZHNkamtaWUhBQ2ZhdnNGXzVfUmtZTTdUVW9VdXFocUtYREVIaTFoTWs1RWxfeUkxMGJGLUdTalNGN0JWaGhXMDVmR0ZnSXRGRDNpRzVGdVZMVmhyN29fWTJJVTlTNTJHMUdwSS1GQVNIc0RtbHdiU0YyZGxremtlLUw2MmpraVBmTTJwM3BR?oc=5",
+    "summary": "Generative AI for Clinical Documentation Market Size [2034] Fortune Business Insights",
+    "tags": [
+      "industry"
+    ]
+  },
+  {
     "id": "n-2026-07-29-wom2rw",
     "date": "2026-07-29",
     "title": "Two visions for ambient AI and the future of the EHR",
     "source": "Healthcare IT News",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcTRUQVFSNWJXYno0bDJxZkllNzVQRmltOGZXU3k4WnJvbE9WcGtqMWc3ZGw0bC1DQkR3cjlpcm1wNXkzM1dETnAzY1AwMnNDemduSEtJQnk4UUx1RWZjQ0xwU2tCR1FyRDJXNFdWRm5uWGdBczZOWTROX05Td05UUg?oc=5",
     "summary": "Two visions for ambient AI and the future of the EHR Healthcare IT News",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-07-29-ko237j",
-    "date": "2026-07-29",
-    "title": "MHRA clarifies regulatory status of ambient voice technologies used in the NHS",
-    "source": "GOV.UK",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc2duLWktcTMwNlhaMmoxTVJwMjZ6REFlR2dvTXE0UHl0WkpNb29XZTVpZUtXLXBiOGR4czlwWF9GcEh0VnRfZURsVmFGRTVrVUtMSHN4TVB6VHlzMkgtZ0J1dDlJSjhVVjcyZURBaUU2LUx4S3IxdUViTXBrYkdhMUhMYXRISzFLSDVDYlpYbkxCekRwdUtBU245aUIwUDlSNUp3UGY5Nm5SbENITXp6SVBtcw?oc=5",
-    "summary": "MHRA clarifies regulatory status of ambient voice technologies used in the NHS GOV.UK",
     "tags": [
       "ambient-ai"
     ]
@@ -139,9 +150,9 @@
     "id": "n-2026-07-27-8jrxjk",
     "date": "2026-07-27",
     "title": "Using ambient AI in clinical consultations: reframing policy around clinical audit and patient safety",
-    "source": "Frontiers",
+    "source": "frontiersin.org",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWRsMXltUi1KXzdrbW9KTzFrY0hVS2xEMXI2N3d4a0FQZEpJcWZxTUhXU3RRdjFSMEVvRHB2SEwyT1g4MFVIRXlLLVR4TkJua3RUZjhXdjlqZ29uRjR2OHNwNmk4UHZwWjFPVkhtOVlvTndyWktWRmxjSFpQR1VIbS0xT0NscDdoZzdLTnNqN01GaDM3RDZN?oc=5",
-    "summary": "Using ambient AI in clinical consultations: reframing policy around clinical audit and patient safety Frontiers",
+    "summary": "Using ambient AI in clinical consultations: reframing policy around clinical audit and patient safety frontiersin.org",
     "tags": [
       "ambient-ai"
     ]
@@ -181,17 +192,6 @@
     ]
   },
   {
-    "id": "n-2026-07-15-q7ek8h",
-    "date": "2026-07-15",
-    "title": "athenahealth Selects iScribeHealth as a Preferred Partner for Ambient Clinical Documentation, Elevating a Long-Standing Collaboration",
-    "source": "prnewswire.com",
-    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQUGJBTHhWaFhfdktaT21CY3lLUGpxVFdLLVlkZlBXZFRMYmFGQW1qZVhiZnVtYkJDYU1KazJiWlU3UGFXOXFZZlNYSW1wRnd5MVFkN1BOWHRsTHR0TTRYMVIyVHdsd0hqRXltT1NEVDFlcEEtWUtaX19WZURyQW5pOGY2b1JHT2RjNldQV3lPZTJvQzh2cTFwQVh1U3ZqSVI4WGF0bENxTHhxOExoTU5oRkM3aEhKVnJael9mYTFLQzZza3RzUHF1OS1PTWtXMlIxN1hFdUYwMWlaemEyRXdDUmNVeXAyOWNCZDk2WnA2dmpLZTdJUUs0TWlJMTdlMXdycUFvU0R2cGFjMmpGZGFmb0s4Z3lnSDg?oc=5",
-    "summary": "athenahealth Selects iScribeHealth as a Preferred Partner for Ambient Clinical Documentation, Elevating a Long-Standing Collaboration prnewswire.com",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
     "id": "n-2026-07-08-52rzv4",
     "date": "2026-07-08",
     "title": "Where ambient AI actually helps reduce clinical burnout",
@@ -204,17 +204,6 @@
     ]
   },
   {
-    "id": "n-2026-07-07-1g5k2ig",
-    "date": "2026-07-07",
-    "title": "How nurses are shaping the next wave of clinical AI tools",
-    "source": "Modern Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeU5XazRRckZaMjdxLUxzdEVQQkxVczNXUVFPZk54V3F4cG5CUEd2TTVxOVNlVlVocC1SNTNtOU9ESFY5TllzdFYxMFBMRE9mc0t3V1NjMEs1X1VqdktmdUh1X2JvdGxxaW5zNVdQTEJTQ0JTdmNVLWlxaEVSQ0x0SmpmM3ZlX1ZPV1ZNTkNsRWE?oc=5",
-    "summary": "How nurses are shaping the next wave of clinical AI tools Modern Healthcare",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
     "id": "n-2026-06-29-xtwwf1",
     "date": "2026-06-29",
     "title": "Three Ways AI is Enhancing Froedtert & MCW Patient Care",
@@ -223,6 +212,18 @@
     "summary": "Three Ways AI is Enhancing Froedtert & MCW Patient Care Froedtert & MCW",
     "tags": [
       "industry"
+    ]
+  },
+  {
+    "id": "n-2026-06-25-zlc3xc",
+    "date": "2026-06-25",
+    "title": "Sevocity Partners with Suki to Reduce Documentation Time by 76% and Tackle Clinician Burnout",
+    "source": "Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLWhHeEtyQnRIX01JZnJZSjdBb0FHb1dKOGswM2p0T202ekhsM25ZdTcyTEF1S0RMVHVETFlnWGVzYjV2aHh5UktKTEFFLUgzb3dGOWZuSnY0VWNBTV9GUHA0MmJwNjNQbDVka0RHR0FDSV9tUGlBVEpYUkNLWUVRX253NzR4OThyeFUyeHYxRS16YU1iZlVqOFlDZmZ2VW5nOGdHSGFLNEhHdmdhX3BwNmx3X25mNVpFTkRiVExBOEd0cHJ1WnR0eFQ3X1FPRlFtcFhEOHVCaWVsMHYxeHIzd0d3?oc=5",
+    "summary": "Sevocity Partners with Suki to Reduce Documentation Time by 76% and Tackle Clinician Burnout Business Wire",
+    "tags": [
+      "competitor:suki",
+      "burnout"
     ]
   },
   {
@@ -251,9 +252,9 @@
     "id": "n-2026-06-22-1vtku3c",
     "date": "2026-06-22",
     "title": "As AI Listens to Patients, Physicians Face New Questions",
-    "source": "Medscape",
+    "source": "medscape.com",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUWltWUtSV1BXelJUbTBvQXFiTUdDNW1DbVpUN1lpVTJtajJ0VS1rY3ZWZ1BTa1NWQlhzQ0ItNlF4Vm44dVZ1WUtHeVZyMV9XVmR4cjBVMVlqTENCbEh3UC1VNnZIaDJIYzRPd1B3RGx2SmNHQ2FLX2cxcGtXQUFHbDZqOW9VY05Ba2tYZkpWMXRRUTZVVVNtXy05Mm04TTRN?oc=5",
-    "summary": "As AI Listens to Patients, Physicians Face New Questions Medscape",
+    "summary": "As AI Listens to Patients, Physicians Face New Questions medscape.com",
     "tags": [
       "industry"
     ]
@@ -281,24 +282,12 @@
     ]
   },
   {
-    "id": "n-2026-06-15-19xb4q",
-    "date": "2026-06-15",
-    "title": "Lilly Backs Abridge to Bring Ambient AI Into Clinical Trial Recruitment",
-    "source": "AIM Media House",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV0VjQ05WLUUtUk4tRnpmMDBWSkpEQW92WEI5cG5WUUZtVUEycEd1Zzl5VW5LbXFMNnJDcEJ5RXZUTF9nUm51RkxlY0FhZ016b0dOMVhvNGxhb1h3NGNyU0wzYS1pOGlvX05yWFNDdlNpSUVEeTVvaFc4eGl0RzEzbEZSbWt2ZGN0bER6VnZCbTJFbmhydDdXcTF0RVVIYU9rZGJkTnB1QUVwUHowVzBNYXNRaEdrOGpzcUZLN09n0gG-AUFVX3lxTE9XRWNDTlYtRS1STi1GemYwMFZKSkRBb3ZYQjlwblZRRm1VQTJwR3VnOXlVbkttcUw2ckNwQnlFdlRMX2dSbnVGTGVjQWFnTXpvR04xWG80bGFvWHc0Y3JTTDNhLWk4aW9fTnJYU0N2U2lJRUR5NW9oVzh4aXRHMTNsRlJta3ZkY3RsRHpWdkJtMkVuaHJ0N1dxMXRFVUhhT2tkYmROcHVBRXBQejBXME1hc1FoR2s4anNxRks3T2c?oc=5",
-    "summary": "Lilly Backs Abridge to Bring Ambient AI Into Clinical Trial Recruitment AIM Media House",
-    "tags": [
-      "abridge",
-      "ambient-ai"
-    ]
-  },
-  {
     "id": "n-2026-06-12-lb51gy",
     "date": "2026-06-12",
     "title": "Health Brief: The AI scribe evolution",
-    "source": "washingtonpost.com",
+    "source": "The Washington Post",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQVRoMTZGYUsyQkpDZDE2dnVpTDNkQkFmXzdKcUtLTmdMNmdoSG4wSFlzTTBpVlRDUW9sdjNOdV9IbXhfcS1Va2xuaUlUWUF3cE9vT21lTDNlTTR1U3lCdmM5TWhKR0daWTFJRlhZM3pyS1BsNW1uYW1YYnRmVnVvVV9GMkx0ZVJCWVN0MFc2Q093d2pFUHVIVVdEblM4Um1sMHZycXJWRQ?oc=5",
-    "summary": "Health Brief: The AI scribe evolution washingtonpost.com",
+    "summary": "Health Brief: The AI scribe evolution The Washington Post",
     "tags": [
       "ambient-ai"
     ]
@@ -335,6 +324,17 @@
     "summary": "Why oncology is becoming healthcare AI's toughest test Healthcare IT News",
     "tags": [
       "industry"
+    ]
+  },
+  {
+    "id": "n-2026-06-05-3jjsc9",
+    "date": "2026-06-05",
+    "title": "AI Scribes in the Clinic: What Patients Should Know",
+    "source": "mcgill.ca",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUGFZUjM4bFFmU05wWVJTUjF2Q0xwbVJHSVMtSmluTkZ6UUp1dnZENVFZWEVDRXItem9SdGMxLWh3bVk3eGZTUTJzaXViUmxwLXpfMmZwSXVpVndLZGJwc1VPOGVodFNqSzFVbDdjS1puN3RSbHhtVS1YRHVVNDNIaUdOclo1cU5VOGxMUDJqMUwwRE5iWUpTWXBoS1hfVThvcXBpNTNjeFdFTlNMcUg4YUZ4b2syWFNNME1uWlFGTzFKeTNYRXhYRkRCcWpqVEFS?oc=5",
+    "summary": "AI Scribes in the Clinic: What Patients Should Know mcgill.ca",
+    "tags": [
+      "ambient-ai"
     ]
   }
 ]
