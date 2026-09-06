@@ -34,6 +34,17 @@
     ]
   },
   {
+    "id": "n-2026-09-01-1ym0au4",
+    "date": "2026-09-01",
+    "title": "Smart ICU integration cut errors and ambient AI reached 90% of notes, once both fed the EMR",
+    "source": "marketscale.com",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVG5BaF9HUlNVZEsxRmRQUlFETnVfSkdJeG82M09sV0M1TEhpLThKdUdQeUUzdmhqV2Q1bXk0YXRXeFFrd21pdDhIYy1zYnhUMnlZV1BmbmpVNHd3cU5zMXlmMjUzWWtqTVVZWW42NTJMSGVpTFV5bkF2V2pIaXVrRE0wcy1sTDVSY0hOdEVCMTA4Qk0yaUI0U1BWa1BzWnNqTzdka2lTREpHdndrM2pSNXZiY3VNNHlkNWxhb2VzazFZLWU1RzFj?oc=5",
+    "summary": "Smart ICU integration cut errors and ambient AI reached 90% of notes, once both fed the EMR marketscale.com",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-08-31-vk0avq",
     "date": "2026-08-31",
     "title": "Ardent Health Announces Enterprise Rollout of Ambience Healthcare's AI Platform for Documentation, Coding and Clinical Workflows",
@@ -131,17 +142,6 @@
     "summary": "AI Medical Scribing Market Size to Reach USD 9.67 Billion GlobeNewswire",
     "tags": [
       "industry"
-    ]
-  },
-  {
-    "id": "n-2026-08-17-1ch7563",
-    "date": "2026-08-17",
-    "title": "AI scribes may miss critical SDOH data. Here's how to close the gap.",
-    "source": "TechTarget",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEhTN1ZDeEJtQm9nWXNIRE9GZXNleUVtVzJNWS03Z1JwTmJ1WEhVdXkxVDhlbU5EdVp6N0l0c2FyUlluWHBhdHE5NWg5VzNBUlFsWFdwOU5BQzBOZHVzMHhCUUxoTnlxWXVGdGV1RlZBdDNIbDN0ODNXUzNyajc5U2JkUjc2WGR5YXFTYUl5RUY3ZlluRUN0Skt1NEROSGt5WG82Rkx6Q2ZaN0R4dnVKdnE4YmNzdw?oc=5",
-    "summary": "AI scribes may miss critical SDOH data. Here's how to close the gap. TechTarget",
-    "tags": [
-      "ambient-ai"
     ]
   },
   {
@@ -270,17 +270,6 @@
     ]
   },
   {
-    "id": "n-2026-07-07-1ffe8oo",
-    "date": "2026-07-07",
-    "title": "AI Notetakers For Doctors Raise 'Bycatching' Liability Risks",
-    "source": "law360.com",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdWN2VTlwaTN6QXFDQl9lM3pOS01fNlhhTE9wcU9IZ2hwZk0yV1F0ekkyV2RlQVZKblV5X1dmb2xMTGpPS2x6LUVmT0FmVjhqWkJ4RHpUT0pmSzRhY3M0R0hBQlpJSjZiUVY4clFweDRtaFRodERpSzJEbGRBdFBsM1VrY2dKaXVBUmptbDZ3bUs4ZHZoS1lxWkdzWDVyYnBlUkhiZzM2a2dfc0xkOEVwRHhXWFhFVl9KVjQw0gFyQVVfeXFMTVFFb0I3M3JpZFhHazcyOE82MmxfaG5QOHBwcjE0a3huUlh5WVhmdkd5RnJNeFlSQmdPZ1V0dnA0QVRXdHdZVFhndzdIQ1EwQm9QTHlJRmZJZ0trbEZVUF9kbnRUcHFMLVQ1SWNoRHZ1dnp3?oc=5",
-    "summary": "AI Notetakers For Doctors Raise 'Bycatching' Liability Risks law360.com",
-    "tags": [
-      "funding"
-    ]
-  },
-  {
     "id": "n-2026-07-01-my6lih",
     "date": "2026-07-01",
     "title": "What Healthcare Leaders Should Know Before Implementing AI-Powered Documentation Tools",
@@ -314,12 +303,23 @@
     ]
   },
   {
+    "id": "n-2026-06-22-1vtku3c",
+    "date": "2026-06-22",
+    "title": "As AI Listens to Patients, Physicians Face New Questions",
+    "source": "Medscape",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUWltWUtSV1BXelJUbTBvQXFiTUdDNW1DbVpUN1lpVTJtajJ0VS1rY3ZWZ1BTa1NWQlhzQ0ItNlF4Vm44dVZ1WUtHeVZyMV9XVmR4cjBVMVlqTENCbEh3UC1VNnZIaDJIYzRPd1B3RGx2SmNHQ2FLX2cxcGtXQUFHbDZqOW9VY05Ba2tYZkpWMXRRUTZVVVNtXy05Mm04TTRN?oc=5",
+    "summary": "As AI Listens to Patients, Physicians Face New Questions Medscape",
+    "tags": [
+      "industry"
+    ]
+  },
+  {
     "id": "n-2026-06-19-1scqoz",
     "date": "2026-06-19",
     "title": "The ambient AI scribe illusion: Doctors need to pay attention",
-    "source": "americanbazaaronline.com",
+    "source": "The American Bazaar",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUZ0V1FfTDJ1ZXhUc1FTdVFlcUZVM2hPUkdPcWFuWWtxeDk0bjY5Z2dpZlRKRW91RzlMQWhGeFUyczBIMkVDaEQ1cFFKVWkxQUpWeGx1NUZVZ0JiSXh5cDVoSjJUMWNnWTFzdXd4RzRscVFiMk5Cd1UzeklFU3pYLWNoTGh1RWpjUHpSSWUwY0tUV0xuOXZRRkdDX25OVDl6bmZUSFJBMmU5REluVUdGVG1R?oc=5",
-    "summary": "The ambient AI scribe illusion: Doctors need to pay attention americanbazaaronline.com",
+    "summary": "The ambient AI scribe illusion: Doctors need to pay attention The American Bazaar",
     "tags": [
       "ambient-ai"
     ]
