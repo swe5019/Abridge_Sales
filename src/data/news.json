@@ -1,5 +1,16 @@
 [
   {
+    "id": "n-2026-09-07-1es91jp",
+    "date": "2026-09-07",
+    "title": "Ambient AI Documentation Is Leaving the Exam Room, and the Medical Record Is Changing With It",
+    "source": "Technology Org",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVGttQ2c0VVV3Y2xYTENaZ3lwc0hxbHY0NnJiWUFHZXRiNnZIYmc4NDFVNFZ0dnVuM2Jwd1V2WV9PSDhRT0MzcXRiMzhuOU5UeS1CbVAzVVhXdkx0d2FrODNrN2tpZ1dvdGN1UXRzbHduTFlMbERsVFpBMkJoZlhfLV9yN1Zqams4eHp3cWJaSXZjR2huZlVJMWItRzZGQ1BEcmd0TTJmclhDX2c2V0ZVWjdIVWpoalBiN0Q3QmlMT1RzOW1OcnpxdnlUWQ?oc=5",
+    "summary": "Ambient AI Documentation Is Leaving the Exam Room, and the Medical Record Is Changing With It Technology Org",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-09-05-1h3lxs3",
     "date": "2026-09-05",
     "title": "Deconstructing the Ambient Clinical Documentation Paradigm: Sociotechnical Realities, Epistemic Shifts and Systemic Implementation in Healthcare",
@@ -14,9 +25,9 @@
     "id": "n-2026-09-03-h2963z",
     "date": "2026-09-03",
     "title": "Commure Ambient AI Achieves Class I Certification and MHRA Registration",
-    "source": "manilatimes.net",
+    "source": "The Manila Times",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTzVqZXFJanpHdmRMRXROTzRMeVhSU0VRN0Z3NTJmWHg4MVUwaHhFTWVZVm5KTXZ2X3Bfbk8wTkx3ZE43UnE4UWhDNUt2LWFXajJEOHRJbWk2VU1aQWdvSjg0ZVA4cGs2UlhhT2N0NFpEemllR3ZnZFZYOFlxb05hS1dFbmIyWC1jQUJqUXhFTWJkM1dOSUhHRWd5MFdoUmpyN3Bvdy1lQWltekxVUG41QnozZUVPb2NNNEFPUEgxRmNLLWJuT1Qwb3drTHdVRU85UTMtYWZFQVdlbUgwWXfSAeMBQVVfeXFMTlViTmdzRG1MeHdjZEQyTHhoTzB5Y3BSZjhaUjF0YXV6SWtRWnNWcFlGQU9Yc2hEMFlHYVMtaW4wdmk0ODE0eW5TWGhMVTcyWE5PY3JIRl9UTTZLSndvbEJKbW8zUWpnSUMtVlU5bUtzNFlSdnRQOVBsYVFzQW5zUWJCeExtckJESjhadzBwRDVhWGIxU3NzdFl1SXczb1FiTUtSTVRkQXdRcUZNVmwxT0UyR1VRd3RxQVlXM3R0WWJja1VxZWNDUEJKeU14UDMyN3g2SnRnWVYzMUpxeDlLc2VRaTA?oc=5",
-    "summary": "Commure Ambient AI Achieves Class I Certification and MHRA Registration manilatimes.net",
+    "summary": "Commure Ambient AI Achieves Class I Certification and MHRA Registration The Manila Times",
     "tags": [
       "competitor:augmedix-commure",
       "ambient-ai"
@@ -34,34 +45,12 @@
     ]
   },
   {
-    "id": "n-2026-08-31-vk0avq",
-    "date": "2026-08-31",
-    "title": "Ardent Health Announces Enterprise Rollout of Ambience Healthcare's AI Platform for Documentation, Coding and Clinical Workflows",
-    "source": "The Ithaca Journal",
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeTI0UUw5Q1l0QVlOLUdEVTRaYURFY08tbGdKemJ3MjBPclRHemZJaXN3bGdyb1ZnMnJNQ3ptMUNTdEV2UFppZmpzNWpZZ0tQRHBTTW5jeFBzNU1JRXZnWnZyZ2xva21iNzdhOXlyMmZseEFVeEpxdDBiaVVpZUd0NlJ3em91Qnl5UjB6d3NjYVZwVDJTRkFaUHB1YXJDY1UxbzdFYjZKTE5HbWJCYzEwRGFUeDBPeFl5UGw4cmVoRGx2YXJmSWdWQUFqYVdYV21lQVV0cDYxOEFQOXNTZUtzd1hkVnFaWFVvSnUzRFNCemJidkI2MEN3VWtlWkFRSmdIaTlJcG5xbmtFdw?oc=5",
-    "summary": "Ardent Health Announces Enterprise Rollout of Ambience Healthcare's AI Platform for Documentation, Coding and Clinical Workflows The Ithaca Journal",
-    "tags": [
-      "competitor:ambience"
-    ]
-  },
-  {
     "id": "n-2026-08-28-1lcte8p",
     "date": "2026-08-28",
     "title": "Private Indian hospital takes platform-first approach to ambient AI",
     "source": "Healthcare IT News",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeUdLa1RnY1gzaDBmY0xpdWpWOVNRQzNjYTQxLXd2V3FybGF1SFVRYm1yLXdUcUZfeTVPQklrZTNjM1RCSVhnZHBhOTAyaFMxbmI3dnNEYzNkdkNZZUFUeU1INXg3a1RZbllrN1c1NENIaU9JWFlTSUZOMEtTRmpySHZuQlN3UWY1UTI4SHZObjRVd0VERGEzYXF0ZERwWDE5SjhrM3h5LTI5ZTQ?oc=5",
     "summary": "Private Indian hospital takes platform-first approach to ambient AI Healthcare IT News",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-08-27-11am86q",
-    "date": "2026-08-27",
-    "title": "Why one clinic lets physicians choose when & how to use ambient AI",
-    "source": "techtarget.com",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVXR1bnl5N3J6TjlFaHo2N3ZOZEs0U0g2cDEzU3NaZGRuUGpGQjZuWWRyYVZrYllqazc0VjZjQVNZcVFQUGdtY1diV2VsMkhrYjVyZ0g5cjlTdzd4dGxQUl9CaHpqS3NpOTFNbWdWMVgyVThQMzVuZVJxQ2xUZVdFWm8zRFNrY0NlOVNFNTMxRVZiZ0prZ0xZT3NsTUlQTkVwaGM5bUJ1NG90SkJlY1BEbUxrYjVFV3JGYTZkVjUzUi1PMzl0aVFB?oc=5",
-    "summary": "Why one clinic lets physicians choose when & how to use ambient AI techtarget.com",
     "tags": [
       "ambient-ai"
     ]
@@ -78,12 +67,23 @@
     ]
   },
   {
+    "id": "n-2026-08-27-11am86q",
+    "date": "2026-08-27",
+    "title": "Why one clinic lets physicians choose when & how to use ambient AI",
+    "source": "TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVXR1bnl5N3J6TjlFaHo2N3ZOZEs0U0g2cDEzU3NaZGRuUGpGQjZuWWRyYVZrYllqazc0VjZjQVNZcVFQUGdtY1diV2VsMkhrYjVyZ0g5cjlTdzd4dGxQUl9CaHpqS3NpOTFNbWdWMVgyVThQMzVuZVJxQ2xUZVdFWm8zRFNrY0NlOVNFNTMxRVZiZ0prZ0xZT3NsTUlQTkVwaGM5bUJ1NG90SkJlY1BEbUxrYjVFV3JGYTZkVjUzUi1PMzl0aVFB?oc=5",
+    "summary": "Why one clinic lets physicians choose when & how to use ambient AI TechTarget",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-08-26-r1j4tc",
     "date": "2026-08-26",
     "title": "How AI Medical Scribes Are Reducing Physician Burnout and Administrative Work",
-    "source": "breakingac.com",
+    "source": "Breaking AC News",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN2w2U3dXZ18zbEU3YWNJeVJpYlBYM2xKX0o4MEVqTWVjaHJJNHlBVHpaSVFmeURpRHZNd2Jsaml1NjlIQWFDb3hRVmJaMU9qY3FPdGVtWHBOQTd6RGFaSUloVi0xbkxjUGxXUFlPaG5lSDJLRnc5UnE5MlJiN0kyczRnN0NsMXlSdFU0bnVDbUZSTzE5MzUwYkQtZkR4OUxiNVZxUll4NWc1LV9iV0VGalBXOWVFcmFieUxWc0p0LVRxUQ?oc=5",
-    "summary": "How AI Medical Scribes Are Reducing Physician Burnout and Administrative Work breakingac.com",
+    "summary": "How AI Medical Scribes Are Reducing Physician Burnout and Administrative Work Breaking AC News",
     "tags": [
       "ambient-ai",
       "burnout"
@@ -123,17 +123,6 @@
     ]
   },
   {
-    "id": "n-2026-08-17-awbvqu",
-    "date": "2026-08-17",
-    "title": "AI Medical Scribing Market Size to Reach USD 9.67 Billion",
-    "source": "GlobeNewswire",
-    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOUVRIY1daZWpIUTlYSHVwYzNGamg2eU1DYU9yTGo5bVk2VEV3c0ktU3F6VVdsSFVldVhMM081YjRGRllTNVBZMnhBVmh4Q0hVOTdZSzdTZVZ1U2UzZms2YXkwcmRlcmo1Vy1KS0o1ek00aDBxUm9vRXEzeDViNWVCZDc2RVN6dzVjbXdZbENfcThBdHVJY2dTa3Q4MS15Xzg3R0pjdG90T18wdUo1ZXJNVm9RWFhPMVUxRnQ1ZGYwZXpyM0M0WDVCdG5iajRuQmtnam1pVDN5U1AzYnAwWTZmVWFZREpCTEl4eXl1QlNFdk1TMnpOdWVaVmtsOGxzYlpjZ2ZXU3lUWElHRWZLeTY0QXk5WGZobVE?oc=5",
-    "summary": "AI Medical Scribing Market Size to Reach USD 9.67 Billion GlobeNewswire",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
     "id": "n-2026-08-17-15gphay",
     "date": "2026-08-17",
     "title": "Generative AI for Clinical Documentation Market Size [2034]",
@@ -145,26 +134,14 @@
     ]
   },
   {
-    "id": "n-2026-08-13-7fkwzs",
-    "date": "2026-08-13",
-    "title": "Cleveland Clinic Unveils Novel Partnership Model to Scale Ambient AI Medical Scribes",
-    "source": "Bioengineer.org",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQblE2ZkZya2lSeklVWW84QWdZQXF2dFJONWlnZDlPZFFaTks4Yk5vQTUwNU9VM0VDQVZZT2Y1NWVDMkVSTXYzNlJKY1lNUGdTLVZfX1BPZmxTdnN3RHZpN2dxaDFNSDlMeGk2Zl9yMkVfNTM2MnE1eXh3bHlydFpRel9QbWxubmlrU3pPU0VKRE0wUkFCeXV4VEUtRE14d2c0akltZTBTcnNIS0h2d0E?oc=5",
-    "summary": "Cleveland Clinic Unveils Novel Partnership Model to Scale Ambient AI Medical Scribes Bioengineer.org",
+    "id": "n-2026-08-17-awbvqu",
+    "date": "2026-08-17",
+    "title": "AI Medical Scribing Market Size to Reach USD 9.67 Billion",
+    "source": "GlobeNewswire",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOUVRIY1daZWpIUTlYSHVwYzNGamg2eU1DYU9yTGo5bVk2VEV3c0ktU3F6VVdsSFVldVhMM081YjRGRllTNVBZMnhBVmh4Q0hVOTdZSzdTZVZ1U2UzZms2YXkwcmRlcmo1Vy1KS0o1ek00aDBxUm9vRXEzeDViNWVCZDc2RVN6dzVjbXdZbENfcThBdHVJY2dTa3Q4MS15Xzg3R0pjdG90T18wdUo1ZXJNVm9RWFhPMVUxRnQ1ZGYwZXpyM0M0WDVCdG5iajRuQmtnam1pVDN5U1AzYnAwWTZmVWFZREpCTEl4eXl1QlNFdk1TMnpOdWVaVmtsOGxzYlpjZ2ZXU3lUWElHRWZLeTY0QXk5WGZobVE?oc=5",
+    "summary": "AI Medical Scribing Market Size to Reach USD 9.67 Billion GlobeNewswire",
     "tags": [
-      "ambient-ai",
-      "market-trend"
-    ]
-  },
-  {
-    "id": "n-2026-07-30-1ig1shl",
-    "date": "2026-07-30",
-    "title": "MHRA and NHS England clarify rules for AI clinical scribes",
-    "source": "National Health Executive",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWnlRZUFGWGhmQjBzdFQxMDllVTdLUzBPQXVLcEc5MHdRNUdrNGxkLUhJR0RIUHYtMHJZYkdyOEtDcER1MW1Qd2hZM2hJOHNXTlpyUExMcGYzamFFemdyQmR0RlhveURzb2NWXzJ0TFRvaDZBMTF4Wm12NDNMalYtb1pucjRkbkF3b1M4c1BkdkVjLUtKTDJJS1ZsMjFXT2haTmI2SWh3?oc=5",
-    "summary": "MHRA and NHS England clarify rules for AI clinical scribes National Health Executive",
-    "tags": [
-      "ambient-ai"
+      "industry"
     ]
   },
   {
@@ -175,18 +152,6 @@
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcTRUQVFSNWJXYno0bDJxZkllNzVQRmltOGZXU3k4WnJvbE9WcGtqMWc3ZGw0bC1DQkR3cjlpcm1wNXkzM1dETnAzY1AwMnNDemduSEtJQnk4UUx1RWZjQ0xwU2tCR1FyRDJXNFdWRm5uWGdBczZOWTROX05Td05UUg?oc=5",
     "summary": "Two visions for ambient AI and the future of the EHR Healthcare IT News",
     "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-07-28-a7v34y",
-    "date": "2026-07-28",
-    "title": "Mount Sinai Miami Beach Extends Epic’s Ambient AI to Nurses",
-    "source": "Unite.AI",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0dZYldlbnNYY2RpQlRGNzhJdXVMbGxlQjlzelNQUzNkZk1YbW1SWnZDNHpaeEUtLXpWRzBQUHN5elJ3bHhsck1renFfU0tKUDByVzR1UmNDbkJ0NXlpZkFUd3NUS0NuM1gxckxLQzlkaHh2VllmeWpYTUhhQW5mSmluZS0zZ28?oc=5",
-    "summary": "Mount Sinai Miami Beach Extends Epic’s Ambient AI to Nurses Unite.AI",
-    "tags": [
-      "competitor:epic-native",
       "ambient-ai"
     ]
   },
@@ -259,25 +224,26 @@
     ]
   },
   {
-    "id": "n-2026-07-07-1g5k2ig",
-    "date": "2026-07-07",
-    "title": "How nurses are shaping the next wave of clinical AI tools",
-    "source": "Modern Healthcare News",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeU5XazRRckZaMjdxLUxzdEVQQkxVczNXUVFPZk54V3F4cG5CUEd2TTVxOVNlVlVocC1SNTNtOU9ESFY5TllzdFYxMFBMRE9mc0t3V1NjMEs1X1VqdktmdUh1X2JvdGxxaW5zNVdQTEJTQ0JTdmNVLWlxaEVSQ0x0SmpmM3ZlX1ZPV1ZNTkNsRWE?oc=5",
-    "summary": "How nurses are shaping the next wave of clinical AI tools Modern Healthcare News",
+    "id": "n-2026-07-08-52rzv4",
+    "date": "2026-07-08",
+    "title": "Where ambient AI actually helps reduce clinical burnout",
+    "source": "htworld.co.uk",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY2I3TDJfSmdpTExkOVQzNGo3aVJHbGVKMWhic3h4T2pGbGZsc3otRDBkZURRbUk4WEk4TlZGNzQxV0c3NzZiM3F2Q1NzbjNKTVRpX2Fsd29QM3M4U1BfU0c5MTh0N2loZUVmdEh6RkRLaEdNVzdqa205OFh4ay1OTXJxOTBybzZWR1IzX2JadnNFaHlKaTNkVlRDREoydw?oc=5",
+    "summary": "Where ambient AI actually helps reduce clinical burnout htworld.co.uk",
     "tags": [
-      "industry"
+      "ambient-ai",
+      "burnout"
     ]
   },
   {
-    "id": "n-2026-07-07-1ffe8oo",
+    "id": "n-2026-07-07-1g5k2ig",
     "date": "2026-07-07",
-    "title": "AI Notetakers For Doctors Raise 'Bycatching' Liability Risks",
-    "source": "Law360",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdWN2VTlwaTN6QXFDQl9lM3pOS01fNlhhTE9wcU9IZ2hwZk0yV1F0ekkyV2RlQVZKblV5X1dmb2xMTGpPS2x6LUVmT0FmVjhqWkJ4RHpUT0pmSzRhY3M0R0hBQlpJSjZiUVY4clFweDRtaFRodERpSzJEbGRBdFBsM1VrY2dKaXVBUmptbDZ3bUs4ZHZoS1lxWkdzWDVyYnBlUkhiZzM2a2dfc0xkOEVwRHhXWFhFVl9KVjQw0gFyQVVfeXFMTVFFb0I3M3JpZFhHazcyOE82MmxfaG5QOHBwcjE0a3huUlh5WVhmdkd5RnJNeFlSQmdPZ1V0dnA0QVRXdHdZVFhndzdIQ1EwQm9QTHlJRmZJZ0trbEZVUF9kbnRUcHFMLVQ1SWNoRHZ1dnp3?oc=5",
-    "summary": "AI Notetakers For Doctors Raise 'Bycatching' Liability Risks Law360",
+    "title": "How nurses are shaping the next wave of clinical AI tools",
+    "source": "modernhealthcare.com",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeU5XazRRckZaMjdxLUxzdEVQQkxVczNXUVFPZk54V3F4cG5CUEd2TTVxOVNlVlVocC1SNTNtOU9ESFY5TllzdFYxMFBMRE9mc0t3V1NjMEs1X1VqdktmdUh1X2JvdGxxaW5zNVdQTEJTQ0JTdmNVLWlxaEVSQ0x0SmpmM3ZlX1ZPV1ZNTkNsRWE?oc=5",
+    "summary": "How nurses are shaping the next wave of clinical AI tools modernhealthcare.com",
     "tags": [
-      "funding"
+      "industry"
     ]
   },
   {
@@ -314,23 +280,56 @@
     ]
   },
   {
-    "id": "n-2026-06-23-1dsuc5g",
-    "date": "2026-06-23",
-    "title": "Ambience Healthcare Unveils AI-Native Inpatient Nursing Suite to Reduce Cognitive Burden",
-    "source": "HIT Consultant",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOamJHVlltVUk3dVM4b2hsUTd1VWp5V0toMm8tSGhlTDBaYWxCRG5CbDJyRVYzdFBpcDBST0swWnFUN2t3UldBdXFwcjB5VV9XLTJsbGRkVEhUaUl2WVRkUmU1Q3JjX051WFhLN1BHeFZlV0VXOVRDZWFVRFNmOFRxR3lveXh2TkM4VjJURWNlR2l1TzV6?oc=5",
-    "summary": "Ambience Healthcare Unveils AI-Native Inpatient Nursing Suite to Reduce Cognitive Burden HIT Consultant",
-    "tags": [
-      "competitor:ambience"
-    ]
-  },
-  {
     "id": "n-2026-06-22-1vtku3c",
     "date": "2026-06-22",
     "title": "As AI Listens to Patients, Physicians Face New Questions",
     "source": "Medscape",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUWltWUtSV1BXelJUbTBvQXFiTUdDNW1DbVpUN1lpVTJtajJ0VS1rY3ZWZ1BTa1NWQlhzQ0ItNlF4Vm44dVZ1WUtHeVZyMV9XVmR4cjBVMVlqTENCbEh3UC1VNnZIaDJIYzRPd1B3RGx2SmNHQ2FLX2cxcGtXQUFHbDZqOW9VY05Ba2tYZkpWMXRRUTZVVVNtXy05Mm04TTRN?oc=5",
     "summary": "As AI Listens to Patients, Physicians Face New Questions Medscape",
+    "tags": [
+      "industry"
+    ]
+  },
+  {
+    "id": "n-2026-06-19-1scqoz",
+    "date": "2026-06-19",
+    "title": "The ambient AI scribe illusion: Doctors need to pay attention",
+    "source": "The American Bazaar",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUZ0V1FfTDJ1ZXhUc1FTdVFlcUZVM2hPUkdPcWFuWWtxeDk0bjY5Z2dpZlRKRW91RzlMQWhGeFUyczBIMkVDaEQ1cFFKVWkxQUpWeGx1NUZVZ0JiSXh5cDVoSjJUMWNnWTFzdXd4RzRscVFiMk5Cd1UzeklFU3pYLWNoTGh1RWpjUHpSSWUwY0tUV0xuOXZRRkdDX25OVDl6bmZUSFJBMmU5REluVUdGVG1R?oc=5",
+    "summary": "The ambient AI scribe illusion: Doctors need to pay attention The American Bazaar",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-06-18-155omvx",
+    "date": "2026-06-18",
+    "title": "Ambient AI's next frontier may be nursing workflow",
+    "source": "Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmYtUnNsUW1OOEd1ZkhtM1otaG9uMEVaSkdBZHBBbVZrLWxFVERWTTd5WlJoTGh5MW5EdVItendMUG1vYjFWWWtHd2V5MWxab2JUZVNzei10czR5eng0LU9XNGpnZ2t0S0NxREl0T3EwWktYRERlVlRXZUlXRllQUjUyNzBUX21KbWg2b3lBWHk?oc=5",
+    "summary": "Ambient AI's next frontier may be nursing workflow Healthcare IT News",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-06-17-1enq2dp",
+    "date": "2026-06-17",
+    "title": "Houston Methodist turns ambient AI into an enterprise tool, not just a pilot",
+    "source": "Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUlU1NmhpWDhBRU85SlJXNHNsT2Uza3ZiQWJZYVR6NzBlaTZXSkEyLVh2V2t1Qm9mNlh4VVZkX3NZVExPYW9ENFNENEo3d1V6S3MxN1JxaXo3d0VhUWxrbDg0N0htMGplRUo5ay0wU01IdVlZbEVpc05nSk82cFU1MlpOUkpFWkFaQ2hVY05IbDlpSXk4WUNXWTBoRkdqcjV5S0tPTFZB?oc=5",
+    "summary": "Houston Methodist turns ambient AI into an enterprise tool, not just a pilot Healthcare IT News",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-06-17-1cjbwzv",
+    "date": "2026-06-17",
+    "title": "Healthcare's first big AI use is a pressure valve, not a moonshot",
+    "source": "MarketScale",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUTlNbUFseDNob1NTUUJMVGRGQ25YcnNnY1RRMVFzQ0R3V3hxTU5pcUlLd0xNYnpKdUFWSWkwMkJsSHVWMjZ6S0pvOHBYcnNwaHh0Yk9FcTJuUk81X2RpWkhIcEE0RURGVDg2dDRnZ29TTjVyNXlQYmtDTkEtRTRLTnJNSWphOFJUdjdYZ2ZMcUlhUHlkdHJ6RjQyek5YOU5EckNjV05PUnVsRGYyZTVxM1g1cw?oc=5",
+    "summary": "Healthcare's first big AI use is a pressure valve, not a moonshot MarketScale",
     "tags": [
       "industry"
     ]
