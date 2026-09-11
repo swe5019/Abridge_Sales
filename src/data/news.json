@@ -1,5 +1,17 @@
 [
   {
+    "id": "n-2026-09-10-1schhwf",
+    "date": "2026-09-10",
+    "title": "Regenstrief and Suki partner to evaluate ambient AI in healthcare",
+    "source": "Regenstrief Institute",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd2c0aVM2a0VVMjZFc0NDQzNENkQ2aDZQM2xieFNuaVptWXA3VWoxVnFuekRlNVpMQlgxYXVEUzhlZzRaRVoyLWxDN1ZrZkMwN0ZmQ1lxMTQyRE1QUlU5WWxwRzhpWGRXVTNKRllMejVHa2U3MHRVM3FyX0l3blFld0F4dVBmeC1Qb25COVpFQTF0aGlkQ25PNWtwV0tpZ2E1VFNGVQ?oc=5",
+    "summary": "Regenstrief and Suki partner to evaluate ambient AI in healthcare Regenstrief Institute",
+    "tags": [
+      "competitor:suki",
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-09-08-1u0ujgx",
     "date": "2026-09-08",
     "title": "After success with physicians, Mount Sinai Medical Center expands ambient AI to nurses",
@@ -100,6 +112,18 @@
     ]
   },
   {
+    "id": "n-2026-08-26-r1j4tc",
+    "date": "2026-08-26",
+    "title": "How AI Medical Scribes Are Reducing Physician Burnout and Administrative Work",
+    "source": "Breaking AC News",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN2w2U3dXZ18zbEU3YWNJeVJpYlBYM2xKX0o4MEVqTWVjaHJJNHlBVHpaSVFmeURpRHZNd2Jsaml1NjlIQWFDb3hRVmJaMU9qY3FPdGVtWHBOQTd6RGFaSUloVi0xbkxjUGxXUFlPaG5lSDJLRnc5UnE5MlJiN0kyczRnN0NsMXlSdFU0bnVDbUZSTzE5MzUwYkQtZkR4OUxiNVZxUll4NWc1LV9iV0VGalBXOWVFcmFieUxWc0p0LVRxUQ?oc=5",
+    "summary": "How AI Medical Scribes Are Reducing Physician Burnout and Administrative Work Breaking AC News",
+    "tags": [
+      "ambient-ai",
+      "burnout"
+    ]
+  },
+  {
     "id": "n-2026-08-24-15gphay",
     "date": "2026-08-24",
     "title": "Generative AI for Clinical Documentation Market Size [2034]",
@@ -114,9 +138,9 @@
     "id": "n-2026-08-24-6gds8p",
     "date": "2026-08-24",
     "title": "FDB Extends Ambient AI from Documentation to Prescribing in First Commercial Deployment of Script Agent™ with Tebra",
-    "source": "citybiz",
+    "source": "citybiz.co",
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQejVXLTZ5TjVRYkptNHV2RFlCNk8tY2UxXzJyUHN3b0VBMmJ3VE1rRjZEX1FBZTdlbVlOLU5jTE1WMWpjZmVXU2phZFo3QVlVZExXMXoxeGhwM0xQWlk0dmtTaU93LTJzWmRHU0pScVI0T2lKeWFiNkNlcE5xbFB2MWJLZkJFZjZtLXRmaGlRZHF2d3VfWDFscWk0UEZEczFhZU1nTHllZW52dXhTYmN2ckEybHVsRmNPU0lxYkFORVdoT2JZWk95RXIzUmhISVd4aHpQaVh0UmNPMWpTdS02SmMtNzcweGN5?oc=5",
-    "summary": "FDB Extends Ambient AI from Documentation to Prescribing in First Commercial Deployment of Script Agent™ with Tebra citybiz",
+    "summary": "FDB Extends Ambient AI from Documentation to Prescribing in First Commercial Deployment of Script Agent™ with Tebra citybiz.co",
     "tags": [
       "ambient-ai"
     ]
@@ -166,17 +190,6 @@
     ]
   },
   {
-    "id": "n-2026-08-17-1ch7563",
-    "date": "2026-08-17",
-    "title": "AI scribes may miss critical SDOH data. Here's how to close the gap.",
-    "source": "TechTarget",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEhTN1ZDeEJtQm9nWXNIRE9GZXNleUVtVzJNWS03Z1JwTmJ1WEhVdXkxVDhlbU5EdVp6N0l0c2FyUlluWHBhdHE5NWg5VzNBUlFsWFdwOU5BQzBOZHVzMHhCUUxoTnlxWXVGdGV1RlZBdDNIbDN0ODNXUzNyajc5U2JkUjc2WGR5YXFTYUl5RUY3ZlluRUN0Skt1NEROSGt5WG82Rkx6Q2ZaN0R4dnVKdnE4YmNzdw?oc=5",
-    "summary": "AI scribes may miss critical SDOH data. Here's how to close the gap. TechTarget",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
     "id": "n-2026-07-29-wom2rw",
     "date": "2026-07-29",
     "title": "Two visions for ambient AI and the future of the EHR",
@@ -191,9 +204,9 @@
     "id": "n-2026-07-27-m17z48",
     "date": "2026-07-27",
     "title": "As AI scribe adoption grows, researchers at Suki challenge the industry's quality playbook",
-    "source": "Fierce Healthcare",
+    "source": "fiercehealthcare.com",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3NIMFJKSlZkZnJUcmdOeUtXM1ZrdlZ5ODd0OVBGVHVRdFRQZ1dpQ1h3U1hKNDFnenhfY1BRZFRnUlJ6SjNtazNsTE1nQkxwMWl6Q1dKWjBLZW41Y1V0cEJfX1ZGazhjSnFTVk1MeUN6WGRZRWxRaC1HaHoyaDNiOUs0WjFfT19QcVRadVR4RDFGTzQ1dlJrNzNxbi00NEFYTGprODEtNWtVTDloMERrdmRuZjBwbGlzQ0I0X0FrTnNBM21F?oc=5",
-    "summary": "As AI scribe adoption grows, researchers at Suki challenge the industry's quality playbook Fierce Healthcare",
+    "summary": "As AI scribe adoption grows, researchers at Suki challenge the industry's quality playbook fiercehealthcare.com",
     "tags": [
       "competitor:suki",
       "ambient-ai"
@@ -214,9 +227,9 @@
     "id": "n-2026-07-20-1aw6d5p",
     "date": "2026-07-20",
     "title": "KLAS report examines global health IT, AI investments",
-    "source": "Fierce Healthcare",
+    "source": "fiercehealthcare.com",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSktfVHM0Vkx2Qzl1YnBrTlZyWl9tQ002Xy1HejFLeXJSc04wQ0ZDNzFibTBLaDRXZldLbEpIZjZSV0phM296SjFQYXBEMkNhcW9NV2ZBcmhzb1VrcWpmaHVCVkU3X0c5aUVtTkc5UXJqQXpQQU42Ymg4VWhxaEZiWkZuR2V3RHdJNHF3bldGLVR5LUFPM3BBY1VBOEJ3ZmxQNC10c0dGNEtGYXk0TGRNclRhbw?oc=5",
-    "summary": "KLAS report examines global health IT, AI investments Fierce Healthcare",
+    "summary": "KLAS report examines global health IT, AI investments fiercehealthcare.com",
     "tags": [
       "klas"
     ]
@@ -237,9 +250,9 @@
     "id": "n-2026-07-16-dkegx5",
     "date": "2026-07-16",
     "title": "Arrowhead Regional Medical Center advances surgical capabilities and launches ambient AI technology",
-    "source": "main.sbcounty.gov",
+    "source": "San Bernardino County (.gov)",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbGlpWHVpYmxhTEtfNjlicGpoc1MtN1luc296RzN2RDBuVlJmOGo2a2dIbG5YMDgxU0ZGWkZ4WkpaVXdIa0ZSd2lqUnFlUXczRHAtazBYOGUzd3BfbkhqN1diUldDM1RkcUpxenBBMUUwOVdiUTRndFdiVEMtX2lSMkFyampGMFJNRGc4aE9zQi1TVzdPRWxuclh4Mjd5eC1DOVFNcXhyUUxKazhtNXlmSVVLUWpVRmY1bjdmVG9BcnVEeGY5Y1oySnhseHRaR2Y0V1dN?oc=5",
-    "summary": "Arrowhead Regional Medical Center advances surgical capabilities and launches ambient AI technology main.sbcounty.gov",
+    "summary": "Arrowhead Regional Medical Center advances surgical capabilities and launches ambient AI technology San Bernardino County (.gov)",
     "tags": [
       "ambient-ai"
     ]
@@ -279,6 +292,17 @@
     ]
   },
   {
+    "id": "n-2026-07-07-1g5k2ig",
+    "date": "2026-07-07",
+    "title": "How nurses are shaping the next wave of clinical AI tools",
+    "source": "Modern Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeU5XazRRckZaMjdxLUxzdEVQQkxVczNXUVFPZk54V3F4cG5CUEd2TTVxOVNlVlVocC1SNTNtOU9ESFY5TllzdFYxMFBMRE9mc0t3V1NjMEs1X1VqdktmdUh1X2JvdGxxaW5zNVdQTEJTQ0JTdmNVLWlxaEVSQ0x0SmpmM3ZlX1ZPV1ZNTkNsRWE?oc=5",
+    "summary": "How nurses are shaping the next wave of clinical AI tools Modern Healthcare",
+    "tags": [
+      "industry"
+    ]
+  },
+  {
     "id": "n-2026-07-01-my6lih",
     "date": "2026-07-01",
     "title": "What Healthcare Leaders Should Know Before Implementing AI-Powered Documentation Tools",
@@ -309,28 +333,6 @@
     "summary": "Ambience Healthcare Introduces Nursing Suite to Extend System of Intelligence Across Inpatient Nursing Business Wire",
     "tags": [
       "competitor:ambience"
-    ]
-  },
-  {
-    "id": "n-2026-06-22-1vtku3c",
-    "date": "2026-06-22",
-    "title": "As AI Listens to Patients, Physicians Face New Questions",
-    "source": "Medscape",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUWltWUtSV1BXelJUbTBvQXFiTUdDNW1DbVpUN1lpVTJtajJ0VS1rY3ZWZ1BTa1NWQlhzQ0ItNlF4Vm44dVZ1WUtHeVZyMV9XVmR4cjBVMVlqTENCbEh3UC1VNnZIaDJIYzRPd1B3RGx2SmNHQ2FLX2cxcGtXQUFHbDZqOW9VY05Ba2tYZkpWMXRRUTZVVVNtXy05Mm04TTRN?oc=5",
-    "summary": "As AI Listens to Patients, Physicians Face New Questions Medscape",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
-    "id": "n-2026-06-22-1lfslm4",
-    "date": "2026-06-22",
-    "title": "AI Clinical Documentation Market Size to Reach USD 12.78 Billion by 2035 | SNS Insider",
-    "source": "GlobeNewswire",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWjY1UHRFLV9OcUQ1M2psR2JGWXl3LW52SGlfV0NRek5oUzQxOVc2cC05aElIeUZWWmRsSVRFN2tmcVN5Nm1VeVQza3JjY3ZjekluUnBDT1RjV0NEeE1taWRHX195bEZwandzV3hlUU1SbUR2cWhaalZPcHNsb2NfUWxYaDVnZ21NT2tZM1ExQVZJeHR2eFU5Z0dIRnFkdzZ6MHU1ZUV1c1FwX0lOSmxBbjJBZTdHVzJiNGEzS3AyVnZIS2N3d3ZHbGhsVDBVR2tqMXZpOHRHa252SVpfYmNocU1PM2IxczQ3dXVVVA?oc=5",
-    "summary": "AI Clinical Documentation Market Size to Reach USD 12.78 Billion by 2035 | SNS Insider GlobeNewswire",
-    "tags": [
-      "industry"
     ]
   }
 ]
