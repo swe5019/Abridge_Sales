@@ -49,9 +49,9 @@
     "competitorId": "augmedix-commure",
     "competitorName": "Augmedix (Commure)",
     "title": "Willis Knighton Health Selects Commure as Enterprise Ambient Scribe AI Partner",
-    "source": "globenewswire.com",
+    "source": "GlobeNewswire",
     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRzhTeWpzQXFRQzRWZnRPX3p1RVJKLWlDVEVDZTh1dXJwNlA2eVNlUWJRSEQyd19uMm00M3pReElJdzVJMnpaMzgzTGFtU0VPbTJiU081d0VlVXYzeWJvdzRTWm94VjZZbWpjUFJKcGl2ZmNtUGdSUHB4Z3NQTG1uVDhWUFVYMHlTMDZtS3ZwM3ZMUTMzdnNwcmI1R1ZwWnZ5aFZtdEFkeWJneGhyYXVaUzROOUNJTHZjcmJyT2RnTm9wRGdzS1lhQmswZzJzSVFQVDNkdkVjRkdndjY0eWRpbHZaV28?oc=5",
-    "summary": "Willis Knighton Health Selects Commure as Enterprise Ambient Scribe AI Partner globenewswire.com",
+    "summary": "Willis Knighton Health Selects Commure as Enterprise Ambient Scribe AI Partner GlobeNewswire",
     "status": "unverified"
   },
   {
@@ -104,9 +104,9 @@
     "competitorId": "epic-native",
     "competitorName": "Epic Native Ambient (Art / partners)",
     "title": "Epic rolls out AI charting tool as scribe market heats up",
-    "source": "Healthcare Dive",
+    "source": "healthcaredive.com",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDNsVElCZGdVdHpmUXoxczRxMWNqdDdURWdqSzlCVzB4Z2pMU1BhbVlVTGNnV3JOcWJsZjJOZGY0MURtbW5DTGxTTHZGOGZFZy0wdDVYWjBUdTZtX2laQnhrN0ZnbjhMa0JYbkNNWnlUeHV6MUpIaUFrcmFacU1DQ3FYMVF0REowaXZUcmlsZVhMSmRZZFVVaHcteklSQ1J6T2ZiTEJKSjdpdw?oc=5",
-    "summary": "Epic rolls out AI charting tool as scribe market heats up Healthcare Dive",
+    "summary": "Epic rolls out AI charting tool as scribe market heats up healthcaredive.com",
     "status": "unverified"
   },
   {
@@ -385,17 +385,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-02-13-sny6i0",
-    "date": "2025-02-13",
-    "competitorId": "nabla",
-    "competitorName": "Nabla Copilot",
-    "title": "Nabla Expands AI Offering with Dictation to Further Streamline Clinical Workflows",
-    "source": "PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSFF2bXhqRUROSENwVGd0OW9BdFdfa3VFazNocHJPbllfaV95Vm9OcnpRVm41Uk82cXpYYXZOcGFJSngzX1ZWS3dpVG15d2JjbkpYOGtrU3lfVGU1ODhOYnVoaGZBTERpQ0VHUzRMeEJsSVEwY09NTG9WOEo0cm1UcnhhUk5pUjIyYXlHWkltdmFycE5mci1FSWpWNlUwbUlnTUhmRU5iZGR4ZzR6VVN6MFBVd2o0Si1nMlJxanNyR3BtS1BnVEhpSF9ibHBtel9qajZV?oc=5",
-    "summary": "Nabla Expands AI Offering with Dictation to Further Streamline Clinical Workflows PR Newswire",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-01-29-15opbnw",
     "date": "2025-01-29",
     "competitorId": "epic-native",
@@ -404,6 +393,17 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObS1HbFE4SWw5S2hTVUx3eW1mWW5xVjV2TXNGQzJyYVQxMEtuWm9QRjd5bkdmM0dzUC02My1ROEdIcUZMeF95RzdYREh3dHdzX3JqUl9lajhra3gtVElCc3VOM1FSVEFCUzJnaklURzRWWkVla2UzZkRYckFpNjU3NjFFTGx5YVlYM0FfdlZwRGlzdm9aMGtrMVEyN1owbEVEbGFLYmt3NzFRMzhsNlgzYmtWUmNkek03MGQ0MC1fY2JpaUZJUGNWRGZhNnA?oc=5",
     "summary": "Abridge launches generative AI tool for emergency medicine with Emory, Johns Hopkins as early adopters Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-01-24-1x3xcrd",
+    "date": "2025-01-24",
+    "competitorId": "deepscribe",
+    "competitorName": "DeepScribe",
+    "title": "DeepScribe partners with Flatiron Health on oncology-focused ambient AI",
+    "source": "MobiHealthNews",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlZlRFl0Q1BZNi1YX1VjMzEyNjVvRkZ1Wlp6UTB1T2FzQlNPRkItM3NzNk5zZThaUkp0RXBlNVFCTXAxMTl3Tk5FSVJXUTliWGlBOWRheXlGTlg4WktObFNNWmtKN3FWNHltbk1vNWRqNm54MGhqY0RzejRmOHJlZnN3Z2lHT2FNREExN25Xb1d2eFcyWG1uZkJXVURUN0V3?oc=5",
+    "summary": "DeepScribe partners with Flatiron Health on oncology-focused ambient AI MobiHealthNews",
     "status": "unverified"
   },
   {
@@ -440,17 +440,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-01-10-1wzxpvl",
-    "date": "2025-01-10",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "Duke Health and Abridge partner on AI for clinical documentation",
-    "source": "healthcarefinancenews.com",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnNlaTN0UkxELWhtNGJkRHRmb1pPSTg5LWNnaFA0S3FRci14ZUhrcExyU3RBZDBMTV9tVEZLUVdDd1owY1NCcW9VV1Y1RHZkcWVXX1MxeklJcDh3clVWYlJxcEd4bEREdUg0MHVjVUNoXzZLbEEzZWtwUUFFbmhubXRyQWhYZ2VWZmk2ZU9KblB5Qm9seU5oVWVGZTgtZjR4a3c?oc=5",
-    "summary": "Duke Health and Abridge partner on AI for clinical documentation healthcarefinancenews.com",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2024-12-18-plvz2e",
     "date": "2024-12-18",
     "competitorId": "suki",
@@ -467,9 +456,9 @@
     "competitorId": "augmedix-commure",
     "competitorName": "Augmedix (Commure)",
     "title": "Tenet to deploy Commure’s AI scribe at physician network",
-    "source": "Healthcare Dive",
+    "source": "healthcaredive.com",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTl9oZVA4QzFCbUFPcnh4dWxpY2syU0lQYlVoSHFrcUhtWmFzRWc4VHJ4QjZVOThqaGtCQmNPZVpfZ1dwQTNvdjIzWFNJN0RSbXJ1WDFWYVpwUzRSNld1MzFWd1Y3T3JrYTlSNWtfV0lsclRXb0NnNTN1YzExWWZ4OHN2Y2J6SzJhOHlFSVpCcEJibUFmcW5SUg?oc=5",
-    "summary": "Tenet to deploy Commure’s AI scribe at physician network Healthcare Dive",
+    "summary": "Tenet to deploy Commure’s AI scribe at physician network healthcaredive.com",
     "status": "unverified"
   },
   {
@@ -489,9 +478,9 @@
     "competitorId": "augmedix-commure",
     "competitorName": "Augmedix (Commure)",
     "title": "Tenet to deploy AI platform across its physician network",
-    "source": "healthcarefinancenews.com",
+    "source": "Healthcare Finance News",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWhnNnExUGMwcFJJcWFsdkU1Q2VJVWlGZHpQWml4Tk9tdUNEaEJrVWY4QzNWSlhBYWZBZ3I2N3dGRVl1QkpvOURuN3YzSHlZSFR2VlJ4ME1rZDc0RmJpSDUwZTRWdGRENTRNNXpOaHhMWWQtZ2hYV0ZRRjJqNUNtYmpCSkVMMlFQNXNhN29VRVhpNkJDaDV5Zm00N0k?oc=5",
-    "summary": "Tenet to deploy AI platform across its physician network healthcarefinancenews.com",
+    "summary": "Tenet to deploy AI platform across its physician network Healthcare Finance News",
     "status": "unverified"
   },
   {
@@ -522,9 +511,9 @@
     "competitorId": "suki",
     "competitorName": "Suki Assistant",
     "title": "Zoom, Suki partner to deploy AI clinical documentation",
-    "source": "Healthcare Dive",
+    "source": "healthcaredive.com",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN2V6VDF3QmRnSlV2Y25qX1RFMDVIV01QczM2M1o3bEpTZVZmV21Pc3M0VmhKZjhFUk92MGUxcTc1R3lpSTR5NnlsbjF2U1JZOHphcE9qWFk2OUNFNFlWLU41emJZdjJLQmd6Nmt2a2NiVWNKSzBKZHNWZHdPMVNtSXUwYWtUVXRfN3c?oc=5",
-    "summary": "Zoom, Suki partner to deploy AI clinical documentation Healthcare Dive",
+    "summary": "Zoom, Suki partner to deploy AI clinical documentation healthcaredive.com",
     "status": "unverified"
   },
   {
@@ -547,6 +536,17 @@
     "source": "Healthcare IT News",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdEJsWjdRLXRHOEpkUXItcVE3WGVyaThyeTlHSk44eWxsUUxkZklQckU4Qm5rbmJSbTkzZURMR1R4dlIzMEZtekgzYk1TMDM2UWUxdUpDNm83MmhQM1lHRklINEt2QzR3ZmdPSTYtUFZLcW5KNjlvZDRxMWx3RlFrc19UV1NpV2s?oc=5",
     "summary": "Microsoft launches new healthcare AI tools Healthcare IT News",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-10-11-16pjhd",
+    "date": "2024-10-11",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Abridge, Wolters Kluwer Health ink partnership to integrate UpToDate with AI medical scribe",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU0ltN2YzQVFuVTRJTG9TdmtpOW9BLTduR1BMZXVReE13LU8tb2RsblZKazhxeG1ueXd0aVEwMjZJOHByZV9PeTZrcmVYczRtZDhBUUdlMjJEQTltNVBnSDZhQWFaRnZZTUxTMUdkUkR1NmlCWWxjWkdHVXA5WnA5MTlBVE16Q1ltck51VHl6NDN5OUFJTEI4STB2Nm9FdllYSFhBdkpYTEd2UXBub0VTMGxTY0U1NGJuc0RkMHpjbHFZUFRqTjVZUEQ3MGE?oc=5",
+    "summary": "Abridge, Wolters Kluwer Health ink partnership to integrate UpToDate with AI medical scribe Fierce Healthcare",
     "status": "unverified"
   }
 ]
