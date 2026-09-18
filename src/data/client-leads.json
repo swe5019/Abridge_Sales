@@ -1,16 +1,5 @@
 [
   {
-    "id": "lead-2026-09-08-1u0ujgx",
-    "date": "2026-09-08",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "After success with physicians, Mount Sinai Medical Center expands ambient AI to nurses",
-    "source": "TechTarget",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ19SaVRwa1hueHRlLWg1dXVpMXVtQlVGRVYtRDZzQ3hKaG1kX3puSlNRcnVhN2tvVUdPaW5kOXhWdzdRVUNzbjNXblV2UXkxRHhweGFrN2tHdXd5VjM2V2w0RU5LeTJ6V2oxZElBZFNDZ0hBTTN1RjY2LWk2ZC05YnBXenM4NnExODFuaDN1QUJ0WGtSZEJheUF5Z1o1M20tajFQelJUNVVqRVhrYng1V0tBVWh0bnc1bVBHYmZuSERrR0RCenFxalhkMXA4Qi04?oc=5",
-    "summary": "After success with physicians, Mount Sinai Medical Center expands ambient AI to nurses TechTarget",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2026-08-25-cfkibl",
     "date": "2026-08-25",
     "competitorId": "epic-native",
@@ -19,6 +8,17 @@
     "source": "Business Wire",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORi00T1JYQXBfdHJlVnFoWnBia0d5QjlDMkQ1WVo2dmtKcEpndGRieUNxbzFuTlp3TGVCd0VFb2Z3aEh4SGJhVV9fOVZNUmFtc0s2d0JTTmFrdUNGcVVXcjV6NDNnWlNnX25QdXRlNlRHMlR6T2Z3Q1AyNFIzbUR4WGF0dEs2UUtXVndZdExlRnJ6Rm85WUVrQjZzX2lRcmlKaEctQVZzcHYxMU5TYkV3c3BBOW9kX3NrUmxpZ3FJcEFidDJaMWhHeWdVLWVDY2JGTnc?oc=5",
     "summary": "Suki Breaks the AI Dictation Bundle, Giving Health Systems the Freedom to Choose Business Wire",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2026-08-25-18o6lt9",
+    "date": "2026-08-25",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Suki launches AI clinical dictation tool",
+    "source": "MobiHealthNews",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXF3ci15cGN5R084UkNQNTFWMUdXV1pTUkx0d0twTjZMVGI0OWE3TU9wTVJHelk3Uy0wcGVWWlBaZ3hkVnZDSmMtV1ZuM19ONVUyWnhkSjZ2eUhBNnYxNVdQM1dHWUNWU2FkQkstVUx4eGFCeXFEbW93MkVBQVBBQWZR?oc=5",
+    "summary": "Suki launches AI clinical dictation tool MobiHealthNews",
     "status": "unverified"
   },
   {
@@ -38,9 +38,20 @@
     "competitorId": "epic-native",
     "competitorName": "Epic Native Ambient (Art / partners)",
     "title": "Onvida Health and Ambience Healthcare Launch Frontier Ambient AI Capabilities Inside Epic",
-    "source": "montgomeryadvertiser.com",
+    "source": "Montgomery Advertiser",
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdjVfV1lsX2wxaGtxdUZyT0pYVjJnVk5VYWJxYzhqUTJXMkdfTjZqUWhndHd5MWV5Z2JKV2w4Q05xZTZDVkt3SFh6OWxOVFBGUTNzU2hsek11aHZhTnVlNkR0MkpNb2JPMDRTeVZFN2Rqak5qRWw3VFd5LWVJZllzNVhrYktPU2d0UmZjYncxd2xHVVVZeGNWQTF6TUVxQ3BDckNTUnowMkZmMFJwOHI4N05LLUF5Y3MzRE9GSktpLXAteWJ0UF85aExVa2RSeWxieU9xbnlKWEY2VHFVMEd1RTJWdnNwUHlJWHc?oc=5",
-    "summary": "Onvida Health and Ambience Healthcare Launch Frontier Ambient AI Capabilities Inside Epic montgomeryadvertiser.com",
+    "summary": "Onvida Health and Ambience Healthcare Launch Frontier Ambient AI Capabilities Inside Epic Montgomery Advertiser",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2026-07-06-1jbsw4m",
+    "date": "2026-07-06",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "Commure launches AI-powered referral and patient intake platform",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUFnT1h5d3VzZVJuWi1XLWFrX0ZSU1o0WW14ZENNRUk0cXNPcEZVWFpZRzUyajZnQnEzclNITmJ0ZnlSeWVnU0FUTWJZZ1N4Wm5meXBtR2p2ZV85bG9oelFSRWNWNTNxTEJBMHJfdUVlQ3pSUnR2SWxndGtxQzJ4QlRmVWFvTVZXajl5bUx5cExENWdMX2JwUkFrRTNtWUVqMFNMR0s0c1A3YVVXdkE?oc=5",
+    "summary": "Commure launches AI-powered referral and patient intake platform Fierce Healthcare",
     "status": "unverified"
   },
   {
@@ -71,9 +82,9 @@
     "competitorId": "nabla",
     "competitorName": "Nabla Copilot",
     "title": "University of Toledo Health to Deploy Nabla’s Ambient AI Documentation in Epic EHR",
-    "source": "hitconsultant.net",
+    "source": "HIT Consultant",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa2RZSEdBVkgzZ2swTk5sSXpaZG4wWGZ1Wkk3Z2VaODNZdjBUYkh0VGw0bTFDcmE1U281Y2RBYXBMQ3FuYkhERU9relhZWVEwdTNKem5aTjh2eTFlZk5NUTZ5bGJRd1RFQU9mcHJJdEJQLWhYellNeV9KalBobVVLRlF6c1VVZk02UmZid3d5RHh5TDh1d0hNekxYcFlYZw?oc=5",
-    "summary": "University of Toledo Health to Deploy Nabla’s Ambient AI Documentation in Epic EHR hitconsultant.net",
+    "summary": "University of Toledo Health to Deploy Nabla’s Ambient AI Documentation in Epic EHR HIT Consultant",
     "status": "unverified"
   },
   {
@@ -214,9 +225,9 @@
     "competitorId": "epic-native",
     "competitorName": "Epic Native Ambient (Art / partners)",
     "title": "Onvida Health and Ambience Healthcare Launch Ambient AI Integration with Epic",
-    "source": "hitconsultant.net",
+    "source": "HIT Consultant",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMkZmOV9tRzJCVFJkLXItRWxweXpQZkVFbTJad1U2eW5oS2ctV2dUbWZGM3p6V3Q2bl95c2lfVGhmbHhuMV90MC1GOEFBX2xIRWZtaG94bmgzdk5jQUF6UWZxS2lHblpOQUV1Mjg4cnBZdWlrcTZSVG4zWGRFSDJNaTg2UW9BOG00MWUzTzdGQU9sZWJoaGRjcHVXZTVpQQ?oc=5",
-    "summary": "Onvida Health and Ambience Healthcare Launch Ambient AI Integration with Epic hitconsultant.net",
+    "summary": "Onvida Health and Ambience Healthcare Launch Ambient AI Integration with Epic HIT Consultant",
     "status": "unverified"
   },
   {
@@ -255,8 +266,8 @@
   {
     "id": "lead-2025-06-25-5n6wkq",
     "date": "2025-06-25",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
     "title": "Fresh off $200M raise, Commure rolls out AI agents to tackle front office tasks, patient outreach and billing",
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcVZ1ZlJHNkJWTVNMMm1WQ0NDVVNWZk5nVW90U19lOFBTRG1mc3VyYXZGVXBWWWQxY2FhNFdoVTNFMVVTX3JLWWJJNXh2ZzIyQlZHNEpxWjNjakdyZ3VXeWlSQXRDXzVwUm51ZUs3M3pnRFFHRkZrMGhfbUdMMnRiUlVJQmJPUUJDVDVPQTU0Zi1veTdLM0hGV2hLSTBONWdDZGVNZTNtX2RJbnNSLVpZSXZzOE9peTBzaWIwWFFrUXUwRFc5NXJWcw?oc=5",
@@ -280,9 +291,9 @@
     "competitorId": "epic-native",
     "competitorName": "Epic Native Ambient (Art / partners)",
     "title": "Mayo Clinic partners, invests in Clearwater AI healthtech company",
-    "source": "The Business Journals",
+    "source": "bizjournals.com",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON0MxalVtVVFybDJ5LTJyNUxDX3RDZUxqajVfUEFmZ2x5SjljSGlkcU9tYjd1TlR5Uk9zVU1QdHp1c1dWQUNVLU52TERzdXlYX1FYb2RzaDE1b25pNV9SdXlwMlR2cjZ3N2J4dTY2MHp4eHR2WU5Ha1RIRWFQUlFaVFdISVBvWXNjMzhSYjhOVjJuZVBtOGszRUR3?oc=5",
-    "summary": "Mayo Clinic partners, invests in Clearwater AI healthtech company The Business Journals",
+    "summary": "Mayo Clinic partners, invests in Clearwater AI healthtech company bizjournals.com",
     "status": "unverified"
   },
   {
@@ -346,9 +357,9 @@
     "competitorId": "nabla",
     "competitorName": "Nabla Copilot",
     "title": "Tia Deploys Nabla’s AI Assistant to Enhance Women’s Healthcare",
-    "source": "hitconsultant.net",
+    "source": "HIT Consultant",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRjN5eXVRQXFCQkNxazd3cmZqUURQS01mNGFnQ3VDT3lJWUlkQlkwS1RHNjN2RFo2X19lbFF6S2x5bGJqczNjQVd3Rkd6QktPcG1oYm1DYkJsSXlWV2R6V2F5azlxam0yNHBhbnZPNndwQWVDUU5SNzVhVlhLamhwRlpCWjk0S1dFOVRvNVlxUmJSSG0xb0Jsb2xVXzNCUQ?oc=5",
-    "summary": "Tia Deploys Nabla’s AI Assistant to Enhance Women’s Healthcare hitconsultant.net",
+    "summary": "Tia Deploys Nabla’s AI Assistant to Enhance Women’s Healthcare HIT Consultant",
     "status": "unverified"
   },
   {
@@ -456,9 +467,9 @@
     "competitorId": "suki",
     "competitorName": "Suki Assistant",
     "title": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians",
-    "source": "CNBC",
+    "source": "cnbc.com",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQm42WHRpUFpDeFNRTUkzcW1GRDBTUm94VGdCdlR1bFZveXBHdUJtZ21rcXdUcGJ1bTg0RTJUTzBrWnFvSVdBMTZRbkY2X1BmdFpLMS16QkdJcjF1VmY4aDM3YkwxOVE2alNQUXI2d2x0Qi0td1ZESGw5UE55dFVKbEU3Wmlkck1nbFRxRk9oTkNSSVR4YldVNWFZcnktaEnSAaQBQVVfeXFMT2hlS2tJMzlyRTZ1aGgwdDMxMVlkX20zUVZoaV95d28tcndIM1B3eHFLZFlYdXUtQ182cFp1XzhUcUpFVG9JWTdzYWx2a08tOXZPZVRGckJreHZJUjh2U3JFbGhUQy04Rm5kZlo4SnI1bDZqNWNKb2dNck5FTDc0NlpGVkpkZHRpVXZMN3luWmU3b1NQbEh2aFJ0ZmF6UUZpY01xRVM?oc=5",
-    "summary": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians CNBC",
+    "summary": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians cnbc.com",
     "status": "unverified"
   },
   {
@@ -500,9 +511,9 @@
     "competitorId": "augmedix-commure",
     "competitorName": "Augmedix (Commure)",
     "title": "Tenet Health And Commure Announce Landmark Partnership To Deploy Ambient AI Platform",
-    "source": "forbes.com",
+    "source": "Forbes",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOUsxTHZaZEpoZGVFYnpZUFhOdjdDUk42Zl96d3BIcWdXQ0hmVm5rczR0WC1pOUw0NFpaN2VHVXJ2cUxjRGN4a2RyV2ExZGVFeUNaNWdEenh0bGYtNnhzX3gzck5xVm40WmhLQ19EaEZ3UmVIdVJLV0s0MWc5dEZkcktqek1pZlFFc20zb0lsV21EdG9CZVJiQWVNUTRNWXVmc1Znc2pJQnJZQ3J0YXNNUVJ1U1BfdU51cTlWYk5SckJpTDlXN0E5TkRVR3dPaU5CWDFTMVFjOA?oc=5",
-    "summary": "Tenet Health And Commure Announce Landmark Partnership To Deploy Ambient AI Platform forbes.com",
+    "summary": "Tenet Health And Commure Announce Landmark Partnership To Deploy Ambient AI Platform Forbes",
     "status": "unverified"
   },
   {
@@ -536,17 +547,6 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdldES3R5aUEtWUd0V1pXWEhpNG5JWmJ5ZGZIN1E1UTVpTWdHSjU3MlBkUTlOdGZ2WGhfWFVoV0JVQzFOdE9GTUtTSmhUOFp2bUhOTFhlOVB2LUZZRUJyV0JQNkc3SkRIT1g5UVd3RnRaSHFfRTJyajhCekxpN3VrU3kzWFFlQ2xtdDNXMFVqSGJGUDdxTFUybTM5SG1VZDF5UVBvSVVmc3p2WUFZRlpUWWxjMFg4b1h1Z0dndXRhT082OW5nM0tONFpKcw?oc=5",
     "summary": "Microsoft rolls out new healthcare AI tools in partnership with Epic, Paige.ai, major health systems Fierce Healthcare",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2024-10-11-1274eo9",
-    "date": "2024-10-11",
-    "competitorId": "nuance-dax",
-    "competitorName": "DAX Copilot",
-    "title": "Microsoft launches new healthcare AI tools",
-    "source": "Healthcare IT News",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdEJsWjdRLXRHOEpkUXItcVE3WGVyaThyeTlHSk44eWxsUUxkZklQckU4Qm5rbmJSbTkzZURMR1R4dlIzMEZtekgzYk1TMDM2UWUxdUpDNm83MmhQM1lHRklINEt2QzR3ZmdPSTYtUFZLcW5KNjlvZDRxMWx3RlFrc19UV1NpV2s?oc=5",
-    "summary": "Microsoft launches new healthcare AI tools Healthcare IT News",
     "status": "unverified"
   }
 ]
