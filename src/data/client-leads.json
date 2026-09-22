@@ -66,6 +66,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2026-02-05-1awsm6s",
+    "date": "2026-02-05",
+    "competitorId": "nabla",
+    "competitorName": "Nabla Copilot",
+    "title": "M Health Fairview Selects Nabla's Combined Ambient AI Assistant and Dictation Solution to Power Next-Generation Clinical Documentation",
+    "source": "PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOYVVqS0VwWkRfR2RuTE5KS290dkp3M2Nma29pOFJCc2NDREEtNTNJNnJTd1h0eXU1WjFHeTd0UDJUUGVmbE16X0N6QzJTS0t1M3hlSWZUY0FfN1d0WkNzX1BzTFpBN2ozT2NxaXdFdU1nUHBOaE4zTjdiODFna0hGYmVsRDFQYWxGNGJuNGY4bWZhd21LWnVpTFdkcUFRWmMwYUVvenlpNERIZVZyN1JzaUY4djlLYk96T0dfUDhNNXNYYm9wRVMtaUNLZ0Fra3FJR0E0anh0akxjbXhyTXUybVA3QzVSZnFEVFo5c25iZHFpOHNNQVlPQkFGVEE1X0Jyc3J3Y0czWUhCTnFjVnU0d1gtVC1vTlRQ?oc=5",
+    "summary": "M Health Fairview Selects Nabla's Combined Ambient AI Assistant and Dictation Solution to Power Next-Generation Clinical Documentation PR Newswire",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2026-02-05-1yps1mx",
     "date": "2026-02-05",
     "competitorId": "epic-native",
@@ -85,17 +96,6 @@
     "source": "Healthcare Dive",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDNsVElCZGdVdHpmUXoxczRxMWNqdDdURWdqSzlCVzB4Z2pMU1BhbVlVTGNnV3JOcWJsZjJOZGY0MURtbW5DTGxTTHZGOGZFZy0wdDVYWjBUdTZtX2laQnhrN0ZnbjhMa0JYbkNNWnlUeHV6MUpIaUFrcmFacU1DQ3FYMVF0REowaXZUcmlsZVhMSmRZZFVVaHcteklSQ1J6T2ZiTEJKSjdpdw?oc=5",
     "summary": "Epic rolls out AI charting tool as scribe market heats up Healthcare Dive",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2026-02-04-765021",
-    "date": "2026-02-04",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "Epic AI Charting Rolls Out Alongside an Expanding Set of Built-in AI Capabilities",
-    "source": "Epic Systems",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkxtOTJkYmJKNnd4ejFZMVJacVh0blplWEhyRjZPd0FWUFpKYVVGeXdReFBCbFZMTE80QnZkNFhPUnhIZlhNdGZXWUFqaW5Gb0l0cE80V1Nqcm5ScFFlOGxjcDczeUVaVHVfbE5JRE9ITmhiTFFmb25uTjM2Tnc2NDhGLUZSTUZXa2ZqN0xwazJUYmNZaFI3VW1rRXdLT3ZuSWx0MEk1S2VNLXRDSU1yaUJDZw?oc=5",
-    "summary": "Epic AI Charting Rolls Out Alongside an Expanding Set of Built-in AI Capabilities Epic Systems",
     "status": "unverified"
   },
   {
@@ -137,9 +137,9 @@
     "competitorId": "epic-native",
     "competitorName": "Epic Native Ambient (Art / partners)",
     "title": "Small Illinois facility rolls out Epic and pursues AI benefits",
-    "source": "healthdatamanagement.com",
+    "source": "Health Data Management",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcC1YbVVMTkVQckpHZnl6R0xwRG52UWxQd3ZMUENqV1VUUFVDdS12NHlNcTgtMXhoeXJWX0JUR3RpTDlPYlhoRVhBUW5ELUpFc1BBa3g1MW93ekhYY1J1N2d0ODA0QjNBX1kwYVhVblk1YUhIMHA3bk5UTFJaNzJBZGdNZHdLam5oSzRBYlRuQmRGeDAyZUZzaGlXVFRjX2xmUVEyNGlIZGpubnN4TlA1V2R5Q3pyakYtdmc?oc=5",
-    "summary": "Small Illinois facility rolls out Epic and pursues AI benefits healthdatamanagement.com",
+    "summary": "Small Illinois facility rolls out Epic and pursues AI benefits Health Data Management",
     "status": "unverified"
   },
   {
@@ -327,17 +327,6 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV3BacTZzQVl0OUp5eE16WUVDQUJIMm41eHRQc0E4TzFjWEdRSXdKcndJVVdGM0NfOWFDNkM5TVdZdnc4V3NaSno1Zm5NXzZSM1A1Qm80NVpPbXNDUldYWHljMjE4YTFoblB6ZV9FTnlEOVFIRkNGTEZTbml0WnFpMFk4cHdVZFM2Q3kyY0FkREM0WFh6MVRtVjZjUmVGYldwQkVFMHd5Uzk4MVpHVF9SaEpqcWNlZnkzcWl6VENmOHdidw?oc=5",
     "summary": "Abridge rolls out customized well visit note for pediatric primary care Fierce Healthcare",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2025-05-19-13wadkw",
-    "date": "2025-05-19",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
-    "title": "Dr. William Morris, CMO at Ambience Healthcare, talks partnership with Houston Methodist",
-    "source": "vator.tv",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWEZOSWdabWUtNTIxT3VsNDFmODFEeEk2MFktb1ZjNU9zX1ctVUg3TDRyd2dfQjBrVjUwUE5MdzZSTW5BRlpzcm9OS3A2WGRHajJNVU4tYUtxTHRBTHNBUldwYlhlcnBGRjE0X0I5VDYzUGF5ZGtzLVpKT0V1VE9FSTMzaExlM1NwTk1HcDBrTS1zZG1XTmZEanAwQzYydzc4M3pkY0JR?oc=5",
-    "summary": "Dr. William Morris, CMO at Ambience Healthcare, talks partnership with Houston Methodist vator.tv",
     "status": "unverified"
   },
   {
@@ -547,6 +536,17 @@
     "source": "CNBC",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQm42WHRpUFpDeFNRTUkzcW1GRDBTUm94VGdCdlR1bFZveXBHdUJtZ21rcXdUcGJ1bTg0RTJUTzBrWnFvSVdBMTZRbkY2X1BmdFpLMS16QkdJcjF1VmY4aDM3YkwxOVE2alNQUXI2d2x0Qi0td1ZESGw5UE55dFVKbEU3Wmlkck1nbFRxRk9oTkNSSVR4YldVNWFZcnktaEnSAaQBQVVfeXFMT2hlS2tJMzlyRTZ1aGgwdDMxMVlkX20zUVZoaV95d28tcndIM1B3eHFLZFlYdXUtQ182cFp1XzhUcUpFVG9JWTdzYWx2a08tOXZPZVRGckJreHZJUjh2U3JFbGhUQy04Rm5kZlo4SnI1bDZqNWNKb2dNck5FTDc0NlpGVkpkZHRpVXZMN3luWmU3b1NQbEh2aFJ0ZmF6UUZpY01xRVM?oc=5",
     "summary": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians CNBC",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-11-22-sn43az",
+    "date": "2024-11-22",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "Tenet to deploy Commure’s AI scribe at physician network",
+    "source": "Healthcare Dive",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTl9oZVA4QzFCbUFPcnh4dWxpY2syU0lQYlVoSHFrcUhtWmFzRWc4VHJ4QjZVOThqaGtCQmNPZVpfZ1dwQTNvdjIzWFNJN0RSbXJ1WDFWYVpwUzRSNld1MzFWd1Y3T3JrYTlSNWtfV0lsclRXb0NnNTN1YzExWWZ4OHN2Y2J6SzJhOHlFSVpCcEJibUFmcW5SUg?oc=5",
+    "summary": "Tenet to deploy Commure’s AI scribe at physician network Healthcare Dive",
     "status": "unverified"
   }
 ]
