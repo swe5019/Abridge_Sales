@@ -1,11 +1,35 @@
 [
   {
+    "id": "n-2026-09-23-1yprkgz",
+    "date": "2026-09-23",
+    "title": "Abridge ambient AI now available to all VA medical centers",
+    "source": "Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMVhVT0xJYlpXVllYZGFtYVdydmVUcjFIcFhySHdnd2p3d25rM1JMQ2drNFBXNFNVRDNIaWxDRmpsUkh4eWw0N1BPYVYwajg4ZVpJQXJMMkNXb1hTeFRCQ1pFM0FFZ0RfcjFsY0JEbWlGSUNVUnE2dUxzQl9VNDU5SjNXMFRqVFNqQThUdDFWZjJNTjVpczlGOQ?oc=5",
+    "summary": "Abridge ambient AI now available to all VA medical centers Healthcare IT News",
+    "tags": [
+      "abridge",
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-09-23-1wmsrlu",
+    "date": "2026-09-23",
+    "title": "Abridge Selected For VA Ambient AI Contract With $775.72 Million Multi-Vendor Ceiling",
+    "source": "Pulse 2.0",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeXhhY2dJblRTT3pXaERoRE5TYWhrNTFYQVNnVW0yNlp1MkwxbGd1d0owWFdhb0labHRIMGFQaC1CSUFKNTUyLWRIdExfZUExOUNwUXF5eXJ3TWZ0cnhha0lnd1dsMkwzOWdDRmpvY29nTmhQQWtaek1FRU1ieU5BVE43eGlSb3dJTjFoa3hhMjNUakVyM2I4UmNUMk40U20xOXNFcVNHONIBrAFBVV95cUxNWHBkOGRkcXkxVWp6N195YUI4U3p0eWdNR0FHZllQZU1ZOUtQUkRKWGhmOXdza0tDc3hOUFJPcGxtajRpSmUzMnBWSzYyUVFURmt0dFpZZHo0Rkt6ekZwbV84ZlBwRGlyYS0tNWFlZUFCOVplSVBGU0xyVDQyV0JXLTFIVDRua2wycWJtMjFRSmljLXhrT01CdU15Q05hQTFnYy11TV8zYU00anNh?oc=5",
+    "summary": "Abridge Selected For VA Ambient AI Contract With $775.72 Million Multi-Vendor Ceiling Pulse 2.0",
+    "tags": [
+      "abridge",
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-09-22-1y9ln4f",
     "date": "2026-09-22",
     "title": "VA deploys Abridge's AI scribing tool amid EHR modernization",
-    "source": "TechTarget",
+    "source": "techtarget.com",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGhmNk1jNGxWdDU5TTZiemhiOFRNTFRJSGhyTl9LWGFOTkFMV2RNV0RqM2E4QnZqd3RUVjFhXzB4N3RfczlCRDFmSVNJSTNnaE5sNGMtUV9KQlhxVE9pdGo5aDdoVUd4SFNPYTI3OE1GTktUU1daMXZhQ1RXWTJyVmxsbU82djU2d3V5RVJuckFyS05SdHZMYjFLTFpvUUdOOGhtZ3ZrdmMzRGhidW1BNG9pWkZKQTQ?oc=5",
-    "summary": "VA deploys Abridge's AI scribing tool amid EHR modernization TechTarget",
+    "summary": "VA deploys Abridge's AI scribing tool amid EHR modernization techtarget.com",
     "tags": [
       "abridge"
     ]
@@ -22,17 +46,6 @@
     ]
   },
   {
-    "id": "n-2026-09-16-yv9ho1",
-    "date": "2026-09-16",
-    "title": "Physicians say AI works best when it disappears",
-    "source": "healthcareitnews.com",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVG5rSEh0Vno1YkIzTDFxdEVleXNuOHJRX3oyMXVsM1kzQk40RmE0Y2V6QUx1M1RXZ21Rem4wcDdFbF9JekFKNzVGTnpHUlBoY0JPeks2MDh1RVdSSjhvcmtPQ2RKLUlZR1R6cjRGczdNWU9lZm9oOUZCYjJERmc3S1BpbGZtMjROV0d0dWpB?oc=5",
-    "summary": "Physicians say AI works best when it disappears healthcareitnews.com",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
     "id": "n-2026-09-16-18fl14t",
     "date": "2026-09-16",
     "title": "How Ambient Scribes Are Reshaping Clinical Documentation",
@@ -41,6 +54,17 @@
     "summary": "How Ambient Scribes Are Reshaping Clinical Documentation Risk & Insurance",
     "tags": [
       "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-09-16-yv9ho1",
+    "date": "2026-09-16",
+    "title": "Physicians say AI works best when it disappears",
+    "source": "Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVG5rSEh0Vno1YkIzTDFxdEVleXNuOHJRX3oyMXVsM1kzQk40RmE0Y2V6QUx1M1RXZ21Rem4wcDdFbF9JekFKNzVGTnpHUlBoY0JPeks2MDh1RVdSSjhvcmtPQ2RKLUlZR1R6cjRGczdNWU9lZm9oOUZCYjJERmc3S1BpbGZtMjROV0d0dWpB?oc=5",
+    "summary": "Physicians say AI works best when it disappears Healthcare IT News",
+    "tags": [
+      "industry"
     ]
   },
   {
@@ -58,9 +82,9 @@
     "id": "n-2026-09-10-1schhwf",
     "date": "2026-09-10",
     "title": "Regenstrief and Suki partner to evaluate ambient AI in healthcare",
-    "source": "regenstrief.org",
+    "source": "Regenstrief Institute",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd2c0aVM2a0VVMjZFc0NDQzNENkQ2aDZQM2xieFNuaVptWXA3VWoxVnFuekRlNVpMQlgxYXVEUzhlZzRaRVoyLWxDN1ZrZkMwN0ZmQ1lxMTQyRE1QUlU5WWxwRzhpWGRXVTNKRllMejVHa2U3MHRVM3FyX0l3blFld0F4dVBmeC1Qb25COVpFQTF0aGlkQ25PNWtwV0tpZ2E1VFNGVQ?oc=5",
-    "summary": "Regenstrief and Suki partner to evaluate ambient AI in healthcare regenstrief.org",
+    "summary": "Regenstrief and Suki partner to evaluate ambient AI in healthcare Regenstrief Institute",
     "tags": [
       "competitor:suki",
       "ambient-ai"
@@ -70,9 +94,9 @@
     "id": "n-2026-09-08-1u0ujgx",
     "date": "2026-09-08",
     "title": "After success with physicians, Mount Sinai Medical Center expands ambient AI to nurses",
-    "source": "TechTarget",
+    "source": "techtarget.com",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ19SaVRwa1hueHRlLWg1dXVpMXVtQlVGRVYtRDZzQ3hKaG1kX3puSlNRcnVhN2tvVUdPaW5kOXhWdzdRVUNzbjNXblV2UXkxRHhweGFrN2tHdXd5VjM2V2w0RU5LeTJ6V2oxZElBZFNDZ0hBTTN1RjY2LWk2ZC05YnBXenM4NnExODFuaDN1QUJ0WGtSZEJheUF5Z1o1M20tajFQelJUNVVqRVhrYng1V0tBVWh0bnc1bVBHYmZuSERrR0RCenFxalhkMXA4Qi04?oc=5",
-    "summary": "After success with physicians, Mount Sinai Medical Center expands ambient AI to nurses TechTarget",
+    "summary": "After success with physicians, Mount Sinai Medical Center expands ambient AI to nurses techtarget.com",
     "tags": [
       "ambient-ai"
     ]
@@ -81,9 +105,9 @@
     "id": "n-2026-09-08-1s2mirl",
     "date": "2026-09-08",
     "title": "Measuring AI's value for nurses, beyond faster charting",
-    "source": "healthcareitnews.com",
+    "source": "Healthcare IT News",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2VYbnFrdTZhS0tCUWRqTDFXZlhLNGJlYlhHUC0zNzdxaDFDMVBZX1EzSHYxMVpIcUNhMDA3N0lDR3dzdjlBX1VHQkNhS0xiMFZpWDhvbHdqNmEwYTFNRzFFWmtWOGF3WjRzdG8xQ2lmTWdaUTlSck8xaDAybFJRR1pmSHdkSEpKYWNFUjc2SzU?oc=5",
-    "summary": "Measuring AI's value for nurses, beyond faster charting healthcareitnews.com",
+    "summary": "Measuring AI's value for nurses, beyond faster charting Healthcare IT News",
     "tags": [
       "industry"
     ]
@@ -125,9 +149,9 @@
     "id": "n-2026-09-03-1vs6tw4",
     "date": "2026-09-03",
     "title": "Why AI scribes are a malpractice risk, according to experts",
-    "source": "Healthcare Dive",
+    "source": "healthcaredive.com",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcFg3QzdfOHJjanl0YW93Qi04aDJDaFVGT3hGNnJoczU5MkIzdGpwMEFWUWF3dG84c1JfbXJDOG11SmFBYmlUbnphNENUS1Q0V3FjY0ExS3NGNWxiTzNxSzR1YWtZcDRFbmdXUU9sLTRCbTlGOVc4QmR2Nmp5VGxIRw?oc=5",
-    "summary": "Why AI scribes are a malpractice risk, according to experts Healthcare Dive",
+    "summary": "Why AI scribes are a malpractice risk, according to experts healthcaredive.com",
     "tags": [
       "ambient-ai"
     ]
@@ -148,20 +172,9 @@
     "id": "n-2026-08-28-1lcte8p",
     "date": "2026-08-28",
     "title": "Private Indian hospital takes platform-first approach to ambient AI",
-    "source": "healthcareitnews.com",
+    "source": "Healthcare IT News",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeUdLa1RnY1gzaDBmY0xpdWpWOVNRQzNjYTQxLXd2V3FybGF1SFVRYm1yLXdUcUZfeTVPQklrZTNjM1RCSVhnZHBhOTAyaFMxbmI3dnNEYzNkdkNZZUFUeU1INXg3a1RZbllrN1c1NENIaU9JWFlTSUZOMEtTRmpySHZuQlN3UWY1UTI4SHZObjRVd0VERGEzYXF0ZERwWDE5SjhrM3h5LTI5ZTQ?oc=5",
-    "summary": "Private Indian hospital takes platform-first approach to ambient AI healthcareitnews.com",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-08-27-1pn0u6s",
-    "date": "2026-08-27",
-    "title": "Ardent Health finds ambient AI's value goes beyond ROI",
-    "source": "healthcareitnews.com",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOODdUSnhUdUpqanJ2dlhvWS0yUnoyWVpkVWVfbU4tMXFBZVV6d29KZ0UxUUhfNGY2YnNmMm9UcW01aGEyNl9ZSXZRQXZIZXJJTmVhdFY3QVVOLXNWTXRkXzJ0SkFXRjFGYnE3YjJqekVZN2szTWFJMklWeGU3Ql9lTjRkVUxVT1pyWVIxTUZqZlllRjJhcXc?oc=5",
-    "summary": "Ardent Health finds ambient AI's value goes beyond ROI healthcareitnews.com",
+    "summary": "Private Indian hospital takes platform-first approach to ambient AI Healthcare IT News",
     "tags": [
       "ambient-ai"
     ]
@@ -170,22 +183,33 @@
     "id": "n-2026-08-27-11am86q",
     "date": "2026-08-27",
     "title": "Why one clinic lets physicians choose when & how to use ambient AI",
-    "source": "TechTarget",
+    "source": "techtarget.com",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVXR1bnl5N3J6TjlFaHo2N3ZOZEs0U0g2cDEzU3NaZGRuUGpGQjZuWWRyYVZrYllqazc0VjZjQVNZcVFQUGdtY1diV2VsMkhrYjVyZ0g5cjlTdzd4dGxQUl9CaHpqS3NpOTFNbWdWMVgyVThQMzVuZVJxQ2xUZVdFWm8zRFNrY0NlOVNFNTMxRVZiZ0prZ0xZT3NsTUlQTkVwaGM5bUJ1NG90SkJlY1BEbUxrYjVFV3JGYTZkVjUzUi1PMzl0aVFB?oc=5",
-    "summary": "Why one clinic lets physicians choose when & how to use ambient AI TechTarget",
+    "summary": "Why one clinic lets physicians choose when & how to use ambient AI techtarget.com",
     "tags": [
       "ambient-ai"
     ]
   },
   {
-    "id": "n-2026-08-24-6gds8p",
-    "date": "2026-08-24",
-    "title": "FDB Extends Ambient AI from Documentation to Prescribing in First Commercial Deployment of Script Agent™ with Tebra",
-    "source": "citybiz",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQejVXLTZ5TjVRYkptNHV2RFlCNk8tY2UxXzJyUHN3b0VBMmJ3VE1rRjZEX1FBZTdlbVlOLU5jTE1WMWpjZmVXU2phZFo3QVlVZExXMXoxeGhwM0xQWlk0dmtTaU93LTJzWmRHU0pScVI0T2lKeWFiNkNlcE5xbFB2MWJLZkJFZjZtLXRmaGlRZHF2d3VfWDFscWk0UEZEczFhZU1nTHllZW52dXhTYmN2ckEybHVsRmNPU0lxYkFORVdoT2JZWk95RXIzUmhISVd4aHpQaVh0UmNPMWpTdS02SmMtNzcweGN5?oc=5",
-    "summary": "FDB Extends Ambient AI from Documentation to Prescribing in First Commercial Deployment of Script Agent™ with Tebra citybiz",
+    "id": "n-2026-08-27-1pn0u6s",
+    "date": "2026-08-27",
+    "title": "Ardent Health finds ambient AI's value goes beyond ROI",
+    "source": "Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOODdUSnhUdUpqanJ2dlhvWS0yUnoyWVpkVWVfbU4tMXFBZVV6d29KZ0UxUUhfNGY2YnNmMm9UcW01aGEyNl9ZSXZRQXZIZXJJTmVhdFY3QVVOLXNWTXRkXzJ0SkFXRjFGYnE3YjJqekVZN2szTWFJMklWeGU3Ql9lTjRkVUxVT1pyWVIxTUZqZlllRjJhcXc?oc=5",
+    "summary": "Ardent Health finds ambient AI's value goes beyond ROI Healthcare IT News",
     "tags": [
       "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-08-23-gph9t9",
+    "date": "2026-08-23",
+    "title": "Mapping Microsoft’s Potential Healthcare AI and Technology Acquisition Horizons Across North America, Europe and the Commonwealth",
+    "source": "healthcare.digital",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNN1dnTDFGcVoxakRkVFJWUVQwTGhFdU9xM2FxZXY3c2VyWF9mbnFvZmdVVDE3M2dSeUk2emgtLTZNS3ZxTVU3YS1kMVZ1MURkNFJKR1N0U21OUk1xWERzTVJCYjk2TnZvOVRzU2tWQU9hb3EtbHhIekROdUxLSTlTRm9rSkcwZ2c0UlppY0ZNeU5xZWU5VXFPM0drQzFkQUZjbDJ5UnVRTnNHb1F6MjNINWF2alJPZlFtcnpZZ3ViOWdKYS1uYVZzaG43OTlfU3hQb3VCdTNZVy1rWUk?oc=5",
+    "summary": "Mapping Microsoft’s Potential Healthcare AI and Technology Acquisition Horizons Across North America, Europe and the Commonwealth healthcare.digital",
+    "tags": [
+      "market-trend"
     ]
   },
   {
@@ -237,11 +261,22 @@
     "id": "n-2026-08-17-1ch7563",
     "date": "2026-08-17",
     "title": "AI scribes may miss critical SDOH data. Here's how to close the gap.",
-    "source": "TechTarget",
+    "source": "techtarget.com",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEhTN1ZDeEJtQm9nWXNIRE9GZXNleUVtVzJNWS03Z1JwTmJ1WEhVdXkxVDhlbU5EdVp6N0l0c2FyUlluWHBhdHE5NWg5VzNBUlFsWFdwOU5BQzBOZHVzMHhCUUxoTnlxWXVGdGV1RlZBdDNIbDN0ODNXUzNyajc5U2JkUjc2WGR5YXFTYUl5RUY3ZlluRUN0Skt1NEROSGt5WG82Rkx6Q2ZaN0R4dnVKdnE4YmNzdw?oc=5",
-    "summary": "AI scribes may miss critical SDOH data. Here's how to close the gap. TechTarget",
+    "summary": "AI scribes may miss critical SDOH data. Here's how to close the gap. techtarget.com",
     "tags": [
       "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-08-17-1q11x10",
+    "date": "2026-08-17",
+    "title": "AI Medical Scribing Market Size to Reach USD 9.67 Billion by 2035 as AI Automates Clinical Documentation - SNS Insider",
+    "source": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaU0xOHgyM3hDNGZzWTRaeXFDQk4yTlZEdXQ4UWIxcElTbWsxZFFHdzJWYXp6RUNxQXZCMmk4X0lBTTdtLWlkUjhTTFF3ZXo2RWNxYVczZEduZEstVm4zUnpxYkJsVGtxaU5IR3g3b29nYkpzcWs5eGstQVlBbDNaaXh6X2x6WDV2MUxLOTlkdV9UbW9xX2RZ?oc=5",
+    "summary": "AI Medical Scribing Market Size to Reach USD 9.67 Billion by 2035 as AI Automates Clinical Documentation - SNS Insider Yahoo Finance",
+    "tags": [
+      "industry"
     ]
   },
   {
@@ -256,12 +291,23 @@
     ]
   },
   {
+    "id": "n-2026-07-30-1ig1shl",
+    "date": "2026-07-30",
+    "title": "MHRA and NHS England clarify rules for AI clinical scribes",
+    "source": "nationalhealthexecutive.com",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWnlRZUFGWGhmQjBzdFQxMDllVTdLUzBPQXVLcEc5MHdRNUdrNGxkLUhJR0RIUHYtMHJZYkdyOEtDcER1MW1Qd2hZM2hJOHNXTlpyUExMcGYzamFFemdyQmR0RlhveURzb2NWXzJ0TFRvaDZBMTF4Wm12NDNMalYtb1pucjRkbkF3b1M4c1BkdkVjLUtKTDJJS1ZsMjFXT2haTmI2SWh3?oc=5",
+    "summary": "MHRA and NHS England clarify rules for AI clinical scribes nationalhealthexecutive.com",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-07-29-1wkmohq",
     "date": "2026-07-29",
     "title": "Ambient Scribe reimagines the VA clinic experience",
-    "source": "VA News (.gov)",
+    "source": "news.va.gov",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUHpBejZxRUJWNHZtOWlaLVBGclY1eGF0cmU3ajJlbDU5UWM2cDZMM1ZxQ0Z0WFQ2V0JyWWVGOE56Q25EOUUtcDQxdUs4V2FpSklCR3BOUFlLZ2ZFajlrdmVSdnpnWWY3YXhaZ2cxbC1uTm9xTm1qaWU3eHRRTGFoRw?oc=5",
-    "summary": "Ambient Scribe reimagines the VA clinic experience VA News (.gov)",
+    "summary": "Ambient Scribe reimagines the VA clinic experience news.va.gov",
     "tags": [
       "ambient-ai"
     ]
@@ -270,67 +316,22 @@
     "id": "n-2026-07-29-wom2rw",
     "date": "2026-07-29",
     "title": "Two visions for ambient AI and the future of the EHR",
-    "source": "healthcareitnews.com",
+    "source": "Healthcare IT News",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcTRUQVFSNWJXYno0bDJxZkllNzVQRmltOGZXU3k4WnJvbE9WcGtqMWc3ZGw0bC1DQkR3cjlpcm1wNXkzM1dETnAzY1AwMnNDemduSEtJQnk4UUx1RWZjQ0xwU2tCR1FyRDJXNFdWRm5uWGdBczZOWTROX05Td05UUg?oc=5",
-    "summary": "Two visions for ambient AI and the future of the EHR healthcareitnews.com",
+    "summary": "Two visions for ambient AI and the future of the EHR Healthcare IT News",
     "tags": [
       "ambient-ai"
     ]
   },
   {
-    "id": "n-2026-07-27-m17z48",
-    "date": "2026-07-27",
-    "title": "As AI scribe adoption grows, researchers at Suki challenge the industry's quality playbook",
-    "source": "Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3NIMFJKSlZkZnJUcmdOeUtXM1ZrdlZ5ODd0OVBGVHVRdFRQZ1dpQ1h3U1hKNDFnenhfY1BRZFRnUlJ6SjNtazNsTE1nQkxwMWl6Q1dKWjBLZW41Y1V0cEJfX1ZGazhjSnFTVk1MeUN6WGRZRWxRaC1HaHoyaDNiOUs0WjFfT19QcVRadVR4RDFGTzQ1dlJrNzNxbi00NEFYTGprODEtNWtVTDloMERrdmRuZjBwbGlzQ0I0X0FrTnNBM21F?oc=5",
-    "summary": "As AI scribe adoption grows, researchers at Suki challenge the industry's quality playbook Fierce Healthcare",
-    "tags": [
-      "competitor:suki",
-      "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-07-23-1uzq5yq",
-    "date": "2026-07-23",
-    "title": "Ardent Health surpasses 1 million patient encounters supported by ambient AI",
-    "source": "Business Wire",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNREZ6TlpNZnptMEE4Z1RfOWhxLWhkdjFpVFd2alkzRjVHXzQwLWI2VEJ4NkQ1NjJqTkRHV3BsZjRzRUFaNDVDWUdNRkNoSTVJNHZjd2NWVDJnMkw0d1lSVWhEbHhxQzJZM0JMdE90TGM5SXdON0tRRE45UG5FUV8xQ1cwNzd6ZUN2V2x4ZWxwbGhNVUd4Y3U5UUtOTlk5bTdCdFhXQkZaT2RsRDFGLW80eS1UdnQwbm5Ud0laRDREbjZEcFUxNjZDUFZtanZPUQ?oc=5",
-    "summary": "Ardent Health surpasses 1 million patient encounters supported by ambient AI Business Wire",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-07-20-1aw6d5p",
-    "date": "2026-07-20",
-    "title": "KLAS report examines global health IT, AI investments",
-    "source": "Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSktfVHM0Vkx2Qzl1YnBrTlZyWl9tQ002Xy1HejFLeXJSc04wQ0ZDNzFibTBLaDRXZldLbEpIZjZSV0phM296SjFQYXBEMkNhcW9NV2ZBcmhzb1VrcWpmaHVCVkU3X0c5aUVtTkc5UXJqQXpQQU42Ymg4VWhxaEZiWkZuR2V3RHdJNHF3bldGLVR5LUFPM3BBY1VBOEJ3ZmxQNC10c0dGNEtGYXk0TGRNclRhbw?oc=5",
-    "summary": "KLAS report examines global health IT, AI investments Fierce Healthcare",
-    "tags": [
-      "klas"
-    ]
-  },
-  {
-    "id": "n-2026-07-17-2tbxl4",
-    "date": "2026-07-17",
-    "title": "KLAS Arch Collaborative 2026 Report: Early Insights into Epic AI Adoption and Clinician Experience",
-    "source": "HIT Consultant",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLVlfTmJwZTlFMmkxemhuQnQyUWxEQzV2VG92Y2ZHcXd2ODZOZmR4bWdEVkpveXhlTFBfR196VkVOdktQSUNRRWR2OEQtdm43bjJ2aUp0OUI1V3k2TnZjbDlBdkZfRWVjQTNSMEw4MzBKa25LUjIteW1JeF8wVzNadlY4clI1NTQ5YUhkNUhuR1o5NVE?oc=5",
-    "summary": "KLAS Arch Collaborative 2026 Report: Early Insights into Epic AI Adoption and Clinician Experience HIT Consultant",
+    "id": "n-2026-07-28-a7v34y",
+    "date": "2026-07-28",
+    "title": "Mount Sinai Miami Beach Extends Epic’s Ambient AI to Nurses",
+    "source": "unite.ai",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0dZYldlbnNYY2RpQlRGNzhJdXVMbGxlQjlzelNQUzNkZk1YbW1SWnZDNHpaeEUtLXpWRzBQUHN5elJ3bHhsck1renFfU0tKUDByVzR1UmNDbkJ0NXlpZkFUd3NUS0NuM1gxckxLQzlkaHh2VllmeWpYTUhhQW5mSmluZS0zZ28?oc=5",
+    "summary": "Mount Sinai Miami Beach Extends Epic’s Ambient AI to Nurses unite.ai",
     "tags": [
       "competitor:epic-native",
-      "klas"
-    ]
-  },
-  {
-    "id": "n-2026-07-16-dkegx5",
-    "date": "2026-07-16",
-    "title": "Arrowhead Regional Medical Center advances surgical capabilities and launches ambient AI technology",
-    "source": "San Bernardino County (.gov)",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbGlpWHVpYmxhTEtfNjlicGpoc1MtN1luc296RzN2RDBuVlJmOGo2a2dIbG5YMDgxU0ZGWkZ4WkpaVXdIa0ZSd2lqUnFlUXczRHAtazBYOGUzd3BfbkhqN1diUldDM1RkcUpxenBBMUUwOVdiUTRndFdiVEMtX2lSMkFyampGMFJNRGc4aE9zQi1TVzdPRWxuclh4Mjd5eC1DOVFNcXhyUUxKazhtNXlmSVVLUWpVRmY1bjdmVG9BcnVEeGY5Y1oySnhseHRaR2Y0V1dN?oc=5",
-    "summary": "Arrowhead Regional Medical Center advances surgical capabilities and launches ambient AI technology San Bernardino County (.gov)",
-    "tags": [
       "ambient-ai"
     ]
   }
