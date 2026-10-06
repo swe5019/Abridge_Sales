@@ -44,17 +44,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2026-07-28-172bkcc",
-    "date": "2026-07-28",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "Onvida Health and Ambience Healthcare Launch Frontier Ambient AI Capabilities Inside Epic",
-    "source": "Montgomery Advertiser",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdjVfV1lsX2wxaGtxdUZyT0pYVjJnVk5VYWJxYzhqUTJXMkdfTjZqUWhndHd5MWV5Z2JKV2w4Q05xZTZDVkt3SFh6OWxOVFBGUTNzU2hsek11aHZhTnVlNkR0MkpNb2JPMDRTeVZFN2Rqak5qRWw3VFd5LWVJZllzNVhrYktPU2d0UmZjYncxd2xHVVVZeGNWQTF6TUVxQ3BDckNTUnowMkZmMFJwOHI4N05LLUF5Y3MzRE9GSktpLXAteWJ0UF85aExVa2RSeWxieU9xbnlKWEY2VHFVMEd1RTJWdnNwUHlJWHc?oc=5",
-    "summary": "Onvida Health and Ambience Healthcare Launch Frontier Ambient AI Capabilities Inside Epic Montgomery Advertiser",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2026-07-27-1hc4j46",
     "date": "2026-07-27",
     "competitorId": "epic-native",
@@ -220,6 +209,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-09-10-172bkcc",
+    "date": "2025-09-10",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Onvida Health and Ambience Healthcare Launch Frontier Ambient AI Capabilities Inside Epic",
+    "source": "Lansing State Journal",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSUZ6VzJCZ3BNOXhhNTV6cVN1VmZhbnlEUUEzQ2FrZ1FMYWlVNmhkbnRDS3k0b1VraFFXcW5jSU5xR2JmcE91ZmFjdzBGbG14cVp0WWtlZG1xUy1laE5PbUpyRUpMRXc1YXJiMkNUSTQ2RUJTUzVPTHdyYTBvOFBXVlJPNHN0eGE3S1FDYjJEbVBERmJKeEdDcDVkN2FILXI3Rm51cVFRdHNJTENIc1Nia04wS1pxRElVT0d2XzlpcFl3ZjNuaVZSbzgzUkpaQ2M1QWhPMHh4eXpSblp0RjJ2ZG9UNjd1OTdB?oc=5",
+    "summary": "Onvida Health and Ambience Healthcare Launch Frontier Ambient AI Capabilities Inside Epic Lansing State Journal",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-09-08-82yk2l",
     "date": "2025-09-08",
     "competitorId": "augmedix-commure",
@@ -346,9 +346,9 @@
     "competitorId": "epic-native",
     "competitorName": "Epic Native Ambient (Art / partners)",
     "title": "Chicago's Rush rolls out ambient AI after successful pilot",
-    "source": "healthcareitnews.com",
+    "source": "Healthcare IT News",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMHlNTVNldjFZOEFWa2h2R0h4S2tpZ09kNnJoSlpfX28zOEI5eHVyVW11ODdmRzdQSmZrVzNVcUd3NFNfbmRoY2lQRkVqUl9NcUtBOGx5ZHp6YXVTLUJMdHVaaGxaYl9tRVRlNUx1M3pncjRjd2p6dzk1dTBpZXJUUVFvX1Z5WUZpcjNQaDBkZjIzV0ViOUVrR1hhSQ?oc=5",
-    "summary": "Chicago's Rush rolls out ambient AI after successful pilot healthcareitnews.com",
+    "summary": "Chicago's Rush rolls out ambient AI after successful pilot Healthcare IT News",
     "status": "unverified"
   },
   {
@@ -393,6 +393,17 @@
     "source": "HIT Consultant",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRjN5eXVRQXFCQkNxazd3cmZqUURQS01mNGFnQ3VDT3lJWUlkQlkwS1RHNjN2RFo2X19lbFF6S2x5bGJqczNjQVd3Rkd6QktPcG1oYm1DYkJsSXlWV2R6V2F5azlxam0yNHBhbnZPNndwQWVDUU5SNzVhVlhLamhwRlpCWjk0S1dFOVRvNVlxUmJSSG0xb0Jsb2xVXzNCUQ?oc=5",
     "summary": "Tia Deploys Nabla’s AI Assistant to Enhance Women’s Healthcare HIT Consultant",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-03-05-1onpwy1",
+    "date": "2025-03-05",
+    "competitorId": "suki",
+    "competitorName": "Suki Assistant",
+    "title": "HIMSS25 roundup: Zoom launches healthcare AI betas; Teladoc enhances Prism with AI",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcEd3X1c3dmdJbG5SazFTVUdPUThhcHJUc3l1ZnFpMXBDNWxCT2JJVU1od2VjMzlQUnpGaHEwNGtqYk05UExrRVdxODhWVDdMOVE1SmVRdnBZUENZcklFZW9yZTZYeTBmOF8xd0hMdHo3LXkzNUNWMHVyUU1YeTFSOVJBZmZLRGlVM0ptaHRjZVlTSnh5Rkc0bHRBWTZOZHZqQkxLektleUhHNW8?oc=5",
+    "summary": "HIMSS25 roundup: Zoom launches healthcare AI betas; Teladoc enhances Prism with AI Fierce Healthcare",
     "status": "unverified"
   },
   {
@@ -456,9 +467,9 @@
     "competitorId": "suki",
     "competitorName": "Suki Assistant",
     "title": "Zoom takes Suki partnership to next level",
-    "source": "healthcareitnews.com",
+    "source": "Healthcare IT News",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWG1HX1N2TWlQX01LeUlJQmdKcUE3ekFuM3JXV3UxRURVQzhEQ0h3UmtPTXJURmxvUG1zcXppZFhDV1psNWF3RlY4X3l0eDBDdlYwa24ydmt5VVBycnFHblh5XzhDb1lZMEpKeklScHlsOUdfOURjWTB5UTFqa1RSSUNn?oc=5",
-    "summary": "Zoom takes Suki partnership to next level healthcareitnews.com",
+    "summary": "Zoom takes Suki partnership to next level Healthcare IT News",
     "status": "unverified"
   },
   {
@@ -536,17 +547,6 @@
     "source": "CNBC",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQm42WHRpUFpDeFNRTUkzcW1GRDBTUm94VGdCdlR1bFZveXBHdUJtZ21rcXdUcGJ1bTg0RTJUTzBrWnFvSVdBMTZRbkY2X1BmdFpLMS16QkdJcjF1VmY4aDM3YkwxOVE2alNQUXI2d2x0Qi0td1ZESGw5UE55dFVKbEU3Wmlkck1nbFRxRk9oTkNSSVR4YldVNWFZcnktaEnSAaQBQVVfeXFMT2hlS2tJMzlyRTZ1aGgwdDMxMVlkX20zUVZoaV95d28tcndIM1B3eHFLZFlYdXUtQ182cFp1XzhUcUpFVG9JWTdzYWx2a08tOXZPZVRGckJreHZJUjh2U3JFbGhUQy04Rm5kZlo4SnI1bDZqNWNKb2dNck5FTDc0NlpGVkpkZHRpVXZMN3luWmU3b1NQbEh2aFJ0ZmF6UUZpY01xRVM?oc=5",
     "summary": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians CNBC",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2024-11-22-sn43az",
-    "date": "2024-11-22",
-    "competitorId": "augmedix-commure",
-    "competitorName": "Augmedix (Commure)",
-    "title": "Tenet to deploy Commure’s AI scribe at physician network",
-    "source": "Healthcare Dive",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTl9oZVA4QzFCbUFPcnh4dWxpY2syU0lQYlVoSHFrcUhtWmFzRWc4VHJ4QjZVOThqaGtCQmNPZVpfZ1dwQTNvdjIzWFNJN0RSbXJ1WDFWYVpwUzRSNld1MzFWd1Y3T3JrYTlSNWtfV0lsclRXb0NnNTN1YzExWWZ4OHN2Y2J6SzJhOHlFSVpCcEJibUFmcW5SUg?oc=5",
-    "summary": "Tenet to deploy Commure’s AI scribe at physician network Healthcare Dive",
     "status": "unverified"
   }
 ]
