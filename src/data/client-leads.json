@@ -11,17 +11,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2026-08-25-1vzzgwh",
-    "date": "2026-08-25",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "AI scribe Suki rolls out AI-driven clinical dictation tool",
-    "source": "Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX05BZG4wcDVreGNjcGhienk5N09GSFZIVTBfZW5rNUhNLUN5WV9DSFMyVDlPZzdhRWVELTA0WlVydU9qdDJHemFxS0pRX21fMFlnalpTZ3pfZkdHcXFFOWxQSGRQS0Vtc3NKbnRLVjA2aVpNV3dEaW05eTV4bXp2NFJ3a1o1MzZaM2lldDBVSDc0S0w3MWZXVUFONmEyWThaTk5kOFkxZXRlZEQ4VEpJMDItZGpiQQ?oc=5",
-    "summary": "AI scribe Suki rolls out AI-driven clinical dictation tool Fierce Healthcare",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2026-08-25-cfkibl",
     "date": "2026-08-25",
     "competitorId": "epic-native",
@@ -30,6 +19,17 @@
     "source": "Business Wire",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORi00T1JYQXBfdHJlVnFoWnBia0d5QjlDMkQ1WVo2dmtKcEpndGRieUNxbzFuTlp3TGVCd0VFb2Z3aEh4SGJhVV9fOVZNUmFtc0s2d0JTTmFrdUNGcVVXcjV6NDNnWlNnX25QdXRlNlRHMlR6T2Z3Q1AyNFIzbUR4WGF0dEs2UUtXVndZdExlRnJ6Rm85WUVrQjZzX2lRcmlKaEctQVZzcHYxMU5TYkV3c3BBOW9kX3NrUmxpZ3FJcEFidDJaMWhHeWdVLWVDY2JGTnc?oc=5",
     "summary": "Suki Breaks the AI Dictation Bundle, Giving Health Systems the Freedom to Choose Business Wire",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2026-08-25-1vzzgwh",
+    "date": "2026-08-25",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "AI scribe Suki rolls out AI-driven clinical dictation tool",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX05BZG4wcDVreGNjcGhienk5N09GSFZIVTBfZW5rNUhNLUN5WV9DSFMyVDlPZzdhRWVELTA0WlVydU9qdDJHemFxS0pRX21fMFlnalpTZ3pfZkdHcXFFOWxQSGRQS0Vtc3NKbnRLVjA2aVpNV3dEaW05eTV4bXp2NFJ3a1o1MzZaM2lldDBVSDc0S0w3MWZXVUFONmEyWThaTk5kOFkxZXRlZEQ4VEpJMDItZGpiQQ?oc=5",
+    "summary": "AI scribe Suki rolls out AI-driven clinical dictation tool Fierce Healthcare",
     "status": "unverified"
   },
   {
@@ -220,6 +220,28 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-10-09-1flmyfx",
+    "date": "2025-10-09",
+    "competitorId": "nabla",
+    "competitorName": "Nabla Copilot",
+    "title": "30+ Provider Groups Adopt Nabla's Ambient AI Through the athenahealth Marketplace in First Year",
+    "source": "PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNGlQcVdaR1NsamN2XzRMekZiU21IYjZHOWhNVVM5UWN6RzFhMWVaaWhzbjRhS0ZINTVFY1h6T2VTeV91b05GOElxTzZSRU4waWQwWXFXc2E3a0kyRDFqc0NINU9BZzdHLVFjemJYakZfZEFhdU8tTEJ3cWZ4cUo2Mm9NVHVMaXRqLVZXRXRrU1p0cHdrNDAtWjUzdG9lN1hLbzRrOEJ0Y2IxYXFhbkhIVi02NThQcXVRQXVMYkpOVHNQSU5UY3FKbEJpS190QlJlcHc1ckduQXREeWxzT0t4dWNoVQ?oc=5",
+    "summary": "30+ Provider Groups Adopt Nabla's Ambient AI Through the athenahealth Marketplace in First Year PR Newswire",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-10-08-9yvrc2",
+    "date": "2025-10-08",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Suki Launches Nursing Consortium with a Broad Coalition of Health Systems to Support Frontline Nurses Amid Ongoing Staffing Crisis",
+    "source": "Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPZHEwQTNyNVE3TjRHQ081ZF9sRUkycVNIMU9Uc0RYMFVRbjQ4MHA3YWFoYU1ZemlfTXhYV3JJelpRejF3a2tnd0RiRWpnTlRrT2s0UUc2OFFraUxPSE0wam85eTdPQUoxWG9meHhoNHQxRUtRbmcxTTJHdUJ0QzZSSU9fSE1OT2FUeUgwWXh3VkMxUzFQZjlPQlhEZTdLVzJtYnZtN2NSbDJyVmtmVnBfZG1Ha2hjdVVaUmdXblJZZl9udUFhYnh5bzF4TTh4eDMxVmZqM0NKS2EzWFNaeFRHcUozbzFfdWoxQVU4d1NFcTQxR09KMUVlUnJCRThxNERuNWs2UkdKVVB6RGg1ZWJNc01mUHRUdw?oc=5",
+    "summary": "Suki Launches Nursing Consortium with a Broad Coalition of Health Systems to Support Frontline Nurses Amid Ongoing Staffing Crisis Business Wire",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-09-11-2wwyb4",
     "date": "2025-09-11",
     "competitorId": "epic-native",
@@ -272,17 +294,6 @@
     "source": "Home | Digital Health",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmNucHpKYnFPellVQnU1Ukx0TzZBcTl5bm5wY2FSV2lteFJ6b19TdGgyRFFLUHlRMmVWTHQzRjY5Q0YxcEVvX3k2X2NNbDZ0Rl9jdzdrVlNybng1SjIwRnJvQXE2bjJmZFBEU3dwcW1JS0V5bk5weGNZaE0tRVdLR0ZmdVpaYmExRTdvaVl1LXZJLW1rTmc?oc=5",
     "summary": "Epic announces the launch of native AI charting tool Home | Digital Health",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2025-07-10-1oegvmd",
-    "date": "2025-07-10",
-    "competitorId": "nabla",
-    "competitorName": "Nabla Copilot",
-    "title": "Nabla and Navina Partner to Transform Clinical Workflows with Integrated AI",
-    "source": "HLTH",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORjJPOGhuLUo2VTBOU0psZ3FQYUQyaXF5UTN4YmhyOU8zMjRpVmQzcjYxRWtwNjVBeGEweDZVc0czeDA3OVVHc19STUZjdXhwVkRJTHZLWU1IdmFwMTlJVEZHcWdPVlpwWFFTRDR0YjZCOW01QzhWWExnLV9hU1I0MlNodjAwLU5QVWtSeGJ6cXhpd0w2Wm1zRUdka2xuZXd6eURIaG1GZFl4VkNuTzNSc3VkcTF1WW1y?oc=5",
-    "summary": "Nabla and Navina Partner to Transform Clinical Workflows with Integrated AI HLTH",
     "status": "unverified"
   },
   {
@@ -536,17 +547,6 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObS1HbFE4SWw5S2hTVUx3eW1mWW5xVjV2TXNGQzJyYVQxMEtuWm9QRjd5bkdmM0dzUC02My1ROEdIcUZMeF95RzdYREh3dHdzX3JqUl9lajhra3gtVElCc3VOM1FSVEFCUzJnaklURzRWWkVla2UzZkRYckFpNjU3NjFFTGx5YVlYM0FfdlZwRGlzdm9aMGtrMVEyN1owbEVEbGFLYmt3NzFRMzhsNlgzYmtWUmNkek03MGQ0MC1fY2JpaUZJUGNWRGZhNnA?oc=5",
     "summary": "Abridge launches generative AI tool for emergency medicine with Emory, Johns Hopkins as early adopters Fierce Healthcare",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2025-01-16-14w5irk",
-    "date": "2025-01-16",
-    "competitorId": "nabla",
-    "competitorName": "Nabla Copilot",
-    "title": "Safety Net System Denver Health Selects Nabla's Ambient AI Technology to Support Entire Clinical Staff's Wellbeing",
-    "source": "PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRC1zN19McF9QaUJ4TDVCOEVyQjZkVEJDVll2TThWUHVFbVNnM281SEZBYWdURXZlU0dfTHV5OHEwSl93VGJxdXZEUUtPMjd6b0JnY1BoMldfdDNpZDVjQmlrTi1MRV9HTVI5MjVFU25SOGFuQnotNVB1eE1QSTI0aWtDN2NsRlJQYTJyYWJFX3pXMlFZeHhLaG91akIzS2xTNlRUVVRYY2o0YU1tZENweGt5YjBoeEFWUGIzOFdCRkFqQkdicEpwX3Y3MHk5eFJ6aTZoYzJnYjBIX19zWTlqaVh6NVpHT0MxeFdhSklvcjNENXRCUG1IS2NMNUk?oc=5",
-    "summary": "Safety Net System Denver Health Selects Nabla's Ambient AI Technology to Support Entire Clinical Staff's Wellbeing PR Newswire",
     "status": "unverified"
   }
 ]
