@@ -55,17 +55,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2026-07-27-1hc4j46",
-    "date": "2026-07-27",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "Lapsi Health Partners with Redox to Integrate Keikku Clinical AI Platform Directly Into EHR Infrastructure",
-    "source": "HIT Consultant",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaWFmalI2RUp4d3NZZjdEalc2bEJ3NHJhUmFkUXI1ZGdWNlNuc1RZQVA0ckkxaEM4Z3lyMzNVTm9pQ3hNODcxUzFGRk5OQ1RyaTJqckVzazl1MTZXOC1MV3FFMHkyOVd3OHB4LUFnYngzeE9NRXp2ZUQwclNsaWlLcmYtNGJWeF9CcTZuaTRqN29YN0RfSk5ENWl6aHQxMEE?oc=5",
-    "summary": "Lapsi Health Partners with Redox to Integrate Keikku Clinical AI Platform Directly Into EHR Infrastructure HIT Consultant",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2026-07-06-1jbsw4m",
     "date": "2026-07-06",
     "competitorId": "augmedix-commure",
@@ -297,17 +286,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-07-10-1oegvmd",
-    "date": "2025-07-10",
-    "competitorId": "nabla",
-    "competitorName": "Nabla Copilot",
-    "title": "Nabla and Navina Partner to Transform Clinical Workflows with Integrated AI",
-    "source": "HLTH",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORjJPOGhuLUo2VTBOU0psZ3FQYUQyaXF5UTN4YmhyOU8zMjRpVmQzcjYxRWtwNjVBeGEweDZVc0czeDA3OVVHc19STUZjdXhwVkRJTHZLWU1IdmFwMTlJVEZHcWdPVlpwWFFTRDR0YjZCOW01QzhWWExnLV9hU1I0MlNodjAwLU5QVWtSeGJ6cXhpd0w2Wm1zRUdka2xuZXd6eURIaG1GZFl4VkNuTzNSc3VkcTF1WW1y?oc=5",
-    "summary": "Nabla and Navina Partner to Transform Clinical Workflows with Integrated AI HLTH",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-07-09-1jxuimw",
     "date": "2025-07-09",
     "competitorId": "nabla",
@@ -393,17 +371,6 @@
     "source": "MobiHealthNews",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNk1SQkhDYW1zNXJlV3ZuV3JBc20xZmt6aUxnVmNHVlA1TEVhVjFkMlMxNEJVUHRHS1M5WEdhTS1KNms5Wnh6aDNfWXFSU0E3RTJpWVYzWVlHcFlEOVVRWFRoMzE4TldzSFlUR0o5T0RNLWVJck05U3AydlZnQ3VvUy0zN2tnM1lKQ0dxUjdGM1U?oc=5",
     "summary": "Commure, HealthTap partner for expanded after-hours care MobiHealthNews",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2025-04-22-14umbfn",
-    "date": "2025-04-22",
-    "competitorId": "deepscribe",
-    "competitorName": "DeepScribe",
-    "title": "New York Cancer & Blood Specialists Adopt the DeepScribe Ambient Operating System for Oncology",
-    "source": "BioSpace",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRXZEVDRSVTdwVGd4aHpab3dUUllzbnR2NGJHeHQ1Q1BvUlFwbFE0SWxYUXdudHktTlV6T244dnd5c1VlaGpOdXNKZF9DQWlQVHVXbXMtWWRkUGZEbUFsLTR1Mm1CMWFYeVFrRVJBQjNaTW9FRVlvMVFMTXRXblg5cVVfODFHM3ZhcUs5T05GUWNNZlNxdExJUnI1XzRVTzdKQ0MxYURob1RBenBBMU9uZlpPYmlHY3dYX0EwN3N1aktwbXNHSmV4dkZSZ0Y?oc=5",
-    "summary": "New York Cancer & Blood Specialists Adopt the DeepScribe Ambient Operating System for Oncology BioSpace",
     "status": "unverified"
   },
   {
@@ -547,6 +514,39 @@
     "source": "Healthcare IT News",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWG1HX1N2TWlQX01LeUlJQmdKcUE3ekFuM3JXV3UxRURVQzhEQ0h3UmtPTXJURmxvUG1zcXppZFhDV1psNWF3RlY4X3l0eDBDdlYwa24ydmt5VVBycnFHblh5XzhDb1lZMEpKeklScHlsOUdfOURjWTB5UTFqa1RSSUNn?oc=5",
     "summary": "Zoom takes Suki partnership to next level Healthcare IT News",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-01-29-15opbnw",
+    "date": "2025-01-29",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Abridge launches generative AI tool for emergency medicine with Emory, Johns Hopkins as early adopters",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObS1HbFE4SWw5S2hTVUx3eW1mWW5xVjV2TXNGQzJyYVQxMEtuWm9QRjd5bkdmM0dzUC02My1ROEdIcUZMeF95RzdYREh3dHdzX3JqUl9lajhra3gtVElCc3VOM1FSVEFCUzJnaklURzRWWkVla2UzZkRYckFpNjU3NjFFTGx5YVlYM0FfdlZwRGlzdm9aMGtrMVEyN1owbEVEbGFLYmt3NzFRMzhsNlgzYmtWUmNkek03MGQ0MC1fY2JpaUZJUGNWRGZhNnA?oc=5",
+    "summary": "Abridge launches generative AI tool for emergency medicine with Emory, Johns Hopkins as early adopters Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-01-16-14w5irk",
+    "date": "2025-01-16",
+    "competitorId": "nabla",
+    "competitorName": "Nabla Copilot",
+    "title": "Safety Net System Denver Health Selects Nabla's Ambient AI Technology to Support Entire Clinical Staff's Wellbeing",
+    "source": "PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRC1zN19McF9QaUJ4TDVCOEVyQjZkVEJDVll2TThWUHVFbVNnM281SEZBYWdURXZlU0dfTHV5OHEwSl93VGJxdXZEUUtPMjd6b0JnY1BoMldfdDNpZDVjQmlrTi1MRV9HTVI5MjVFU25SOGFuQnotNVB1eE1QSTI0aWtDN2NsRlJQYTJyYWJFX3pXMlFZeHhLaG91akIzS2xTNlRUVVRYY2o0YU1tZENweGt5YjBoeEFWUGIzOFdCRkFqQkdicEpwX3Y3MHk5eFJ6aTZoYzJnYjBIX19zWTlqaVh6NVpHT0MxeFdhSklvcjNENXRCUG1IS2NMNUk?oc=5",
+    "summary": "Safety Net System Denver Health Selects Nabla's Ambient AI Technology to Support Entire Clinical Staff's Wellbeing PR Newswire",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-01-13-153mbhf",
+    "date": "2025-01-13",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "AWS and General Catalyst partner to speed up development of health-care AI tools",
+    "source": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVlJSGYxby1maHM5SjM3TVBmdE1zOVhpUGQ3aVJYZnB1WHo0RURHZUZWLWNPVXlTN1h5cXVDTWhucjhGVmE5Vk1Ba29FVlFjVFE4UzJBUXBYUEU4ZXgzRGRZa3lvUGo1dVBYUWpoQ3VKZkxRTHJEdTBJSVpaVVUxZGtlYjJpZ1p6X3lIdWRZb3FhdFJNWjJYaGNZaWNMSmxFSG5TQzZ4UGLSAa4BQVVfeXFMUEp5czM2TzJLR3FDekQ2OVRoLUgtU2xiRWxTYkdieE8xamZiSHo5YTQ3UDZaX3N1cUwzVmNwOWpBdzFwMGF6NWY3aTZSaGRoeXNkQ0hZM1I1SmhicDRzejFZNjZCUnh2ZnZzWGxWYVNoTXdRZVRnTnFYWEVsSUNaTUh6WnRXMFF5V2hiNmcxMms3RE92YkNxQ0djbldLRWVlQ2hpdlFCdGJHRzVfOF9n?oc=5",
+    "summary": "AWS and General Catalyst partner to speed up development of health-care AI tools CNBC",
     "status": "unverified"
   }
 ]
