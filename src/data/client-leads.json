@@ -1,13 +1,13 @@
 [
   {
-    "id": "lead-2026-10-07-1uee52i",
-    "date": "2026-10-07",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
-    "title": "AI Tracker: Teladoc launches new AI features",
-    "source": "Modern Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0Zsbm5XcmxTU0JuTzczTC1fUF9FVzB3LTJ3X2hLYVRJUFl3ZXB6TEZoMldEOXlkTXBTOVp2amNpLXFVeWlBUUd4X2dZNzlvUnB2LUoybW9LRThOY2pjN18tbnB3S2NieGMwSm9fVVBuZHprWUFrTU50Wk91ZVREV3NDZ1hvQ3RxcW9zeEMxMGs?oc=5",
-    "summary": "AI Tracker: Teladoc launches new AI features Modern Healthcare",
+    "id": "lead-2026-08-25-1vzzgwh",
+    "date": "2026-08-25",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "AI scribe Suki rolls out AI-driven clinical dictation tool",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX05BZG4wcDVreGNjcGhienk5N09GSFZIVTBfZW5rNUhNLUN5WV9DSFMyVDlPZzdhRWVELTA0WlVydU9qdDJHemFxS0pRX21fMFlnalpTZ3pfZkdHcXFFOWxQSGRQS0Vtc3NKbnRLVjA2aVpNV3dEaW05eTV4bXp2NFJ3a1o1MzZaM2lldDBVSDc0S0w3MWZXVUFONmEyWThaTk5kOFkxZXRlZEQ4VEpJMDItZGpiQQ?oc=5",
+    "summary": "AI scribe Suki rolls out AI-driven clinical dictation tool Fierce Healthcare",
     "status": "unverified"
   },
   {
@@ -19,17 +19,6 @@
     "source": "Business Wire",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORi00T1JYQXBfdHJlVnFoWnBia0d5QjlDMkQ1WVo2dmtKcEpndGRieUNxbzFuTlp3TGVCd0VFb2Z3aEh4SGJhVV9fOVZNUmFtc0s2d0JTTmFrdUNGcVVXcjV6NDNnWlNnX25QdXRlNlRHMlR6T2Z3Q1AyNFIzbUR4WGF0dEs2UUtXVndZdExlRnJ6Rm85WUVrQjZzX2lRcmlKaEctQVZzcHYxMU5TYkV3c3BBOW9kX3NrUmxpZ3FJcEFidDJaMWhHeWdVLWVDY2JGTnc?oc=5",
     "summary": "Suki Breaks the AI Dictation Bundle, Giving Health Systems the Freedom to Choose Business Wire",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2026-08-25-1vzzgwh",
-    "date": "2026-08-25",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "AI scribe Suki rolls out AI-driven clinical dictation tool",
-    "source": "Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX05BZG4wcDVreGNjcGhienk5N09GSFZIVTBfZW5rNUhNLUN5WV9DSFMyVDlPZzdhRWVELTA0WlVydU9qdDJHemFxS0pRX21fMFlnalpTZ3pfZkdHcXFFOWxQSGRQS0Vtc3NKbnRLVjA2aVpNV3dEaW05eTV4bXp2NFJ3a1o1MzZaM2lldDBVSDc0S0w3MWZXVUFONmEyWThaTk5kOFkxZXRlZEQ4VEpJMDItZGpiQQ?oc=5",
-    "summary": "AI scribe Suki rolls out AI-driven clinical dictation tool Fierce Healthcare",
     "status": "unverified"
   },
   {
@@ -297,17 +286,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-07-01-vtg5fi",
-    "date": "2025-07-01",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
-    "title": "Suki expands integration with Meditech's EHR platform",
-    "source": "MobiHealthNews",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObV9NSVFqeWM1cDdEVy0yM0lSQVFGcU12OHM2RHlSN3lScUVMWVphWmRMY0hRd1pDUDlzbHg0TEZCTFQ4VE9oVDVPcE01MUZORjM1Yk9XYklzcWwxQldiTnlzZEYzSzJ6SWZUQlBrbWl5MDR3NVN3bEUtOF9zUzJWelRwY1JxcmpLZExn?oc=5",
-    "summary": "Suki expands integration with Meditech's EHR platform MobiHealthNews",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-06-25-5n6wkq",
     "date": "2025-06-25",
     "competitorId": "augmedix-commure",
@@ -420,8 +398,8 @@
   {
     "id": "lead-2025-03-05-1onpwy1",
     "date": "2025-03-05",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
     "title": "HIMSS25 roundup: Zoom launches healthcare AI betas; Teladoc enhances Prism with AI",
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcEd3X1c3dmdJbG5SazFTVUdPUThhcHJUc3l1ZnFpMXBDNWxCT2JJVU1od2VjMzlQUnpGaHEwNGtqYk05UExrRVdxODhWVDdMOVE1SmVRdnBZUENZcklFZW9yZTZYeTBmOF8xd0hMdHo3LXkzNUNWMHVyUU1YeTFSOVJBZmZLRGlVM0ptaHRjZVlTSnh5Rkc0bHRBWTZOZHZqQkxLektleUhHNW8?oc=5",
@@ -431,23 +409,12 @@
   {
     "id": "lead-2025-03-03-1w9flua",
     "date": "2025-03-03",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
     "title": "Rush expands AI-driven documentation with Suki partnership",
     "source": "MobiHealthNews",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWXRCTWVvTTJXMjJuR2l0NWx1c09CVlFYNDRyUzUwY1AtTjA5bVg2d2pFRmExanVrSVNFNVlSa3FrN29xaDJoWVBRVFg0ZVpJbmcxX0t6V1ZqbV83SmRDZXBWeHBkcDZRRW9aSEpTUUJvQU1uRE5uRVFNRnhRMUJ0bjFURkVKT2NlUVpYcEVabnFVLXM?oc=5",
     "summary": "Rush expands AI-driven documentation with Suki partnership MobiHealthNews",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2025-02-27-9a4v08",
-    "date": "2025-02-27",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
-    "title": "Athenahealth rolls out Abridge AI scribe to community practices, hospitals",
-    "source": "Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWllHUERsUXBvMkk0Qlk1NU5FWE5WaFdFZFF4blJYcks1T3hIV1lDY2cxbDZhQ3F0WXVEdm1BWkhYM3Z1Q0RKbFpKVHFGOF92WnFrdnBYOVRNUG5QemlZTzcwT3VNUGNMbllzWTFqcDY4NVBBNUx6R1cySDJXa0VVUm05dFdpQV9qMTNrOWtIVzdLOV83M2paT2JWQkVOWGR3OHMtSUY3RQ?oc=5",
-    "summary": "Athenahealth rolls out Abridge AI scribe to community practices, hospitals Fierce Healthcare",
     "status": "unverified"
   },
   {
@@ -495,17 +462,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-01-30-17byi8x",
-    "date": "2025-01-30",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
-    "title": "Zoom takes Suki partnership to next level",
-    "source": "Healthcare IT News",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWG1HX1N2TWlQX01LeUlJQmdKcUE3ekFuM3JXV3UxRURVQzhEQ0h3UmtPTXJURmxvUG1zcXppZFhDV1psNWF3RlY4X3l0eDBDdlYwa24ydmt5VVBycnFHblh5XzhDb1lZMEpKeklScHlsOUdfOURjWTB5UTFqa1RSSUNn?oc=5",
-    "summary": "Zoom takes Suki partnership to next level Healthcare IT News",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-01-29-15opbnw",
     "date": "2025-01-29",
     "competitorId": "epic-native",
@@ -547,6 +503,50 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR0NqNE1FbXVuQnVSQ3dvckEwTDladVBGMjJyQjQwaUdtUXRFVVVpOHNfLV9YSjJXQ2RiZUhZNF92RGlvM3NZTVZZUkowaU5iWG5CREtBWGJWREZSblJ5SnIyVnR4WEJTOGRMQTFhN2tPQUxHb3liUHUzMGxnZGdGWEhCZjZZWFVyeklaRmxJSlNEZFhjRFNDelZlS2xwZFh4eHFzNXdFMFNaNVotX2c?oc=5",
     "summary": "General Catalyst teams up with AWS to co-develop, deploy AI-driven solutions Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-01-10-1wzxpvl",
+    "date": "2025-01-10",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Duke Health and Abridge partner on AI for clinical documentation",
+    "source": "Healthcare Finance News",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnNlaTN0UkxELWhtNGJkRHRmb1pPSTg5LWNnaFA0S3FRci14ZUhrcExyU3RBZDBMTV9tVEZLUVdDd1owY1NCcW9VV1Y1RHZkcWVXX1MxeklJcDh3clVWYlJxcEd4bEREdUg0MHVjVUNoXzZLbEEzZWtwUUFFbmhubXRyQWhYZ2VWZmk2ZU9KblB5Qm9seU5oVWVGZTgtZjR4a3c?oc=5",
+    "summary": "Duke Health and Abridge partner on AI for clinical documentation Healthcare Finance News",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-12-18-plvz2e",
+    "date": "2024-12-18",
+    "competitorId": "suki",
+    "competitorName": "Suki Assistant",
+    "title": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians",
+    "source": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQm42WHRpUFpDeFNRTUkzcW1GRDBTUm94VGdCdlR1bFZveXBHdUJtZ21rcXdUcGJ1bTg0RTJUTzBrWnFvSVdBMTZRbkY2X1BmdFpLMS16QkdJcjF1VmY4aDM3YkwxOVE2alNQUXI2d2x0Qi0td1ZESGw5UE55dFVKbEU3Wmlkck1nbFRxRk9oTkNSSVR4YldVNWFZcnktaEnSAaQBQVVfeXFMT2hlS2tJMzlyRTZ1aGgwdDMxMVlkX20zUVZoaV95d28tcndIM1B3eHFLZFlYdXUtQ182cFp1XzhUcUpFVG9JWTdzYWx2a08tOXZPZVRGckJreHZJUjh2U3JFbGhUQy04Rm5kZlo4SnI1bDZqNWNKb2dNck5FTDc0NlpGVkpkZHRpVXZMN3luWmU3b1NQbEh2aFJ0ZmF6UUZpY01xRVM?oc=5",
+    "summary": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians CNBC",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-11-22-sn43az",
+    "date": "2024-11-22",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "Tenet to deploy Commure’s AI scribe at physician network",
+    "source": "Healthcare Dive",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTl9oZVA4QzFCbUFPcnh4dWxpY2syU0lQYlVoSHFrcUhtWmFzRWc4VHJ4QjZVOThqaGtCQmNPZVpfZ1dwQTNvdjIzWFNJN0RSbXJ1WDFWYVpwUzRSNld1MzFWd1Y3T3JrYTlSNWtfV0lsclRXb0NnNTN1YzExWWZ4OHN2Y2J6SzJhOHlFSVpCcEJibUFmcW5SUg?oc=5",
+    "summary": "Tenet to deploy Commure’s AI scribe at physician network Healthcare Dive",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-11-21-eioqo8",
+    "date": "2024-11-21",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "Commure rolls out AI scribe for Tenet Healthcare after yearlong customized build",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0h5Y0V4MTFnZkJUU0RoNmptSEtmLWgyRFo3TTVXdVQ3VmRSa2FJUDdYWG9DQlNYOFlnSXZicmszZVJUUDBaQm1kVlpVR3RhQ0t4cmMxSVdtc05mZllKMllXSVZaekJjRy01aTM5Vzc4dWtoNGdQbkxET1R1a0d0N3hraE5zTm41RENHdC12UkNSNGppUHlRV3lndE5IMmVBU2xybm83U3Q4OURDcEVNWkh5amtZWkZVQ0JHNHlzU3lzX2l4TkF3?oc=5",
+    "summary": "Commure rolls out AI scribe for Tenet Healthcare after yearlong customized build Fierce Healthcare",
     "status": "unverified"
   }
 ]

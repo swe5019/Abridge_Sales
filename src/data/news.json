@@ -1,5 +1,16 @@
 [
   {
+    "id": "n-2026-10-13-j4owv8",
+    "date": "2026-10-13",
+    "title": "AI Tracker: Suki lands $90M",
+    "source": "Modern Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0Zsbm5XcmxTU0JuTzczTC1fUF9FVzB3LTJ3X2hLYVRJUFl3ZXB6TEZoMldEOXlkTXBTOVp2amNpLXFVeWlBUUd4X2dZNzlvUnB2LUoybW9LRThOY2pjN18tbnB3S2NieGMwSm9fVVBuZHprWUFrTU50Wk91ZVREV3NDZ1hvQ3RxcW9zeEMxMGs?oc=5",
+    "summary": "AI Tracker: Suki lands $90M Modern Healthcare",
+    "tags": [
+      "competitor:suki"
+    ]
+  },
+  {
     "id": "n-2026-10-12-e9sofg",
     "date": "2026-10-12",
     "title": "Washington Trial Court Rules Patients May Be Denied Access To Ambient AI Recordings",
@@ -33,12 +44,12 @@
     ]
   },
   {
-    "id": "n-2026-10-07-1uee52i",
-    "date": "2026-10-07",
-    "title": "AI Tracker: Teladoc launches new AI features",
-    "source": "Modern Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0Zsbm5XcmxTU0JuTzczTC1fUF9FVzB3LTJ3X2hLYVRJUFl3ZXB6TEZoMldEOXlkTXBTOVp2amNpLXFVeWlBUUd4X2dZNzlvUnB2LUoybW9LRThOY2pjN18tbnB3S2NieGMwSm9fVVBuZHprWUFrTU50Wk91ZVREV3NDZ1hvQ3RxcW9zeEMxMGs?oc=5",
-    "summary": "AI Tracker: Teladoc launches new AI features Modern Healthcare",
+    "id": "n-2026-09-28-15gphay",
+    "date": "2026-09-28",
+    "title": "Generative AI for Clinical Documentation Market Size [2034]",
+    "source": "Fortune Business Insights",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMUVoUnBEWEtBZkl6ZHNkamtaWUhBQ2ZhdnNGXzVfUmtZTTdUVW9VdXFocUtYREVIaTFoTWs1RWxfeUkxMGJGLUdTalNGN0JWaGhXMDVmR0ZnSXRGRDNpRzVGdVZMVmhyN29fWTJJVTlTNTJHMUdwSS1GQVNIc0RtbHdiU0YyZGxremtlLUw2MmpraVBmTTJwM3BR?oc=5",
+    "summary": "Generative AI for Clinical Documentation Market Size [2034] Fortune Business Insights",
     "tags": [
       "industry"
     ]
@@ -146,6 +157,17 @@
     ]
   },
   {
+    "id": "n-2026-09-22-tk7kbc",
+    "date": "2026-09-22",
+    "title": "University Hospital at Downstate Deploys Altera’s AI Scribe Across Clinical Care",
+    "source": "AIM Media House",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWEJuejV1V2Y2X2RWRjluYk9SRTd1ajF0VUc1ZEdjMVBIYmlYNVgyMVoxRWF6REZJUEMyaGJ6V0I1MDdVR1BXV1lrMEJ2b2RSQ0s5MnN1OTRwWFF5ZUt2cllLeGQ4ckZ6el9fS3V6Uk40NTVGTUNDNE41SzVNeWZWMy15RXJtRTJTek5qMy0tZDR4VHJIa0tqRmExY3Z1TGZFdE0xR3M2R191VXdsZGhrZEln?oc=5",
+    "summary": "University Hospital at Downstate Deploys Altera’s AI Scribe Across Clinical Care AIM Media House",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-09-21-1sopyah",
     "date": "2026-09-21",
     "title": "UI Health Care Shares Journey To Adopt an Ambient Documentation Tool",
@@ -154,17 +176,6 @@
     "summary": "UI Health Care Shares Journey To Adopt an Ambient Documentation Tool HealthTech Magazine",
     "tags": [
       "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-09-21-15gphay",
-    "date": "2026-09-21",
-    "title": "Generative AI for Clinical Documentation Market Size [2034]",
-    "source": "Fortune Business Insights",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMUVoUnBEWEtBZkl6ZHNkamtaWUhBQ2ZhdnNGXzVfUmtZTTdUVW9VdXFocUtYREVIaTFoTWs1RWxfeUkxMGJGLUdTalNGN0JWaGhXMDVmR0ZnSXRGRDNpRzVGdVZMVmhyN29fWTJJVTlTNTJHMUdwSS1GQVNIc0RtbHdiU0YyZGxremtlLUw2MmpraVBmTTJwM3BR?oc=5",
-    "summary": "Generative AI for Clinical Documentation Market Size [2034] Fortune Business Insights",
-    "tags": [
-      "industry"
     ]
   },
   {
@@ -319,17 +330,6 @@
     "summary": "Why one clinic lets physicians choose when & how to use ambient AI TechTarget",
     "tags": [
       "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-08-25-18o6lt9",
-    "date": "2026-08-25",
-    "title": "Suki launches AI clinical dictation tool",
-    "source": "MobiHealthNews",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXF3ci15cGN5R084UkNQNTFWMUdXV1pTUkx0d0twTjZMVGI0OWE3TU9wTVJHelk3Uy0wcGVWWlBaZ3hkVnZDSmMtV1ZuM19ONVUyWnhkSjZ2eUhBNnYxNVdQM1dHWUNWU2FkQkstVUx4eGFCeXFEbW93MkVBQVBBQWZR?oc=5",
-    "summary": "Suki launches AI clinical dictation tool MobiHealthNews",
-    "tags": [
-      "competitor:suki"
     ]
   }
 ]
