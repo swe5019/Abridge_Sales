@@ -1,7 +1,20 @@
 [
   {
-    "id": "n-2026-10-14-j4owv8",
-    "date": "2026-10-14",
+    "id": "n-2026-10-15-3cf625",
+    "date": "2026-10-15",
+    "title": "Suki raises $90M to take its AI scribe beyond note-taking",
+    "source": "MarketScale",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzFybEhkd05aNDA0aU9mX0s4bjNadjZxQjBYNmxIUHNVaXBQc1FmTkhTcmhIZHhIYmRTY3dRdkVaaW1jeC1GZXJpTVZnbUQ4ZGZ3VmF0ZDdCV1ltZFVuNnc4YnpJODRuNGRMRmNwd2ltNDd6OTZrWWxOSjFKdGFSTmViYU5aZjY2LWpsaHowQ2pic1ZUSDEwNVVNRE1NZDU0TmxHemJqQXBMZw?oc=5",
+    "summary": "Suki raises $90M to take its AI scribe beyond note-taking MarketScale",
+    "tags": [
+      "competitor:suki",
+      "ambient-ai",
+      "funding"
+    ]
+  },
+  {
+    "id": "n-2026-10-13-j4owv8",
+    "date": "2026-10-13",
     "title": "AI Tracker: Suki lands $90M",
     "source": "Modern Healthcare",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0Zsbm5XcmxTU0JuTzczTC1fUF9FVzB3LTJ3X2hLYVRJUFl3ZXB6TEZoMldEOXlkTXBTOVp2amNpLXFVeWlBUUd4X2dZNzlvUnB2LUoybW9LRThOY2pjN18tbnB3S2NieGMwSm9fVVBuZHprWUFrTU50Wk91ZVREV3NDZ1hvQ3RxcW9zeEMxMGs?oc=5",
@@ -319,17 +332,6 @@
     "summary": "Why one clinic lets physicians choose when & how to use ambient AI TechTarget",
     "tags": [
       "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-08-25-18o6lt9",
-    "date": "2026-08-25",
-    "title": "Suki launches AI clinical dictation tool",
-    "source": "MobiHealthNews",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXF3ci15cGN5R084UkNQNTFWMUdXV1pTUkx0d0twTjZMVGI0OWE3TU9wTVJHelk3Uy0wcGVWWlBaZ3hkVnZDSmMtV1ZuM19ONVUyWnhkSjZ2eUhBNnYxNVdQM1dHWUNWU2FkQkstVUx4eGFCeXFEbW93MkVBQVBBQWZR?oc=5",
-    "summary": "Suki launches AI clinical dictation tool MobiHealthNews",
-    "tags": [
-      "competitor:suki"
     ]
   }
 ]
