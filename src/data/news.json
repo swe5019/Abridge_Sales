@@ -69,12 +69,12 @@
     ]
   },
   {
-    "id": "n-2026-09-25-fjtp8v",
+    "id": "n-2026-09-25-qi8ehn",
     "date": "2026-09-25",
-    "title": "For the record: a narrative review of ambient voice technology in clinical documentation for dentistry and wider healthcare",
+    "title": "For the record: a narrative review of ambient voice technology in clinical documentation for dentistry and wider healthcare | British Dental Journal",
     "source": "Nature",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xZlJvSnhWSDRCS3NoTUpjUTh4LWl5MXIzdjJaY0ZDc05TeWduVU1EbDhZRnFBc0FReWVlSWVOaXdqakJfcDVTNmVRTnRTQXk3N0Y0VW5KdUhNWW55YkE?oc=5",
-    "summary": "For the record: a narrative review of ambient voice technology in clinical documentation for dentistry and wider healthcare Nature",
+    "summary": "For the record: a narrative review of ambient voice technology in clinical documentation for dentistry and wider healthcare | British Dental Journal Nature",
     "tags": [
       "ambient-ai"
     ]
@@ -225,17 +225,6 @@
     ]
   },
   {
-    "id": "n-2026-09-09-1rydazm",
-    "date": "2026-09-09",
-    "title": "What is Ambient Scribing? A guide to ambient voice technology in healthcare",
-    "source": "Mayden",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkVKak1XdTZjQ09PaDZ5Y2tYaG1RUkFTTHRBdUU0ZzJJb0diX2dUTjJjOEl4Qk5CQUNJQlUxWEwyLXJBUTgwTm54eW5vNnI2cmQ4NlFCbVVqNGxpNTU1SlZaMV9GRTdSczVXaGdnZVh4YUhiTncyUFQwUkdzbWY1MkFHdDU0TWxKXzFLMWtLQU1QaVlVN1F5VF9GM1ZnQm13ZjA1QkhwM2FnZ3NqUkRrWml2bnZydw?oc=5",
-    "summary": "What is Ambient Scribing? A guide to ambient voice technology in healthcare Mayden",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
     "id": "n-2026-09-08-1u0ujgx",
     "date": "2026-09-08",
     "title": "After success with physicians, Mount Sinai Medical Center expands ambient AI to nurses",
@@ -332,6 +321,17 @@
     "summary": "Suki launches AI clinical dictation tool MobiHealthNews",
     "tags": [
       "competitor:suki"
+    ]
+  },
+  {
+    "id": "n-2026-08-22-1a31ffp",
+    "date": "2026-08-22",
+    "title": "Full-Scale Ambient AI Deployment Brings New Challenges And Potential",
+    "source": "Forbes",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbXp3V1p3dG1Xd0dDWDV2cWNwNnY1QnFVZGZvelc1bDRBR18tNXJuamQzdGlHOHBNWTd0RTVwVHQwODJxR2Z3Mmx1cU9ZYUthdlhNRXZBN3M2WjVYYUk5TEhfY3lJZnhuZU9RbS02aFBuci0yREFSa3NrTHJZYWgtb3FnaWFkcndzc2ptd0F4eFRnOVFjTXg5WGViZFhLdElvZTF5bk9HVTM3U1NJTVE?oc=5",
+    "summary": "Full-Scale Ambient AI Deployment Brings New Challenges And Potential Forbes",
+    "tags": [
+      "ambient-ai"
     ]
   }
 ]
