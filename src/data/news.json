@@ -1,5 +1,16 @@
 [
   {
+    "id": "n-2026-10-16-13rf9pd",
+    "date": "2026-10-16",
+    "title": "Medical data crunch poses challenges to ambient AI and clinical agents",
+    "source": "Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2c4bm0wcFg4eVNxTUhIYXZocG95a1N6M09OeVZxdGxQbG9FbjRnRWtHYWxVMVpuakhYZDJHQmRsUDc1blowUi0tcDdQdi1zeVJIMk44bkdhTGRTa01PY3J5M1QyNXN3cXFTZ3dnRG1VS3d6UWhkZ1RJd3ZCc0VsSlJsaTd0eHZCbUt1WU11THBEN3FJQ3NqcDNRQzBKUERqc1Y2X3JCank?oc=5",
+    "summary": "Medical data crunch poses challenges to ambient AI and clinical agents Healthcare IT News",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-10-15-3cf625",
     "date": "2026-10-15",
     "title": "Suki raises $90M to take its AI scribe beyond note-taking",
@@ -13,14 +24,14 @@
     ]
   },
   {
-    "id": "n-2026-10-13-j4owv8",
-    "date": "2026-10-13",
-    "title": "AI Tracker: Suki lands $90M",
+    "id": "n-2026-10-15-hk26wk",
+    "date": "2026-10-15",
+    "title": "AI Tracker: Sirona Medical secures $40M",
     "source": "Modern Healthcare",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0Zsbm5XcmxTU0JuTzczTC1fUF9FVzB3LTJ3X2hLYVRJUFl3ZXB6TEZoMldEOXlkTXBTOVp2amNpLXFVeWlBUUd4X2dZNzlvUnB2LUoybW9LRThOY2pjN18tbnB3S2NieGMwSm9fVVBuZHprWUFrTU50Wk91ZVREV3NDZ1hvQ3RxcW9zeEMxMGs?oc=5",
-    "summary": "AI Tracker: Suki lands $90M Modern Healthcare",
+    "summary": "AI Tracker: Sirona Medical secures $40M Modern Healthcare",
     "tags": [
-      "competitor:suki"
+      "industry"
     ]
   },
   {
@@ -148,6 +159,18 @@
     ]
   },
   {
+    "id": "n-2026-09-22-8tju1j",
+    "date": "2026-09-22",
+    "title": "Abridge Selected to Bring Ambient AI to Veteran Care Nationwide Through the VA Enterprise Contract",
+    "source": "Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOURKbTJMdll1ZE1OdGFRakhMRFlKZkZaQnR2bGFSdFpGdHg4SndwWV85OFNuQjQxdzlvaVVEcmRTU1BSSU5hX0xnTlZrdFN3NFlMc0thMWF5SVhFWFRCNkxEb01jN19YdGZVVWVUd3JXRjVzQWR1bENSOXRBZGhwbzVoSW54bnR1M1pXbTZXWmVsVWZoRzg5TkZQUmR2T3JVWEp3aHA0TkxzbWVuWU1udllpTzJZTWpuZ3M1NThoRGdDR1E4X2xMM3E2RERnVmRSU09lSGIyVnkyRWhUWl9FdlRpR2xwcGhQb0xn?oc=5",
+    "summary": "Abridge Selected to Bring Ambient AI to Veteran Care Nationwide Through the VA Enterprise Contract Business Wire",
+    "tags": [
+      "abridge",
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-09-22-nw1p1t",
     "date": "2026-09-22",
     "title": "Heidi lands $340M to build 'AI care partner' for clinicians",
@@ -258,6 +281,17 @@
     ]
   },
   {
+    "id": "n-2026-09-07-1es91jp",
+    "date": "2026-09-07",
+    "title": "Ambient AI Documentation Is Leaving the Exam Room, and the Medical Record Is Changing With It",
+    "source": "Technology Org",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVGttQ2c0VVV3Y2xYTENaZ3lwc0hxbHY0NnJiWUFHZXRiNnZIYmc4NDFVNFZ0dnVuM2Jwd1V2WV9PSDhRT0MzcXRiMzhuOU5UeS1CbVAzVVhXdkx0d2FrODNrN2tpZ1dvdGN1UXRzbHduTFlMbERsVFpBMkJoZlhfLV9yN1Zqams4eHp3cWJaSXZjR2huZlVJMWItRzZGQ1BEcmd0TTJmclhDX2c2V0ZVWjdIVWpoalBiN0Q3QmlMT1RzOW1OcnpxdnlUWQ?oc=5",
+    "summary": "Ambient AI Documentation Is Leaving the Exam Room, and the Medical Record Is Changing With It Technology Org",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-09-05-1h3lxs3",
     "date": "2026-09-05",
     "title": "Deconstructing the Ambient Clinical Documentation Paradigm: Sociotechnical Realities, Epistemic Shifts and Systemic Implementation in Healthcare",
@@ -299,39 +333,6 @@
     "summary": "Private Indian hospital takes platform-first approach to ambient AI Healthcare IT News",
     "tags": [
       "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-08-27-1pn0u6s",
-    "date": "2026-08-27",
-    "title": "Ardent Health finds ambient AI's value goes beyond ROI",
-    "source": "Healthcare IT News",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOODdUSnhUdUpqanJ2dlhvWS0yUnoyWVpkVWVfbU4tMXFBZVV6d29KZ0UxUUhfNGY2YnNmMm9UcW01aGEyNl9ZSXZRQXZIZXJJTmVhdFY3QVVOLXNWTXRkXzJ0SkFXRjFGYnE3YjJqekVZN2szTWFJMklWeGU3Ql9lTjRkVUxVT1pyWVIxTUZqZlllRjJhcXc?oc=5",
-    "summary": "Ardent Health finds ambient AI's value goes beyond ROI Healthcare IT News",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-08-27-11am86q",
-    "date": "2026-08-27",
-    "title": "Why one clinic lets physicians choose when & how to use ambient AI",
-    "source": "TechTarget",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVXR1bnl5N3J6TjlFaHo2N3ZOZEs0U0g2cDEzU3NaZGRuUGpGQjZuWWRyYVZrYllqazc0VjZjQVNZcVFQUGdtY1diV2VsMkhrYjVyZ0g5cjlTdzd4dGxQUl9CaHpqS3NpOTFNbWdWMVgyVThQMzVuZVJxQ2xUZVdFWm8zRFNrY0NlOVNFNTMxRVZiZ0prZ0xZT3NsTUlQTkVwaGM5bUJ1NG90SkJlY1BEbUxrYjVFV3JGYTZkVjUzUi1PMzl0aVFB?oc=5",
-    "summary": "Why one clinic lets physicians choose when & how to use ambient AI TechTarget",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-08-25-18o6lt9",
-    "date": "2026-08-25",
-    "title": "Suki launches AI clinical dictation tool",
-    "source": "MobiHealthNews",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXF3ci15cGN5R084UkNQNTFWMUdXV1pTUkx0d0twTjZMVGI0OWE3TU9wTVJHelk3Uy0wcGVWWlBaZ3hkVnZDSmMtV1ZuM19ONVUyWnhkSjZ2eUhBNnYxNVdQM1dHWUNWU2FkQkstVUx4eGFCeXFEbW93MkVBQVBBQWZR?oc=5",
-    "summary": "Suki launches AI clinical dictation tool MobiHealthNews",
-    "tags": [
-      "competitor:suki"
     ]
   }
 ]
