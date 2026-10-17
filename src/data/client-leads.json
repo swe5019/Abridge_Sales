@@ -1,16 +1,5 @@
 [
   {
-    "id": "lead-2026-08-25-cfkibl",
-    "date": "2026-08-25",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "Suki Breaks the AI Dictation Bundle, Giving Health Systems the Freedom to Choose",
-    "source": "Business Wire",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORi00T1JYQXBfdHJlVnFoWnBia0d5QjlDMkQ1WVo2dmtKcEpndGRieUNxbzFuTlp3TGVCd0VFb2Z3aEh4SGJhVV9fOVZNUmFtc0s2d0JTTmFrdUNGcVVXcjV6NDNnWlNnX25QdXRlNlRHMlR6T2Z3Q1AyNFIzbUR4WGF0dEs2UUtXVndZdExlRnJ6Rm85WUVrQjZzX2lRcmlKaEctQVZzcHYxMU5TYkV3c3BBOW9kX3NrUmxpZ3FJcEFidDJaMWhHeWdVLWVDY2JGTnc?oc=5",
-    "summary": "Suki Breaks the AI Dictation Bundle, Giving Health Systems the Freedom to Choose Business Wire",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2026-08-25-1vzzgwh",
     "date": "2026-08-25",
     "competitorId": "epic-native",
@@ -19,6 +8,17 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX05BZG4wcDVreGNjcGhienk5N09GSFZIVTBfZW5rNUhNLUN5WV9DSFMyVDlPZzdhRWVELTA0WlVydU9qdDJHemFxS0pRX21fMFlnalpTZ3pfZkdHcXFFOWxQSGRQS0Vtc3NKbnRLVjA2aVpNV3dEaW05eTV4bXp2NFJ3a1o1MzZaM2lldDBVSDc0S0w3MWZXVUFONmEyWThaTk5kOFkxZXRlZEQ4VEpJMDItZGpiQQ?oc=5",
     "summary": "AI scribe Suki rolls out AI-driven clinical dictation tool Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2026-08-25-cfkibl",
+    "date": "2026-08-25",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Suki Breaks the AI Dictation Bundle, Giving Health Systems the Freedom to Choose",
+    "source": "Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORi00T1JYQXBfdHJlVnFoWnBia0d5QjlDMkQ1WVo2dmtKcEpndGRieUNxbzFuTlp3TGVCd0VFb2Z3aEh4SGJhVV9fOVZNUmFtc0s2d0JTTmFrdUNGcVVXcjV6NDNnWlNnX25QdXRlNlRHMlR6T2Z3Q1AyNFIzbUR4WGF0dEs2UUtXVndZdExlRnJ6Rm85WUVrQjZzX2lRcmlKaEctQVZzcHYxMU5TYkV3c3BBOW9kX3NrUmxpZ3FJcEFidDJaMWhHeWdVLWVDY2JGTnc?oc=5",
+    "summary": "Suki Breaks the AI Dictation Bundle, Giving Health Systems the Freedom to Choose Business Wire",
     "status": "unverified"
   },
   {
@@ -90,8 +90,8 @@
   {
     "id": "lead-2026-02-05-1yps1mx",
     "date": "2026-02-05",
-    "competitorId": "deepscribe",
-    "competitorName": "DeepScribe",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
     "title": "Epic's AI scribe goes live as EHR giant touts strong adoption of built-in AI features",
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT2VBVVFySnhJX2FUUHBET0swTEtZaGtBaGxHUlh5TGY3WmtLcEZPc1plS3ZTZGgtWG1hZUV3eGhhN01UOTcxZ3RrSmFqbVJQemN1RmhaMUxCajFnQ2ZHS2UtVkdsTktud2tndC1uVXNYWDgtTmhPcENRWUlqZTNXdmpxSVpVaU5ValFkQkpGM2JpaEpzLUw0UFU4NzBmeFlPdUdvZ2pjZjA5c3BCV2JTYkZBUW5Ndm9ka204OEg2YnFpQQ?oc=5",
