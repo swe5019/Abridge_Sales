@@ -88,6 +88,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2026-02-05-1awsm6s",
+    "date": "2026-02-05",
+    "competitorId": "nabla",
+    "competitorName": "Nabla Copilot",
+    "title": "M Health Fairview Selects Nabla's Combined Ambient AI Assistant and Dictation Solution to Power Next-Generation Clinical Documentation",
+    "source": "PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOYVVqS0VwWkRfR2RuTE5KS290dkp3M2Nma29pOFJCc2NDREEtNTNJNnJTd1h0eXU1WjFHeTd0UDJUUGVmbE16X0N6QzJTS0t1M3hlSWZUY0FfN1d0WkNzX1BzTFpBN2ozT2NxaXdFdU1nUHBOaE4zTjdiODFna0hGYmVsRDFQYWxGNGJuNGY4bWZhd21LWnVpTFdkcUFRWmMwYUVvenlpNERIZVZyN1JzaUY4djlLYk96T0dfUDhNNXNYYm9wRVMtaUNLZ0Fra3FJR0E0anh0akxjbXhyTXUybVA3QzVSZnFEVFo5c25iZHFpOHNNQVlPQkFGVEE1X0Jyc3J3Y0czWUhCTnFjVnU0d1gtVC1vTlRQ?oc=5",
+    "summary": "M Health Fairview Selects Nabla's Combined Ambient AI Assistant and Dictation Solution to Power Next-Generation Clinical Documentation PR Newswire",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2026-02-05-1yps1mx",
     "date": "2026-02-05",
     "competitorId": "epic-native",
@@ -440,6 +451,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-01-24-1x3xcrd",
+    "date": "2025-01-24",
+    "competitorId": "deepscribe",
+    "competitorName": "DeepScribe",
+    "title": "DeepScribe partners with Flatiron Health on oncology-focused ambient AI",
+    "source": "MobiHealthNews",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlZlRFl0Q1BZNi1YX1VjMzEyNjVvRkZ1Wlp6UTB1T2FzQlNPRkItM3NzNk5zZThaUkp0RXBlNVFCTXAxMTl3Tk5FSVJXUTliWGlBOWRheXlGTlg4WktObFNNWmtKN3FWNHltbk1vNWRqNm54MGhqY0RzejRmOHJlZnN3Z2lHT2FNREExN25Xb1d2eFcyWG1uZkJXVURUN0V3?oc=5",
+    "summary": "DeepScribe partners with Flatiron Health on oncology-focused ambient AI MobiHealthNews",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-01-16-14w5irk",
     "date": "2025-01-16",
     "competitorId": "nabla",
@@ -525,28 +547,6 @@
     "source": "Forbes",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOUsxTHZaZEpoZGVFYnpZUFhOdjdDUk42Zl96d3BIcWdXQ0hmVm5rczR0WC1pOUw0NFpaN2VHVXJ2cUxjRGN4a2RyV2ExZGVFeUNaNWdEenh0bGYtNnhzX3gzck5xVm40WmhLQ19EaEZ3UmVIdVJLV0s0MWc5dEZkcktqek1pZlFFc20zb0lsV21EdG9CZVJiQWVNUTRNWXVmc1Znc2pJQnJZQ3J0YXNNUVJ1U1BfdU51cTlWYk5SckJpTDlXN0E5TkRVR3dPaU5CWDFTMVFjOA?oc=5",
     "summary": "Tenet Health And Commure Announce Landmark Partnership To Deploy Ambient AI Platform Forbes",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2024-11-19-5h7cws",
-    "date": "2024-11-19",
-    "competitorId": "augmedix-commure",
-    "competitorName": "Augmedix (Commure)",
-    "title": "Tenet to deploy AI platform across its physician network",
-    "source": "Healthcare Finance News",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWhnNnExUGMwcFJJcWFsdkU1Q2VJVWlGZHpQWml4Tk9tdUNEaEJrVWY4QzNWSlhBYWZBZ3I2N3dGRVl1QkpvOURuN3YzSHlZSFR2VlJ4ME1rZDc0RmJpSDUwZTRWdGRENTRNNXpOaHhMWWQtZ2hYV0ZRRjJqNUNtYmpCSkVMMlFQNXNhN29VRVhpNkJDaDV5Zm00N0k?oc=5",
-    "summary": "Tenet to deploy AI platform across its physician network Healthcare Finance News",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2024-10-25-1uo0tn7",
-    "date": "2024-10-25",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "Ambient AI company Suki partners with Zoom on clinical documentation",
-    "source": "Healthcare Brew",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeC1Db1BVb0ZYN0FYYzB4Wno0RFVvUEFkazhHOC0xWWxfb09qV3FaUGNEdGZYX084WUxIVU5ybTdkWjRWY1lFSGVucHdGQ1ZvbUdhcThtQUt0dGtqcFhtcUFHOGFjd1RkalBJTzlzLUJwamk0MUVXbGliTTZCb2gyY0lPM3JORGo1ZDltRFRMc2ZnR2F4SDcyb2JuUnh4ODRvTWtndC1pTW8yRl8tejdtRw?oc=5",
-    "summary": "Ambient AI company Suki partners with Zoom on clinical documentation Healthcare Brew",
     "status": "unverified"
   }
 ]
