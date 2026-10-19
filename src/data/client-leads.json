@@ -121,17 +121,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2026-02-04-765021",
-    "date": "2026-02-04",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "Epic AI Charting Rolls Out Alongside an Expanding Set of Built-in AI Capabilities",
-    "source": "Epic Systems",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkxtOTJkYmJKNnd4ejFZMVJacVh0blplWEhyRjZPd0FWUFpKYVVGeXdReFBCbFZMTE80QnZkNFhPUnhIZlhNdGZXWUFqaW5Gb0l0cE80V1Nqcm5ScFFlOGxjcDczeUVaVHVfbE5JRE9ITmhiTFFmb25uTjM2Tnc2NDhGLUZSTUZXa2ZqN0xwazJUYmNZaFI3VW1rRXdLT3ZuSWx0MEk1S2VNLXRDSU1yaUJDZw?oc=5",
-    "summary": "Epic AI Charting Rolls Out Alongside an Expanding Set of Built-in AI Capabilities Epic Systems",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2026-02-03-nvdpmw",
     "date": "2026-02-03",
     "competitorId": "ambience",
@@ -429,28 +418,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-01-24-1x3xcrd",
-    "date": "2025-01-24",
-    "competitorId": "deepscribe",
-    "competitorName": "DeepScribe",
-    "title": "DeepScribe partners with Flatiron Health on oncology-focused ambient AI",
-    "source": "MobiHealthNews",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlZlRFl0Q1BZNi1YX1VjMzEyNjVvRkZ1Wlp6UTB1T2FzQlNPRkItM3NzNk5zZThaUkp0RXBlNVFCTXAxMTl3Tk5FSVJXUTliWGlBOWRheXlGTlg4WktObFNNWmtKN3FWNHltbk1vNWRqNm54MGhqY0RzejRmOHJlZnN3Z2lHT2FNREExN25Xb1d2eFcyWG1uZkJXVURUN0V3?oc=5",
-    "summary": "DeepScribe partners with Flatiron Health on oncology-focused ambient AI MobiHealthNews",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2025-01-16-14w5irk",
-    "date": "2025-01-16",
-    "competitorId": "nabla",
-    "competitorName": "Nabla Copilot",
-    "title": "Safety Net System Denver Health Selects Nabla's Ambient AI Technology to Support Entire Clinical Staff's Wellbeing",
-    "source": "PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRC1zN19McF9QaUJ4TDVCOEVyQjZkVEJDVll2TThWUHVFbVNnM281SEZBYWdURXZlU0dfTHV5OHEwSl93VGJxdXZEUUtPMjd6b0JnY1BoMldfdDNpZDVjQmlrTi1MRV9HTVI5MjVFU25SOGFuQnotNVB1eE1QSTI0aWtDN2NsRlJQYTJyYWJFX3pXMlFZeHhLaG91akIzS2xTNlRUVVRYY2o0YU1tZENweGt5YjBoeEFWUGIzOFdCRkFqQkdicEpwX3Y3MHk5eFJ6aTZoYzJnYjBIX19zWTlqaVh6NVpHT0MxeFdhSklvcjNENXRCUG1IS2NMNUk?oc=5",
-    "summary": "Safety Net System Denver Health Selects Nabla's Ambient AI Technology to Support Entire Clinical Staff's Wellbeing PR Newswire",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-01-13-153mbhf",
     "date": "2025-01-13",
     "competitorId": "augmedix-commure",
@@ -547,6 +514,39 @@
     "source": "Healthcare Brew",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeC1Db1BVb0ZYN0FYYzB4Wno0RFVvUEFkazhHOC0xWWxfb09qV3FaUGNEdGZYX084WUxIVU5ybTdkWjRWY1lFSGVucHdGQ1ZvbUdhcThtQUt0dGtqcFhtcUFHOGFjd1RkalBJTzlzLUJwamk0MUVXbGliTTZCb2gyY0lPM3JORGo1ZDltRFRMc2ZnR2F4SDcyb2JuUnh4ODRvTWtndC1pTW8yRl8tejdtRw?oc=5",
     "summary": "Ambient AI company Suki partners with Zoom on clinical documentation Healthcare Brew",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-10-24-xgb8qo",
+    "date": "2024-10-24",
+    "competitorId": "suki",
+    "competitorName": "Suki Assistant",
+    "title": "Zoom, Suki partner to deploy AI clinical documentation",
+    "source": "Healthcare Dive",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN2V6VDF3QmRnSlV2Y25qX1RFMDVIV01QczM2M1o3bEpTZVZmV21Pc3M0VmhKZjhFUk92MGUxcTc1R3lpSTR5NnlsbjF2U1JZOHphcE9qWFk2OUNFNFlWLU41emJZdjJLQmd6Nmt2a2NiVWNKSzBKZHNWZHdPMVNtSXUwYWtUVXRfN3c?oc=5",
+    "summary": "Zoom, Suki partner to deploy AI clinical documentation Healthcare Dive",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-10-23-1jqqib3",
+    "date": "2024-10-23",
+    "competitorId": "suki",
+    "competitorName": "Suki Assistant",
+    "title": "Zoom, Suki partner to generate AI features and more digital health news",
+    "source": "MobiHealthNews",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcmFaR2NNQnBaT1k3S3hMTUdKWmNQQWJYNXlpWF94Y0hMaXBCNEk4TmZxZnY4V252MTlSN3g5NU44SHRkMHkxR01vdGJoaGNfS3Z3dURYaTNmM0pVOU02MzlERWQxQ2oyTkZhTzc1Vklhc0NTb2JuTjFZbnY0NGl5RHRnUXlSVGRkQTBfQmJJNnAtOTJBWDN5TkxWQkhacE56cXZuVGJn?oc=5",
+    "summary": "Zoom, Suki partner to generate AI features and more digital health news MobiHealthNews",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-10-16-1kwv9lb",
+    "date": "2024-10-16",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Microsoft rolls out new healthcare AI tools in partnership with Epic, Paige.ai, major health systems",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdldES3R5aUEtWUd0V1pXWEhpNG5JWmJ5ZGZIN1E1UTVpTWdHSjU3MlBkUTlOdGZ2WGhfWFVoV0JVQzFOdE9GTUtTSmhUOFp2bUhOTFhlOVB2LUZZRUJyV0JQNkc3SkRIT1g5UVd3RnRaSHFfRTJyajhCekxpN3VrU3kzWFFlQ2xtdDNXMFVqSGJGUDdxTFUybTM5SG1VZDF5UVBvSVVmc3p2WUFZRlpUWWxjMFg4b1h1Z0dndXRhT082OW5nM0tONFpKcw?oc=5",
+    "summary": "Microsoft rolls out new healthcare AI tools in partnership with Epic, Paige.ai, major health systems Fierce Healthcare",
     "status": "unverified"
   }
 ]
