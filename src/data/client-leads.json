@@ -154,17 +154,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-12-03-b7cemm",
-    "date": "2025-12-03",
-    "competitorId": "nabla",
-    "competitorName": "Nabla Copilot",
-    "title": "LCMC Health Selects Nabla to Power Systemwide Ambient AI Implementation",
-    "source": "PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOGg4VmJVcXJIcjd0OHNibDRYZkp0d2ZrdEQ5T0N0eDlGSXBseW1UdVdoYmduNHFCdllzVVhodVFVTGpDN1pSU3hUdmgtdWhPLWVfNG1aUHJqdzhyZENJLVlYQmJpZkZNWjRwZWhVUmo1dE9WWlFiZHpXUTc1dTlEbEJIQU53QTNPbEJib2k4dllEVEN2cXpxZkdKWkYzQ3daTHA0ZlRkcU5tcmwtLW1jOWVyQjhjU0YyV0czOXVMVFZxODhwd2c?oc=5",
-    "summary": "LCMC Health Selects Nabla to Power Systemwide Ambient AI Implementation PR Newswire",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-10-30-1u6vsmm",
     "date": "2025-10-30",
     "competitorId": "suki",
@@ -547,6 +536,17 @@
     "source": "Healthcare Finance News",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWhnNnExUGMwcFJJcWFsdkU1Q2VJVWlGZHpQWml4Tk9tdUNEaEJrVWY4QzNWSlhBYWZBZ3I2N3dGRVl1QkpvOURuN3YzSHlZSFR2VlJ4ME1rZDc0RmJpSDUwZTRWdGRENTRNNXpOaHhMWWQtZ2hYV0ZRRjJqNUNtYmpCSkVMMlFQNXNhN29VRVhpNkJDaDV5Zm00N0k?oc=5",
     "summary": "Tenet to deploy AI platform across its physician network Healthcare Finance News",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-10-25-1uo0tn7",
+    "date": "2024-10-25",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Ambient AI company Suki partners with Zoom on clinical documentation",
+    "source": "Healthcare Brew",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeC1Db1BVb0ZYN0FYYzB4Wno0RFVvUEFkazhHOC0xWWxfb09qV3FaUGNEdGZYX084WUxIVU5ybTdkWjRWY1lFSGVucHdGQ1ZvbUdhcThtQUt0dGtqcFhtcUFHOGFjd1RkalBJTzlzLUJwamk0MUVXbGliTTZCb2gyY0lPM3JORGo1ZDltRFRMc2ZnR2F4SDcyb2JuUnh4ODRvTWtndC1pTW8yRl8tejdtRw?oc=5",
+    "summary": "Ambient AI company Suki partners with Zoom on clinical documentation Healthcare Brew",
     "status": "unverified"
   }
 ]
