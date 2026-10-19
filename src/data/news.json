@@ -11,17 +11,6 @@
     ]
   },
   {
-    "id": "n-2026-10-17-hk26wk",
-    "date": "2026-10-17",
-    "title": "AI Tracker: Sirona Medical secures $40M",
-    "source": "Modern Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0Zsbm5XcmxTU0JuTzczTC1fUF9FVzB3LTJ3X2hLYVRJUFl3ZXB6TEZoMldEOXlkTXBTOVp2amNpLXFVeWlBUUd4X2dZNzlvUnB2LUoybW9LRThOY2pjN18tbnB3S2NieGMwSm9fVVBuZHprWUFrTU50Wk91ZVREV3NDZ1hvQ3RxcW9zeEMxMGs?oc=5",
-    "summary": "AI Tracker: Sirona Medical secures $40M Modern Healthcare",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
     "id": "n-2026-10-16-13rf9pd",
     "date": "2026-10-16",
     "title": "Medical data crunch poses challenges to ambient AI and clinical agents",
@@ -30,6 +19,17 @@
     "summary": "Medical data crunch poses challenges to ambient AI and clinical agents Healthcare IT News",
     "tags": [
       "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-10-16-hk26wk",
+    "date": "2026-10-16",
+    "title": "AI Tracker: Sirona Medical secures $40M",
+    "source": "Modern Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0Zsbm5XcmxTU0JuTzczTC1fUF9FVzB3LTJ3X2hLYVRJUFl3ZXB6TEZoMldEOXlkTXBTOVp2amNpLXFVeWlBUUd4X2dZNzlvUnB2LUoybW9LRThOY2pjN18tbnB3S2NieGMwSm9fVVBuZHprWUFrTU50Wk91ZVREV3NDZ1hvQ3RxcW9zeEMxMGs?oc=5",
+    "summary": "AI Tracker: Sirona Medical secures $40M Modern Healthcare",
+    "tags": [
+      "industry"
     ]
   },
   {
@@ -68,17 +68,6 @@
     ]
   },
   {
-    "id": "n-2026-09-25-qi8ehn",
-    "date": "2026-09-25",
-    "title": "For the record: a narrative review of ambient voice technology in clinical documentation for dentistry and wider healthcare | British Dental Journal",
-    "source": "Nature",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xZlJvSnhWSDRCS3NoTUpjUTh4LWl5MXIzdjJaY0ZDc05TeWduVU1EbDhZRnFBc0FReWVlSWVOaXdqakJfcDVTNmVRTnRTQXk3N0Y0VW5KdUhNWW55YkE?oc=5",
-    "summary": "For the record: a narrative review of ambient voice technology in clinical documentation for dentistry and wider healthcare | British Dental Journal Nature",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
     "id": "n-2026-09-25-1neu0w5",
     "date": "2026-09-25",
     "title": "Abridge Providing Ambient AI as VA Transitions EHRs",
@@ -87,6 +76,17 @@
     "summary": "Abridge Providing Ambient AI as VA Transitions EHRs HCI Innovation Group",
     "tags": [
       "abridge",
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-09-25-qi8ehn",
+    "date": "2026-09-25",
+    "title": "For the record: a narrative review of ambient voice technology in clinical documentation for dentistry and wider healthcare | British Dental Journal",
+    "source": "Nature",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xZlJvSnhWSDRCS3NoTUpjUTh4LWl5MXIzdjJaY0ZDc05TeWduVU1EbDhZRnFBc0FReWVlSWVOaXdqakJfcDVTNmVRTnRTQXk3N0Y0VW5KdUhNWW55YkE?oc=5",
+    "summary": "For the record: a narrative review of ambient voice technology in clinical documentation for dentistry and wider healthcare | British Dental Journal Nature",
+    "tags": [
       "ambient-ai"
     ]
   },
@@ -148,6 +148,18 @@
     ]
   },
   {
+    "id": "n-2026-09-22-8tju1j",
+    "date": "2026-09-22",
+    "title": "Abridge Selected to Bring Ambient AI to Veteran Care Nationwide Through the VA Enterprise Contract",
+    "source": "Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOURKbTJMdll1ZE1OdGFRakhMRFlKZkZaQnR2bGFSdFpGdHg4SndwWV85OFNuQjQxdzlvaVVEcmRTU1BSSU5hX0xnTlZrdFN3NFlMc0thMWF5SVhFWFRCNkxEb01jN19YdGZVVWVUd3JXRjVzQWR1bENSOXRBZGhwbzVoSW54bnR1M1pXbTZXWmVsVWZoRzg5TkZQUmR2T3JVWEp3aHA0TkxzbWVuWU1udllpTzJZTWpuZ3M1NThoRGdDR1E4X2xMM3E2RERnVmRSU09lSGIyVnkyRWhUWl9FdlRpR2xwcGhQb0xn?oc=5",
+    "summary": "Abridge Selected to Bring Ambient AI to Veteran Care Nationwide Through the VA Enterprise Contract Business Wire",
+    "tags": [
+      "abridge",
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-09-22-nw1p1t",
     "date": "2026-09-22",
     "title": "Heidi lands $340M to build 'AI care partner' for clinicians",
@@ -159,15 +171,14 @@
     ]
   },
   {
-    "id": "n-2026-09-22-8tju1j",
+    "id": "n-2026-09-22-1y9ln4f",
     "date": "2026-09-22",
-    "title": "Abridge Selected to Bring Ambient AI to Veteran Care Nationwide Through the VA Enterprise Contract",
-    "source": "Business Wire",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOURKbTJMdll1ZE1OdGFRakhMRFlKZkZaQnR2bGFSdFpGdHg4SndwWV85OFNuQjQxdzlvaVVEcmRTU1BSSU5hX0xnTlZrdFN3NFlMc0thMWF5SVhFWFRCNkxEb01jN19YdGZVVWVUd3JXRjVzQWR1bENSOXRBZGhwbzVoSW54bnR1M1pXbTZXWmVsVWZoRzg5TkZQUmR2T3JVWEp3aHA0TkxzbWVuWU1udllpTzJZTWpuZ3M1NThoRGdDR1E4X2xMM3E2RERnVmRSU09lSGIyVnkyRWhUWl9FdlRpR2xwcGhQb0xn?oc=5",
-    "summary": "Abridge Selected to Bring Ambient AI to Veteran Care Nationwide Through the VA Enterprise Contract Business Wire",
+    "title": "VA deploys Abridge's AI scribing tool amid EHR modernization",
+    "source": "TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGhmNk1jNGxWdDU5TTZiemhiOFRNTFRJSGhyTl9LWGFOTkFMV2RNV0RqM2E4QnZqd3RUVjFhXzB4N3RfczlCRDFmSVNJSTNnaE5sNGMtUV9KQlhxVE9pdGo5aDdoVUd4SFNPYTI3OE1GTktUU1daMXZhQ1RXWTJyVmxsbU82djU2d3V5RVJuckFyS05SdHZMYjFLTFpvUUdOOGhtZ3ZrdmMzRGhidW1BNG9pWkZKQTQ?oc=5",
+    "summary": "VA deploys Abridge's AI scribing tool amid EHR modernization TechTarget",
     "tags": [
-      "abridge",
-      "ambient-ai"
+      "abridge"
     ]
   },
   {
@@ -259,17 +270,6 @@
     ]
   },
   {
-    "id": "n-2026-09-08-1s2mirl",
-    "date": "2026-09-08",
-    "title": "Measuring AI's value for nurses, beyond faster charting",
-    "source": "Healthcare IT News",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2VYbnFrdTZhS0tCUWRqTDFXZlhLNGJlYlhHUC0zNzdxaDFDMVBZX1EzSHYxMVpIcUNhMDA3N0lDR3dzdjlBX1VHQkNhS0xiMFZpWDhvbHdqNmEwYTFNRzFFWmtWOGF3WjRzdG8xQ2lmTWdaUTlSck8xaDAybFJRR1pmSHdkSEpKYWNFUjc2SzU?oc=5",
-    "summary": "Measuring AI's value for nurses, beyond faster charting Healthcare IT News",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
     "id": "n-2026-09-08-1u0ujgx",
     "date": "2026-09-08",
     "title": "After success with physicians, Mount Sinai Medical Center expands ambient AI to nurses",
@@ -278,6 +278,17 @@
     "summary": "After success with physicians, Mount Sinai Medical Center expands ambient AI to nurses TechTarget",
     "tags": [
       "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-09-08-1s2mirl",
+    "date": "2026-09-08",
+    "title": "Measuring AI's value for nurses, beyond faster charting",
+    "source": "Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2VYbnFrdTZhS0tCUWRqTDFXZlhLNGJlYlhHUC0zNzdxaDFDMVBZX1EzSHYxMVpIcUNhMDA3N0lDR3dzdjlBX1VHQkNhS0xiMFZpWDhvbHdqNmEwYTFNRzFFWmtWOGF3WjRzdG8xQ2lmTWdaUTlSck8xaDAybFJRR1pmSHdkSEpKYWNFUjc2SzU?oc=5",
+    "summary": "Measuring AI's value for nurses, beyond faster charting Healthcare IT News",
+    "tags": [
+      "industry"
     ]
   },
   {
@@ -322,17 +333,6 @@
     "summary": "What belongs in the medical record in the AI era? Healthcare IT News",
     "tags": [
       "industry"
-    ]
-  },
-  {
-    "id": "n-2026-08-28-1lcte8p",
-    "date": "2026-08-28",
-    "title": "Private Indian hospital takes platform-first approach to ambient AI",
-    "source": "Healthcare IT News",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeUdLa1RnY1gzaDBmY0xpdWpWOVNRQzNjYTQxLXd2V3FybGF1SFVRYm1yLXdUcUZfeTVPQklrZTNjM1RCSVhnZHBhOTAyaFMxbmI3dnNEYzNkdkNZZUFUeU1INXg3a1RZbllrN1c1NENIaU9JWFlTSUZOMEtTRmpySHZuQlN3UWY1UTI4SHZObjRVd0VERGEzYXF0ZERwWDE5SjhrM3h5LTI5ZTQ?oc=5",
-    "summary": "Private Indian hospital takes platform-first approach to ambient AI Healthcare IT News",
-    "tags": [
-      "ambient-ai"
     ]
   }
 ]
