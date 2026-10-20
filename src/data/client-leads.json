@@ -154,6 +154,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-11-09-1ndk917",
+    "date": "2025-11-09",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "DRH Health expanding AI technology into clinical documentation",
+    "source": "Healthcare Finance News",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPanlGM01NVTdGMWtTRXdQeVhvbExPS3duWVlUd09NcVAxRkZmZDlia2RnZlRVWlQwTVBPT1Qtd0lMd3FTTllXZUtCQl9walhHdnRiZG1EUnRpaWZSTW90MlI3MVBvYVEteUlFNDRLQkt6NHNoSktqbXVXYjVvcWJBRFNHOW5xaGI0akhCZWotUjhUUVVRcUlmVGdJSUhySExJRWc?oc=5",
+    "summary": "DRH Health expanding AI technology into clinical documentation Healthcare Finance News",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-10-30-1u6vsmm",
     "date": "2025-10-30",
     "competitorId": "suki",
@@ -173,17 +184,6 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ0Uzb0c4UzFLU2xjOUlVT1F0cDZKRXo5Um5wVDRaZlZxSm1OY09FWmJ6RjFKZUVWSFNuZVgwMGx5ckNWUEtrbjZYZVRySHVRVzQwTmxRMUZMM1JFNEZQTU9qMUx5RlA1NjBRV3AybUdiM3V5cFk3UFpYRDh4S2hwRGxaa0VwUG9VVGtyWEJLQkpDZVNmQWFYOC1wWWdEUzM0TVcyRUtscWFRMVAyMFJ6aE03YWsxaV9pVnF4cU9xVGRjbGhPQXBIak8wNGQ?oc=5",
     "summary": "Microsoft debuts Dragon Copilot AI clinical assistant for nurses, expands access to 3rd-party apps, agents Fierce Healthcare",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2025-10-09-1flmyfx",
-    "date": "2025-10-09",
-    "competitorId": "nabla",
-    "competitorName": "Nabla Copilot",
-    "title": "30+ Provider Groups Adopt Nabla's Ambient AI Through the athenahealth Marketplace in First Year",
-    "source": "PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNGlQcVdaR1NsamN2XzRMekZiU21IYjZHOWhNVVM5UWN6RzFhMWVaaWhzbjRhS0ZINTVFY1h6T2VTeV91b05GOElxTzZSRU4waWQwWXFXc2E3a0kyRDFqc0NINU9BZzdHLVFjemJYakZfZEFhdU8tTEJ3cWZ4cUo2Mm9NVHVMaXRqLVZXRXRrU1p0cHdrNDAtWjUzdG9lN1hLbzRrOEJ0Y2IxYXFhbkhIVi02NThQcXVRQXVMYkpOVHNQSU5UY3FKbEJpS190QlJlcHc1ckduQXREeWxzT0t4dWNoVQ?oc=5",
-    "summary": "30+ Provider Groups Adopt Nabla's Ambient AI Through the athenahealth Marketplace in First Year PR Newswire",
     "status": "unverified"
   },
   {
@@ -275,17 +275,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-06-10-5isnwp",
-    "date": "2025-06-10",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "Mayo Clinic partners, invests in Clearwater AI healthtech company",
-    "source": "The Business Journals",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON0MxalVtVVFybDJ5LTJyNUxDX3RDZUxqajVfUEFmZ2x5SjljSGlkcU9tYjd1TlR5Uk9zVU1QdHp1c1dWQUNVLU52TERzdXlYX1FYb2RzaDE1b25pNV9SdXlwMlR2cjZ3N2J4dTY2MHp4eHR2WU5Ha1RIRWFQUlFaVFdISVBvWXNjMzhSYjhOVjJuZVBtOGszRUR3?oc=5",
-    "summary": "Mayo Clinic partners, invests in Clearwater AI healthtech company The Business Journals",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-05-28-zobe2j",
     "date": "2025-05-28",
     "competitorId": "epic-native",
@@ -330,17 +319,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-03-13-pv7fr3",
-    "date": "2025-03-13",
-    "competitorId": "nabla",
-    "competitorName": "Nabla Copilot",
-    "title": "Women's Health Pioneer Tia Rolls Out Nabla's AI Assistant To Enhance the Patient-Provider Relationship",
-    "source": "PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQa1pJYnFXLWtPTl8waU9QcXZuY01PckVaU0tfSDFUZjljcnRvV1dLaHdoZGFyNHdmbVU1dkFSeWFqQ0RKUFJKSzhqWDZNR0dsblNsakpVMHlMb0N2MlpkV2RKeFhJOElfejZ5eFVwcDlpVUx3eGJWYnIxMk1rajlVQjRpNE1ZZUtJb0hrbE1mRUV4NkR1aEpXalhvN3RMWnJNcW1yVzRPNWp1YUVsT3VXazBIajc2NGptU2NyOGhRM2xEMEZHUHhJUjhyMjRTQ3FkelpLZUp3X0R1a1dmRXo2R2trWDA3MFNQX3cweQ?oc=5",
-    "summary": "Women's Health Pioneer Tia Rolls Out Nabla's AI Assistant To Enhance the Patient-Provider Relationship PR Newswire",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-03-13-41pyq3",
     "date": "2025-03-13",
     "competitorId": "nabla",
@@ -349,6 +327,17 @@
     "source": "Femtech Insider",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU21KZ1JoNFJ0V2J5dFBRMUxENWdWSDNYVHlhS2JHNmVYZVVoemhTa3k1S1NYdzRvYWkwUjNxNngyUFhibTk2amVvZGZRalBxbXpHcVBDb1pUaUFscUZ2WXgwZVl5TTQ4Nlk5NzlwZlpCVWtZenhueXNpSWxVV3hGOWJ4b3hVdk1xYlY0bXo5QXNhVWZKa1lONmRMQzhPVkVDemdKTWx0MjdDTHFXbzdmdEVIalJlMXlr?oc=5",
     "summary": "Tia Implements Nabla’s Clinical AI Assistant Across All Clinics Following Successful Pilot Femtech Insider",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-03-13-pv7fr3",
+    "date": "2025-03-13",
+    "competitorId": "nabla",
+    "competitorName": "Nabla Copilot",
+    "title": "Women's Health Pioneer Tia Rolls Out Nabla's AI Assistant To Enhance the Patient-Provider Relationship",
+    "source": "PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQa1pJYnFXLWtPTl8waU9QcXZuY01PckVaU0tfSDFUZjljcnRvV1dLaHdoZGFyNHdmbVU1dkFSeWFqQ0RKUFJKSzhqWDZNR0dsblNsakpVMHlMb0N2MlpkV2RKeFhJOElfejZ5eFVwcDlpVUx3eGJWYnIxMk1rajlVQjRpNE1ZZUtJb0hrbE1mRUV4NkR1aEpXalhvN3RMWnJNcW1yVzRPNWp1YUVsT3VXazBIajc2NGptU2NyOGhRM2xEMEZHUHhJUjhyMjRTQ3FkelpLZUp3X0R1a1dmRXo2R2trWDA3MFNQX3cweQ?oc=5",
+    "summary": "Women's Health Pioneer Tia Rolls Out Nabla's AI Assistant To Enhance the Patient-Provider Relationship PR Newswire",
     "status": "unverified"
   },
   {
@@ -393,17 +382,6 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ1M5Z0M2V0FybXlEQi1BMDEwdkpKSEcwSHNPdTVNRmM3MWNPRUdabnhXeEdNQkxyZGowNkh5T1pTVVRhRy1MNEhfeFdyZTgyeHN0SUh5Zkt0TDZLV1FnTGNLTTZPN1VtTVBtcm1mSnRLTWxoT2lTMkRCemFUUFRQWjdhcnFTaXFEaHMzMHpFT1JVd3k4bFN1djQ1VXhaUW1odFE?oc=5",
     "summary": "ViVE 2025: Cleveland Clinic rolls out Ambience's AI for doctors after testing scribe technologies Fierce Healthcare",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2025-02-13-sny6i0",
-    "date": "2025-02-13",
-    "competitorId": "nabla",
-    "competitorName": "Nabla Copilot",
-    "title": "Nabla Expands AI Offering with Dictation to Further Streamline Clinical Workflows",
-    "source": "PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSFF2bXhqRUROSENwVGd0OW9BdFdfa3VFazNocHJPbllfaV95Vm9OcnpRVm41Uk82cXpYYXZOcGFJSngzX1ZWS3dpVG15d2JjbkpYOGtrU3lfVGU1ODhOYnVoaGZBTERpQ0VHUzRMeEJsSVEwY09NTG9WOEo0cm1UcnhhUk5pUjIyYXlHWkltdmFycE5mci1FSWpWNlUwbUlnTUhmRU5iZGR4ZzR6VVN6MFBVd2o0Si1nMlJxanNyR3BtS1BnVEhpSF9ibHBtel9qajZV?oc=5",
-    "summary": "Nabla Expands AI Offering with Dictation to Further Streamline Clinical Workflows PR Newswire",
     "status": "unverified"
   },
   {
@@ -547,6 +525,28 @@
     "source": "Healthcare Brew",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeC1Db1BVb0ZYN0FYYzB4Wno0RFVvUEFkazhHOC0xWWxfb09qV3FaUGNEdGZYX084WUxIVU5ybTdkWjRWY1lFSGVucHdGQ1ZvbUdhcThtQUt0dGtqcFhtcUFHOGFjd1RkalBJTzlzLUJwamk0MUVXbGliTTZCb2gyY0lPM3JORGo1ZDltRFRMc2ZnR2F4SDcyb2JuUnh4ODRvTWtndC1pTW8yRl8tejdtRw?oc=5",
     "summary": "Ambient AI company Suki partners with Zoom on clinical documentation Healthcare Brew",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-10-24-xgb8qo",
+    "date": "2024-10-24",
+    "competitorId": "suki",
+    "competitorName": "Suki Assistant",
+    "title": "Zoom, Suki partner to deploy AI clinical documentation",
+    "source": "Healthcare Dive",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN2V6VDF3QmRnSlV2Y25qX1RFMDVIV01QczM2M1o3bEpTZVZmV21Pc3M0VmhKZjhFUk92MGUxcTc1R3lpSTR5NnlsbjF2U1JZOHphcE9qWFk2OUNFNFlWLU41emJZdjJLQmd6Nmt2a2NiVWNKSzBKZHNWZHdPMVNtSXUwYWtUVXRfN3c?oc=5",
+    "summary": "Zoom, Suki partner to deploy AI clinical documentation Healthcare Dive",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-10-23-1jqqib3",
+    "date": "2024-10-23",
+    "competitorId": "suki",
+    "competitorName": "Suki Assistant",
+    "title": "Zoom, Suki partner to generate AI features and more digital health news",
+    "source": "MobiHealthNews",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcmFaR2NNQnBaT1k3S3hMTUdKWmNQQWJYNXlpWF94Y0hMaXBCNEk4TmZxZnY4V252MTlSN3g5NU44SHRkMHkxR01vdGJoaGNfS3Z3dURYaTNmM0pVOU02MzlERWQxQ2oyTkZhTzc1Vklhc0NTb2JuTjFZbnY0NGl5RHRnUXlSVGRkQTBfQmJJNnAtOTJBWDN5TkxWQkhacE56cXZuVGJn?oc=5",
+    "summary": "Zoom, Suki partner to generate AI features and more digital health news MobiHealthNews",
     "status": "unverified"
   }
 ]
