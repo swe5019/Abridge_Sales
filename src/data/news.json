@@ -3,9 +3,9 @@
     "id": "n-2026-10-17-yrfkyp",
     "date": "2026-10-17",
     "title": "The rise of conversational AI in healthcare",
-    "source": "Amazon Web Services (AWS)",
+    "source": "Amazon Web Services",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVy0yRU54N25GS01PLWZlb3lVY3QtYlJvODdrai1YbWlvNkZLU3BfdHliczVzcDRVeVZuU29ZZDZKYUNzN3VtNkpDZjVwRVpNRktvOEJ3aFJTRllQZWdYRWlRUXpIZ1hfLUNsTFBTQ1JDM3l6VWtFcUphV1luU01POVplWi15V2UyNjBEVXA5QQ?oc=5",
-    "summary": "The rise of conversational AI in healthcare Amazon Web Services (AWS)",
+    "summary": "The rise of conversational AI in healthcare Amazon Web Services",
     "tags": [
       "industry"
     ]
@@ -19,17 +19,6 @@
     "summary": "Medical data crunch poses challenges to ambient AI and clinical agents Healthcare IT News",
     "tags": [
       "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-10-16-hk26wk",
-    "date": "2026-10-16",
-    "title": "AI Tracker: Sirona Medical secures $40M",
-    "source": "Modern Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0Zsbm5XcmxTU0JuTzczTC1fUF9FVzB3LTJ3X2hLYVRJUFl3ZXB6TEZoMldEOXlkTXBTOVp2amNpLXFVeWlBUUd4X2dZNzlvUnB2LUoybW9LRThOY2pjN18tbnB3S2NieGMwSm9fVVBuZHprWUFrTU50Wk91ZVREV3NDZ1hvQ3RxcW9zeEMxMGs?oc=5",
-    "summary": "AI Tracker: Sirona Medical secures $40M Modern Healthcare",
-    "tags": [
-      "industry"
     ]
   },
   {
@@ -331,6 +320,17 @@
     "source": "Technology Org",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVGttQ2c0VVV3Y2xYTENaZ3lwc0hxbHY0NnJiWUFHZXRiNnZIYmc4NDFVNFZ0dnVuM2Jwd1V2WV9PSDhRT0MzcXRiMzhuOU5UeS1CbVAzVVhXdkx0d2FrODNrN2tpZ1dvdGN1UXRzbHduTFlMbERsVFpBMkJoZlhfLV9yN1Zqams4eHp3cWJaSXZjR2huZlVJMWItRzZGQ1BEcmd0TTJmclhDX2c2V0ZVWjdIVWpoalBiN0Q3QmlMT1RzOW1OcnpxdnlUWQ?oc=5",
     "summary": "Ambient AI Documentation Is Leaving the Exam Room, and the Medical Record Is Changing With It Technology Org",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-09-05-1h3lxs3",
+    "date": "2026-09-05",
+    "title": "Deconstructing the Ambient Clinical Documentation Paradigm: Sociotechnical Realities, Epistemic Shifts and Systemic Implementation in Healthcare",
+    "source": "https://www.healthcare.digital/",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZXFPRDlmWnQ1c2JZYUlGUWRKdmZ2MzZEME5ZOWZXY2Q4YjVoN2xkTGpvNlA0T2lYdERHU3R1dEU0cEdHUTdubU5uMmNZVXppX0kwdWNtNXFPUmx5ZEl5OGlzeXR6MnFNNFc5WHhsUHF4S3o1SDFlc29qcnktUkh2NXU0NHVuQ2dWaHB4VktQMVZ3NHl1cW5Pc0Rqa0RiSDFqd1pnM3BQMXZOSzRHWW0wY1lQZmItMUlJQ19FNm9jaEQ4bTJaN01ueVZzZkVGOFRPM0tob05FcGU?oc=5",
+    "summary": "Deconstructing the Ambient Clinical Documentation Paradigm: Sociotechnical Realities, Epistemic Shifts and Systemic Implementation in Healthcare https://www.healthcare.digital/",
     "tags": [
       "ambient-ai"
     ]
