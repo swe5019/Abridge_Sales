@@ -25,9 +25,9 @@
     "id": "n-2026-10-17-yrfkyp",
     "date": "2026-10-17",
     "title": "The rise of conversational AI in healthcare",
-    "source": "Amazon Web Services",
+    "source": "Amazon Web Services (AWS)",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVy0yRU54N25GS01PLWZlb3lVY3QtYlJvODdrai1YbWlvNkZLU3BfdHliczVzcDRVeVZuU29ZZDZKYUNzN3VtNkpDZjVwRVpNRktvOEJ3aFJTRllQZWdYRWlRUXpIZ1hfLUNsTFBTQ1JDM3l6VWtFcUphV1luU01POVplWi15V2UyNjBEVXA5QQ?oc=5",
-    "summary": "The rise of conversational AI in healthcare Amazon Web Services",
+    "summary": "The rise of conversational AI in healthcare Amazon Web Services (AWS)",
     "tags": [
       "industry"
     ]
@@ -290,6 +290,17 @@
     ]
   },
   {
+    "id": "n-2026-09-05-ptzxi7",
+    "date": "2026-09-05",
+    "title": "Patient Attitudes Towards Ambient Artificial Intelligence in Clinical Consultations",
+    "source": "The Cureus Journal of Medical Science",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNREg5cS04OHJzOV9CRmdDNTVyYjZtWkVjcU9Helh1U09QSE1FTkpRZHRqRzBuVGc0WlE5N0duNmpVSmpJay1Kdm04UnZnVTNfaDZmVmlpUy1yY0stNWZxQXhwT3p2VHBZUkxtajR5Um1TZUVodW9tSEdzTEtfTjZLeWQtaDRONGVXQUNXd3Uza1VsYXNBTFJCZDJkZnV0a1RtTkN1MkV1dEF6c2RDckFtTWlqUlo2TXAtOUM0bWk1WQ?oc=5",
+    "summary": "Patient Attitudes Towards Ambient Artificial Intelligence in Clinical Consultations The Cureus Journal of Medical Science",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-09-05-1h3lxs3",
     "date": "2026-09-05",
     "title": "Deconstructing the Ambient Clinical Documentation Paradigm: Sociotechnical Realities, Epistemic Shifts and Systemic Implementation in Healthcare",
@@ -320,17 +331,6 @@
     "summary": "Beyond productivity: a NASSS-informed review of implementation risks and research priorities for ambient AI scribes in healthcare (3 September 2026) Patient Safety Learning - the hub",
     "tags": [
       "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-09-02-1vzkgrz",
-    "date": "2026-09-02",
-    "title": "Build the AI audit trail now, before anyone asks for it",
-    "source": "Healthcare IT News",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNURleUMtN2NuSkxlTlVMcGJkMklSeG1pSS1naTBVbVV6OGZrR1l2bGlNemxwY3QyaW9LRks2d3phOXBnV25hOTEtcHNNck9KOF9vYXpKXzdlMmpEd0xmZjJhbmdLRmpPaEFDVk5JT2h3aGoxaGlfakhmUm9nUElKMG91NA?oc=5",
-    "summary": "Build the AI audit trail now, before anyone asks for it Healthcare IT News",
-    "tags": [
-      "industry"
     ]
   }
 ]
