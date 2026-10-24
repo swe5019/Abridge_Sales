@@ -187,17 +187,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-10-09-1flmyfx",
-    "date": "2025-10-09",
-    "competitorId": "nabla",
-    "competitorName": "Nabla Copilot",
-    "title": "30+ Provider Groups Adopt Nabla's Ambient AI Through the athenahealth Marketplace in First Year",
-    "source": "PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNGlQcVdaR1NsamN2XzRMekZiU21IYjZHOWhNVVM5UWN6RzFhMWVaaWhzbjRhS0ZINTVFY1h6T2VTeV91b05GOElxTzZSRU4waWQwWXFXc2E3a0kyRDFqc0NINU9BZzdHLVFjemJYakZfZEFhdU8tTEJ3cWZ4cUo2Mm9NVHVMaXRqLVZXRXRrU1p0cHdrNDAtWjUzdG9lN1hLbzRrOEJ0Y2IxYXFhbkhIVi02NThQcXVRQXVMYkpOVHNQSU5UY3FKbEJpS190QlJlcHc1ckduQXREeWxzT0t4dWNoVQ?oc=5",
-    "summary": "30+ Provider Groups Adopt Nabla's Ambient AI Through the athenahealth Marketplace in First Year PR Newswire",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-09-11-2wwyb4",
     "date": "2025-09-11",
     "competitorId": "epic-native",
@@ -272,6 +261,17 @@
     "source": "PR Newswire",
     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUXFCUlJoSTl5ZlUtbVlTSlhiWmpXYWV3UnhTTURkVkpEbWUydEFrQUtaWU9uVjJSeHpnVXBtU1dhSk9lUXVmVGNwM1lITE1NV1h2ZlprLVZTMUVIOXQwWXZrZkVBR3Y3RTZpYVZxb0tUb3RNSEwtV29KNlVEV2Y4RHpwSG5ScDY0WXIycVhLQ0d3VV9hSmQ3eEEyVTdFX2tDUUJkRDFJQV9iTkxpOTFYNTZkTWI2Yjl4UDJoVUZ4OF9hSmg3ZTJHb2NHT1BaMV9tbXUteG9zc01keUUwNUIwbTZMOWRkbU5zdFFJNFJPSTY0dlFFQW9DLWx4ZUhGT3ViSE9qYzc2ZjBPVWNz?oc=5",
     "summary": "Nabla and Navina Announce Strategic Partnership to Supercharge Clinician Workflows with Clinical Intelligence and Ambient AI PR Newswire",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-07-01-vtg5fi",
+    "date": "2025-07-01",
+    "competitorId": "suki",
+    "competitorName": "Suki Assistant",
+    "title": "Suki expands integration with Meditech's EHR platform",
+    "source": "MobiHealthNews",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObV9NSVFqeWM1cDdEVy0yM0lSQVFGcU12OHM2RHlSN3lScUVMWVphWmRMY0hRd1pDUDlzbHg0TEZCTFQ4VE9oVDVPcE01MUZORjM1Yk9XYklzcWwxQldiTnlzZEYzSzJ6SWZUQlBrbWl5MDR3NVN3bEUtOF9zUzJWelRwY1JxcmpLZExn?oc=5",
+    "summary": "Suki expands integration with Meditech's EHR platform MobiHealthNews",
     "status": "unverified"
   },
   {
@@ -385,6 +385,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-02-27-9a4v08",
+    "date": "2025-02-27",
+    "competitorId": "suki",
+    "competitorName": "Suki Assistant",
+    "title": "Athenahealth rolls out Abridge AI scribe to community practices, hospitals",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWllHUERsUXBvMkk0Qlk1NU5FWE5WaFdFZFF4blJYcks1T3hIV1lDY2cxbDZhQ3F0WXVEdm1BWkhYM3Z1Q0RKbFpKVHFGOF92WnFrdnBYOVRNUG5QemlZTzcwT3VNUGNMbllzWTFqcDY4NVBBNUx6R1cySDJXa0VVUm05dFdpQV9qMTNrOWtIVzdLOV83M2paT2JWQkVOWGR3OHMtSUY3RQ?oc=5",
+    "summary": "Athenahealth rolls out Abridge AI scribe to community practices, hospitals Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-02-19-18tk9lu",
     "date": "2025-02-19",
     "competitorId": "ambience",
@@ -473,6 +484,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2024-12-18-bzev5s",
+    "date": "2024-12-18",
+    "competitorId": "suki",
+    "competitorName": "Suki Assistant",
+    "title": "Suki partners with Google Cloud to enhance AI-enabled voice tool",
+    "source": "MobiHealthNews",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdkFkeTNtMkJfSHVnWjdHb3ZzOG04cmNoVWxrNjhIdWRzWXVXbWZEbHV5SEh4Q1JhR3ZBVWxiSU5scDdpN0o2LUp3NU12SHQ3blU2M20xbi1HZ1FCU1hwb3AyRXlHZ2RmaWVta0ZlZHgzcGJIQlZYc0JfVjJYSmRjd3lpSUlTeWh1TWpfRVktQWxHSWIxUWRz?oc=5",
+    "summary": "Suki partners with Google Cloud to enhance AI-enabled voice tool MobiHealthNews",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2024-11-22-sn43az",
     "date": "2024-11-22",
     "competitorId": "augmedix-commure",
@@ -525,28 +547,6 @@
     "source": "Healthcare Brew",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeC1Db1BVb0ZYN0FYYzB4Wno0RFVvUEFkazhHOC0xWWxfb09qV3FaUGNEdGZYX084WUxIVU5ybTdkWjRWY1lFSGVucHdGQ1ZvbUdhcThtQUt0dGtqcFhtcUFHOGFjd1RkalBJTzlzLUJwamk0MUVXbGliTTZCb2gyY0lPM3JORGo1ZDltRFRMc2ZnR2F4SDcyb2JuUnh4ODRvTWtndC1pTW8yRl8tejdtRw?oc=5",
     "summary": "Ambient AI company Suki partners with Zoom on clinical documentation Healthcare Brew",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2024-10-24-xgb8qo",
-    "date": "2024-10-24",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
-    "title": "Zoom, Suki partner to deploy AI clinical documentation",
-    "source": "Healthcare Dive",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN2V6VDF3QmRnSlV2Y25qX1RFMDVIV01QczM2M1o3bEpTZVZmV21Pc3M0VmhKZjhFUk92MGUxcTc1R3lpSTR5NnlsbjF2U1JZOHphcE9qWFk2OUNFNFlWLU41emJZdjJLQmd6Nmt2a2NiVWNKSzBKZHNWZHdPMVNtSXUwYWtUVXRfN3c?oc=5",
-    "summary": "Zoom, Suki partner to deploy AI clinical documentation Healthcare Dive",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2024-10-16-1kwv9lb",
-    "date": "2024-10-16",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "Microsoft rolls out new healthcare AI tools in partnership with Epic, Paige.ai, major health systems",
-    "source": "Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdldES3R5aUEtWUd0V1pXWEhpNG5JWmJ5ZGZIN1E1UTVpTWdHSjU3MlBkUTlOdGZ2WGhfWFVoV0JVQzFOdE9GTUtTSmhUOFp2bUhOTFhlOVB2LUZZRUJyV0JQNkc3SkRIT1g5UVd3RnRaSHFfRTJyajhCekxpN3VrU3kzWFFlQ2xtdDNXMFVqSGJGUDdxTFUybTM5SG1VZDF5UVBvSVVmc3p2WUFZRlpUWWxjMFg4b1h1Z0dndXRhT082OW5nM0tONFpKcw?oc=5",
-    "summary": "Microsoft rolls out new healthcare AI tools in partnership with Epic, Paige.ai, major health systems Fierce Healthcare",
     "status": "unverified"
   }
 ]
