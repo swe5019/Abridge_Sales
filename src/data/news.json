@@ -46,18 +46,6 @@
     ]
   },
   {
-    "id": "n-2026-08-11-1krfpwg",
-    "date": "2026-08-11",
-    "title": "Accelerating ambient AI scribe enterprise-scale deployment: Cleveland Clinic’s novel approach to health system-industry partnership",
-    "source": "Nature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tNVpJNlFpU2U1MDBwU2ZhaFhUMVl6VnFMZ3dvQXlwSmFKZ1oxTzZMVjkxMzBDSl9vczVBMnJXWW52d1NkdlZ5bzBGN1RzVFQ5TlJJVFRLNkNEeUlOTDRV?oc=5",
-    "summary": "Accelerating ambient AI scribe enterprise-scale deployment: Cleveland Clinic’s novel approach to health system-industry partnership Nature",
-    "tags": [
-      "ambient-ai",
-      "market-trend"
-    ]
-  },
-  {
     "id": "n-2026-06-25-zlc3xc",
     "date": "2026-06-25",
     "title": "Sevocity Partners with Suki to Reduce Documentation Time by 76% and Tackle Clinician Burnout",
@@ -332,6 +320,17 @@
     "source": "American Academy Of Family Physicians | AAFP",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMFJGVVRKcU13azYyOTdlWGZQZzBNaldKYk9Bc0Z2UXhRZlljWGJsVHAxZk5icFEza0Itc2dWWDZoMjdRNkROQTFrWUVNaTFqZmUzN08wdjM3amJKQWtBTE8wNXp6WkRZNjBQOGJXYTJsZjk0N3J2cXdBTzZxUTl1YjhmWUw4NHlQdDl3cU4ydWIyYTl1NFhJX1FWZWRpTjlyQVhuX0JtaVY?oc=5",
     "summary": "How ambient AI scribes are transforming EHR documentation American Academy Of Family Physicians | AAFP",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2025-11-26-e6rn0q",
+    "date": "2025-11-26",
+    "title": "UCLA study finds AI scribes may reduce documentation time and improve physician well-being",
+    "source": "UCLA Health",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY0tYYTJQb3Q5cF9mQzZ6NGphUzVIU2tLbU1QZGxPbEJrekFHNFhzSk5QMkM0S0x3bzhvZlN3dmhFSkM0MlNGbVR5anpNTkVsdVJ1NHBOVFZoclJiclV1MlRkMUREbmJneDJIeThHZnQwT1RlUlpXRk5Zajl6Q2JScVVPaXc3QkJSOFR3OTBHQzY4V1pPWFRldEtVWkpyUQ?oc=5",
+    "summary": "UCLA study finds AI scribes may reduce documentation time and improve physician well-being UCLA Health",
     "tags": [
       "ambient-ai"
     ]
