@@ -55,28 +55,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2026-08-19-12lzat6",
-    "date": "2026-08-19",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
-    "title": "Ambience Healthcare Launches The Ambience Standard, Linking AI Platform Fees Directly to Measurable Clinical and Financial Outcomes",
-    "source": "HIT Consultant",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbC1RQTVyVE1jYkRwcnFxRHdzWGhUWVRxV0gzNHNKR2pabmRqanhFQ1RYWTBSOVpDVllBRFczOEVjZUdubnVTbGtRRTV0NlBWbnBRMXM4VWNhLTlsV2lsRmdReHpBYTFtRzJUai1WWm5qczFmRl9TT19LWEJKUGZYZnFWZldhWGkyaGxDQTFGbW1ueWlka18xSng0OG02ZTNGY1dUVFBScm1wWEE?oc=5",
-    "summary": "Ambience Healthcare Launches The Ambience Standard, Linking AI Platform Fees Directly to Measurable Clinical and Financial Outcomes HIT Consultant",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2026-08-11-1krfpwg",
-    "date": "2026-08-11",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
-    "title": "Accelerating ambient AI scribe enterprise-scale deployment: Cleveland Clinic’s novel approach to health system-industry partnership",
-    "source": "Nature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tNVpJNlFpU2U1MDBwU2ZhaFhUMVl6VnFMZ3dvQXlwSmFKZ1oxTzZMVjkxMzBDSl9vczVBMnJXWW52d1NkdlZ5bzBGN1RzVFQ5TlJJVFRLNkNEeUlOTDRV?oc=5",
-    "summary": "Accelerating ambient AI scribe enterprise-scale deployment: Cleveland Clinic’s novel approach to health system-industry partnership Nature",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2026-07-28-172bkcc",
     "date": "2026-07-28",
     "competitorId": "epic-native",
@@ -440,17 +418,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-02-13-sny6i0",
-    "date": "2025-02-13",
-    "competitorId": "nabla",
-    "competitorName": "Nabla Copilot",
-    "title": "Nabla Expands AI Offering with Dictation to Further Streamline Clinical Workflows",
-    "source": "PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSFF2bXhqRUROSENwVGd0OW9BdFdfa3VFazNocHJPbllfaV95Vm9OcnpRVm41Uk82cXpYYXZOcGFJSngzX1ZWS3dpVG15d2JjbkpYOGtrU3lfVGU1ODhOYnVoaGZBTERpQ0VHUzRMeEJsSVEwY09NTG9WOEo0cm1UcnhhUk5pUjIyYXlHWkltdmFycE5mci1FSWpWNlUwbUlnTUhmRU5iZGR4ZzR6VVN6MFBVd2o0Si1nMlJxanNyR3BtS1BnVEhpSF9ibHBtel9qajZV?oc=5",
-    "summary": "Nabla Expands AI Offering with Dictation to Further Streamline Clinical Workflows PR Newswire",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-02-04-12j5wiz",
     "date": "2025-02-04",
     "competitorId": "augmedix-commure",
@@ -547,6 +514,39 @@
     "source": "Healthcare Dive",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTl9oZVA4QzFCbUFPcnh4dWxpY2syU0lQYlVoSHFrcUhtWmFzRWc4VHJ4QjZVOThqaGtCQmNPZVpfZ1dwQTNvdjIzWFNJN0RSbXJ1WDFWYVpwUzRSNld1MzFWd1Y3T3JrYTlSNWtfV0lsclRXb0NnNTN1YzExWWZ4OHN2Y2J6SzJhOHlFSVpCcEJibUFmcW5SUg?oc=5",
     "summary": "Tenet to deploy Commure’s AI scribe at physician network Healthcare Dive",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-11-21-eioqo8",
+    "date": "2024-11-21",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "Commure rolls out AI scribe for Tenet Healthcare after yearlong customized build",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0h5Y0V4MTFnZkJUU0RoNmptSEtmLWgyRFo3TTVXdVQ3VmRSa2FJUDdYWG9DQlNYOFlnSXZicmszZVJUUDBaQm1kVlpVR3RhQ0t4cmMxSVdtc05mZllKMllXSVZaekJjRy01aTM5Vzc4dWtoNGdQbkxET1R1a0d0N3hraE5zTm41RENHdC12UkNSNGppUHlRV3lndE5IMmVBU2xybm83U3Q4OURDcEVNWkh5amtZWkZVQ0JHNHlzU3lzX2l4TkF3?oc=5",
+    "summary": "Commure rolls out AI scribe for Tenet Healthcare after yearlong customized build Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-11-19-1050jl1",
+    "date": "2024-11-19",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "Tenet Health And Commure Announce Landmark Partnership To Deploy Ambient AI Platform",
+    "source": "Forbes",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOUsxTHZaZEpoZGVFYnpZUFhOdjdDUk42Zl96d3BIcWdXQ0hmVm5rczR0WC1pOUw0NFpaN2VHVXJ2cUxjRGN4a2RyV2ExZGVFeUNaNWdEenh0bGYtNnhzX3gzck5xVm40WmhLQ19EaEZ3UmVIdVJLV0s0MWc5dEZkcktqek1pZlFFc20zb0lsV21EdG9CZVJiQWVNUTRNWXVmc1Znc2pJQnJZQ3J0YXNNUVJ1U1BfdU51cTlWYk5SckJpTDlXN0E5TkRVR3dPaU5CWDFTMVFjOA?oc=5",
+    "summary": "Tenet Health And Commure Announce Landmark Partnership To Deploy Ambient AI Platform Forbes",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-11-19-5h7cws",
+    "date": "2024-11-19",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "Tenet to deploy AI platform across its physician network",
+    "source": "Healthcare Finance News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWhnNnExUGMwcFJJcWFsdkU1Q2VJVWlGZHpQWml4Tk9tdUNEaEJrVWY4QzNWSlhBYWZBZ3I2N3dGRVl1QkpvOURuN3YzSHlZSFR2VlJ4ME1rZDc0RmJpSDUwZTRWdGRENTRNNXpOaHhMWWQtZ2hYV0ZRRjJqNUNtYmpCSkVMMlFQNXNhN29VRVhpNkJDaDV5Zm00N0k?oc=5",
+    "summary": "Tenet to deploy AI platform across its physician network Healthcare Finance News",
     "status": "unverified"
   }
 ]
