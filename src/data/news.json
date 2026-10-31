@@ -304,17 +304,6 @@
     ]
   },
   {
-    "id": "n-2025-09-04-1r8kf85",
-    "date": "2025-09-04",
-    "title": "Doctors check out AI to improve check ups",
-    "source": "WIBW",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TWi01Y0RBNGJXRFFKMEtrMXlRR2tqT2hvSWV1bWdFaFZMZWd2Z3RHeWRESk44OUVxWHk4Z1lmSGw5dFBZa2x0YVliNVJrRWVkbDNZeEtNVWJCQ3VGdWsxVklHSFVqVjVuMFdxY0VBQzNqWkNxd20tOWRwc9IBjwFBVV95cUxPNFpjdF9ZY2s4X04yY3UtMnpfQTNIVERla1hub01uX2JCd0tFMjdMU09oWjFxZFQ4R1JjVGVXZFNneVA2ZFRpTzdQMWc0ajRKbzlzTnlJNHU4VDQ5Qk82VVlLMDVuNl9YejFtTFFaQXhpSTZJRnRRRFU1Ti0xcmxvNU9sb2dYVllQOUN0NUdjNA?oc=5",
-    "summary": "Doctors check out AI to improve check ups WIBW",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
     "id": "n-2025-08-21-111efu3",
     "date": "2025-08-21",
     "title": "Ambient AI scribes reduce clinician burnout, boost well-being",
@@ -335,6 +324,17 @@
     "summary": "Doctors work fewer hours, but the EHR still follows them home American Medical Association | AMA",
     "tags": [
       "industry"
+    ]
+  },
+  {
+    "id": "n-2025-08-18-493t0l",
+    "date": "2025-08-18",
+    "title": "How Epic's AI moves could shake up the healthcare AI market",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYk1TZzFERjAtVEk5cHBjTXp3T0RPb3NKcUYwc1AwMkxMTlNMWDZtNk5zNllFdGxtbDl4U0pPUjlTTUJhNkYwanNGeW9DMWJYMGxRenVtSUxyN0JvaC1CRW80SXgyckdSS0FmTGpQYVo4cWlmd3BWZ2VIak9QdHpRZFVjM0d6U2xxdmpYN2tBWjE4MmNIYlZxY19UZ1Y0bTE5WnJZRTVLdzFZUQ?oc=5",
+    "summary": "How Epic's AI moves could shake up the healthcare AI market Fierce Healthcare",
+    "tags": [
+      "competitor:epic-native"
     ]
   }
 ]
