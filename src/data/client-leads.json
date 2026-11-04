@@ -143,6 +143,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-07-01-vtg5fi",
+    "date": "2025-07-01",
+    "competitorId": "suki",
+    "competitorName": "Suki Assistant",
+    "title": "Suki expands integration with Meditech's EHR platform",
+    "source": "MobiHealthNews",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObV9NSVFqeWM1cDdEVy0yM0lSQVFGcU12OHM2RHlSN3lScUVMWVphWmRMY0hRd1pDUDlzbHg0TEZCTFQ4VE9oVDVPcE01MUZORjM1Yk9XYklzcWwxQldiTnlzZEYzSzJ6SWZUQlBrbWl5MDR3NVN3bEUtOF9zUzJWelRwY1JxcmpLZExn?oc=5",
+    "summary": "Suki expands integration with Meditech's EHR platform MobiHealthNews",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-06-25-5n6wkq",
     "date": "2025-06-25",
     "competitorId": "augmedix-commure",
@@ -222,8 +233,8 @@
   {
     "id": "lead-2025-03-03-1w9flua",
     "date": "2025-03-03",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
+    "competitorId": "suki",
+    "competitorName": "Suki Assistant",
     "title": "Rush expands AI-driven documentation with Suki partnership",
     "source": "MobiHealthNews",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWXRCTWVvTTJXMjJuR2l0NWx1c09CVlFYNDRyUzUwY1AtTjA5bVg2d2pFRmExanVrSVNFNVlSa3FrN29xaDJoWVBRVFg0ZVpJbmcxX0t6V1ZqbV83SmRDZXBWeHBkcDZRRW9aSEpTUUJvQU1uRE5uRVFNRnhRMUJ0bjFURkVKT2NlUVpYcEVabnFVLXM?oc=5",
@@ -239,17 +250,6 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ1M5Z0M2V0FybXlEQi1BMDEwdkpKSEcwSHNPdTVNRmM3MWNPRUdabnhXeEdNQkxyZGowNkh5T1pTVVRhRy1MNEhfeFdyZTgyeHN0SUh5Zkt0TDZLV1FnTGNLTTZPN1VtTVBtcm1mSnRLTWxoT2lTMkRCemFUUFRQWjdhcnFTaXFEaHMzMHpFT1JVd3k4bFN1djQ1VXhaUW1odFE?oc=5",
     "summary": "ViVE 2025: Cleveland Clinic rolls out Ambience's AI for doctors after testing scribe technologies Fierce Healthcare",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2025-02-13-sny6i0",
-    "date": "2025-02-13",
-    "competitorId": "nabla",
-    "competitorName": "Nabla Copilot",
-    "title": "Nabla Expands AI Offering with Dictation to Further Streamline Clinical Workflows",
-    "source": "PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSFF2bXhqRUROSENwVGd0OW9BdFdfa3VFazNocHJPbllfaV95Vm9OcnpRVm41Uk82cXpYYXZOcGFJSngzX1ZWS3dpVG15d2JjbkpYOGtrU3lfVGU1ODhOYnVoaGZBTERpQ0VHUzRMeEJsSVEwY09NTG9WOEo0cm1UcnhhUk5pUjIyYXlHWkltdmFycE5mci1FSWpWNlUwbUlnTUhmRU5iZGR4ZzR6VVN6MFBVd2o0Si1nMlJxanNyR3BtS1BnVEhpSF9ibHBtel9qajZV?oc=5",
-    "summary": "Nabla Expands AI Offering with Dictation to Further Streamline Clinical Workflows PR Newswire",
     "status": "unverified"
   },
   {
@@ -338,6 +338,17 @@
     "source": "Healthcare Finance News",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWhnNnExUGMwcFJJcWFsdkU1Q2VJVWlGZHpQWml4Tk9tdUNEaEJrVWY4QzNWSlhBYWZBZ3I2N3dGRVl1QkpvOURuN3YzSHlZSFR2VlJ4ME1rZDc0RmJpSDUwZTRWdGRENTRNNXpOaHhMWWQtZ2hYV0ZRRjJqNUNtYmpCSkVMMlFQNXNhN29VRVhpNkJDaDV5Zm00N0k?oc=5",
     "summary": "Tenet to deploy AI platform across its physician network Healthcare Finance News",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-10-24-xgb8qo",
+    "date": "2024-10-24",
+    "competitorId": "suki",
+    "competitorName": "Suki Assistant",
+    "title": "Zoom, Suki partner to deploy AI clinical documentation",
+    "source": "Healthcare Dive",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN2V6VDF3QmRnSlV2Y25qX1RFMDVIV01QczM2M1o3bEpTZVZmV21Pc3M0VmhKZjhFUk92MGUxcTc1R3lpSTR5NnlsbjF2U1JZOHphcE9qWFk2OUNFNFlWLU41emJZdjJLQmd6Nmt2a2NiVWNKSzBKZHNWZHdPMVNtSXUwYWtUVXRfN3c?oc=5",
+    "summary": "Zoom, Suki partner to deploy AI clinical documentation Healthcare Dive",
     "status": "unverified"
   },
   {
@@ -536,17 +547,6 @@
     "source": "Healthcare Dive",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdmN4TUN1eV9aa2R5NG5OS3ZiMjc1aDh6VU80eVJoUHJYMG04LXN6aXRFdkFkSmtEYW9ILUI5WjFtTURNbFZIdFpDd3Fna2UxTlNlUU9HUGtSZGpKQTFDdUVpSS1keDRMZV9oVGtnMm5IVmFRWng5YWhRN2pHQ2lpMDFjQVpZRzREcWtIdHRMNUkyeGdOMzBEdk9idTNKV1AwOTBGX3JaUzZXejgtMzBUaUNNZjhmQWJYclBz?oc=5",
     "summary": "Nuance rolls out automated clinical documentation tool DAX Copilot Healthcare Dive",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2023-08-31-1eyq4q2",
-    "date": "2023-08-31",
-    "competitorId": "nuance-dax",
-    "competitorName": "DAX Copilot",
-    "title": "Nuance and Epic Expand Ambient Documentation Integration Across the Clinical Experience with DAX Express for Epic",
-    "source": "Epic Systems",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc3FVYy05Rmt4Q0V0SXJ5N0FJdlhlRHBQbGZZRy10WmZOQ01kWElHT2RJaHJOamNrXzJNUTZWQ3dkNUU3VzAydUg0M285NDU0elB1WHpHTmRxMTF3cDV6Qy1TUm1qR2ZWdEJfcFpyRHZUYmNjZDBxMElXeDc1Ulc3UkJVeGZFT2F2VG5xN3Y4NlRyMFVERmoxYUc4eW5fMFhjVmxDRWFRV29FYVVSTkstc3RMek9nSFJVVHFwMEJlTV9waVRyNkp5UmJpS1ZUOVVBdUdmdVpYVWRHNy1Edmc?oc=5",
-    "summary": "Nuance and Epic Expand Ambient Documentation Integration Across the Clinical Experience with DAX Express for Epic Epic Systems",
     "status": "unverified"
   }
 ]
