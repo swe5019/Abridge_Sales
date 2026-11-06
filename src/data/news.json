@@ -1,5 +1,16 @@
 [
   {
+    "id": "n-2026-11-06-1uv26gc",
+    "date": "2026-11-06",
+    "title": "Why Healthcare Can’t Skip Steps on the Way to Conversational AI",
+    "source": "HIT Consultant",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWmZvR1dUaF9BRGN1WlNTNHNxbnRiVXVVMm1QMnpGa1dxVVVTWVpmMlB2VGdFQmN6QVhIeHQ2ZXp0dDNpMm4xb0hIWVJTMkFHSVNuMFhsb0VNSWlHdlFOTkJJUDRBOWI4c3FhdnRLOGY2NGgxU0RycmJTRGttWGgxWThMYUgxUDI2TF9nM3B3WjZoRTFMMnZwR244aDVnRHhFZUZB?oc=5",
+    "summary": "Why Healthcare Can’t Skip Steps on the Way to Conversational AI HIT Consultant",
+    "tags": [
+      "industry"
+    ]
+  },
+  {
     "id": "n-2026-11-03-edpohy",
     "date": "2026-11-03",
     "title": "HCA Healthcare’s Chief AI Officer: What responsible AI requires in healthcare",
@@ -53,6 +64,17 @@
     "summary": "Abridge releases ambient AI tech for nurses Healthcare IT News",
     "tags": [
       "abridge",
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-04-30-1gedl6q",
+    "date": "2026-04-30",
+    "title": "At UToledo Health, ambient AI decreases open charts, improves documentation",
+    "source": "Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeG1YMkdXVlRxMjRlaVRKRXlELW55SE9UV1pqV2NWVHc3Yk56QUNkbzl2UWlma2NPRVMwUW5UdjlSVXk1UFNucklvbEpjWEY1TVpJNlo5Wmo0cGpuZU8yNUxFd2tBLXkxX3FmLTVRM1F3cXJfeVZ1QmpfZjlnVFBWTlNIazJCOXhqYVlrVndDNklDVEVBbEhVZ2pDUzRlNXRjbHNBeGZHblRTTmtJ?oc=5",
+    "summary": "At UToledo Health, ambient AI decreases open charts, improves documentation Healthcare IT News",
+    "tags": [
       "ambient-ai"
     ]
   },
@@ -311,29 +333,6 @@
     "summary": "Less Typing, More Talking: How Ambient AI Is Reshaping Clinical Workflow at Cleveland Clinic Cleveland Clinic",
     "tags": [
       "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2025-06-26-1mzrio7",
-    "date": "2025-06-26",
-    "title": "The risks of using virtual scribes and ambient listening for documentation",
-    "source": "McAfee & Taft",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVh6SmZ1SGVoQzdVTnhGSFkyb2k0eVpyRk5YazdtQ1V6VDlONHRjRTJuSzhOY3d6QzFVX1R1OWh5LU54TjVKc2lCNUZONXlIbXJYcDQxRTlZU0w1V29raDYyZ3FnWEVIOVhOa3VQYXlfNGtwTHU2dFBtRUxoWFpFQVdfWlp5WF9zNHFkb3hiemxFSG9iYzh0RzlvYkZ6ZmNYSlQ4dTNtYUtBNXhwOVp4bnc3MlJUQlBoYmhNbw?oc=5",
-    "summary": "The risks of using virtual scribes and ambient listening for documentation McAfee & Taft",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2025-06-17-jwd96i",
-    "date": "2025-06-17",
-    "title": "Nabla raises $70 million as market for AI tools to help doctors heats up",
-    "source": "STAT",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMGYwUzdrWGhJMGpOd01LQllKMEhyU2VxSzM5Q21ad2dxZU1PemJMRE5Vel8xR2ZlMXNuVFJqUVVFR19rQWo0d0RFMDAwZnMwV3ZHeHJvWFJCRlNrYjd4RVppOFE1TDh6M2RSN25NblFwRVpvQVJDWXFhcHlyWDY0RFFORkhUbGswa2YxNw?oc=5",
-    "summary": "Nabla raises $70 million as market for AI tools to help doctors heats up STAT",
-    "tags": [
-      "competitor:nabla",
-      "funding"
     ]
   }
 ]
