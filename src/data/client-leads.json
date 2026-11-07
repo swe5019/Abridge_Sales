@@ -1,16 +1,5 @@
 [
   {
-    "id": "lead-2026-11-04-1y7br2l",
-    "date": "2026-11-04",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
-    "title": "AI Tracker: Mayo Clinic Platform rolls out AI tool for clinicians",
-    "source": "Modern Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0Zsbm5XcmxTU0JuTzczTC1fUF9FVzB3LTJ3X2hLYVRJUFl3ZXB6TEZoMldEOXlkTXBTOVp2amNpLXFVeWlBUUd4X2dZNzlvUnB2LUoybW9LRThOY2pjN18tbnB3S2NieGMwSm9fVVBuZHprWUFrTU50Wk91ZVREV3NDZ1hvQ3RxcW9zeEMxMGs?oc=5",
-    "summary": "AI Tracker: Mayo Clinic Platform rolls out AI tool for clinicians Modern Healthcare",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2026-08-19-trp3xu",
     "date": "2026-08-19",
     "competitorId": "ambience",
@@ -547,6 +536,17 @@
     "source": "The Official Microsoft Blog",
     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNTkRSRmpadHk1Z0tSRHVTM09jUmZhVnlxMGQ0aHlURzFsZHNuR2tUYU51eUYwaTJKOHRuOXVUa3Q4bGh1Ynk4cUdBSGlXUFlwbmV5andQY3ZRQmo4Z0hNNFlMbThJT3htd0RmbDNldUcyaG1HTDBMeE5oUWhuejE1TzRGMTBNSWdpWkVtNndRTWZ0dk5FWjRid0ZOVkxjeG0wbGxtQ0k0S2xRdHhZT0VWbTVCS1lhWnV6T3F4cUJFbThZY3lEU2Z0c0VyWG5pSE1kSU1td1VqVG1ZRHBpRVdTa1RRYW03SzZsN1FOenBzN0U5RE9XOFJhZkwxSl9KcjNfRGNINkp1djdkeFBVWkdV?oc=5",
     "summary": "Microsoft and Epic expand AI collaboration to accelerate generative AI’s impact in healthcare, addressing the industry’s most pressing needs The Official Microsoft Blog",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2023-08-16-1fj5s6e",
+    "date": "2023-08-16",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Abridge inks Epic partnership, Emory Healthcare tie-up for its generative AI tech",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmxMVkhuNWJ6Xy1hdVRLTG5UN3ppQ2IyN1JKdl93bGpjblo1MUdhUzJSdjFRMm5XS2ZkV1BCU0FPNmtXOVFQelVKSWotb0Z1UFBwUkZWTkI0Y1RaXzE0UXBKdmd0dkN5VkE3enIyYXdyMHR3X29PSkdBd0RJNDJDSkNCMldvWnJDeW5veDNMaHItNkpyWFRTYWU4aXdjVFpGcGNqZHFUby1aTmhVNTQ3YVI2NjF3V3U2LUE?oc=5",
+    "summary": "Abridge inks Epic partnership, Emory Healthcare tie-up for its generative AI tech Fierce Healthcare",
     "status": "unverified"
   }
 ]
