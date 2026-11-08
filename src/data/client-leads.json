@@ -1,5 +1,16 @@
 [
   {
+    "id": "lead-2026-11-04-1y7br2l",
+    "date": "2026-11-04",
+    "competitorId": "ambience",
+    "competitorName": "Ambience AutoScribe",
+    "title": "AI Tracker: Mayo Clinic Platform rolls out AI tool for clinicians",
+    "source": "Modern Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0Zsbm5XcmxTU0JuTzczTC1fUF9FVzB3LTJ3X2hLYVRJUFl3ZXB6TEZoMldEOXlkTXBTOVp2amNpLXFVeWlBUUd4X2dZNzlvUnB2LUoybW9LRThOY2pjN18tbnB3S2NieGMwSm9fVVBuZHprWUFrTU50Wk91ZVREV3NDZ1hvQ3RxcW9zeEMxMGs?oc=5",
+    "summary": "AI Tracker: Mayo Clinic Platform rolls out AI tool for clinicians Modern Healthcare",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2026-08-19-trp3xu",
     "date": "2026-08-19",
     "competitorId": "ambience",
@@ -407,17 +418,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2024-07-23-ju9u7u",
-    "date": "2024-07-23",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "Abridge partners with Epic, Mayo Clinic to create a genAI nurse workflow tool",
-    "source": "MobiHealthNews",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2Iwdm5hLXIyeDRVQ1cxSFZ2RkRPaUdsMFBRLVc5bzNudGp4VklkREdYRllsek9YQ1hFVVhzTk5jWk5MSWF5V2cyNUhaTGFVU2paSldPNkxwMUJRdGR2ejlnbGg0WmE0WThPMUc5VWFHWjhnVmR3VkVfOEdkelI4RmJTclRLV3hJcm5kT21ON1BMek5adW9wWkVlX1JmYlpaLVpJOQ?oc=5",
-    "summary": "Abridge partners with Epic, Mayo Clinic to create a genAI nurse workflow tool MobiHealthNews",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2024-07-09-9lauz4",
     "date": "2024-07-09",
     "competitorId": "nabla",
@@ -495,17 +495,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2023-08-31-1eyq4q2",
-    "date": "2023-08-31",
-    "competitorId": "nuance-dax",
-    "competitorName": "DAX Copilot",
-    "title": "Nuance and Epic Expand Ambient Documentation Integration Across the Clinical Experience with DAX Express for Epic",
-    "source": "Epic Systems",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc3FVYy05Rmt4Q0V0SXJ5N0FJdlhlRHBQbGZZRy10WmZOQ01kWElHT2RJaHJOamNrXzJNUTZWQ3dkNUU3VzAydUg0M285NDU0elB1WHpHTmRxMTF3cDV6Qy1TUm1qR2ZWdEJfcFpyRHZUYmNjZDBxMElXeDc1Ulc3UkJVeGZFT2F2VG5xN3Y4NlRyMFVERmoxYUc4eW5fMFhjVmxDRWFRV29FYVVSTkstc3RMek9nSFJVVHFwMEJlTV9waVRyNkp5UmJpS1ZUOVVBdUdmdVpYVWRHNy1Edmc?oc=5",
-    "summary": "Nuance and Epic Expand Ambient Documentation Integration Across the Clinical Experience with DAX Express for Epic Epic Systems",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2023-08-29-a500lh",
     "date": "2023-08-29",
     "competitorId": "augmedix-commure",
@@ -536,6 +525,17 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmxMVkhuNWJ6Xy1hdVRLTG5UN3ppQ2IyN1JKdl93bGpjblo1MUdhUzJSdjFRMm5XS2ZkV1BCU0FPNmtXOVFQelVKSWotb0Z1UFBwUkZWTkI0Y1RaXzE0UXBKdmd0dkN5VkE3enIyYXdyMHR3X29PSkdBd0RJNDJDSkNCMldvWnJDeW5veDNMaHItNkpyWFRTYWU4aXdjVFpGcGNqZHFUby1aTmhVNTQ3YVI2NjF3V3U2LUE?oc=5",
     "summary": "Abridge inks Epic partnership, Emory Healthcare tie-up for its generative AI tech Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2023-06-27-1eyq4q2",
+    "date": "2023-06-27",
+    "competitorId": "nuance-dax",
+    "competitorName": "DAX Copilot",
+    "title": "Nuance and Epic Expand Ambient Documentation Integration Across the Clinical Experience with DAX Express for Epic",
+    "source": "PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWjVIQW1RdWJrNEhReldBd2FtdHlYdDJtR1VrRlcyRWU1TEZTVS1NQ1pCWTZ4cUtfeXpJeV90dDEzSWVyOFhTbGRXeU5fdVpEUGJLOTVEOUhUZzNtSEJNcHRhNjZmeWdwdTd6VGlWbVBEODZrWVpXbUc1MWFJb2ZYaDV0azN5QXVyVEc3UUdtRFg3T1Y5aXhyMnl4cTlFcWtfXzlydmNoM0NocXR6OE53WmoyWUxVMUU0ZFdqTE13bFZvbjNVYUVzVjktNWUyQnNYVnIwUXFjaTZWZmFYSEFuWkRMM3phOFp3ZWEwVVQwVkdFSkxURTY3ellOcmp1Zw?oc=5",
+    "summary": "Nuance and Epic Expand Ambient Documentation Integration Across the Clinical Experience with DAX Express for Epic PR Newswire",
     "status": "unverified"
   },
   {

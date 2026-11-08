@@ -1,16 +1,5 @@
 [
   {
-    "id": "n-2026-11-06-100fif8",
-    "date": "2026-11-06",
-    "title": "AI May Step In to Fill Healthcare Workforce Gaps",
-    "source": "Medscape",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZmJtTG15V3pvRXpoSkg2a2lucXA0T3lzeHF3ckJWWlZXbnBZTF9hY0lLYXVBZmstRjdNVWVIZHBJV3UxNGt1eFB0dHA4YllQeGdHcV9tUmZmVkRkd0pHcllUcE9mVm9HUGhDMHNqb25XT0M2Q1NIT0tqRXFGRFhoX1VNV1JBWnE5R3hIXzkzMGJmN2RNZDZKdjlCZU9KQ0RfSThRM3Y4MERodw?oc=5",
-    "summary": "AI May Step In to Fill Healthcare Workforce Gaps Medscape",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
     "id": "n-2026-09-23-1yprkgz",
     "date": "2026-09-23",
     "title": "Abridge ambient AI now available to all VA medical centers",
@@ -40,6 +29,17 @@
     "source": "Healthcare IT News",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWk1mRkw0VEQwdHZBMkpORGdRZDB2dUlUQnQ2M194WDRzRFg1MUs3X1VFN0ZNNmFnWDVhRktnbjF0N2FUNEVoNkNVdjI0OUM5cS1mcEN1WWZUVGY1R3hSSkY2cjFSb0NiMW0yeXprTlIzNGlINEtXSWFmTFVEcUJWVHlpbzFNUENETkREMVFjb2w?oc=5",
     "summary": "Rhode Island passes ambient AI scribe opt-out law Healthcare IT News",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-06-03-t02kaz",
+    "date": "2026-06-03",
+    "title": "Large JAMA Study Finds AI Scribes Cut Documentation Time for Ambulatory Clinicians",
+    "source": "Telehealth.org",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV20ySkZ1Qy05R01ROUI5ZS1rSHpGMVhiQzlONVRqNnJMRWplZEpOMHdsUk9rcDJCSEkxRDJ1ZXJTemFuSmNqekVHRE9FNWxYRXQ4SnhzRk1xc29PRkJJaDBpMEpPM2gzNWNpUmpCM3B2N0JwSVlJdmVYMFFtLWk0U2ZkenE5N3FpNkV3YkZPM1hZcVV0Y2d5SHRXRG5oaHdMSWtPLW5JbjR3ZGJpc2R0UQ?oc=5",
+    "summary": "Large JAMA Study Finds AI Scribes Cut Documentation Time for Ambulatory Clinicians Telehealth.org",
     "tags": [
       "ambient-ai"
     ]
