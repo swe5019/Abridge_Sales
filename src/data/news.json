@@ -1,16 +1,5 @@
 [
   {
-    "id": "n-2026-11-06-100fif8",
-    "date": "2026-11-06",
-    "title": "AI May Step In to Fill Healthcare Workforce Gaps",
-    "source": "Medscape",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZmJtTG15V3pvRXpoSkg2a2lucXA0T3lzeHF3ckJWWlZXbnBZTF9hY0lLYXVBZmstRjdNVWVIZHBJV3UxNGt1eFB0dHA4YllQeGdHcV9tUmZmVkRkd0pHcllUcE9mVm9HUGhDMHNqb25XT0M2Q1NIT0tqRXFGRFhoX1VNV1JBWnE5R3hIXzkzMGJmN2RNZDZKdjlCZU9KQ0RfSThRM3Y4MERodw?oc=5",
-    "summary": "AI May Step In to Fill Healthcare Workforce Gaps Medscape",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
     "id": "n-2026-09-23-1yprkgz",
     "date": "2026-09-23",
     "title": "Abridge ambient AI now available to all VA medical centers",
@@ -333,6 +322,17 @@
     "summary": "How Epic's AI moves could shake up the healthcare AI market Fierce Healthcare",
     "tags": [
       "competitor:epic-native"
+    ]
+  },
+  {
+    "id": "n-2025-08-14-1mpob99",
+    "date": "2025-08-14",
+    "title": "Less Typing, More Talking: How Ambient AI Is Reshaping Clinical Workflow at Cleveland Clinic",
+    "source": "Cleveland Clinic",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMXltVElVb2F2ZVMtd19aMzdZdDJpclU2OWQ2QTVUOFhoai1fM0dWaXUxUC1kRThWcEZGaUk3ZDItdE9SejdpT2Y3eThXRE9rTWxwa2M1YmRsT3hldUFsNlJmWnU5YUJUd0t2NEZlcWZ0cGM0MUMyaGNSVXlZMEhta3Y1WHRreVpHdEx2NEN1N2hJaVdOdndnMEg5b1B6V08tNjIyazlDbEgwOW93THA0RWM2ZEQzdndyTk9NVmU4MWpFUGZpRXJv?oc=5",
+    "summary": "Less Typing, More Talking: How Ambient AI Is Reshaping Clinical Workflow at Cleveland Clinic Cleveland Clinic",
+    "tags": [
+      "ambient-ai"
     ]
   }
 ]
