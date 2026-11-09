@@ -1,5 +1,16 @@
 [
   {
+    "id": "n-2026-11-06-100fif8",
+    "date": "2026-11-06",
+    "title": "AI May Step In to Fill Healthcare Workforce Gaps",
+    "source": "Medscape",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZmJtTG15V3pvRXpoSkg2a2lucXA0T3lzeHF3ckJWWlZXbnBZTF9hY0lLYXVBZmstRjdNVWVIZHBJV3UxNGt1eFB0dHA4YllQeGdHcV9tUmZmVkRkd0pHcllUcE9mVm9HUGhDMHNqb25XT0M2Q1NIT0tqRXFGRFhoX1VNV1JBWnE5R3hIXzkzMGJmN2RNZDZKdjlCZU9KQ0RfSThRM3Y4MERodw?oc=5",
+    "summary": "AI May Step In to Fill Healthcare Workforce Gaps Medscape",
+    "tags": [
+      "industry"
+    ]
+  },
+  {
     "id": "n-2026-09-23-1yprkgz",
     "date": "2026-09-23",
     "title": "Abridge ambient AI now available to all VA medical centers",
@@ -18,6 +29,17 @@
     "source": "American Medical Association | AMA",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMU93QVZBUll6SjN0TXExYXpUSXF1LUxKYzBNYkdFS04yQVdkNVcxZWNReTBXZS1KWGJrZ2xmSVRwekZiMVZhVzEzVzB2MDh2NG5XRkhydE1vZnhRb2N1eVF3NVFsZDAzSlBYWWJYLUpjaFRScFlVLS0tLWFfQXV5MGl4eVpvNDNpSzVUYTBsZmRBOXlRSFotMWhGV2hURGJDdG1ha09ORkw1eFYwVldWMGxsRXFURU1uR1E?oc=5",
     "summary": "Patients don’t have right to ambient AI recordings, court says American Medical Association | AMA",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-07-29-1wkmohq",
+    "date": "2026-07-29",
+    "title": "Ambient Scribe reimagines the VA clinic experience",
+    "source": "VA News (.gov)",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUHpBejZxRUJWNHZtOWlaLVBGclY1eGF0cmU3ajJlbDU5UWM2cDZMM1ZxQ0Z0WFQ2V0JyWWVGOE56Q25EOUUtcDQxdUs4V2FpSklCR3BOUFlLZ2ZFajlrdmVSdnpnWWY3YXhaZ2cxbC1uTm9xTm1qaWU3eHRRTGFoRw?oc=5",
+    "summary": "Ambient Scribe reimagines the VA clinic experience VA News (.gov)",
     "tags": [
       "ambient-ai"
     ]
@@ -53,17 +75,6 @@
     "summary": "Abridge releases ambient AI tech for nurses Healthcare IT News",
     "tags": [
       "abridge",
-      "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-04-30-1gedl6q",
-    "date": "2026-04-30",
-    "title": "At UToledo Health, ambient AI decreases open charts, improves documentation",
-    "source": "Healthcare IT News",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeG1YMkdXVlRxMjRlaVRKRXlELW55SE9UV1pqV2NWVHc3Yk56QUNkbzl2UWlma2NPRVMwUW5UdjlSVXk1UFNucklvbEpjWEY1TVpJNlo5Wmo0cGpuZU8yNUxFd2tBLXkxX3FmLTVRM1F3cXJfeVZ1QmpfZjlnVFBWTlNIazJCOXhqYVlrVndDNklDVEVBbEhVZ2pDUzRlNXRjbHNBeGZHblRTTmtJ?oc=5",
-    "summary": "At UToledo Health, ambient AI decreases open charts, improves documentation Healthcare IT News",
-    "tags": [
       "ambient-ai"
     ]
   },
@@ -322,17 +333,6 @@
     "summary": "How Epic's AI moves could shake up the healthcare AI market Fierce Healthcare",
     "tags": [
       "competitor:epic-native"
-    ]
-  },
-  {
-    "id": "n-2025-08-14-1mpob99",
-    "date": "2025-08-14",
-    "title": "Less Typing, More Talking: How Ambient AI Is Reshaping Clinical Workflow at Cleveland Clinic",
-    "source": "Cleveland Clinic",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMXltVElVb2F2ZVMtd19aMzdZdDJpclU2OWQ2QTVUOFhoai1fM0dWaXUxUC1kRThWcEZGaUk3ZDItdE9SejdpT2Y3eThXRE9rTWxwa2M1YmRsT3hldUFsNlJmWnU5YUJUd0t2NEZlcWZ0cGM0MUMyaGNSVXlZMEhta3Y1WHRreVpHdEx2NEN1N2hJaVdOdndnMEg5b1B6V08tNjIyazlDbEgwOW93THA0RWM2ZEQzdndyTk9NVmU4MWpFUGZpRXJv?oc=5",
-    "summary": "Less Typing, More Talking: How Ambient AI Is Reshaping Clinical Workflow at Cleveland Clinic Cleveland Clinic",
-    "tags": [
-      "ambient-ai"
     ]
   }
 ]
