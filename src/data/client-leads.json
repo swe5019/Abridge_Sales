@@ -1,16 +1,5 @@
 [
   {
-    "id": "lead-2026-11-04-1y7br2l",
-    "date": "2026-11-04",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
-    "title": "AI Tracker: Mayo Clinic Platform rolls out AI tool for clinicians",
-    "source": "Modern Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0Zsbm5XcmxTU0JuTzczTC1fUF9FVzB3LTJ3X2hLYVRJUFl3ZXB6TEZoMldEOXlkTXBTOVp2amNpLXFVeWlBUUd4X2dZNzlvUnB2LUoybW9LRThOY2pjN18tbnB3S2NieGMwSm9fVVBuZHprWUFrTU50Wk91ZVREV3NDZ1hvQ3RxcW9zeEMxMGs?oc=5",
-    "summary": "AI Tracker: Mayo Clinic Platform rolls out AI tool for clinicians Modern Healthcare",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2026-08-19-trp3xu",
     "date": "2026-08-19",
     "competitorId": "ambience",
@@ -220,6 +209,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-03-03-1w9flua",
+    "date": "2025-03-03",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Rush expands AI-driven documentation with Suki partnership",
+    "source": "MobiHealthNews",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWXRCTWVvTTJXMjJuR2l0NWx1c09CVlFYNDRyUzUwY1AtTjA5bVg2d2pFRmExanVrSVNFNVlSa3FrN29xaDJoWVBRVFg0ZVpJbmcxX0t6V1ZqbV83SmRDZXBWeHBkcDZRRW9aSEpTUUJvQU1uRE5uRVFNRnhRMUJ0bjFURkVKT2NlUVpYcEVabnFVLXM?oc=5",
+    "summary": "Rush expands AI-driven documentation with Suki partnership MobiHealthNews",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-02-19-18tk9lu",
     "date": "2025-02-19",
     "competitorId": "ambience",
@@ -239,6 +239,17 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObS1HbFE4SWw5S2hTVUx3eW1mWW5xVjV2TXNGQzJyYVQxMEtuWm9QRjd5bkdmM0dzUC02My1ROEdIcUZMeF95RzdYREh3dHdzX3JqUl9lajhra3gtVElCc3VOM1FSVEFCUzJnaklURzRWWkVla2UzZkRYckFpNjU3NjFFTGx5YVlYM0FfdlZwRGlzdm9aMGtrMVEyN1owbEVEbGFLYmt3NzFRMzhsNlgzYmtWUmNkek03MGQ0MC1fY2JpaUZJUGNWRGZhNnA?oc=5",
     "summary": "Abridge launches generative AI tool for emergency medicine with Emory, Johns Hopkins as early adopters Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-01-24-1x3xcrd",
+    "date": "2025-01-24",
+    "competitorId": "deepscribe",
+    "competitorName": "DeepScribe",
+    "title": "DeepScribe partners with Flatiron Health on oncology-focused ambient AI",
+    "source": "MobiHealthNews",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlZlRFl0Q1BZNi1YX1VjMzEyNjVvRkZ1Wlp6UTB1T2FzQlNPRkItM3NzNk5zZThaUkp0RXBlNVFCTXAxMTl3Tk5FSVJXUTliWGlBOWRheXlGTlg4WktObFNNWmtKN3FWNHltbk1vNWRqNm54MGhqY0RzejRmOHJlZnN3Z2lHT2FNREExN25Xb1d2eFcyWG1uZkJXVURUN0V3?oc=5",
+    "summary": "DeepScribe partners with Flatiron Health on oncology-focused ambient AI MobiHealthNews",
     "status": "unverified"
   },
   {
@@ -536,17 +547,6 @@
     "source": "PR Newswire",
     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWjVIQW1RdWJrNEhReldBd2FtdHlYdDJtR1VrRlcyRWU1TEZTVS1NQ1pCWTZ4cUtfeXpJeV90dDEzSWVyOFhTbGRXeU5fdVpEUGJLOTVEOUhUZzNtSEJNcHRhNjZmeWdwdTd6VGlWbVBEODZrWVpXbUc1MWFJb2ZYaDV0azN5QXVyVEc3UUdtRFg3T1Y5aXhyMnl4cTlFcWtfXzlydmNoM0NocXR6OE53WmoyWUxVMUU0ZFdqTE13bFZvbjNVYUVzVjktNWUyQnNYVnIwUXFjaTZWZmFYSEFuWkRMM3phOFp3ZWEwVVQwVkdFSkxURTY3ellOcmp1Zw?oc=5",
     "summary": "Nuance and Epic Expand Ambient Documentation Integration Across the Clinical Experience with DAX Express for Epic PR Newswire",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2023-05-31-gy59cq",
-    "date": "2023-05-31",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
-    "title": "PartnerMD and CVFP to Deploy Suki’s AI-Powered Voice Assistant Systemwide",
-    "source": "Business Wire",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ1Y1LVNGRVl5YWpzN0xXNVUtZjN2TkVCXzZqUU1qdnk1UENwVmU1cDA5T2F2OHBqeXk3Zjc2U1FWY0FtcERSNExMTUVyVEhmcDVMcHJkX2g3MVJWODlRMjduMm5nX05PenRWbWI0eE9JeWRhSEhlYmU4Ym03ZDlkTkswM3NkVkxfRTAwQnV6UnNTSkY4MDFDcTRlSGZtMG5hM0VpeXg1NmJQenlMVDFGMVU0XzFIWnIwTUlQQWxDU3F4YzhHdEpZZA?oc=5",
-    "summary": "PartnerMD and CVFP to Deploy Suki’s AI-Powered Voice Assistant Systemwide Business Wire",
     "status": "unverified"
   }
 ]
