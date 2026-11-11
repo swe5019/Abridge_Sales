@@ -1,5 +1,27 @@
 [
   {
+    "id": "n-2026-11-11-9va591",
+    "date": "2026-11-11",
+    "title": "Why health systems are backing operational tech over AI hype",
+    "source": "Modern Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGRnemIzbzUzT242V0dhREdQcEdkOG1JeE1SbEhKUTdXcC1nd3pSY2d6cUtnY1VfQ1hPQlpMZUdQb2lkZWFrcEctYzlqY1ZjR1hxcDlkODhnczNiU2xPMGZhLTNXNUhod01sYVVSWlcwRU5nTlhDc3lSSHJQWUhyVW9VUGxqWF9nLXpaRTdIajI?oc=5",
+    "summary": "Why health systems are backing operational tech over AI hype Modern Healthcare",
+    "tags": [
+      "industry"
+    ]
+  },
+  {
+    "id": "n-2026-11-10-7jbp5y",
+    "date": "2026-11-10",
+    "title": "Heidi Health Alternatives: Clinical AI Scribe Comparison on EHR Integration and HIPAA Compliance",
+    "source": "CASRAI",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aSVQ2aU9mRVNLd3NpaXNDV3cxcEVFWTZucl9qaVcxbnVMZnJucnF6RGhaQVRsODJCOENaRHcxSjU4OGRvTjRhVTBxVTFEZ012OXZJejNiQ3htbjRvdy1R?oc=5",
+    "summary": "Heidi Health Alternatives: Clinical AI Scribe Comparison on EHR Integration and HIPAA Compliance CASRAI",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-11-10-1nuzggm",
     "date": "2026-11-10",
     "title": "Augmedix Competitors: Clinical AI Scribes Compared",
@@ -22,6 +44,19 @@
       "abridge",
       "competitor:nuance-dax",
       "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-11-10-1ea2aag",
+    "date": "2026-11-10",
+    "title": "Commure and Augmedix: Ambient AI Tiers & Merger",
+    "source": "CASRAI",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LUXAxaXNjVWtKT0Y0RFZUcE5JTG93bWRJY01YVThsQWlaOE5LR2NMaXVsSl9GNXc1eFhJaVlqbWtlV0ttTURRbmdFUUtPSzBvMnBncg?oc=5",
+    "summary": "Commure and Augmedix: Ambient AI Tiers & Merger CASRAI",
+    "tags": [
+      "competitor:augmedix-commure",
+      "ambient-ai",
+      "market-trend"
     ]
   },
   {
@@ -67,12 +102,57 @@
     ]
   },
   {
+    "id": "n-2026-11-09-2mxuye",
+    "date": "2026-11-09",
+    "title": "Commure AI Scribe: Ambient AI & EHR Workflow",
+    "source": "CASRAI",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Bdm9OQ0VOZUJBajZWRHdkMk9nTElmd1BxOS1PNjdLbDdBRV9WUWxGU0JFYjUwQWNSSEc0Y180aWNiQWRJRHZRQXFyTHFiNHdBOWtCZlhn?oc=5",
+    "summary": "Commure AI Scribe: Ambient AI & EHR Workflow CASRAI",
+    "tags": [
+      "competitor:augmedix-commure",
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-11-09-sh569r",
+    "date": "2026-11-09",
+    "title": "Augmedix (Commure): Go, Live, Notebuilder & EHR",
+    "source": "CASRAI",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE91aEZLR1UtNTR0dDdodlVyX3dRT2VBWURvTVN3Ykx3Y0VEaGFmWkMzME16RXR5NEN5RFFvTDlZZjFHWk9oQjZ4SFVB?oc=5",
+    "summary": "Augmedix (Commure): Go, Live, Notebuilder & EHR CASRAI",
+    "tags": [
+      "competitor:augmedix-commure"
+    ]
+  },
+  {
+    "id": "n-2026-11-09-j5wf19",
+    "date": "2026-11-09",
+    "title": "Barnsley Hospital NHS awards ambient voice contract",
+    "source": "HTN Health Tech News",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVy1rSnNrazhialRYaFNJU2tlbGNFZ3N3dXFWdUJPbWgtb2hLMkFnOVdpdkQ2YzBGdVlPRnFEYXd4WTNhSEhLYlNVb3lXRnZmc2JkODNFUW9IbXlzbzlZWGpBbUZZRG5wcUpOS2xxRVdDNUFBS3lTMkE1UDU0c3dZU09wU29ZYUhs?oc=5",
+    "summary": "Barnsley Hospital NHS awards ambient voice contract HTN Health Tech News",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-11-06-100fif8",
     "date": "2026-11-06",
     "title": "AI May Step In to Fill Healthcare Workforce Gaps",
     "source": "Medscape",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZmJtTG15V3pvRXpoSkg2a2lucXA0T3lzeHF3ckJWWlZXbnBZTF9hY0lLYXVBZmstRjdNVWVIZHBJV3UxNGt1eFB0dHA4YllQeGdHcV9tUmZmVkRkd0pHcllUcE9mVm9HUGhDMHNqb25XT0M2Q1NIT0tqRXFGRFhoX1VNV1JBWnE5R3hIXzkzMGJmN2RNZDZKdjlCZU9KQ0RfSThRM3Y4MERodw?oc=5",
     "summary": "AI May Step In to Fill Healthcare Workforce Gaps Medscape",
+    "tags": [
+      "industry"
+    ]
+  },
+  {
+    "id": "n-2026-11-05-acacgu",
+    "date": "2026-11-05",
+    "title": "The AI-Native Clinician Is Already Here. Medical Education and Health Systems Need to Catch Up.",
+    "source": "MedCity News",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbmJZR1hHMEFYX3BMeTlSY05YcWdCNENGUl9aNnAtX2ZXZk5Idng2ak15ZWdmcHNOemhvSG83UzhIOXBCRENEcXAzTWFwYzFnQmdIQWxMbl9MQVdqaFZyenhfN3ZBODlyenR6dUxFVEhzNXZhM25XYUFIemR5cTRzajdQcjdsSHZQQ1dBT003YmE3cjRaWFJPUjMydkJxSm54eUFGWHFmamlrNTV3UHJRQ2UxM2QwY0FjdUgwa1FBTk1tUlBK?oc=5",
+    "summary": "The AI-Native Clinician Is Already Here. Medical Education and Health Systems Need to Catch Up. MedCity News",
     "tags": [
       "industry"
     ]
@@ -107,51 +187,6 @@
     "source": "VA News (.gov)",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUHpBejZxRUJWNHZtOWlaLVBGclY1eGF0cmU3ajJlbDU5UWM2cDZMM1ZxQ0Z0WFQ2V0JyWWVGOE56Q25EOUUtcDQxdUs4V2FpSklCR3BOUFlLZ2ZFajlrdmVSdnpnWWY3YXhaZ2cxbC1uTm9xTm1qaWU3eHRRTGFoRw?oc=5",
     "summary": "Ambient Scribe reimagines the VA clinic experience VA News (.gov)",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-06-23-1a5dvsk",
-    "date": "2026-06-23",
-    "title": "Rhode Island passes ambient AI scribe opt-out law",
-    "source": "Healthcare IT News",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWk1mRkw0VEQwdHZBMkpORGdRZDB2dUlUQnQ2M194WDRzRFg1MUs3X1VFN0ZNNmFnWDVhRktnbjF0N2FUNEVoNkNVdjI0OUM5cS1mcEN1WWZUVGY1R3hSSkY2cjFSb0NiMW0yeXprTlIzNGlINEtXSWFmTFVEcUJWVHlpbzFNUENETkREMVFjb2w?oc=5",
-    "summary": "Rhode Island passes ambient AI scribe opt-out law Healthcare IT News",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-06-03-t02kaz",
-    "date": "2026-06-03",
-    "title": "Large JAMA Study Finds AI Scribes Cut Documentation Time for Ambulatory Clinicians",
-    "source": "Telehealth.org",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV20ySkZ1Qy05R01ROUI5ZS1rSHpGMVhiQzlONVRqNnJMRWplZEpOMHdsUk9rcDJCSEkxRDJ1ZXJTemFuSmNqekVHRE9FNWxYRXQ4SnhzRk1xc29PRkJJaDBpMEpPM2gzNWNpUmpCM3B2N0JwSVlJdmVYMFFtLWk0U2ZkenE5N3FpNkV3YkZPM1hZcVV0Y2d5SHRXRG5oaHdMSWtPLW5JbjR3ZGJpc2R0UQ?oc=5",
-    "summary": "Large JAMA Study Finds AI Scribes Cut Documentation Time for Ambulatory Clinicians Telehealth.org",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-05-08-b8geyt",
-    "date": "2026-05-08",
-    "title": "Abridge releases ambient AI tech for nurses",
-    "source": "Healthcare IT News",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbEw4UzUyb0pKSmlJMkljSTJBdV9EM0wxNk5nNE5mT2hjdkQyUllnLVpHVUNGZzJJTml2dkVLc1JiLUJyakpCT2sxczRHLUxUREl5cVdoWGlwUUliV213dF9xVTFGcG1hVXhHcFZaVC1YbnRNbV9vMGFVaDBvdlU4b1Fxaw?oc=5",
-    "summary": "Abridge releases ambient AI tech for nurses Healthcare IT News",
-    "tags": [
-      "abridge",
-      "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-04-30-1gedl6q",
-    "date": "2026-04-30",
-    "title": "At UToledo Health, ambient AI decreases open charts, improves documentation",
-    "source": "Healthcare IT News",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeG1YMkdXVlRxMjRlaVRKRXlELW55SE9UV1pqV2NWVHc3Yk56QUNkbzl2UWlma2NPRVMwUW5UdjlSVXk1UFNucklvbEpjWEY1TVpJNlo5Wmo0cGpuZU8yNUxFd2tBLXkxX3FmLTVRM1F3cXJfeVZ1QmpfZjlnVFBWTlNIazJCOXhqYVlrVndDNklDVEVBbEhVZ2pDUzRlNXRjbHNBeGZHblRTTmtJ?oc=5",
-    "summary": "At UToledo Health, ambient AI decreases open charts, improves documentation Healthcare IT News",
     "tags": [
       "ambient-ai"
     ]
@@ -257,28 +292,6 @@
     ]
   },
   {
-    "id": "n-2026-02-20-1ctlh73",
-    "date": "2026-02-20",
-    "title": "AI companies are leaning on partnerships for prior authorization",
-    "source": "Modern Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGxBV29ZU0YzX1dRRTBnczkxeEdoamFTY0NOU0M4ZnZjR1FSYnhiMzdBRW5BVTN0WHhtbEZoOE1LM1dHZzJiWktRVWIwR3NXT0NTRUEwZDFyMWdrZnFicDJ3QVM0NHNMNFNMRDkycEU5cjFBWHlqcHdqVzNMMHlmSmNMZ2R3UkdWSE40cHlZM3FHLUtDREVZci02UQ?oc=5",
-    "summary": "AI companies are leaning on partnerships for prior authorization Modern Healthcare",
-    "tags": [
-      "market-trend"
-    ]
-  },
-  {
-    "id": "n-2026-01-27-1trv4cx",
-    "date": "2026-01-27",
-    "title": "Ambient AI Tool Adoption in US Hospitals and Associated Factors",
-    "source": "The American Journal of Managed Care",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNy1uNUhrT09ZcnIxRVNTaEZzMnRSclBjSnRrX0xmSm96Zm9fNzhsMy1OcVpZNkJ3NkVkQW54eUZQTVNKamxndTZ5X2JNb0RocmxuODJ5LXZQczBidmFXcWkzbWtPOGxIX2RTeTZiZDZUTTN0RGpYSEg2X2tjOWVsWHJiaXRkOHp6azNWSVdQMUtKYmM?oc=5",
-    "summary": "Ambient AI Tool Adoption in US Hospitals and Associated Factors The American Journal of Managed Care",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
     "id": "n-2026-01-23-zym47w",
     "date": "2026-01-23",
     "title": "COMMENTARY: Health care ambient scribes offer promise but create new legal frontiers",
@@ -331,18 +344,6 @@
     "summary": "UCLA study finds AI scribes may reduce documentation time and improve physician well-being UCLA Health",
     "tags": [
       "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2025-11-13-1mi60w0",
-    "date": "2025-11-13",
-    "title": "Studies suggest ambient AI saves time, reduces burnout and fosters patient connection",
-    "source": "UChicago Medicine",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeDllQlVzYmkybEJrTjJPSG9LX2FnWnNxMVhmMXlVQ09faTNoLURQOVFwXzlQNlJkVGNxY0pMMDI0T21Ya1FhbklkVUg5U2FVYy1hcldMenFrdjg0Y0p0eUFzVXl4OFAzQ0xNeTNNX0ZxTkdjd3JYVUJfekhUZ0dTeDVkaHFCdU1Ja3c1UjhxOWJ6UnZjUXJQM1dvREFmSElnWS11dEZGYkV3dlg4ZmlVM2oyUHZMV013SEpNYWlIREoyeW9nbG9iakFNMVJwTDNtNzJrTExsazQxNnJEUzM0ek9ON0liRnBnUDlV?oc=5",
-    "summary": "Studies suggest ambient AI saves time, reduces burnout and fosters patient connection UChicago Medicine",
-    "tags": [
-      "ambient-ai",
-      "burnout"
     ]
   }
 ]
