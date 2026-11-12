@@ -1,5 +1,16 @@
 [
   {
+    "id": "lead-2026-11-04-1y7br2l",
+    "date": "2026-11-04",
+    "competitorId": "ambience",
+    "competitorName": "Ambience AutoScribe",
+    "title": "AI Tracker: Mayo Clinic Platform rolls out AI tool for clinicians",
+    "source": "Modern Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0Zsbm5XcmxTU0JuTzczTC1fUF9FVzB3LTJ3X2hLYVRJUFl3ZXB6TEZoMldEOXlkTXBTOVp2amNpLXFVeWlBUUd4X2dZNzlvUnB2LUoybW9LRThOY2pjN18tbnB3S2NieGMwSm9fVVBuZHprWUFrTU50Wk91ZVREV3NDZ1hvQ3RxcW9zeEMxMGs?oc=5",
+    "summary": "AI Tracker: Mayo Clinic Platform rolls out AI tool for clinicians Modern Healthcare",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2026-08-19-trp3xu",
     "date": "2026-08-19",
     "competitorId": "ambience",
@@ -198,6 +209,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-03-03-1w9flua",
+    "date": "2025-03-03",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Rush expands AI-driven documentation with Suki partnership",
+    "source": "MobiHealthNews",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWXRCTWVvTTJXMjJuR2l0NWx1c09CVlFYNDRyUzUwY1AtTjA5bVg2d2pFRmExanVrSVNFNVlSa3FrN29xaDJoWVBRVFg0ZVpJbmcxX0t6V1ZqbV83SmRDZXBWeHBkcDZRRW9aSEpTUUJvQU1uRE5uRVFNRnhRMUJ0bjFURkVKT2NlUVpYcEVabnFVLXM?oc=5",
+    "summary": "Rush expands AI-driven documentation with Suki partnership MobiHealthNews",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-02-19-18tk9lu",
     "date": "2025-02-19",
     "competitorId": "ambience",
@@ -393,17 +415,6 @@
     "source": "EurekAlert!",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Bb3ZpY2UtTlJmQmRZc0pGdjFSUS1jLW1TRk03bjljQ1FWV2xkbHBZRWN1eXc1TFdVbVVEdUVYYTVzaU5ZeGFzZ1o1eE1yYmhERG1IY1g3Tkp1YXdF?oc=5",
     "summary": "Ochsner Health selects DeepScribe to bring ambient AI to clinicians EurekAlert!",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2024-07-23-ju9u7u",
-    "date": "2024-07-23",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "Abridge partners with Epic, Mayo Clinic to create a genAI nurse workflow tool",
-    "source": "MobiHealthNews",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2Iwdm5hLXIyeDRVQ1cxSFZ2RkRPaUdsMFBRLVc5bzNudGp4VklkREdYRllsek9YQ1hFVVhzTk5jWk5MSWF5V2cyNUhaTGFVU2paSldPNkxwMUJRdGR2ejlnbGg0WmE0WThPMUc5VWFHWjhnVmR3VkVfOEdkelI4RmJTclRLV3hJcm5kT21ON1BMek5adW9wWkVlX1JmYlpaLVpJOQ?oc=5",
-    "summary": "Abridge partners with Epic, Mayo Clinic to create a genAI nurse workflow tool MobiHealthNews",
     "status": "unverified"
   },
   {
