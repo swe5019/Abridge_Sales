@@ -33,30 +33,6 @@
     ]
   },
   {
-    "id": "n-2026-11-10-1nuzggm",
-    "date": "2026-11-10",
-    "title": "Augmedix Competitors: Clinical AI Scribes Compared",
-    "source": "CASRAI",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qczN6VlpHSTRIOHhYdDN5YnBQanZtMVkwVC13Qld1SlFGY183cnJzaTFmZy16emVxRlQ4NENMbjlpb2FnZFBGYXFhTFpJMGNZOWxQUi1fNVRXZw?oc=5",
-    "summary": "Augmedix Competitors: Clinical AI Scribes Compared CASRAI",
-    "tags": [
-      "competitor:augmedix-commure",
-      "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-11-10-12etowm",
-    "date": "2026-11-10",
-    "title": "DeepScribe Competitors & Clinical Alternatives",
-    "source": "CASRAI",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CZlRidjdmZld0ZjdlNHhkZUxwQzJwZFFaUTlSc2JsdUZoR0lwc1hNTkNFSVdOODRiTDdua1E4cVlPQklMTHdKVkNfM3V0X3FXdHNRY3dYNEZLY29T?oc=5",
-    "summary": "DeepScribe Competitors & Clinical Alternatives CASRAI",
-    "tags": [
-      "competitor:deepscribe",
-      "ambient-ai"
-    ]
-  },
-  {
     "id": "n-2026-11-10-yixuiv",
     "date": "2026-11-10",
     "title": "Nuance DAX Competitors: Abridge, Ambience Healthcare, Suki, Nabla & DeepScribe Compared on EHR & HIPAA",
@@ -244,17 +220,6 @@
     ]
   },
   {
-    "id": "n-2026-01-27-1trv4cx",
-    "date": "2026-01-27",
-    "title": "Ambient AI Tool Adoption in US Hospitals and Associated Factors",
-    "source": "The American Journal of Managed Care",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNy1uNUhrT09ZcnIxRVNTaEZzMnRSclBjSnRrX0xmSm96Zm9fNzhsMy1OcVpZNkJ3NkVkQW54eUZQTVNKamxndTZ5X2JNb0RocmxuODJ5LXZQczBidmFXcWkzbWtPOGxIX2RTeTZiZDZUTTN0RGpYSEg2X2tjOWVsWHJiaXRkOHp6azNWSVdQMUtKYmM?oc=5",
-    "summary": "Ambient AI Tool Adoption in US Hospitals and Associated Factors The American Journal of Managed Care",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
     "id": "n-2026-01-23-zym47w",
     "date": "2026-01-23",
     "title": "COMMENTARY: Health care ambient scribes offer promise but create new legal frontiers",
@@ -342,6 +307,39 @@
     "summary": "Impact of artificial intelligence-based clinical documentation tools on clinical workflow Mayo Clinic",
     "tags": [
       "industry"
+    ]
+  },
+  {
+    "id": "n-2025-08-19-1rbhjd",
+    "date": "2025-08-19",
+    "title": "Doctors work fewer hours, but the EHR still follows them home",
+    "source": "American Medical Association | AMA",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcml2bXQ5Mng4MlQzS2R3QllnanpTMHBlTFlZcWJqY2ZpTE11WF9NM0duUnlqQ3U2UExncmNZYVlBMFByb0hiV2xLQUIzSnI3YndUMXpKN29FQUhXRUZiUzJ3Z3pPdmpBOHpTZjZVcGthS2ZLYmo4UlFvSTFsd1dqUkwyZDFyZXJleVhDWGNFNG9Kbjd1bUQxdi1GVTY3Y3BMUUZ4aW1yNHg5eEZFLWRKek83MGU?oc=5",
+    "summary": "Doctors work fewer hours, but the EHR still follows them home American Medical Association | AMA",
+    "tags": [
+      "industry"
+    ]
+  },
+  {
+    "id": "n-2025-08-18-493t0l",
+    "date": "2025-08-18",
+    "title": "How Epic's AI moves could shake up the healthcare AI market",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYk1TZzFERjAtVEk5cHBjTXp3T0RPb3NKcUYwc1AwMkxMTlNMWDZtNk5zNllFdGxtbDl4U0pPUjlTTUJhNkYwanNGeW9DMWJYMGxRenVtSUxyN0JvaC1CRW80SXgyckdSS0FmTGpQYVo4cWlmd3BWZ2VIak9QdHpRZFVjM0d6U2xxdmpYN2tBWjE4MmNIYlZxY19UZ1Y0bTE5WnJZRTVLdzFZUQ?oc=5",
+    "summary": "How Epic's AI moves could shake up the healthcare AI market Fierce Healthcare",
+    "tags": [
+      "competitor:epic-native"
+    ]
+  },
+  {
+    "id": "n-2025-08-14-1mpob99",
+    "date": "2025-08-14",
+    "title": "Less Typing, More Talking: How Ambient AI Is Reshaping Clinical Workflow at Cleveland Clinic",
+    "source": "Cleveland Clinic",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMXltVElVb2F2ZVMtd19aMzdZdDJpclU2OWQ2QTVUOFhoai1fM0dWaXUxUC1kRThWcEZGaUk3ZDItdE9SejdpT2Y3eThXRE9rTWxwa2M1YmRsT3hldUFsNlJmWnU5YUJUd0t2NEZlcWZ0cGM0MUMyaGNSVXlZMEhta3Y1WHRreVpHdEx2NEN1N2hJaVdOdndnMEg5b1B6V08tNjIyazlDbEgwOW93THA0RWM2ZEQzdndyTk9NVmU4MWpFUGZpRXJv?oc=5",
+    "summary": "Less Typing, More Talking: How Ambient AI Is Reshaping Clinical Workflow at Cleveland Clinic Cleveland Clinic",
+    "tags": [
+      "ambient-ai"
     ]
   }
 ]
