@@ -88,6 +88,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-12-03-b7cemm",
+    "date": "2025-12-03",
+    "competitorId": "nabla",
+    "competitorName": "Nabla Copilot",
+    "title": "LCMC Health Selects Nabla to Power Systemwide Ambient AI Implementation",
+    "source": "PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOGg4VmJVcXJIcjd0OHNibDRYZkp0d2ZrdEQ5T0N0eDlGSXBseW1UdVdoYmduNHFCdllzVVhodVFVTGpDN1pSU3hUdmgtdWhPLWVfNG1aUHJqdzhyZENJLVlYQmJpZkZNWjRwZWhVUmo1dE9WWlFiZHpXUTc1dTlEbEJIQU53QTNPbEJib2k4dllEVEN2cXpxZkdKWkYzQ3daTHA0ZlRkcU5tcmwtLW1jOWVyQjhjU0YyV0czOXVMVFZxODhwd2c?oc=5",
+    "summary": "LCMC Health Selects Nabla to Power Systemwide Ambient AI Implementation PR Newswire",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-10-30-1u6vsmm",
     "date": "2025-10-30",
     "competitorId": "suki",
@@ -228,17 +239,6 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObS1HbFE4SWw5S2hTVUx3eW1mWW5xVjV2TXNGQzJyYVQxMEtuWm9QRjd5bkdmM0dzUC02My1ROEdIcUZMeF95RzdYREh3dHdzX3JqUl9lajhra3gtVElCc3VOM1FSVEFCUzJnaklURzRWWkVla2UzZkRYckFpNjU3NjFFTGx5YVlYM0FfdlZwRGlzdm9aMGtrMVEyN1owbEVEbGFLYmt3NzFRMzhsNlgzYmtWUmNkek03MGQ0MC1fY2JpaUZJUGNWRGZhNnA?oc=5",
     "summary": "Abridge launches generative AI tool for emergency medicine with Emory, Johns Hopkins as early adopters Fierce Healthcare",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2025-01-24-1x3xcrd",
-    "date": "2025-01-24",
-    "competitorId": "deepscribe",
-    "competitorName": "DeepScribe",
-    "title": "DeepScribe partners with Flatiron Health on oncology-focused ambient AI",
-    "source": "MobiHealthNews",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlZlRFl0Q1BZNi1YX1VjMzEyNjVvRkZ1Wlp6UTB1T2FzQlNPRkItM3NzNk5zZThaUkp0RXBlNVFCTXAxMTl3Tk5FSVJXUTliWGlBOWRheXlGTlg4WktObFNNWmtKN3FWNHltbk1vNWRqNm54MGhqY0RzejRmOHJlZnN3Z2lHT2FNREExN25Xb1d2eFcyWG1uZkJXVURUN0V3?oc=5",
-    "summary": "DeepScribe partners with Flatiron Health on oncology-focused ambient AI MobiHealthNews",
     "status": "unverified"
   },
   {
@@ -385,14 +385,14 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2024-07-30-6lmff0",
+    "id": "lead-2024-07-30-1m4a6vj",
     "date": "2024-07-30",
     "competitorId": "deepscribe",
     "competitorName": "DeepScribe",
-    "title": "Ochsner Health selects DeepScribe to bring ambient AI to clinicians",
-    "source": "EurekAlert!",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Bb3ZpY2UtTlJmQmRZc0pGdjFSUS1jLW1TRk03bjljQ1FWV2xkbHBZRWN1eXc1TFdVbVVEdUVYYTVzaU5ZeGFzZ1o1eE1yYmhERG1IY1g3Tkp1YXdF?oc=5",
-    "summary": "Ochsner Health selects DeepScribe to bring ambient AI to clinicians EurekAlert!",
+    "title": "Ochsner Health selects DeepScribe to bring ambient AI to clinicians | Newswise",
+    "source": "Newswise",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNFpSbDlTNW92eEdCanl2bi04akQtVHo2amhiSVFyNi0zUVNhT0s3Y2l5NUxmNUZPSmZpaFZ1LVZwSlFvYTZLa1BYSVVSLWo4czNlNFhmbC1uc182WDhqSXVlbnN0VWhmVGw5d00xTnkyWEdxdDc2UFUwOFV4cTJjU2p0bm1Oa1d5Z1M5SkJaNVJxWDdjbzRPWWtJbUNJVjQ3eWVB0gGjAUFVX3lxTE00WlJsOVM1b3Z4R0JqeXZuLThqRC1UejZqaGJJUXI2LTNRU2FPSzdjaXk1TGY1Rk9KZmloVnUtVnBKUW9hNktrUFhJVVItajhzM2U0WGZsLW5zXzZYOGpJdWVuc3RVaGZUbDl3TTFOeTJYR3F0NzZQVTA4VXhxMmNTanRubU5rV3lnUzlKQlo1UnFYN2NvNE9Za0ltQ0lWNDd5ZUE?oc=5",
+    "summary": "Ochsner Health selects DeepScribe to bring ambient AI to clinicians | Newswise Newswise",
     "status": "unverified"
   },
   {

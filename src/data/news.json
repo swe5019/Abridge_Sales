@@ -11,6 +11,17 @@
     ]
   },
   {
+    "id": "n-2026-11-12-wvlcmb",
+    "date": "2026-11-12",
+    "title": "EkaCare Partners with NHA to Deploy Ambient AI Voice Scribe for Public Healthcare Doctors",
+    "source": "Digital Health News",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLXM3V1NrMkFrVDlWbzA0YUl5YWo4V1UtSG9Qek1rUHE3UW4wMm1zT1YyMkh5YXlOS0l4NUp5UHN3M3V0cldOa3BqYXdsQTlPLW5kQ1gzWnJLQWI0OGdwUW03N3Nvd3MwV21ad1NqcVl0QTNsb2J2a2N5bElUbEVsLVFHVkxIR0RlN2JnYUIxQUdQSHJCV3hQZ3RNTlhkU2trZWtNRk1aMXRBT2dFYkRfT3I4TWVMb0hNeGI3QnFSeEs?oc=5",
+    "summary": "EkaCare Partners with NHA to Deploy Ambient AI Voice Scribe for Public Healthcare Doctors Digital Health News",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-11-11-14eychm",
     "date": "2026-11-11",
     "title": "How the VA is using AI to support care for vets",
@@ -142,23 +153,23 @@
     ]
   },
   {
-    "id": "n-2026-04-02-uuln7g",
-    "date": "2026-04-02",
-    "title": "AI scribes deliver modest time savings, but still boost clinician experience",
-    "source": "TechTarget",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUXNhUE4xNHdRcG9ISW1lUVUxLVRJRkNCNmlmM1JNaFZFUDVHT1NKOTJPMWREZkdHTmFCV1lXWEdlRU9YbjMzU0ViOG1LeTJSekdoRWhBc3VHZ3U5ZUZmOTVONXp1d2NvSFE2VF94bUhMMTdzOTdGZm5vS0wwcGZTZ2M1U0RzU2pqMXVEODJjdTNOaDZMRmZmOG5hTG03d0FydjhrOUJQT0hrN25icGFwUlZsd3BiMXB3aWZ4aUtPNVFGcE4ybTFINHhn?oc=5",
-    "summary": "AI scribes deliver modest time savings, but still boost clinician experience TechTarget",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
     "id": "n-2026-04-02-m151q4",
     "date": "2026-04-02",
     "title": "AI scribe adoption linked to modest reductions in EHR, documentation time: study",
     "source": "Healthcare Dive",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZC1WcEcwX3JBdmZtb0VqdGVWTE4ta3VvTC1NR3EwQUZfZndsTjNzNW16enhCZFh4Z3hQYVZwYmE2MDE5SFdDWG0xXzlmYTdjSjJwNWs1eWd1cTllNG1tS1JxRTZ5QThUdVktaXdfb0xFNzd4TzFwM1F1dnluZ2syQWZWSzVXRUdkV0stUzl0ckc3R1RFZlc5SVMxeV9VNWZLeFNKMEdXVDZjZUd1bFJFRUhKWHhVV3gx?oc=5",
     "summary": "AI scribe adoption linked to modest reductions in EHR, documentation time: study Healthcare Dive",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-04-02-uuln7g",
+    "date": "2026-04-02",
+    "title": "AI scribes deliver modest time savings, but still boost clinician experience",
+    "source": "TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUXNhUE4xNHdRcG9ISW1lUVUxLVRJRkNCNmlmM1JNaFZFUDVHT1NKOTJPMWREZkdHTmFCV1lXWEdlRU9YbjMzU0ViOG1LeTJSekdoRWhBc3VHZ3U5ZUZmOTVONXp1d2NvSFE2VF94bUhMMTdzOTdGZm5vS0wwcGZTZ2M1U0RzU2pqMXVEODJjdTNOaDZMRmZmOG5hTG03d0FydjhrOUJQT0hrN25icGFwUlZsd3BiMXB3aWZ4aUtPNVFGcE4ybTFINHhn?oc=5",
+    "summary": "AI scribes deliver modest time savings, but still boost clinician experience TechTarget",
     "tags": [
       "ambient-ai"
     ]
@@ -328,18 +339,6 @@
     "summary": "The risks of using virtual scribes and ambient listening for documentation McAfee & Taft",
     "tags": [
       "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2025-06-17-jwd96i",
-    "date": "2025-06-17",
-    "title": "Nabla raises $70 million as market for AI tools to help doctors heats up",
-    "source": "STAT",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMGYwUzdrWGhJMGpOd01LQllKMEhyU2VxSzM5Q21ad2dxZU1PemJMRE5Vel8xR2ZlMXNuVFJqUVVFR19rQWo0d0RFMDAwZnMwV3ZHeHJvWFJCRlNrYjd4RVppOFE1TDh6M2RSN25NblFwRVpvQVJDWXFhcHlyWDY0RFFORkhUbGswa2YxNw?oc=5",
-    "summary": "Nabla raises $70 million as market for AI tools to help doctors heats up STAT",
-    "tags": [
-      "competitor:nabla",
-      "funding"
     ]
   }
 ]
