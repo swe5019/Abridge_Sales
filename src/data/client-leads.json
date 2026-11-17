@@ -44,6 +44,39 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2026-02-05-1yps1mx",
+    "date": "2026-02-05",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Epic's AI scribe goes live as EHR giant touts strong adoption of built-in AI features",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT2VBVVFySnhJX2FUUHBET0swTEtZaGtBaGxHUlh5TGY3WmtLcEZPc1plS3ZTZGgtWG1hZUV3eGhhN01UOTcxZ3RrSmFqbVJQemN1RmhaMUxCajFnQ2ZHS2UtVkdsTktud2tndC1uVXNYWDgtTmhPcENRWUlqZTNXdmpxSVpVaU5ValFkQkpGM2JpaEpzLUw0UFU4NzBmeFlPdUdvZ2pjZjA5c3BCV2JTYkZBUW5Ndm9ka204OEg2YnFpQQ?oc=5",
+    "summary": "Epic's AI scribe goes live as EHR giant touts strong adoption of built-in AI features Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2026-02-05-1eep63r",
+    "date": "2026-02-05",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Epic rolls out AI charting tool as scribe market heats up",
+    "source": "Healthcare Dive",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDNsVElCZGdVdHpmUXoxczRxMWNqdDdURWdqSzlCVzB4Z2pMU1BhbVlVTGNnV3JOcWJsZjJOZGY0MURtbW5DTGxTTHZGOGZFZy0wdDVYWjBUdTZtX2laQnhrN0ZnbjhMa0JYbkNNWnlUeHV6MUpIaUFrcmFacU1DQ3FYMVF0REowaXZUcmlsZVhMSmRZZFVVaHcteklSQ1J6T2ZiTEJKSjdpdw?oc=5",
+    "summary": "Epic rolls out AI charting tool as scribe market heats up Healthcare Dive",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2026-02-04-765021",
+    "date": "2026-02-04",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Epic AI Charting Rolls Out Alongside an Expanding Set of Built-in AI Capabilities",
+    "source": "Epic Systems",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkxtOTJkYmJKNnd4ejFZMVJacVh0blplWEhyRjZPd0FWUFpKYVVGeXdReFBCbFZMTE80QnZkNFhPUnhIZlhNdGZXWUFqaW5Gb0l0cE80V1Nqcm5ScFFlOGxjcDczeUVaVHVfbE5JRE9ITmhiTFFmb25uTjM2Tnc2NDhGLUZSTUZXa2ZqN0xwazJUYmNZaFI3VW1rRXdLT3ZuSWx0MEk1S2VNLXRDSU1yaUJDZw?oc=5",
+    "summary": "Epic AI Charting Rolls Out Alongside an Expanding Set of Built-in AI Capabilities Epic Systems",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2026-02-03-nvdpmw",
     "date": "2026-02-03",
     "competitorId": "ambience",
@@ -55,14 +88,25 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-10-30-1u6vsmm",
-    "date": "2025-10-30",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
-    "title": "Suki inks partnership with WellSky to integrate ambient AI into specialty care EHR",
-    "source": "Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaTR2SUh2ZEtwWDhaRGZLZFVINFNaRTdmTFhOYWZjVnVWSGdmS0c0akZxUkJBTjdnM3RvSEFzamVnNUZjQTIwMzlYZjhiOFRRXzFMMW9fYWh4VkZyQzNHZ0JpNnZLc3NVMThhc3JFUG5QR1pLSEZ4UzdHYTNXNUU3eW45M2U4TjZ2V0pWZEJHYksxeWd6NlhITmoxTGpPU0trb2NZMV9UMzdIOGR4SEJiLVhNQXBCWXd4eVo4YkR5UGZFU05v?oc=5",
-    "summary": "Suki inks partnership with WellSky to integrate ambient AI into specialty care EHR Fierce Healthcare",
+    "id": "lead-2025-12-03-b7cemm",
+    "date": "2025-12-03",
+    "competitorId": "nabla",
+    "competitorName": "Nabla Copilot",
+    "title": "LCMC Health Selects Nabla to Power Systemwide Ambient AI Implementation",
+    "source": "PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOGg4VmJVcXJIcjd0OHNibDRYZkp0d2ZrdEQ5T0N0eDlGSXBseW1UdVdoYmduNHFCdllzVVhodVFVTGpDN1pSU3hUdmgtdWhPLWVfNG1aUHJqdzhyZENJLVlYQmJpZkZNWjRwZWhVUmo1dE9WWlFiZHpXUTc1dTlEbEJIQU53QTNPbEJib2k4dllEVEN2cXpxZkdKWkYzQ3daTHA0ZlRkcU5tcmwtLW1jOWVyQjhjU0YyV0czOXVMVFZxODhwd2c?oc=5",
+    "summary": "LCMC Health Selects Nabla to Power Systemwide Ambient AI Implementation PR Newswire",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-10-09-1flmyfx",
+    "date": "2025-10-09",
+    "competitorId": "nabla",
+    "competitorName": "Nabla Copilot",
+    "title": "30+ Provider Groups Adopt Nabla's Ambient AI Through the athenahealth Marketplace in First Year",
+    "source": "PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNGlQcVdaR1NsamN2XzRMekZiU21IYjZHOWhNVVM5UWN6RzFhMWVaaWhzbjRhS0ZINTVFY1h6T2VTeV91b05GOElxTzZSRU4waWQwWXFXc2E3a0kyRDFqc0NINU9BZzdHLVFjemJYakZfZEFhdU8tTEJ3cWZ4cUo2Mm9NVHVMaXRqLVZXRXRrU1p0cHdrNDAtWjUzdG9lN1hLbzRrOEJ0Y2IxYXFhbkhIVi02NThQcXVRQXVMYkpOVHNQSU5UY3FKbEJpS190QlJlcHc1ckduQXREeWxzT0t4dWNoVQ?oc=5",
+    "summary": "30+ Provider Groups Adopt Nabla's Ambient AI Through the athenahealth Marketplace in First Year PR Newswire",
     "status": "unverified"
   },
   {
@@ -99,6 +143,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-06-18-14zbm1b",
+    "date": "2025-06-18",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Abridge launches gen AI tool for inpatient clinicians, adds outpatient orders feature",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSm5nUnZmaGlTclRUem93eUVBd0JxRFhtdVJ1MDgzR0xBb2piU0JvUUV0MFJvRHNlVHJsanBPelhzaDh3VHlnb3g3RUNZRHVnTHlMNXpTRzM3cGUtNjJaSmwwdl85R1ZvNkdLLUVxRmZYZmpRQnZVVjBZdWdGNEt0RXdWS0FxN1FSc1dDajdnd0czdGUzX195QXBWWkpEajdMYW1YRnhJYS1LYlRxYWk5NlA3SXg1bXBuUXVPd05ydWhwU1U?oc=5",
+    "summary": "Abridge launches gen AI tool for inpatient clinicians, adds outpatient orders feature Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-04-30-u6m7xe",
     "date": "2025-04-30",
     "competitorId": "augmedix-commure",
@@ -107,6 +162,17 @@
     "source": "MobiHealthNews",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNk1SQkhDYW1zNXJlV3ZuV3JBc20xZmt6aUxnVmNHVlA1TEVhVjFkMlMxNEJVUHRHS1M5WEdhTS1KNms5Wnh6aDNfWXFSU0E3RTJpWVYzWVlHcFlEOVVRWFRoMzE4TldzSFlUR0o5T0RNLWVJck05U3AydlZnQ3VvUy0zN2tnM1lKQ0dxUjdGM1U?oc=5",
     "summary": "Commure, HealthTap partner for expanded after-hours care MobiHealthNews",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2025-04-16-11equz0",
+    "date": "2025-04-16",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Chicago's Rush rolls out ambient AI after successful pilot",
+    "source": "Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMHlNTVNldjFZOEFWa2h2R0h4S2tpZ09kNnJoSlpfX28zOEI5eHVyVW11ODdmRzdQSmZrVzNVcUd3NFNfbmRoY2lQRkVqUl9NcUtBOGx5ZHp6YXVTLUJMdHVaaGxaYl9tRVRlNUx1M3pncjRjd2p6dzk1dTBpZXJUUVFvX1Z5WUZpcjNQaDBkZjIzV0ViOUVrR1hhSQ?oc=5",
+    "summary": "Chicago's Rush rolls out ambient AI after successful pilot Healthcare IT News",
     "status": "unverified"
   },
   {
@@ -143,6 +209,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-01-29-15opbnw",
+    "date": "2025-01-29",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Abridge launches generative AI tool for emergency medicine with Emory, Johns Hopkins as early adopters",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObS1HbFE4SWw5S2hTVUx3eW1mWW5xVjV2TXNGQzJyYVQxMEtuWm9QRjd5bkdmM0dzUC02My1ROEdIcUZMeF95RzdYREh3dHdzX3JqUl9lajhra3gtVElCc3VOM1FSVEFCUzJnaklURzRWWkVla2UzZkRYckFpNjU3NjFFTGx5YVlYM0FfdlZwRGlzdm9aMGtrMVEyN1owbEVEbGFLYmt3NzFRMzhsNlgzYmtWUmNkek03MGQ0MC1fY2JpaUZJUGNWRGZhNnA?oc=5",
+    "summary": "Abridge launches generative AI tool for emergency medicine with Emory, Johns Hopkins as early adopters Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-01-16-14w5irk",
     "date": "2025-01-16",
     "competitorId": "nabla",
@@ -162,17 +239,6 @@
     "source": "CNBC",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVlJSGYxby1maHM5SjM3TVBmdE1zOVhpUGQ3aVJYZnB1WHo0RURHZUZWLWNPVXlTN1h5cXVDTWhucjhGVmE5Vk1Ba29FVlFjVFE4UzJBUXBYUEU4ZXgzRGRZa3lvUGo1dVBYUWpoQ3VKZkxRTHJEdTBJSVpaVVUxZGtlYjJpZ1p6X3lIdWRZb3FhdFJNWjJYaGNZaWNMSmxFSG5TQzZ4UGLSAa4BQVVfeXFMUEp5czM2TzJLR3FDekQ2OVRoLUgtU2xiRWxTYkdieE8xamZiSHo5YTQ3UDZaX3N1cUwzVmNwOWpBdzFwMGF6NWY3aTZSaGRoeXNkQ0hZM1I1SmhicDRzejFZNjZCUnh2ZnZzWGxWYVNoTXdRZVRnTnFYWEVsSUNaTUh6WnRXMFF5V2hiNmcxMms3RE92YkNxQ0djbldLRWVlQ2hpdlFCdGJHRzVfOF9n?oc=5",
     "summary": "AWS and General Catalyst partner to speed up development of health-care AI tools CNBC",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2024-12-18-plvz2e",
-    "date": "2024-12-18",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
-    "title": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians",
-    "source": "CNBC",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQm42WHRpUFpDeFNRTUkzcW1GRDBTUm94VGdCdlR1bFZveXBHdUJtZ21rcXdUcGJ1bTg0RTJUTzBrWnFvSVdBMTZRbkY2X1BmdFpLMS16QkdJcjF1VmY4aDM3YkwxOVE2alNQUXI2d2x0Qi0td1ZESGw5UE55dFVKbEU3Wmlkck1nbFRxRk9oTkNSSVR4YldVNWFZcnktaEnSAaQBQVVfeXFMT2hlS2tJMzlyRTZ1aGgwdDMxMVlkX20zUVZoaV95d28tcndIM1B3eHFLZFlYdXUtQ182cFp1XzhUcUpFVG9JWTdzYWx2a08tOXZPZVRGckJreHZJUjh2U3JFbGhUQy04Rm5kZlo4SnI1bDZqNWNKb2dNck5FTDc0NlpGVkpkZHRpVXZMN3luWmU3b1NQbEh2aFJ0ZmF6UUZpY01xRVM?oc=5",
-    "summary": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians CNBC",
     "status": "unverified"
   },
   {
@@ -209,36 +275,36 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2024-10-22-hcuwmu",
-    "date": "2024-10-22",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
-    "title": "HLTH24: Suki balloons AI assistant footprint through new strategic partnership with Zoom Healthcare",
+    "id": "lead-2024-10-16-1kwv9lb",
+    "date": "2024-10-16",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Microsoft rolls out new healthcare AI tools in partnership with Epic, Paige.ai, major health systems",
     "source": "Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDNXamdnY0ZKdURDeUIyN1FnMm5pUEl2ZGRYQXgxdnhRUFQyRnRvWEpHRTQ0ZlhsU0VndC1uc1Nnb2V4eHJybloyd25Cb2VwVVVfUno0dlhLVFp2ZnBJUlRicU0xNG00S0VzSHlvZnZlLWdaRVpzV0RqNVN5ZjRMOEQzOUZybTdsWHdDMzdEb3RnU1ZQXzA0ZzU0RmtuMGVuUjB5WGtWRlJaeU4wdmN0OV8xR0tMcDdOR2s3SkdhVQ?oc=5",
-    "summary": "HLTH24: Suki balloons AI assistant footprint through new strategic partnership with Zoom Healthcare Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdldES3R5aUEtWUd0V1pXWEhpNG5JWmJ5ZGZIN1E1UTVpTWdHSjU3MlBkUTlOdGZ2WGhfWFVoV0JVQzFOdE9GTUtTSmhUOFp2bUhOTFhlOVB2LUZZRUJyV0JQNkc3SkRIT1g5UVd3RnRaSHFfRTJyajhCekxpN3VrU3kzWFFlQ2xtdDNXMFVqSGJGUDdxTFUybTM5SG1VZDF5UVBvSVVmc3p2WUFZRlpUWWxjMFg4b1h1Z0dndXRhT082OW5nM0tONFpKcw?oc=5",
+    "summary": "Microsoft rolls out new healthcare AI tools in partnership with Epic, Paige.ai, major health systems Fierce Healthcare",
     "status": "unverified"
   },
   {
-    "id": "lead-2024-10-10-1jqvhfd",
-    "date": "2024-10-10",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
-    "title": "Suki Secures $70M Series D Funding as Demand Surges, Expands Strategic Partnership with MedStar Health",
-    "source": "Business Wire",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSjFHRGhyRzZSR0dUWjg4ZEE1RjI2UFdHdVZNOXZNdnZsaXFRS0xkSUVsZTRDWDh2a2R2d0hfMHRHQ0N1UDJyNnhEZkFkQWxGYlByWkNtM1BtVDgzb2h5UGtNa1JZQUZLX2RnbVRObnpObWV6STFETmo2NVlrdjBCZFp3YlF2QklCc2w4eGZLRHBONG8wUURzWXMtRlljS2xCekhnUEg1ZkdCZWFUaGNwaTVsMzBKbE12OVM1eTNZZU9JUHZLZXBJMU1fVy1CWGI5Y3dNX1hrUU91N0ZPT1Zic2tROC00aDJqSE1TaHhtcGsxZw?oc=5",
-    "summary": "Suki Secures $70M Series D Funding as Demand Surges, Expands Strategic Partnership with MedStar Health Business Wire",
+    "id": "lead-2024-10-11-16pjhd",
+    "date": "2024-10-11",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Abridge, Wolters Kluwer Health ink partnership to integrate UpToDate with AI medical scribe",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU0ltN2YzQVFuVTRJTG9TdmtpOW9BLTduR1BMZXVReE13LU8tb2RsblZKazhxeG1ueXd0aVEwMjZJOHByZV9PeTZrcmVYczRtZDhBUUdlMjJEQTltNVBnSDZhQWFaRnZZTUxTMUdkUkR1NmlCWWxjWkdHVXA5WnA5MTlBVE16Q1ltck51VHl6NDN5OUFJTEI4STB2Nm9FdllYSFhBdkpYTEd2UXBub0VTMGxTY0U1NGJuc0RkMHpjbHFZUFRqTjVZUEQ3MGE?oc=5",
+    "summary": "Abridge, Wolters Kluwer Health ink partnership to integrate UpToDate with AI medical scribe Fierce Healthcare",
     "status": "unverified"
   },
   {
-    "id": "lead-2024-10-10-yz7rnj",
-    "date": "2024-10-10",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
-    "title": "Suki banks $70M to build out AI assistants for doctors, expands health system partnerships",
+    "id": "lead-2024-08-14-beeeak",
+    "date": "2024-08-14",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Kaiser Permanente rolls out Abridge's gen AI clinical tech across 40-hospital system",
     "source": "Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVVFEUy1wSFpibjJNWlp3dGxzWm1NV2hReUtyQTVzV3E3OGQ1RUpjcTdSbVJqcXpHVmhwR2Zlc1gyYWJRbGdRbjJjZWNha3F6OGFWZUVjUVpWdjhiemRkVU5YazJZTnprZEh5ME95bDZiSFUxNFFzUEVlNWkyTlNOX3RUQ0JyeHpKNE4ycmdKcDNFVE8xU3pHQWh2WGdrZkxOU05yemdBa1M3dlI0UlIzRnIxSC1VaEo4SHJOYTNUbS05WGw1eUlxTlhR?oc=5",
-    "summary": "Suki banks $70M to build out AI assistants for doctors, expands health system partnerships Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOUM4WWYxM2tIdmxIME1aY2tEdEY0TWZxc2VFN0UzWldSTTRfTzIxQUkyYzF2emgyeWQ3UXRhQ2J0NUprU3UyYzI0Y2JoYVVTaXduLXVwczhzdHp6bllrRkRBUUVMVGd6S0lmV2lYVE5mcUNLZmF2WWVPU1RFWWRSQmVvV0hDaEFINmRUMzNRQkFMX2VrQ3o0STBUMVB0NXdsX01MX1JnTFF3VThvMWlUQjZORXNvdUVUckNKQmNlWUcybGc?oc=5",
+    "summary": "Kaiser Permanente rolls out Abridge's gen AI clinical tech across 40-hospital system Fierce Healthcare",
     "status": "unverified"
   },
   {
@@ -275,6 +341,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2024-03-13-13j0svs",
+    "date": "2024-03-13",
+    "competitorId": "nabla",
+    "competitorName": "Nabla Copilot",
+    "title": "Children's Hospital Los Angeles Rolls Out Nabla Copilot After Successful Pilot Program",
+    "source": "PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObjZRWjkzQXBwTDF5OHNEcU9NRGdNa1JlcHBZdGZld0hybzhjZVhyVkFfRmVNSGktZi1LdWR3VmZlMVBsMVNNTkVwNGJteWRLaXhxb2Nqc2VUeHVBT0FKT2tvMEktZ3VsWW10bm9NTGhRUkxoMElLOFhlbmh6TFo2M05mNlM3QzhkSFRVckZQSW84UGE0S3VlWHFxMjd4RFRqV3kyREx3TEtaYzZ3RXdfNUNLSFVSb3IwNjR3Y0h1NG1CMjFFRzQzSWFYSTRzQkhKTGhrLXRYSi0?oc=5",
+    "summary": "Children's Hospital Los Angeles Rolls Out Nabla Copilot After Successful Pilot Program PR Newswire",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2024-03-08-1b32fpy",
     "date": "2024-03-08",
     "competitorId": "nuance-dax",
@@ -308,17 +385,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2023-12-14-174xw2t",
-    "date": "2023-12-14",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
-    "title": "Suki AI and omo Ink Exclusive Partnership to Offer AI Assistant to 1000+ Clinicians",
-    "source": "AiThority",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQk5pYW53aHhkN1psLXJXM1BUb1pGekhRRWNLMkhiMUpIQ3U4RzZNeFpSYWU5UlRiOWJ4S2dadmpwUjR0YjcyRDJyMTMtcjRNaTRpX3phWEZnNkQ2Z1k1ZnlBcHR2RGVNYi1sT09WOVRZajNiMTRsZ0QwaWlXVF9wUzc2VGdwajFUd0o1ZmFnYXh5V2c3R08tSEc5djAyR2c2d2ZsRHhVYks0LUtkXzZNcThQdmhLOGs?oc=5",
-    "summary": "Suki AI and omo Ink Exclusive Partnership to Offer AI Assistant to 1000+ Clinicians AiThority",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2023-11-14-x7ywmv",
     "date": "2023-11-14",
     "competitorId": "ambience",
@@ -338,6 +404,17 @@
     "source": "Healthcare Dive",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdmN4TUN1eV9aa2R5NG5OS3ZiMjc1aDh6VU80eVJoUHJYMG04LXN6aXRFdkFkSmtEYW9ILUI5WjFtTURNbFZIdFpDd3Fna2UxTlNlUU9HUGtSZGpKQTFDdUVpSS1keDRMZV9oVGtnMm5IVmFRWng5YWhRN2pHQ2lpMDFjQVpZRzREcWtIdHRMNUkyeGdOMzBEdk9idTNKV1AwOTBGX3JaUzZXejgtMzBUaUNNZjhmQWJYclBz?oc=5",
     "summary": "Nuance rolls out automated clinical documentation tool DAX Copilot Healthcare Dive",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2023-08-31-1eyq4q2",
+    "date": "2023-08-31",
+    "competitorId": "nuance-dax",
+    "competitorName": "DAX Copilot",
+    "title": "Nuance and Epic Expand Ambient Documentation Integration Across the Clinical Experience with DAX Express for Epic",
+    "source": "Epic Systems",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc3FVYy05Rmt4Q0V0SXJ5N0FJdlhlRHBQbGZZRy10WmZOQ01kWElHT2RJaHJOamNrXzJNUTZWQ3dkNUU3VzAydUg0M285NDU0elB1WHpHTmRxMTF3cDV6Qy1TUm1qR2ZWdEJfcFpyRHZUYmNjZDBxMElXeDc1Ulc3UkJVeGZFT2F2VG5xN3Y4NlRyMFVERmoxYUc4eW5fMFhjVmxDRWFRV29FYVVSTkstc3RMek9nSFJVVHFwMEJlTV9waVRyNkp5UmJpS1ZUOVVBdUdmdVpYVWRHNy1Edmc?oc=5",
+    "summary": "Nuance and Epic Expand Ambient Documentation Integration Across the Clinical Experience with DAX Express for Epic Epic Systems",
     "status": "unverified"
   },
   {
@@ -363,25 +440,14 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2023-06-27-1eyq4q2",
-    "date": "2023-06-27",
-    "competitorId": "nuance-dax",
-    "competitorName": "DAX Copilot",
-    "title": "Nuance and Epic Expand Ambient Documentation Integration Across the Clinical Experience with DAX Express for Epic",
-    "source": "PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWjVIQW1RdWJrNEhReldBd2FtdHlYdDJtR1VrRlcyRWU1TEZTVS1NQ1pCWTZ4cUtfeXpJeV90dDEzSWVyOFhTbGRXeU5fdVpEUGJLOTVEOUhUZzNtSEJNcHRhNjZmeWdwdTd6VGlWbVBEODZrWVpXbUc1MWFJb2ZYaDV0azN5QXVyVEc3UUdtRFg3T1Y5aXhyMnl4cTlFcWtfXzlydmNoM0NocXR6OE53WmoyWUxVMUU0ZFdqTE13bFZvbjNVYUVzVjktNWUyQnNYVnIwUXFjaTZWZmFYSEFuWkRMM3phOFp3ZWEwVVQwVkdFSkxURTY3ellOcmp1Zw?oc=5",
-    "summary": "Nuance and Epic Expand Ambient Documentation Integration Across the Clinical Experience with DAX Express for Epic PR Newswire",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2023-05-31-gy59cq",
-    "date": "2023-05-31",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
-    "title": "PartnerMD and CVFP to Deploy Suki’s AI-Powered Voice Assistant Systemwide",
-    "source": "Business Wire",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ1Y1LVNGRVl5YWpzN0xXNVUtZjN2TkVCXzZqUU1qdnk1UENwVmU1cDA5T2F2OHBqeXk3Zjc2U1FWY0FtcERSNExMTUVyVEhmcDVMcHJkX2g3MVJWODlRMjduMm5nX05PenRWbWI0eE9JeWRhSEhlYmU4Ym03ZDlkTkswM3NkVkxfRTAwQnV6UnNTSkY4MDFDcTRlSGZtMG5hM0VpeXg1NmJQenlMVDFGMVU0XzFIWnIwTUlQQWxDU3F4YzhHdEpZZA?oc=5",
-    "summary": "PartnerMD and CVFP to Deploy Suki’s AI-Powered Voice Assistant Systemwide Business Wire",
+    "id": "lead-2023-08-16-1fj5s6e",
+    "date": "2023-08-16",
+    "competitorId": "epic-native",
+    "competitorName": "Epic Native Ambient (Art / partners)",
+    "title": "Abridge inks Epic partnership, Emory Healthcare tie-up for its generative AI tech",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmxMVkhuNWJ6Xy1hdVRLTG5UN3ppQ2IyN1JKdl93bGpjblo1MUdhUzJSdjFRMm5XS2ZkV1BCU0FPNmtXOVFQelVKSWotb0Z1UFBwUkZWTkI0Y1RaXzE0UXBKdmd0dkN5VkE3enIyYXdyMHR3X29PSkdBd0RJNDJDSkNCMldvWnJDeW5veDNMaHItNkpyWFRTYWU4aXdjVFpGcGNqZHFUby1aTmhVNTQ3YVI2NjF3V3U2LUE?oc=5",
+    "summary": "Abridge inks Epic partnership, Emory Healthcare tie-up for its generative AI tech Fierce Healthcare",
     "status": "unverified"
   }
 ]
