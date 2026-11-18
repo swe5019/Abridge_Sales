@@ -275,17 +275,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2024-11-22-sn43az",
-    "date": "2024-11-22",
-    "competitorId": "augmedix-commure",
-    "competitorName": "Augmedix (Commure)",
-    "title": "Tenet to deploy Commure’s AI scribe at physician network",
-    "source": "Healthcare Dive",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTl9oZVA4QzFCbUFPcnh4dWxpY2syU0lQYlVoSHFrcUhtWmFzRWc4VHJ4QjZVOThqaGtCQmNPZVpfZ1dwQTNvdjIzWFNJN0RSbXJ1WDFWYVpwUzRSNld1MzFWd1Y3T3JrYTlSNWtfV0lsclRXb0NnNTN1YzExWWZ4OHN2Y2J6SzJhOHlFSVpCcEJibUFmcW5SUg?oc=5",
-    "summary": "Tenet to deploy Commure’s AI scribe at physician network Healthcare Dive",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2024-11-21-eioqo8",
     "date": "2024-11-21",
     "competitorId": "augmedix-commure",
@@ -371,6 +360,17 @@
     "source": "Pipestone County Star",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVGNqaWE3OWUySTlzSW1mWGZSOUhPVXZyZFdYd2NKbHgxYXc5NkdTVWZWRWJRNHB5d1dzQjVacmtvYVFra2ltRUxwS3N3T2xTSk9PQXNVcXg5dkhEX29BblpncnVBejc1cERtNDE0ckRjY1FCRjA3TVFtMW54bm9nN0hEdHNXMjF2MnQ0?oc=5",
     "summary": "PCMC implements AI note taker in the clinic Pipestone County Star",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-09-17-1ow76rk",
+    "date": "2024-09-17",
+    "competitorId": "nabla",
+    "competitorName": "Nabla Copilot",
+    "title": "Clinical Pioneer University of Iowa Health Care Rolls Out Nabla to All Clinicians",
+    "source": "PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObDExek1LUzZ5Q1JDTmM3aTc3WmZHUkhQdEFIRlJfeVpOZ292MFlxcUNtdWZGZm9PWWMtQjRNZUR1WWZrWWttMldQWjlZQnhEeGctQkRxUE5qU0sybHVUQndEQmlaelRsWlV2SWFvYzFmNXhpd3pWUGpTMlh6NXFPcXJyRW1hMnJ2bTZXOTU2c24xM3lUOUktNTJnRHl4QkkzQkoxS1hZSU1oMEdUeUJadlRZUUFzTmtjUW9nZS1UNzBhWFhDYk9XcXFNZDlmTkdIUVBz?oc=5",
+    "summary": "Clinical Pioneer University of Iowa Health Care Rolls Out Nabla to All Clinicians PR Newswire",
     "status": "unverified"
   },
   {
