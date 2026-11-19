@@ -1,13 +1,13 @@
 [
   {
-    "id": "lead-2026-11-04-1y7br2l",
-    "date": "2026-11-04",
+    "id": "lead-2026-11-18-14njdez",
+    "date": "2026-11-18",
     "competitorId": "ambience",
     "competitorName": "Ambience AutoScribe",
-    "title": "AI Tracker: Mayo Clinic Platform rolls out AI tool for clinicians",
-    "source": "Modern Healthcare",
+    "title": "AI Tracker: AWS launches new features for agentic AI tool",
+    "source": "Modern Healthcare News",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0Zsbm5XcmxTU0JuTzczTC1fUF9FVzB3LTJ3X2hLYVRJUFl3ZXB6TEZoMldEOXlkTXBTOVp2amNpLXFVeWlBUUd4X2dZNzlvUnB2LUoybW9LRThOY2pjN18tbnB3S2NieGMwSm9fVVBuZHprWUFrTU50Wk91ZVREV3NDZ1hvQ3RxcW9zeEMxMGs?oc=5",
-    "summary": "AI Tracker: Mayo Clinic Platform rolls out AI tool for clinicians Modern Healthcare",
+    "summary": "AI Tracker: AWS launches new features for agentic AI tool Modern Healthcare News",
     "status": "unverified"
   },
   {
@@ -242,6 +242,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-01-24-1x3xcrd",
+    "date": "2025-01-24",
+    "competitorId": "deepscribe",
+    "competitorName": "DeepScribe",
+    "title": "DeepScribe partners with Flatiron Health on oncology-focused ambient AI",
+    "source": "MobiHealthNews",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlZlRFl0Q1BZNi1YX1VjMzEyNjVvRkZ1Wlp6UTB1T2FzQlNPRkItM3NzNk5zZThaUkp0RXBlNVFCTXAxMTl3Tk5FSVJXUTliWGlBOWRheXlGTlg4WktObFNNWmtKN3FWNHltbk1vNWRqNm54MGhqY0RzejRmOHJlZnN3Z2lHT2FNREExN25Xb1d2eFcyWG1uZkJXVURUN0V3?oc=5",
+    "summary": "DeepScribe partners with Flatiron Health on oncology-focused ambient AI MobiHealthNews",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-01-16-14w5irk",
     "date": "2025-01-16",
     "competitorId": "nabla",
@@ -272,6 +283,17 @@
     "source": "CNBC",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQm42WHRpUFpDeFNRTUkzcW1GRDBTUm94VGdCdlR1bFZveXBHdUJtZ21rcXdUcGJ1bTg0RTJUTzBrWnFvSVdBMTZRbkY2X1BmdFpLMS16QkdJcjF1VmY4aDM3YkwxOVE2alNQUXI2d2x0Qi0td1ZESGw5UE55dFVKbEU3Wmlkck1nbFRxRk9oTkNSSVR4YldVNWFZcnktaEnSAaQBQVVfeXFMT2hlS2tJMzlyRTZ1aGgwdDMxMVlkX20zUVZoaV95d28tcndIM1B3eHFLZFlYdXUtQ182cFp1XzhUcUpFVG9JWTdzYWx2a08tOXZPZVRGckJreHZJUjh2U3JFbGhUQy04Rm5kZlo4SnI1bDZqNWNKb2dNck5FTDc0NlpGVkpkZHRpVXZMN3luWmU3b1NQbEh2aFJ0ZmF6UUZpY01xRVM?oc=5",
     "summary": "Health AI startup Suki expands partnership with Google Cloud to deliver more assistive tech for clinicians CNBC",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-11-22-sn43az",
+    "date": "2024-11-22",
+    "competitorId": "augmedix-commure",
+    "competitorName": "Augmedix (Commure)",
+    "title": "Tenet to deploy Commure’s AI scribe at physician network",
+    "source": "Healthcare Dive",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTl9oZVA4QzFCbUFPcnh4dWxpY2syU0lQYlVoSHFrcUhtWmFzRWc4VHJ4QjZVOThqaGtCQmNPZVpfZ1dwQTNvdjIzWFNJN0RSbXJ1WDFWYVpwUzRSNld1MzFWd1Y3T3JrYTlSNWtfV0lsclRXb0NnNTN1YzExWWZ4OHN2Y2J6SzJhOHlFSVpCcEJibUFmcW5SUg?oc=5",
+    "summary": "Tenet to deploy Commure’s AI scribe at physician network Healthcare Dive",
     "status": "unverified"
   },
   {
@@ -525,28 +547,6 @@
     "source": "The Official Microsoft Blog",
     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNTkRSRmpadHk1Z0tSRHVTM09jUmZhVnlxMGQ0aHlURzFsZHNuR2tUYU51eUYwaTJKOHRuOXVUa3Q4bGh1Ynk4cUdBSGlXUFlwbmV5andQY3ZRQmo4Z0hNNFlMbThJT3htd0RmbDNldUcyaG1HTDBMeE5oUWhuejE1TzRGMTBNSWdpWkVtNndRTWZ0dk5FWjRid0ZOVkxjeG0wbGxtQ0k0S2xRdHhZT0VWbTVCS1lhWnV6T3F4cUJFbThZY3lEU2Z0c0VyWG5pSE1kSU1td1VqVG1ZRHBpRVdTa1RRYW03SzZsN1FOenBzN0U5RE9XOFJhZkwxSl9KcjNfRGNINkp1djdkeFBVWkdV?oc=5",
     "summary": "Microsoft and Epic expand AI collaboration to accelerate generative AI’s impact in healthcare, addressing the industry’s most pressing needs The Official Microsoft Blog",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2023-08-16-1fj5s6e",
-    "date": "2023-08-16",
-    "competitorId": "epic-native",
-    "competitorName": "Epic Native Ambient (Art / partners)",
-    "title": "Abridge inks Epic partnership, Emory Healthcare tie-up for its generative AI tech",
-    "source": "Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmxMVkhuNWJ6Xy1hdVRLTG5UN3ppQ2IyN1JKdl93bGpjblo1MUdhUzJSdjFRMm5XS2ZkV1BCU0FPNmtXOVFQelVKSWotb0Z1UFBwUkZWTkI0Y1RaXzE0UXBKdmd0dkN5VkE3enIyYXdyMHR3X29PSkdBd0RJNDJDSkNCMldvWnJDeW5veDNMaHItNkpyWFRTYWU4aXdjVFpGcGNqZHFUby1aTmhVNTQ3YVI2NjF3V3U2LUE?oc=5",
-    "summary": "Abridge inks Epic partnership, Emory Healthcare tie-up for its generative AI tech Fierce Healthcare",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2023-05-31-gy59cq",
-    "date": "2023-05-31",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
-    "title": "PartnerMD and CVFP to Deploy Suki’s AI-Powered Voice Assistant Systemwide",
-    "source": "Business Wire",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ1Y1LVNGRVl5YWpzN0xXNVUtZjN2TkVCXzZqUU1qdnk1UENwVmU1cDA5T2F2OHBqeXk3Zjc2U1FWY0FtcERSNExMTUVyVEhmcDVMcHJkX2g3MVJWODlRMjduMm5nX05PenRWbWI0eE9JeWRhSEhlYmU4Ym03ZDlkTkswM3NkVkxfRTAwQnV6UnNTSkY4MDFDcTRlSGZtMG5hM0VpeXg1NmJQenlMVDFGMVU0XzFIWnIwTUlQQWxDU3F4YzhHdEpZZA?oc=5",
-    "summary": "PartnerMD and CVFP to Deploy Suki’s AI-Powered Voice Assistant Systemwide Business Wire",
     "status": "unverified"
   }
 ]

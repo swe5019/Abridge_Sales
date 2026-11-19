@@ -1,22 +1,11 @@
 [
   {
-    "id": "n-2026-11-18-1n2mh98",
-    "date": "2026-11-18",
-    "title": "Healthcare AI Shakeout: Health Systems Plan to Cut AI Vendors Nearly in Half by 2028, Black Book Finds",
-    "source": "Newswire",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXYtNUxPc2p6ZVhCY3Myc0ltVjU2a2xjVTZfM25EYkIzNGJtcmdvZ2hlUzJkYWp5T25NOXpwX0EtWEdkLXRxTUdDUnNJd1pQNTFMVUgwbUxqaWV6UlRaSV8tUl83YjJHYmNLUjk3VlYzTUpUT3l0VFlQMDFaaXM3ZkZmMTlQTVlEUnoxcThJM0EtWEhycm9CamtLdXg1ZndlUXVmQkVjNTZoaVBwRFE?oc=5",
-    "summary": "Healthcare AI Shakeout: Health Systems Plan to Cut AI Vendors Nearly in Half by 2028, Black Book Finds Newswire",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
-    "id": "n-2026-11-17-12zel9l",
+    "id": "n-2026-11-17-151dahw",
     "date": "2026-11-17",
-    "title": "HLTH 2026: Healthcare AI spend grows",
-    "source": "Modern Healthcare News",
+    "title": "HLTH 2026: Elevance Health uses AI to speed prior authorization",
+    "source": "Modern Healthcare",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2VlpFM2tMVmE2aWU1LTZTT3FoZzNkY2RoaERXRVlFWklBYktFQS1wWjFyV0FOU0dvSTFuWk01RlQtNWdjemxESnpSaHNXb0NWR0RXQ0p5ajM3VlhLeDQtWGVSb0VIbTZQTDN0Nzk5S3FWOTI2b1lZSnFBVQ?oc=5",
-    "summary": "HLTH 2026: Healthcare AI spend grows Modern Healthcare News",
+    "summary": "HLTH 2026: Elevance Health uses AI to speed prior authorization Modern Healthcare",
     "tags": [
       "industry"
     ]
@@ -334,6 +323,17 @@
     "summary": "How Epic's AI moves could shake up the healthcare AI market Fierce Healthcare",
     "tags": [
       "competitor:epic-native"
+    ]
+  },
+  {
+    "id": "n-2025-08-14-1mpob99",
+    "date": "2025-08-14",
+    "title": "Less Typing, More Talking: How Ambient AI Is Reshaping Clinical Workflow at Cleveland Clinic",
+    "source": "Cleveland Clinic",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMXltVElVb2F2ZVMtd19aMzdZdDJpclU2OWQ2QTVUOFhoai1fM0dWaXUxUC1kRThWcEZGaUk3ZDItdE9SejdpT2Y3eThXRE9rTWxwa2M1YmRsT3hldUFsNlJmWnU5YUJUd0t2NEZlcWZ0cGM0MUMyaGNSVXlZMEhta3Y1WHRreVpHdEx2NEN1N2hJaVdOdndnMEg5b1B6V08tNjIyazlDbEgwOW93THA0RWM2ZEQzdndyTk9NVmU4MWpFUGZpRXJv?oc=5",
+    "summary": "Less Typing, More Talking: How Ambient AI Is Reshaping Clinical Workflow at Cleveland Clinic Cleveland Clinic",
+    "tags": [
+      "ambient-ai"
     ]
   }
 ]
