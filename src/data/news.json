@@ -1,5 +1,16 @@
 [
   {
+    "id": "n-2026-11-19-1ksvjt1",
+    "date": "2026-11-19",
+    "title": "Why ambient AI notes need more than a sign-off",
+    "source": "Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WNThSdHJ4ZExCWjZzNGRpZlh5NjN2UVVGUDQ4NDBqZ1RSb3RTSnItb21EbUs4ZTlBMk5mTUJNcXlYVzBGZ0dRNmFaZHM0d1hwTERtV1RobVBlOUVHbUFUNW51WWV6cVR0cDFNMENVX1pEaWxLT2RPVHJFMDhTUQ?oc=5",
+    "summary": "Why ambient AI notes need more than a sign-off Healthcare IT News",
+    "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
     "id": "n-2026-11-18-1n2mh98",
     "date": "2026-11-18",
     "title": "Healthcare AI Shakeout: Health Systems Plan to Cut AI Vendors Nearly in Half by 2028, Black Book Finds",
@@ -53,6 +64,17 @@
     "tags": [
       "competitor:nuance-dax",
       "competitor:epic-native",
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-09-25-fjtp8v",
+    "date": "2026-09-25",
+    "title": "For the record: a narrative review of ambient voice technology in clinical documentation for dentistry and wider healthcare",
+    "source": "Nature",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xZlJvSnhWSDRCS3NoTUpjUTh4LWl5MXIzdjJaY0ZDc05TeWduVU1EbDhZRnFBc0FReWVlSWVOaXdqakJfcDVTNmVRTnRTQXk3N0Y0VW5KdUhNWW55YkE?oc=5",
+    "summary": "For the record: a narrative review of ambient voice technology in clinical documentation for dentistry and wider healthcare Nature",
+    "tags": [
       "ambient-ai"
     ]
   },
@@ -269,17 +291,6 @@
     ]
   },
   {
-    "id": "n-2025-12-04-1whdvtu",
-    "date": "2025-12-04",
-    "title": "How ambient AI scribes are transforming EHR documentation",
-    "source": "AAFP",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMFJGVVRKcU13azYyOTdlWGZQZzBNaldKYk9Bc0Z2UXhRZlljWGJsVHAxZk5icFEza0Itc2dWWDZoMjdRNkROQTFrWUVNaTFqZmUzN08wdjM3amJKQWtBTE8wNXp6WkRZNjBQOGJXYTJsZjk0N3J2cXdBTzZxUTl1YjhmWUw4NHlQdDl3cU4ydWIyYTl1NFhJX1FWZWRpTjlyQVhuX0JtaVY?oc=5",
-    "summary": "How ambient AI scribes are transforming EHR documentation AAFP",
-    "tags": [
-      "ambient-ai"
-    ]
-  },
-  {
     "id": "n-2025-11-26-e6rn0q",
     "date": "2025-11-26",
     "title": "UCLA study finds AI scribes may reduce documentation time and improve physician well-being",
@@ -323,17 +334,6 @@
     "summary": "Doctors work fewer hours, but the EHR still follows them home American Medical Association | AMA",
     "tags": [
       "industry"
-    ]
-  },
-  {
-    "id": "n-2025-08-18-493t0l",
-    "date": "2025-08-18",
-    "title": "How Epic's AI moves could shake up the healthcare AI market",
-    "source": "Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYk1TZzFERjAtVEk5cHBjTXp3T0RPb3NKcUYwc1AwMkxMTlNMWDZtNk5zNllFdGxtbDl4U0pPUjlTTUJhNkYwanNGeW9DMWJYMGxRenVtSUxyN0JvaC1CRW80SXgyckdSS0FmTGpQYVo4cWlmd3BWZ2VIak9QdHpRZFVjM0d6U2xxdmpYN2tBWjE4MmNIYlZxY19UZ1Y0bTE5WnJZRTVLdzFZUQ?oc=5",
-    "summary": "How Epic's AI moves could shake up the healthcare AI market Fierce Healthcare",
-    "tags": [
-      "competitor:epic-native"
     ]
   }
 ]
