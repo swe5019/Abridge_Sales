@@ -22,17 +22,6 @@
     ]
   },
   {
-    "id": "n-2026-11-17-151dahw",
-    "date": "2026-11-17",
-    "title": "HLTH 2026: Elevance Health uses AI to speed prior authorization",
-    "source": "Modern Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2VlpFM2tMVmE2aWU1LTZTT3FoZzNkY2RoaERXRVlFWklBYktFQS1wWjFyV0FOU0dvSTFuWk01RlQtNWdjemxESnpSaHNXb0NWR0RXQ0p5ajM3VlhLeDQtWGVSb0VIbTZQTDN0Nzk5S3FWOTI2b1lZSnFBVQ?oc=5",
-    "summary": "HLTH 2026: Elevance Health uses AI to speed prior authorization Modern Healthcare",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
     "id": "n-2026-11-13-1wrwzz6",
     "date": "2026-11-13",
     "title": "Corewell Health's ambient AI cuts nursing documentation time by 52%",
@@ -40,6 +29,32 @@
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV202UVNrTGNNV2ptYmhidmZ1bGd1amVOcWlid2tyQVNNMXRXcFF0M2Rta2p5ZGtfY2ltejV3aXJPdXhjX0RkMlE4UnNhc0JPUTZheFB0QW5USUN4NHJXb2NpczY3NjQ0RmdKRV9qZjh1YmU5RGNaa0ZaOG52U2JpbDR0YVZ6b29QQXZXSC1icmZfMmxQZGJpM05ldVp2c2lZOFE?oc=5",
     "summary": "Corewell Health's ambient AI cuts nursing documentation time by 52% Healthcare IT News",
     "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-11-10-fa6v8u",
+    "date": "2026-11-10",
+    "title": "Abridge vs. DAX Copilot: Ambient AI Scribe Guide",
+    "source": "CASRAI",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qellUV3VBaXF1eHZ0T0ZUcjdlbTBQNXFGOXlGcnVhT1pNVFpEd09jcFZjUTllSC12eGtiWjVqX3dnSWhrQWVtcVJEanZpWjAteEE?oc=5",
+    "summary": "Abridge vs. DAX Copilot: Ambient AI Scribe Guide CASRAI",
+    "tags": [
+      "abridge",
+      "competitor:nuance-dax",
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-11-09-ni6gg4",
+    "date": "2026-11-09",
+    "title": "DAX Copilot (Dragon Copilot): Epic & Ambient AI",
+    "source": "CASRAI",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGMDVKWS1sVThZTV9CWDMzZzltNU43WTZheDBqdk1fYWsxVVg0cTlkczFFTjlOR2NpbG16alNJNUREVmI5V3k3ak9GaVEyUQ?oc=5",
+    "summary": "DAX Copilot (Dragon Copilot): Epic & Ambient AI CASRAI",
+    "tags": [
+      "competitor:nuance-dax",
+      "competitor:epic-native",
       "ambient-ai"
     ]
   },
@@ -119,17 +134,6 @@
     "summary": "Abridge releases ambient AI tech for nurses Healthcare IT News",
     "tags": [
       "abridge",
-      "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-04-30-1gedl6q",
-    "date": "2026-04-30",
-    "title": "At UToledo Health, ambient AI decreases open charts, improves documentation",
-    "source": "Healthcare IT News",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeG1YMkdXVlRxMjRlaVRKRXlELW55SE9UV1pqV2NWVHc3Yk56QUNkbzl2UWlma2NPRVMwUW5UdjlSVXk1UFNucklvbEpjWEY1TVpJNlo5Wmo0cGpuZU8yNUxFd2tBLXkxX3FmLTVRM1F3cXJfeVZ1QmpfZjlnVFBWTlNIazJCOXhqYVlrVndDNklDVEVBbEhVZ2pDUzRlNXRjbHNBeGZHblRTTmtJ?oc=5",
-    "summary": "At UToledo Health, ambient AI decreases open charts, improves documentation Healthcare IT News",
-    "tags": [
       "ambient-ai"
     ]
   },
