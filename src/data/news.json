@@ -22,17 +22,6 @@
     ]
   },
   {
-    "id": "n-2026-11-21-1eittw4",
-    "date": "2026-11-21",
-    "title": "AI Medical Scribing Market Poised for Strong Growth, Reaching US$ 32.5 Billion by 2035",
-    "source": "Market.us Media",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KWXBsMFNZR3ozSmM3dTlsYlVxRHB5NWJScUFldzNkYWVWTEptQ3p6X1h3M2lmVlZFTXpLYXpselh5VGw1Szk1NTFVeDlDMEdDVDROeGJybTh6Tzdwd0dsX0Nsa2tOSmgwb1JB?oc=5",
-    "summary": "AI Medical Scribing Market Poised for Strong Growth, Reaching US$ 32.5 Billion by 2035 Market.us Media",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
     "id": "n-2026-11-19-1ksvjt1",
     "date": "2026-11-19",
     "title": "Why ambient AI notes need more than a sign-off",
@@ -41,17 +30,6 @@
     "summary": "Why ambient AI notes need more than a sign-off Healthcare IT News",
     "tags": [
       "ambient-ai"
-    ]
-  },
-  {
-    "id": "n-2026-11-18-1n2mh98",
-    "date": "2026-11-18",
-    "title": "Healthcare AI Shakeout: Health Systems Plan to Cut AI Vendors Nearly in Half by 2028, Black Book Finds",
-    "source": "Newswire",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXYtNUxPc2p6ZVhCY3Myc0ltVjU2a2xjVTZfM25EYkIzNGJtcmdvZ2hlUzJkYWp5T25NOXpwX0EtWEdkLXRxTUdDUnNJd1pQNTFMVUgwbUxqaWV6UlRaSV8tUl83YjJHYmNLUjk3VlYzTUpUT3l0VFlQMDFaaXM3ZkZmMTlQTVlEUnoxcThJM0EtWEhycm9CamtLdXg1ZndlUXVmQkVjNTZoaVBwRFE?oc=5",
-    "summary": "Healthcare AI Shakeout: Health Systems Plan to Cut AI Vendors Nearly in Half by 2028, Black Book Finds Newswire",
-    "tags": [
-      "industry"
     ]
   },
   {
@@ -336,6 +314,28 @@
     "tags": [
       "abridge",
       "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2025-08-19-1rbhjd",
+    "date": "2025-08-19",
+    "title": "Doctors work fewer hours, but the EHR still follows them home",
+    "source": "American Medical Association | AMA",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcml2bXQ5Mng4MlQzS2R3QllnanpTMHBlTFlZcWJqY2ZpTE11WF9NM0duUnlqQ3U2UExncmNZYVlBMFByb0hiV2xLQUIzSnI3YndUMXpKN29FQUhXRUZiUzJ3Z3pPdmpBOHpTZjZVcGthS2ZLYmo4UlFvSTFsd1dqUkwyZDFyZXJleVhDWGNFNG9Kbjd1bUQxdi1GVTY3Y3BMUUZ4aW1yNHg5eEZFLWRKek83MGU?oc=5",
+    "summary": "Doctors work fewer hours, but the EHR still follows them home American Medical Association | AMA",
+    "tags": [
+      "industry"
+    ]
+  },
+  {
+    "id": "n-2025-08-18-493t0l",
+    "date": "2025-08-18",
+    "title": "How Epic's AI moves could shake up the healthcare AI market",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYk1TZzFERjAtVEk5cHBjTXp3T0RPb3NKcUYwc1AwMkxMTlNMWDZtNk5zNllFdGxtbDl4U0pPUjlTTUJhNkYwanNGeW9DMWJYMGxRenVtSUxyN0JvaC1CRW80SXgyckdSS0FmTGpQYVo4cWlmd3BWZ2VIak9QdHpRZFVjM0d6U2xxdmpYN2tBWjE4MmNIYlZxY19UZ1Y0bTE5WnJZRTVLdzFZUQ?oc=5",
+    "summary": "How Epic's AI moves could shake up the healthcare AI market Fierce Healthcare",
+    "tags": [
+      "competitor:epic-native"
     ]
   }
 ]
