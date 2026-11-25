@@ -44,12 +44,12 @@
     ]
   },
   {
-    "id": "n-2026-11-18-1n2mh98",
+    "id": "n-2026-11-18-14njdez",
     "date": "2026-11-18",
-    "title": "Healthcare AI Shakeout: Health Systems Plan to Cut AI Vendors Nearly in Half by 2028, Black Book Finds",
-    "source": "Newswire",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXYtNUxPc2p6ZVhCY3Myc0ltVjU2a2xjVTZfM25EYkIzNGJtcmdvZ2hlUzJkYWp5T25NOXpwX0EtWEdkLXRxTUdDUnNJd1pQNTFMVUgwbUxqaWV6UlRaSV8tUl83YjJHYmNLUjk3VlYzTUpUT3l0VFlQMDFaaXM3ZkZmMTlQTVlEUnoxcThJM0EtWEhycm9CamtLdXg1ZndlUXVmQkVjNTZoaVBwRFE?oc=5",
-    "summary": "Healthcare AI Shakeout: Health Systems Plan to Cut AI Vendors Nearly in Half by 2028, Black Book Finds Newswire",
+    "title": "AI Tracker: AWS launches new features for agentic AI tool",
+    "source": "Modern Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0Zsbm5XcmxTU0JuTzczTC1fUF9FVzB3LTJ3X2hLYVRJUFl3ZXB6TEZoMldEOXlkTXBTOVp2amNpLXFVeWlBUUd4X2dZNzlvUnB2LUoybW9LRThOY2pjN18tbnB3S2NieGMwSm9fVVBuZHprWUFrTU50Wk91ZVREV3NDZ1hvQ3RxcW9zeEMxMGs?oc=5",
+    "summary": "AI Tracker: AWS launches new features for agentic AI tool Modern Healthcare",
     "tags": [
       "industry"
     ]
@@ -119,6 +119,18 @@
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PQ2gxcFEyeEdOZzA5REVfUS1rWFJLWjVSM0tlbk5DaUs5UzVSbVJaXzU0bGNtTTRMdlpUUHFzaHBESmZsa1l1ZkVqdi1kNnRxSUZBTQ?oc=5",
     "summary": "Cerner AI Scribe: PowerChart & FHIR Workflows CASRAI",
     "tags": [
+      "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-11-10-1nuzggm",
+    "date": "2026-11-10",
+    "title": "Augmedix Competitors: Clinical AI Scribes Compared",
+    "source": "CASRAI",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qczN6VlpHSTRIOHhYdDN5YnBQanZtMVkwVC13Qld1SlFGY183cnJzaTFmZy16emVxRlQ4NENMbjlpb2FnZFBGYXFhTFpJMGNZOWxQUi1fNVRXZw?oc=5",
+    "summary": "Augmedix Competitors: Clinical AI Scribes Compared CASRAI",
+    "tags": [
+      "competitor:augmedix-commure",
       "ambient-ai"
     ]
   },
@@ -204,6 +216,17 @@
     "source": "HIT Consultant",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWmZvR1dUaF9BRGN1WlNTNHNxbnRiVXVVMm1QMnpGa1dxVVVTWVpmMlB2VGdFQmN6QVhIeHQ2ZXp0dDNpMm4xb0hIWVJTMkFHSVNuMFhsb0VNSWlHdlFOTkJJUDRBOWI4c3FhdnRLOGY2NGgxU0RycmJTRGttWGgxWThMYUgxUDI2TF9nM3B3WjZoRTFMMnZwR244aDVnRHhFZUZB?oc=5",
     "summary": "Why Healthcare Can’t Skip Steps on the Way to Conversational AI HIT Consultant",
+    "tags": [
+      "industry"
+    ]
+  },
+  {
+    "id": "n-2026-11-06-100fif8",
+    "date": "2026-11-06",
+    "title": "AI May Step In to Fill Healthcare Workforce Gaps",
+    "source": "Medscape",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZmJtTG15V3pvRXpoSkg2a2lucXA0T3lzeHF3ckJWWlZXbnBZTF9hY0lLYXVBZmstRjdNVWVIZHBJV3UxNGt1eFB0dHA4YllQeGdHcV9tUmZmVkRkd0pHcllUcE9mVm9HUGhDMHNqb25XT0M2Q1NIT0tqRXFGRFhoX1VNV1JBWnE5R3hIXzkzMGJmN2RNZDZKdjlCZU9KQ0RfSThRM3Y4MERodw?oc=5",
+    "summary": "AI May Step In to Fill Healthcare Workforce Gaps Medscape",
     "tags": [
       "industry"
     ]
@@ -318,28 +341,6 @@
     "summary": "Teladoc Health unveils new AI capabilities within Solo platform for hospitals Fierce Healthcare",
     "tags": [
       "industry"
-    ]
-  },
-  {
-    "id": "n-2026-10-04-g5f8yu",
-    "date": "2026-10-04",
-    "title": "Onpoint Healthcare Partners - AI for Practice Operations",
-    "source": "yespress.io",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KQ1kyMmF2aG1JaHpzeHFTWVZrdWtUNHY5VERGakM4RDNkM2tuZzU4T2lJdEl1TF9WU2hVMTZLXzhkWk9WVkFfdnRYZXNnMnhyV3Rpc1R5MER5YnM?oc=5",
-    "summary": "Onpoint Healthcare Partners - AI for Practice Operations yespress.io",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
-    "id": "n-2026-09-25-fjtp8v",
-    "date": "2026-09-25",
-    "title": "For the record: a narrative review of ambient voice technology in clinical documentation for dentistry and wider healthcare",
-    "source": "Nature",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xZlJvSnhWSDRCS3NoTUpjUTh4LWl5MXIzdjJaY0ZDc05TeWduVU1EbDhZRnFBc0FReWVlSWVOaXdqakJfcDVTNmVRTnRTQXk3N0Y0VW5KdUhNWW55YkE?oc=5",
-    "summary": "For the record: a narrative review of ambient voice technology in clinical documentation for dentistry and wider healthcare Nature",
-    "tags": [
-      "ambient-ai"
     ]
   }
 ]
