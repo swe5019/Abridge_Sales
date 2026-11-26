@@ -1,13 +1,35 @@
 [
   {
+    "id": "lead-2026-11-18-14njdez",
+    "date": "2026-11-18",
+    "competitorId": "ambience",
+    "competitorName": "Ambience AutoScribe",
+    "title": "AI Tracker: AWS launches new features for agentic AI tool",
+    "source": "Modern Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0Zsbm5XcmxTU0JuTzczTC1fUF9FVzB3LTJ3X2hLYVRJUFl3ZXB6TEZoMldEOXlkTXBTOVp2amNpLXFVeWlBUUd4X2dZNzlvUnB2LUoybW9LRThOY2pjN18tbnB3S2NieGMwSm9fVVBuZHprWUFrTU50Wk91ZVREV3NDZ1hvQ3RxcW9zeEMxMGs?oc=5",
+    "summary": "AI Tracker: AWS launches new features for agentic AI tool Modern Healthcare",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2026-11-17-9m9327",
     "date": "2026-11-17",
     "competitorId": "ambience",
     "competitorName": "Ambience AutoScribe",
     "title": "Ambience Healthcare Launches Care Orchestration for Inpatient Teams",
-    "source": "Business Wire",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUmZ2bm4yRDU1YkJRaHUtcF9vZXBITW14ell1SGhuQzhZVWdGdmFSQm5RdEd2eXAtWDBLVzQ4NWRPMmpCUDVDZ3FhVlJpUzlyamJTWmxuaFFQVnlzRTV4eXh1enFlOG5BblZuRU5jM2kxMi1KYTlYVnRMeXNfMml3UnlGZFV3UjNLb0dLNmlaSGpPQjhOalg2a1JrbjBHdDVSUl84ZjZtcXBNNktpVmhVUDIxUnVBYTY1dWJxNm5DM2hCUQ?oc=5",
-    "summary": "Ambience Healthcare Launches Care Orchestration for Inpatient Teams Business Wire",
+    "source": "01net",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTnZackVwQ0J3el9IaUVPUkVOMS1DSjFzZ09URFp3bDh0NXEyZXc5Mk1VYjhIV2FZU3FmRk15NHdINXJlTm01bXN5a0I1SGZUdnAzajhfQ2dWeDFVTUs5OFpYYkFsNGFLbWtrZmU2ZDAwd1d1Z1FwQXAtbU5STE5LaEVVazdLSk5KZjEzN3JlTkVBTU0?oc=5",
+    "summary": "Ambience Healthcare Launches Care Orchestration for Inpatient Teams 01net",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2026-11-10-xqwi7j",
+    "date": "2026-11-10",
+    "competitorId": "nuance-dax",
+    "competitorName": "DAX Copilot",
+    "title": "Ohio State Wexner Medical Center and Microsoft Ink 5-Year Partnership to Co-Develop the Smart Hospital of the Future",
+    "source": "HIT Consultant",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbWdaRXlvckhkUEM2ZVM5MzVheXRrM1RCZzFuYW5NNFRyMW4wWW9Ya0c5MGVWTVVLRUhQSVJUWnBjT1hXWXZwUGpBSjIzQW1rcnljeEo4ZTRJWmowMzluTDJfaW1jTFJ5ZWp5bFlyOExLR0VFc2ZqYm5FdWplcFJ4RG52NTFPRWd2d2hJcnlHYmZ4UjJZNlk3TWVqUzF6V1pUWDlDaHNYRXotYkV4a1pqbThHd25WaUxJdUE?oc=5",
+    "summary": "Ohio State Wexner Medical Center and Microsoft Ink 5-Year Partnership to Co-Develop the Smart Hospital of the Future HIT Consultant",
     "status": "unverified"
   },
   {
@@ -63,17 +85,6 @@
     "source": "GlobeNewswire",
     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRzhTeWpzQXFRQzRWZnRPX3p1RVJKLWlDVEVDZTh1dXJwNlA2eVNlUWJRSEQyd19uMm00M3pReElJdzVJMnpaMzgzTGFtU0VPbTJiU081d0VlVXYzeWJvdzRTWm94VjZZbWpjUFJKcGl2ZmNtUGdSUHB4Z3NQTG1uVDhWUFVYMHlTMDZtS3ZwM3ZMUTMzdnNwcmI1R1ZwWnZ5aFZtdEFkeWJneGhyYXVaUzROOUNJTHZjcmJyT2RnTm9wRGdzS1lhQmswZzJzSVFQVDNkdkVjRkdndjY0eWRpbHZaV28?oc=5",
     "summary": "Willis Knighton Health Selects Commure as Enterprise Ambient Scribe AI Partner GlobeNewswire",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2026-04-20-1dqobru",
-    "date": "2026-04-20",
-    "competitorId": "ambience",
-    "competitorName": "Ambience AutoScribe",
-    "title": "Hippocratic AI rolls out 2 new tools aimed at expanding clinical access, improving nurse workflow",
-    "source": "Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWVZTU9tVlVvZk5mRHlnM0doRjhmbmRFTjBtWnRoeUhqRTVXUko5ZERrQ29Yd2NHY3duWEkxeExMNGY1NWNMSTBSVGZKUktsdzZGMU9GcmpQQkY5aWRrMVh2SlpEVUhGQWliSWxvM2toWDR0bk1RQ2lVY1RYcXN5djdZTU9GNDdOeEszMVhFUG4zU2xBYnlYR0VaMk1ZU3dua1lWUl9ETEJGb2JyalhBUUZFbVZhNTdYUHRRZmUwelo2MDA?oc=5",
-    "summary": "Hippocratic AI rolls out 2 new tools aimed at expanding clinical access, improving nurse workflow Fierce Healthcare",
     "status": "unverified"
   },
   {
@@ -165,14 +176,14 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-10-09-1flmyfx",
-    "date": "2025-10-09",
-    "competitorId": "nabla",
-    "competitorName": "Nabla Copilot",
-    "title": "30+ Provider Groups Adopt Nabla's Ambient AI Through the athenahealth Marketplace in First Year",
-    "source": "PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNGlQcVdaR1NsamN2XzRMekZiU21IYjZHOWhNVVM5UWN6RzFhMWVaaWhzbjRhS0ZINTVFY1h6T2VTeV91b05GOElxTzZSRU4waWQwWXFXc2E3a0kyRDFqc0NINU9BZzdHLVFjemJYakZfZEFhdU8tTEJ3cWZ4cUo2Mm9NVHVMaXRqLVZXRXRrU1p0cHdrNDAtWjUzdG9lN1hLbzRrOEJ0Y2IxYXFhbkhIVi02NThQcXVRQXVMYkpOVHNQSU5UY3FKbEJpS190QlJlcHc1ckduQXREeWxzT0t4dWNoVQ?oc=5",
-    "summary": "30+ Provider Groups Adopt Nabla's Ambient AI Through the athenahealth Marketplace in First Year PR Newswire",
+    "id": "lead-2025-10-19-11eiyp0",
+    "date": "2025-10-19",
+    "competitorId": "nuance-dax",
+    "competitorName": "DAX Copilot",
+    "title": "Microsoft debuts Dragon Copilot AI clinical assistant for nurses, expands access to 3rd-party apps, agents",
+    "source": "Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ0Uzb0c4UzFLU2xjOUlVT1F0cDZKRXo5Um5wVDRaZlZxSm1OY09FWmJ6RjFKZUVWSFNuZVgwMGx5ckNWUEtrbjZYZVRySHVRVzQwTmxRMUZMM1JFNEZQTU9qMUx5RlA1NjBRV3AybUdiM3V5cFk3UFpYRDh4S2hwRGxaa0VwUG9VVGtyWEJLQkpDZVNmQWFYOC1wWWdEUzM0TVcyRUtscWFRMVAyMFJ6aE03YWsxaV9pVnF4cU9xVGRjbGhPQXBIak8wNGQ?oc=5",
+    "summary": "Microsoft debuts Dragon Copilot AI clinical assistant for nurses, expands access to 3rd-party apps, agents Fierce Healthcare",
     "status": "unverified"
   },
   {
@@ -330,17 +341,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-01-30-17byi8x",
-    "date": "2025-01-30",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
-    "title": "Zoom takes Suki partnership to next level",
-    "source": "Healthcare IT News",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWG1HX1N2TWlQX01LeUlJQmdKcUE3ekFuM3JXV3UxRURVQzhEQ0h3UmtPTXJURmxvUG1zcXppZFhDV1psNWF3RlY4X3l0eDBDdlYwa24ydmt5VVBycnFHblh5XzhDb1lZMEpKeklScHlsOUdfOURjWTB5UTFqa1RSSUNn?oc=5",
-    "summary": "Zoom takes Suki partnership to next level Healthcare IT News",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-01-29-15opbnw",
     "date": "2025-01-29",
     "competitorId": "epic-native",
@@ -451,17 +451,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2024-10-10-1jqvhfd",
-    "date": "2024-10-10",
-    "competitorId": "suki",
-    "competitorName": "Suki Assistant",
-    "title": "Suki Secures $70M Series D Funding as Demand Surges, Expands Strategic Partnership with MedStar Health",
-    "source": "Business Wire",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSjFHRGhyRzZSR0dUWjg4ZEE1RjI2UFdHdVZNOXZNdnZsaXFRS0xkSUVsZTRDWDh2a2R2d0hfMHRHQ0N1UDJyNnhEZkFkQWxGYlByWkNtM1BtVDgzb2h5UGtNa1JZQUZLX2RnbVRObnpObWV6STFETmo2NVlrdjBCZFp3YlF2QklCc2w4eGZLRHBONG8wUURzWXMtRlljS2xCekhnUEg1ZkdCZWFUaGNwaTVsMzBKbE12OVM1eTNZZU9JUHZLZXBJMU1fVy1CWGI5Y3dNX1hrUU91N0ZPT1Zic2tROC00aDJqSE1TaHhtcGsxZw?oc=5",
-    "summary": "Suki Secures $70M Series D Funding as Demand Surges, Expands Strategic Partnership with MedStar Health Business Wire",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2024-10-10-yz7rnj",
     "date": "2024-10-10",
     "competitorId": "suki",
@@ -470,6 +459,17 @@
     "source": "Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVVFEUy1wSFpibjJNWlp3dGxzWm1NV2hReUtyQTVzV3E3OGQ1RUpjcTdSbVJqcXpHVmhwR2Zlc1gyYWJRbGdRbjJjZWNha3F6OGFWZUVjUVpWdjhiemRkVU5YazJZTnprZEh5ME95bDZiSFUxNFFzUEVlNWkyTlNOX3RUQ0JyeHpKNE4ycmdKcDNFVE8xU3pHQWh2WGdrZkxOU05yemdBa1M3dlI0UlIzRnIxSC1VaEo4SHJOYTNUbS05WGw1eUlxTlhR?oc=5",
     "summary": "Suki banks $70M to build out AI assistants for doctors, expands health system partnerships Fierce Healthcare",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-10-10-1jqvhfd",
+    "date": "2024-10-10",
+    "competitorId": "suki",
+    "competitorName": "Suki Assistant",
+    "title": "Suki Secures $70M Series D Funding as Demand Surges, Expands Strategic Partnership with MedStar Health",
+    "source": "Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSjFHRGhyRzZSR0dUWjg4ZEE1RjI2UFdHdVZNOXZNdnZsaXFRS0xkSUVsZTRDWDh2a2R2d0hfMHRHQ0N1UDJyNnhEZkFkQWxGYlByWkNtM1BtVDgzb2h5UGtNa1JZQUZLX2RnbVRObnpObWV6STFETmo2NVlrdjBCZFp3YlF2QklCc2w4eGZLRHBONG8wUURzWXMtRlljS2xCekhnUEg1ZkdCZWFUaGNwaTVsMzBKbE12OVM1eTNZZU9JUHZLZXBJMU1fVy1CWGI5Y3dNX1hrUU91N0ZPT1Zic2tROC00aDJqSE1TaHhtcGsxZw?oc=5",
+    "summary": "Suki Secures $70M Series D Funding as Demand Surges, Expands Strategic Partnership with MedStar Health Business Wire",
     "status": "unverified"
   },
   {
