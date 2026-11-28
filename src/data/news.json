@@ -1,16 +1,5 @@
 [
   {
-    "id": "n-2026-11-25-cetl5x",
-    "date": "2026-11-25",
-    "title": "Team Support and Staffing Protect Clinicians From Digital and AI Burnout",
-    "source": "Bioengineer.org",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaXBmeXROblJQVVRlWWJEUjNfcXZFb1JoWkFyQUoxbGhvMy1qVWlGSlZ5WG9nN0Z5and1XzRjZjl1WnlJOGpSZVEwM0pPdjFVbjNmWjBGOGY0dXRFOXdaZFItRm93QS1DaUxQZDBiZThYR0QzYVlObDZKVnFqWExSaWVNN2l4ZU1QWXdyU25LVEJ5OEdfdG9kVk42V3ZoQQ?oc=5",
-    "summary": "Team Support and Staffing Protect Clinicians From Digital and AI Burnout Bioengineer.org",
-    "tags": [
-      "burnout"
-    ]
-  },
-  {
     "id": "n-2026-11-21-pomwbp",
     "date": "2026-11-21",
     "title": "How Memorial Hermann measured $37,500 in AI scribe value per ER doctor",
@@ -74,6 +63,17 @@
     "summary": "As use of AI scribes spreads, researchers propose a framework for preparing medical trainees Medical Xpress",
     "tags": [
       "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-11-17-tzumwk",
+    "date": "2026-11-17",
+    "title": "Ambience Healthcare Adds Care Orchestration to Inpatient AI Suite",
+    "source": "Unite.AI",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaTVqVDBpbWhoZFczME1FXzJRdkV3MjRUaWlQOURHU09XTHV1NUZPVGhlbHNUQ0tlYURCYXVBbFVWNjVTVU5RaVZwVVdFdVMwVFNtTElnb1VwWnRMb1pyODhqaVo0OEEwczAwZUItUGx4M1hINEwtU3VuQmZaMUg5ZURQTDdWVDZfYlh3Wk5qdW4?oc=5",
+    "summary": "Ambience Healthcare Adds Care Orchestration to Inpatient AI Suite Unite.AI",
+    "tags": [
+      "competitor:ambience"
     ]
   },
   {
@@ -195,6 +195,17 @@
     ]
   },
   {
+    "id": "n-2026-11-03-edpohy",
+    "date": "2026-11-03",
+    "title": "HCA Healthcare’s Chief AI Officer: What responsible AI requires in healthcare",
+    "source": "HCA Healthcare Today",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTWZBS0hHT00yYXA2Yk90N3dPUkRxaFVuRzRuODdyMW9kNTVxRkxtdmo0Q25vXzN6ei1Kc3BMNDdSVGtCSGZxaUd5QkYzVHZYVnBrX19oOFpPbXlhZVlUZDZTM3NKSXZweG9GT0RlYmhNMWNrbm1sVFVPbjZJbHF5bVNrWXJDWWtFVlRXZy1JLXVnZHQ0X0dmRFZ1b0xlbldXd3VBY1k5cW9KZGx0WHpLNDZGRkZHUWRST1E?oc=5",
+    "summary": "HCA Healthcare’s Chief AI Officer: What responsible AI requires in healthcare HCA Healthcare Today",
+    "tags": [
+      "industry"
+    ]
+  },
+  {
     "id": "n-2026-10-30-4nhp13",
     "date": "2026-10-30",
     "title": "DSIR 2026 Deeper Dive: Ambient AI in the Exam Room",
@@ -214,6 +225,18 @@
     "summary": "How Knowtex Landed an AI Scribe Contract With the VA HCI Innovation Group",
     "tags": [
       "ambient-ai"
+    ]
+  },
+  {
+    "id": "n-2026-10-22-1kebm03",
+    "date": "2026-10-22",
+    "title": "AI Scribe Evaluation: An Updated Guide to AI Ambient Documentation",
+    "source": "Telehealth.org",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX19KSTRvYjI5QXJqSmsxSDA4N2lDU05FYVlxUUg0Y092RTJwNVctUXlKRHh0Z3psdDlhTU5iX09PSTFyd3ZJTU1rM2ctOVpPMWFtUDRITE5PR2RCWk16SHNvWXJvMmllWFBEV0tkMHNNR3lBeEthbEc5dmNFMlBpclpwVHpPNUNFdjNaS2UwMDd6ZTE1aGdVWGVR?oc=5",
+    "summary": "AI Scribe Evaluation: An Updated Guide to AI Ambient Documentation Telehealth.org",
+    "tags": [
+      "ambient-ai",
+      "funding"
     ]
   },
   {
@@ -316,28 +339,6 @@
     "summary": "Weekly Rundown: Abridge poised for broader VA expansion; Hims & Hers builds out AI-native care Fierce Healthcare",
     "tags": [
       "abridge"
-    ]
-  },
-  {
-    "id": "n-2026-09-25-1r5lufs",
-    "date": "2026-09-25",
-    "title": "Doctors Stop Typing as AI Takes Over the Chart",
-    "source": "PYMNTS.com",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOU9ZeWszMEZHSC02ODF4Rjlzdm42Z2lNR2VyMi1ralNXVXVobW90TXQ0OGZUeTloM1hUTTVXRFdIY0VkUjROc19iRkUwTm5vVUtjYzBOeVpmdnpGLXNzbDZGdmxKRTEyMlFmUGVBeUFsNHdJdVVnRFFnclpYZ050NFZISTc0VGVOQUdRZFNuMFUyeVROWmtEaUl3Y0RldEIxdndFRUlrQQ?oc=5",
-    "summary": "Doctors Stop Typing as AI Takes Over the Chart PYMNTS.com",
-    "tags": [
-      "industry"
-    ]
-  },
-  {
-    "id": "n-2026-09-24-1q58ljk",
-    "date": "2026-09-24",
-    "title": "From Documentation to Decision: AI’s Next Chapter in Clinical Care",
-    "source": "7wire Ventures",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbXRfNDZoZV9SY2R5UFRaZXI3Y1VPZFpnQ2JnUEVvV1pEd1NzMlc5VzJXRzFJS1hBVGFMbTljbUpLaGxMWURMS1ktNmJ1TFNHSjlLcUtvRGJrNFNVMVY0VmlETURrQUViMWNtSG55Y3hOOUJuT2V0SllaV3BlRDZ4R1lQVlNaTzFJZlFFamhPeXVZcXA4SGVmTE4tcDB3UzBheE4zUi1DX3hHRTEz?oc=5",
-    "summary": "From Documentation to Decision: AI’s Next Chapter in Clinical Care 7wire Ventures",
-    "tags": [
-      "industry"
     ]
   }
 ]
